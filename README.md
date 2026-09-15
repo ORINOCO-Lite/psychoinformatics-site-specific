@@ -10,6 +10,9 @@ Git records changes to this input set over time; package code, template files, g
 - `site.yaml` contains the captured identity, navigation, and presentation settings.
 - `content/` contains authored pages, section introductions, and ordinary page-bundle images, not generated record Markdown.
 
+Record filenames use the PID after its prefix, retaining slash-separated paths beneath the class directory and percent-encoding unsafe filename characters; annotation companions mirror those paths.
+The PID values inside the files are unchanged.
+
 This baseline comes from the completed [same-capture comparison](https://github.com/ORINOCO-Lite/orinoco-lite-dev/blob/836fed5/docs/agents/upstream-deployment-validation.md).
 The raw capture retains source values, including the invalid date omitted by the existing Lite conversion; that difference remains unresolved in the report.
 The original capture time and API origin are not established by this repository's creation date.
