@@ -36,7 +36,8 @@ Do not publish a local-path submodule or an editable package link.
 Select the tested package commit and template candidate, or subsequent releases containing their fixes, in the downstream's normal dependency declarations.
 The linked report identifies the candidates; no additional pin manifest is needed here.
 
-Supply the actual deployment origin with `build --base-url https://YOUR-HOST/OPTIONAL-PATH/`, then publish the resulting `build/site/` using the downstream's normal hosting workflow.
+Supply the actual deployment origin with `build --base-url https://YOUR-HOST/`, then publish the resulting `build/site/` using the downstream's normal hosting workflow.
+The baseline is checked at an origin root; captured editorial URLs such as Explore's `/graph.js` need review before using project-subpath hosting.
 The captured upstream `identity.base_url` is not permission to deploy to that domain.
 No production cutover or GitHub editing destination is configured here.
 Only a static host is required after building; neither the Lite build nor output comparison requires a running Pool API.
