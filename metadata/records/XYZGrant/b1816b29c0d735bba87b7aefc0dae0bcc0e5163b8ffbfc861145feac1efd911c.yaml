@@ -1,0 +1,13 @@
+attributed_to:
+- object: ror:018mejw64
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+identifiers:
+- creator: ror:018mejw64
+  notation: '555010485'
+  schema_type: dlthings:Identifier
+pid: xyzrins:grants/3cb6abb5-a551-4924-a76b-95e6a31f18d3
+schema_type: xyzri:XYZGrant
+short_name: ExpoBrainStruct
+title: 'The exposome of brain structure: a multivariate view '

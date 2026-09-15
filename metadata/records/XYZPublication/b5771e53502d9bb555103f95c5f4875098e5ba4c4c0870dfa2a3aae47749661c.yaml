@@ -1,0 +1,36 @@
+about:
+- xyzrins:topics/naturalistic-neuroimaging
+- xyzrins:topics/predictive-data-analysis
+- xyzrins:topics/representational-brain-spaces
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-04-01T09:57:02.147741'
+attributed_to:
+- object: orcid:0000-0002-6558-3118
+  roles:
+  - obo:MS_1002035
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: orcid:0000-0003-3456-2493
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+generated_by:
+- at_location: ISSN:1047-3211
+  at_time: '2016-03-14'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/cercor/bhw068
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/0e5bd333-db9c-41c4-b9bd-a4bbdab167b5
+schema_type: xyzri:XYZPublication
+title: A Model of Representational Spaces in Human Cortex

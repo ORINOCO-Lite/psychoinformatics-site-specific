@@ -1,0 +1,79 @@
+attributed_to:
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/8f836375-520c-43d7-afb6-29abea72c0ab
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Author Correction: The architecture of the human default mode network explored
+    through cytoarchitecture, wiring and signal flow'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The default mode network (DMN) is implicated in many aspects of complex thought
+    and behavior. Here, we leverage postmortem histology and in vivo neuroimaging
+    to characterize the anatomy of the DMN to better understand its role in information
+    processing and cortical communication. Our results show that the DMN is cytoarchitecturally
+    heterogenous, containing cytoarchitectural types that are variably specialized
+    for unimodal, heteromodal and memory-related processing. Studying diffusion-based
+    structural connectivity in combination with cytoarchitecture, we found the DMN
+    contains regions receptive to input from sensory cortex and a core that is relatively
+    insulated from environmental input. Finally, analysis of signal flow with effective
+    connectivity models showed that the DMN is unique amongst cortical networks in
+    balancing its output across the levels of sensory hierarchies. Together, our study
+    establishes an anatomical foundation from which accounts of the broad role the
+    DMN plays in human brain function and cognition can be developed.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The default mode network (DMN) is implicated in many aspects of complex
+  thought and behavior. Here, we leverage postmortem histology and in vivo neuroimaging
+  to characterize the anatomy of the DMN to better understand its role in information
+  processing and cortical communication. Our results show that the DMN is cytoarchitecturally
+  heterogenous, containing cytoarchitectural types that are variably specialized for
+  unimodal, heteromodal and memory-related processing. Studying diffusion-based structural
+  connectivity in combination with cytoarchitecture, we found the DMN contains regions
+  receptive to input from sensory cortex and a core that is relatively insulated from
+  environmental input. Finally, analysis of signal flow with effective connectivity
+  models showed that the DMN is unique amongst cortical networks in balancing its
+  output across the levels of sensory hierarchies. Together, our study establishes
+  an anatomical foundation from which accounts of the broad role the DMN plays in
+  human brain function and cognition can be developed.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1097-6256
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41593-025-01900-x
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2025-03-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/391de57c-8040-4cf7-a515-a6791b9a0c89
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2020-04-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2023-09-30'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/hbp-sga3
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2020-04-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/6f4348ba-c78d-4e71-bc08-33a548db5e59
+schema_type: xyzri:XYZPublication
+title: 'Author Correction: The architecture of the human default mode network explored
+  through cytoarchitecture, wiring and signal flow'

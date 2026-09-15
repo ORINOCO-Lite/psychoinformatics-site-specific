@@ -1,0 +1,40 @@
+associated_with:
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+description: The project investigates how age-dependent modulation of microglial network
+  states influences excitability and connectivity in the thalamocortical system, a
+  key centre for sensorimotor integration in multiple sclerosis (MS). Using animal
+  models, human tissue, co-cultures and large patient datasets, we are analysing immune-glia-neuron
+  interactions at multiple levels. The aim is to identify molecular and network-based
+  signatures that explain MS progression and clinical heterogeneity and pave the way
+  for new therapies.
+ended:
+  at_time: '2030-09-30'
+  schema_type: dlthings:End
+identifiers:
+- creator: ror:018mejw64
+  notation: '585020680'
+  schema_type: dlthings:Identifier
+influenced_by:
+- ended:
+    at_time: '2030-09-30'
+    schema_type: dlthings:End
+  object: xyzrins:grants/0f4eee2d-aeb2-44be-84da-7bd205f376b0
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2026-10-01'
+    schema_type: dlthings:Start
+part_of:
+- xyzrins:projects/61abc49f-60e6-4a32-998b-2182d3dac0e6
+pid: xyzrins:projects/ae2319c1-eb94-455a-8653-5a0d0d7bc68e
+schema_type: xyzri:XYZProject
+short_name: A08
+started:
+  at_time: '2026-10-01'
+  schema_type: dlthings:Start
+title: Einfluss einer Modulation des Mikroglia-Netzwerks auf die (Hyper-)Erregbarkeit
+  und Konnektivität des thalamokortikalen Netzwerks

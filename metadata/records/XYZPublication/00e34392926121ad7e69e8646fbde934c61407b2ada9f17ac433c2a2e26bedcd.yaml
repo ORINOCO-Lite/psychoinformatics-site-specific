@@ -1,0 +1,44 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Haematological effects of oral administration of bitopertin, a glycine transport
+    inhibitor, in patients with non‐transfusion‐dependent β‐thalassaemia
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Bitopertin is a small molecule selective inhibitor of glycine transporter
+    1 (GlyT1), initially developed to increase brain extracellular levels of glycine
+    in the vicinity of neuronal N-methyl-D-aspartate receptors for the treatment of
+    schizophrenia. GlyT1, the pharmacological target of bitopertin, is also present
+    as a transmembrane transporter in erythroid cells1 and accounts for 50–55% of
+    glycine uptake in human red blood cells (RBCs).2, 3 Erythroid GlyT1 inhibition
+    by bitopertin leads to reduced intracellular glycine availability, interfering
+    with the first step of haem synthesis, in which 5-aminolevulinate synthase catalyses
+    the condensation reaction between glycine and succinyl-coenzyme A, forming 5-aminolevulinic
+    acid.1
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Bitopertin is a small molecule selective inhibitor of glycine transporter
+  1 (GlyT1), initially developed to increase brain extracellular levels of glycine
+  in the vicinity of neuronal N-methyl-D-aspartate receptors for the treatment of
+  schizophrenia. GlyT1, the pharmacological target of bitopertin, is also present
+  as a transmembrane transporter in erythroid cells1 and accounts for 50–55% of glycine
+  uptake in human red blood cells (RBCs).2, 3 Erythroid GlyT1 inhibition by bitopertin
+  leads to reduced intracellular glycine availability, interfering with the first
+  step of haem synthesis, in which 5-aminolevulinate synthase catalyses the condensation
+  reaction between glycine and succinyl-coenzyme A, forming 5-aminolevulinic acid.1
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0007-1048
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1111/bjh.17479
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/fe48b669-fe21-4be1-a2b3-f588441a6334
+schema_type: xyzri:XYZPublication
+title: Haematological effects of oral administration of bitopertin, a glycine transport
+  inhibitor, in patients with non‐transfusion‐dependent β‐thalassaemia

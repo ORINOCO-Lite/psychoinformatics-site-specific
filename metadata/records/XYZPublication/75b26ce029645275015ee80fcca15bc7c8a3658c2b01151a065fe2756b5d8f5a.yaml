@@ -1,0 +1,60 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Localizing the human brain response to olfactory stimulation: A meta-analytic
+    approach'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The human sense of smell and the ability to detect and distinguish odors
+    allows for the extraction of valuable information from the environment, thereby
+    driving human behavior. Not only can the sense of smell help to monitor the safety
+    of inhaled air, but it can also help to evaluate the edibility of food. Therefore,
+    in an effort to further our understanding of the human sense of smell, the aim
+    of this meta-analysis was to provide the scientific community with activation
+    probability maps of the functional anatomy of the olfactory system, in addition
+    to separate activation maps for specific odor categories (pleasant, food, and
+    aversive odors). The activation likelihood estimation (ALE) method was utilized
+    to quantify all relevant and available data to perform a formal statistical analysis
+    on the inter-study concordance of various odor categories. A total of 81 studies
+    (108 contrasts, 1053 foci) fulfilled our inclusion criteria. Significant ALE peaks
+    were observed in all odor categories in brain areas typically associated with
+    the functional neuroanatomy of olfaction including the piriform cortex, amygdala,
+    insula, and orbitofrontal cortex, amongst others. Additional contrast analyses
+    indicate clear differences in neural activation patterns between odor categories.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The human sense of smell and the ability to detect and distinguish odors
+  allows for the extraction of valuable information from the environment, thereby
+  driving human behavior. Not only can the sense of smell help to monitor the safety
+  of inhaled air, but it can also help to evaluate the edibility of food. Therefore,
+  in an effort to further our understanding of the human sense of smell, the aim of
+  this meta-analysis was to provide the scientific community with activation probability
+  maps of the functional anatomy of the olfactory system, in addition to separate
+  activation maps for specific odor categories (pleasant, food, and aversive odors).
+  The activation likelihood estimation (ALE) method was utilized to quantify all relevant
+  and available data to perform a formal statistical analysis on the inter-study concordance
+  of various odor categories. A total of 81 studies (108 contrasts, 1053 foci) fulfilled
+  our inclusion criteria. Significant ALE peaks were observed in all odor categories
+  in brain areas typically associated with the functional neuroanatomy of olfaction
+  including the piriform cortex, amygdala, insula, and orbitofrontal cortex, amongst
+  others. Additional contrast analyses indicate clear differences in neural activation
+  patterns between odor categories.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0149-7634
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2021.12.035
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/98c0f5c8-d189-4e7b-99db-5bd90b3b0647
+schema_type: xyzri:XYZPublication
+title: 'Localizing the human brain response to olfactory stimulation: A meta-analytic
+  approach'

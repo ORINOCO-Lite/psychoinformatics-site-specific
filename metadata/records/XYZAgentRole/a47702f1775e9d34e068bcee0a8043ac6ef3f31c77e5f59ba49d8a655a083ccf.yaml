@@ -1,0 +1,5 @@
+description: A person, family, or organization that currently owns an item or collection,
+  i.e.has legal possession of a resource
+display_label: Owner
+pid: marcrel:own
+schema_type: xyzri:XYZAgentRole

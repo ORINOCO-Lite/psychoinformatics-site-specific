@@ -1,0 +1,61 @@
+attributed_to:
+- object: xyzrins:persons/af38e78f-3ae4-4ccc-bc7a-1d3bee12c601
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: The many-to-many problem of endophenotypes in psychiatry - a biological perspective
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: While modern diagnostic classification systems aim to nosologically structure
+    psychiatric disorders, they poorly align with the genetic, neurobiological, and
+    environmental heterogeneity observed in these disorders. This limitation has complicated
+    the search for clinically useful biomarkers for diagnosis and treatment. Recent
+    work on genetic and environmental contributions to mental health indicates that
+    this heterogeneity stems from differential involvement of diverse biological pathways
+    within and across diagnostic clusters. This complex interplay presents a many-to-many
+    mapping problem in psychiatry, where distinct pathophysiological processes can
+    lead to similar clinical symptoms. Here, we argue that disentangling these biological
+    mechanisms requires development of process-specific biomarkers that could replace
+    non-specific neuroimaging markers widely used in neuropsychiatric research. We
+    further propose a framework for biomarker research that adopts a biologically
+    informed perspective integrating the interactions between genes and the environment
+    to address this problem. Such a multidimensional framework holds promise for developing
+    biology-driven models of psychiatric disorders, enabling treatment strategies
+    tailored to individual pathophysiology.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: While modern diagnostic classification systems aim to nosologically structure
+  psychiatric disorders, they poorly align with the genetic, neurobiological, and
+  environmental heterogeneity observed in these disorders. This limitation has complicated
+  the search for clinically useful biomarkers for diagnosis and treatment. Recent
+  work on genetic and environmental contributions to mental health indicates that
+  this heterogeneity stems from differential involvement of diverse biological pathways
+  within and across diagnostic clusters. This complex interplay presents a many-to-many
+  mapping problem in psychiatry, where distinct pathophysiological processes can lead
+  to similar clinical symptoms. Here, we argue that disentangling these biological
+  mechanisms requires development of process-specific biomarkers that could replace
+  non-specific neuroimaging markers widely used in neuropsychiatric research. We further
+  propose a framework for biomarker research that adopts a biologically informed perspective
+  integrating the interactions between genes and the environment to address this problem.
+  Such a multidimensional framework holds promise for developing biology-driven models
+  of psychiatric disorders, enabling treatment strategies tailored to individual pathophysiology.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1359-4184
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41380-026-03473-y
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/88a8f7c9-e77b-4b1f-9cec-1903c6b0a6c9
+schema_type: xyzri:XYZPublication
+title: The many-to-many problem of endophenotypes in psychiatry - a biological perspective

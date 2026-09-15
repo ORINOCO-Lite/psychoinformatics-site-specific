@@ -1,0 +1,86 @@
+attributed_to:
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/6f88279f-da52-4203-839f-5496ffef2894
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/535129e4-fc67-4e19-8f5e-0d4a43a4578c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Dopaminergic pathways and resting-state functional connectivity in Parkinson’s
+    disease with freezing of gait
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Freezing of gait is a common phenomenon of advanced Parkinson’s disease.
+    Besides locomotor function per se, a role of cognitive deficits has been suggested.
+    Limited evidence of associated dopaminergic deficits points to caudatal denervation.
+    Further, altered functional connectivity within resting-state networks with importance
+    for cognitive functions has been described in freezers. A potential pathophysiological
+    link between both imaging findings has not yet been addressed. The current study
+    sought to investigate the association between dopaminergic pathway dysintegrity
+    and functional dysconnectivity in relation to FOG severity and cognitive performance
+    in a well-characterized PD cohort undergoing high-resolution 6-[18F]fluoro-L-Dopa
+    PET and functional MRI. The freezing of gait questionnaire was applied to categorize
+    patients (n = 59) into freezers and non-freezers. A voxel-wise group comparison
+    of 6-[18F]fluoro-L-Dopa PET scans with focus on striatum was performed between
+    both well-matched and neuropsychologically characterized patient groups. Seed-to-voxel
+    resting-state functional connectivity maps of the resulting dopamine depleted
+    structures and dopaminergic midbrain regions were created and compared between
+    both groups. For a direct between-group comparison of dopaminergic pathway integrity,
+    a molecular connectivity approach was conducted on 6-[18F]fluoro-L-Dopa scans.
+    With respect to striatal regions, freezers showed significant dopaminergic deficits
+    in the left caudate nucleus, which exhibited altered functional connectivity with
+    regions of the visual network. Regarding midbrain structures, the bilateral ventral
+    tegmental area showed altered functional coupling to regions of the default mode
+    network. An explorative examination of the integrity of dopaminergic pathways
+    by molecular connectivity analysis revealed freezing-associated impairments in
+    mesolimbic and mesocortical pathways. This study represents the first characterization
+    of a link between dopaminergic pathway dysintegrity and altered functional connectivity
+    in Parkinson’s disease with freezing of gait and hints at a specific involvement
+    of striatocortical and mesocorticolimbic pathways in freezers.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Freezing of gait is a common phenomenon of advanced Parkinson’s disease.
+  Besides locomotor function per se, a role of cognitive deficits has been suggested.
+  Limited evidence of associated dopaminergic deficits points to caudatal denervation.
+  Further, altered functional connectivity within resting-state networks with importance
+  for cognitive functions has been described in freezers. A potential pathophysiological
+  link between both imaging findings has not yet been addressed. The current study
+  sought to investigate the association between dopaminergic pathway dysintegrity
+  and functional dysconnectivity in relation to FOG severity and cognitive performance
+  in a well-characterized PD cohort undergoing high-resolution 6-[18F]fluoro-L-Dopa
+  PET and functional MRI. The freezing of gait questionnaire was applied to categorize
+  patients (n = 59) into freezers and non-freezers. A voxel-wise group comparison
+  of 6-[18F]fluoro-L-Dopa PET scans with focus on striatum was performed between both
+  well-matched and neuropsychologically characterized patient groups. Seed-to-voxel
+  resting-state functional connectivity maps of the resulting dopamine depleted structures
+  and dopaminergic midbrain regions were created and compared between both groups.
+  For a direct between-group comparison of dopaminergic pathway integrity, a molecular
+  connectivity approach was conducted on 6-[18F]fluoro-L-Dopa scans. With respect
+  to striatal regions, freezers showed significant dopaminergic deficits in the left
+  caudate nucleus, which exhibited altered functional connectivity with regions of
+  the visual network. Regarding midbrain structures, the bilateral ventral tegmental
+  area showed altered functional coupling to regions of the default mode network.
+  An explorative examination of the integrity of dopaminergic pathways by molecular
+  connectivity analysis revealed freezing-associated impairments in mesolimbic and
+  mesocortical pathways. This study represents the first characterization of a link
+  between dopaminergic pathway dysintegrity and altered functional connectivity in
+  Parkinson’s disease with freezing of gait and hints at a specific involvement of
+  striatocortical and mesocorticolimbic pathways in freezers.
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:2213-1582
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.nicl.2021.102899
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/0f1e2ea8-d570-4885-9d69-bbf28cd76440
+schema_type: xyzri:XYZPublication
+title: Dopaminergic pathways and resting-state functional connectivity in Parkinson’s
+  disease with freezing of gait

@@ -1,0 +1,57 @@
+about:
+- xyzrins:topics/cognitive-science
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-05-26T10:38:21.132764'
+attributed_to:
+- object: xyzrins:persons/ayan-sengupta
+  roles:
+  - marcrel:cre
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - marcrel:cre
+  schema_type: dlthings:Attribution
+- object: orcid:0000-0001-5840-5658
+  roles:
+  - marcrel:cre
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: obo:APOLLO_SV_00000488
+  schema_type: dlthings:AttributeSpecification
+  value: https://hub.psychoinformatics.de/studyforrest/data-multires3t
+characterized_by:
+- object: xyzrins:publications/7de16586-c19a-4334-b84c-33da571debf4
+  predicate: CiTO:isDescribedBy
+description: This dataset consists of empirical 3T fMRI data recorded at three spatial
+  resolutions (1.4 mm, 2 mm, and 3 mm isotropic voxel size) for orientation decoding
+  in visual cortex — in order to test hypotheses on the strength and spatial scale
+  of orientation discriminating signals. This is an extension of the studyforrest
+  project. All seven participants previously volunteered for the audio-only and the
+  audio-visual Forrest Gump study. Five of the seven participants also participated
+  in a matching study using identical protocols, but 7T data acquisition (with the
+  same the three spatial resolutions used here, plus a 0.8 mm acquisition). The dataset
+  is compliant with the BIDS data description standard (http://bids.neuroimaging.io).  It
+  is an Extension of a matching fMRI dataset (Sengupta, et al., 2017; OpenFMRI ds000113c)
+  on participants performing a central fixation task while being stimulated with oriented
+  visual gratings. This dataset extends the previous one with acquisitions for 3 matching
+  spatial resolutions (1.4, 2.0, and 3.0 mm) at 3T (complementing the previous 7T
+  acquisitions at 0.8, 1.4, 2.0, and 3.0 mm). Five of the total of seven participants
+  are identical in both datasets. All participants are part of the studyforrest.org
+  project.
+display_label: 'Studyforrest: Multi-resolution 3T fMRI data on the representation
+  of visual orientation'
+generated_by:
+- object: xyzrins:projects/studyforrest
+  schema_type: dlthings:Generation
+part_of:
+- xyzrins:datasets/studyforrest
+pid: xyzrins:datasets/913f61f2-0197-4b16-98b7-6d0080df3bf9
+rules:
+- spdxlic:PDDL-1.0
+schema_type: xyzri:XYZDataset
+title: studyforrest-data-multires3t

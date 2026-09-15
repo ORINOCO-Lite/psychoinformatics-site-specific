@@ -1,0 +1,83 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Neural networks of aggression: ALE meta-analyses on trait and elicited aggression'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: There is considerable evidence that emotion dysregulation and self-control
+    impairments lead to escalated aggression in populations with psychiatric disorders.
+    However, convergent quantitative evidence on the neural network explaining how
+    aggression arises is still lacking. To address this gap, peak activations extracted
+    from extant functional magnetic resonance imaging (fMRI) studies were synthesized
+    through coordinate-based meta-analyses. A systematic search in the PubMed database
+    was conducted and 26 fMRI studies met the inclusion criteria. Three separate activation
+    likelihood estimation (ALE) meta-analyses were performed on (1) individual differences
+    in trait aggression (TA) studies, (2) individual differences in TA studies examining
+    executive functioning, and (3) elicited aggression (EA) studies across fMRI behavioral
+    paradigms. Ensuing clusters from ALE meta-analyses were further treated as seeds
+    for follow-up investigations on consensus connectivity networks (CCN) delineated
+    from meta-analytic connectivity modeling (MACM) and resting-state functional connectivity
+    (RSFC) to further characterize their physiological functions. Finally, we obtained
+    a data-driven functional characterization of the ensuing clusters and their networks.
+    This approach offers a boarder view of the ensuing clusters using a boarder network
+    perspective. In TA, aberrant brain activations were found only in the right precuneus.
+    Follow-up analyses revealed that the precuneus seed was within the frontal-parietal
+    network (FPN) associated with action inhibition, visuospatial processing and higher-level
+    cognition. With further restricting to only experiments examining executive functioning,
+    convergent evidence was found in the right rolandic operculum (RO), midcingulate
+    cortex (MCC), precentral gyrus (PrG) and precuneus. Follow-up analyses suggested
+    that RO, MCC and PrG may belong to a common cognitive control network, while the
+    MCC seems to be the hub of this network. In EA, we only revealed a convergent
+    region in the left postcentral gyrus. Follow-up CCN analyses and functional characterizations
+    suggested that this region may also belong to the same cognitive control network
+    found in the TA sub-analysis. Our results suggested that escalated aggression
+    arises from abnormal precuneus activities within the FPN, disrupting the recruitment
+    of other large-scale networks such as adaptive cognitive control network. Consequently,
+    failure to recruit such a network results in an inability to generate adaptive
+    responses, increasing the likelihood of acting aggressively.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: There is considerable evidence that emotion dysregulation and self-control
+  impairments lead to escalated aggression in populations with psychiatric disorders.
+  However, convergent quantitative evidence on the neural network explaining how aggression
+  arises is still lacking. To address this gap, peak activations extracted from extant
+  functional magnetic resonance imaging (fMRI) studies were synthesized through coordinate-based
+  meta-analyses. A systematic search in the PubMed database was conducted and 26 fMRI
+  studies met the inclusion criteria. Three separate activation likelihood estimation
+  (ALE) meta-analyses were performed on (1) individual differences in trait aggression
+  (TA) studies, (2) individual differences in TA studies examining executive functioning,
+  and (3) elicited aggression (EA) studies across fMRI behavioral paradigms. Ensuing
+  clusters from ALE meta-analyses were further treated as seeds for follow-up investigations
+  on consensus connectivity networks (CCN) delineated from meta-analytic connectivity
+  modeling (MACM) and resting-state functional connectivity (RSFC) to further characterize
+  their physiological functions. Finally, we obtained a data-driven functional characterization
+  of the ensuing clusters and their networks. This approach offers a boarder view
+  of the ensuing clusters using a boarder network perspective. In TA, aberrant brain
+  activations were found only in the right precuneus. Follow-up analyses revealed
+  that the precuneus seed was within the frontal-parietal network (FPN) associated
+  with action inhibition, visuospatial processing and higher-level cognition. With
+  further restricting to only experiments examining executive functioning, convergent
+  evidence was found in the right rolandic operculum (RO), midcingulate cortex (MCC),
+  precentral gyrus (PrG) and precuneus. Follow-up analyses suggested that RO, MCC
+  and PrG may belong to a common cognitive control network, while the MCC seems to
+  be the hub of this network. In EA, we only revealed a convergent region in the left
+  postcentral gyrus. Follow-up CCN analyses and functional characterizations suggested
+  that this region may also belong to the same cognitive control network found in
+  the TA sub-analysis. Our results suggested that escalated aggression arises from
+  abnormal precuneus activities within the FPN, disrupting the recruitment of other
+  large-scale networks such as adaptive cognitive control network. Consequently, failure
+  to recruit such a network results in an inability to generate adaptive responses,
+  increasing the likelihood of acting aggressively.
+generated_by:
+- at_location: ISSN:1863-2653
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00429-018-1765-3
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/353c855e-c4ee-4ba6-a3d1-d5827d934098
+schema_type: xyzri:XYZPublication
+title: 'Neural networks of aggression: ALE meta-analyses on trait and elicited aggression'

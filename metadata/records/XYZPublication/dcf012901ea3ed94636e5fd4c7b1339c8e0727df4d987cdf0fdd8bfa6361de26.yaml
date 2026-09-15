@@ -1,0 +1,74 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Effects of Ketamine and Midazolam on resting state connectivity and comparison
+    with ENIGMA connectivity deficit patterns in schizophrenia
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Subanesthetic administration of ketamine is a pharmacological model to elicit
+    positiveand negative symptoms of psychosis in healthy volunteers. We used resting
+    statepharmacological functional MRI (rsPhfMRI) to identify cerebral networks affected
+    by ketamineand compared them to the functional connectivity (FC) in schizophrenia.
+    Ketamine can producesedation and we contrasted its effects with the effects of
+    the anxiolytic drug midazolam.Thirty healthy male volunteers (age=19-37 years)
+    underwent a randomized, three-way,cross-over study consisting of three imaging
+    sessions, with 48 hours between sessions. A sessionconsisted of a control period
+    followed by infusion of placebo or ketamine or midazolam. TheENIGMA rsfMRI pipeline
+    was used to derive two long distance (seed-based and dualregression)and one local
+    (regional homogeneity, ReHo) FC measures. Ketamine inducedsignificant reductions
+    in the connectivity of the salience network (Cohen’s d:1.13±0.28,p=4.0×10-3),
+    auditory network (d: 0.67±0.26, p=0.04) and default mode network (DMN,d:0.63±0.26,
+    p=0.05). Midazolam significantly reduced connectivity in the DMN (d:0.77±0.27,p=0.03).
+    The effect sizes for ketamine for resting networks showed a positive correlation(r=0.59,
+    p=0.07) with the effect sizes for schizophrenia related deficits derived from
+    ENIGMA’sstudy of 261 patients and 327 controls. Effect sizes for midazolam were
+    not correlated with theschizophrenia pattern (r=-0.17, p=0.65). The subtraction
+    of ketamine and midazolam patternsshowed a significant positive correlation with
+    the pattern of schizophrenia deficits (r=0.68,p=0.03).RsPhfMRI reliably detected
+    the shared and divergent pharmacological actions ofketamine and midazolam on cerebral
+    networks. The pattern of disconnectivity produced byketamine was positively correlated
+    with the pattern of connectivity deficits observed inschizophrenia, suggesting
+    a brain functional basis for previously poorly understood effects of thedrug.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Subanesthetic administration of ketamine is a pharmacological model
+  to elicit positiveand negative symptoms of psychosis in healthy volunteers. We used
+  resting statepharmacological functional MRI (rsPhfMRI) to identify cerebral networks
+  affected by ketamineand compared them to the functional connectivity (FC) in schizophrenia.
+  Ketamine can producesedation and we contrasted its effects with the effects of the
+  anxiolytic drug midazolam.Thirty healthy male volunteers (age=19-37 years) underwent
+  a randomized, three-way,cross-over study consisting of three imaging sessions, with
+  48 hours between sessions. A sessionconsisted of a control period followed by infusion
+  of placebo or ketamine or midazolam. TheENIGMA rsfMRI pipeline was used to derive
+  two long distance (seed-based and dualregression)and one local (regional homogeneity,
+  ReHo) FC measures. Ketamine inducedsignificant reductions in the connectivity of
+  the salience network (Cohen’s d:1.13±0.28,p=4.0×10-3), auditory network (d: 0.67±0.26,
+  p=0.04) and default mode network (DMN,d:0.63±0.26, p=0.05). Midazolam significantly
+  reduced connectivity in the DMN (d:0.77±0.27,p=0.03). The effect sizes for ketamine
+  for resting networks showed a positive correlation(r=0.59, p=0.07) with the effect
+  sizes for schizophrenia related deficits derived from ENIGMA’sstudy of 261 patients
+  and 327 controls. Effect sizes for midazolam were not correlated with theschizophrenia
+  pattern (r=-0.17, p=0.65). The subtraction of ketamine and midazolam patternsshowed
+  a significant positive correlation with the pattern of schizophrenia deficits (r=0.68,p=0.03).RsPhfMRI
+  reliably detected the shared and divergent pharmacological actions ofketamine and
+  midazolam on cerebral networks. The pattern of disconnectivity produced byketamine
+  was positively correlated with the pattern of connectivity deficits observed inschizophrenia,
+  suggesting a brain functional basis for previously poorly understood effects of
+  thedrug.'
+generated_by:
+- at_location: ISSN:1065-9471
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/hbm.24838
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/dc99b4b6-321a-4090-a3ec-5d95c9a9b508
+schema_type: xyzri:XYZPublication
+title: Effects of Ketamine and Midazolam on resting state connectivity and comparison
+  with ENIGMA connectivity deficit patterns in schizophrenia

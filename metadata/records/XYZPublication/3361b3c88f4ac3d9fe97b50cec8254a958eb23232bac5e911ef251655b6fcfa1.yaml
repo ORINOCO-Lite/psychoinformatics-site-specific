@@ -1,0 +1,31 @@
+about:
+- xyzrins:topics/research-data-management
+- xyzrins:topics/education
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.szczepanik@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-25T17:07:37.309401'
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+description: A two-hour workshop on using DataLad (datalad.org) for version controlling
+  data and research data management, held at the two-day ReproNim Germany workshop
+  for the DGPA.
+generated_by:
+- at_time: '2022-03-21'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/zenodo.6364570
+  schema_type: dlthings:DOI
+kind: bibo:Workshop
+pid: xyzrins:publications/977f1da5-5c38-46f4-a3c3-6b23c5102096
+rules:
+- spdxlic:CC-BY-4.0
+schema_type: xyzri:XYZPublication
+title: Version control and RDM with DataLad

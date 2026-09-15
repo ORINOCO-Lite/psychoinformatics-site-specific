@@ -1,0 +1,134 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-02-14T19:39:28.835557'
+application_deadline: '2025-09-16T17:00:00'
+associated_with:
+- object: ror:00k4n6c32
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Association
+attributes:
+- predicate: foaf:homepage
+  schema_type: dlthings:AttributeSpecification
+  value: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2025-03-ENVHLTH-01-two-stage
+description: "Life-long exposure to pollutants in the living and occupational environment\
+  \ is an important risk factor for non-communicable diseases, leading to a variety\
+  \ of serious physical and mental health impacts and causing preventable disease\
+  \ burden with associated elevated economic costs. Pollution disproportionately impacts\
+  \ certain vulnerable groups (e.g. children and older adults) or groups who are more\
+  \ sensitive or more exposed (workers, populations living in polluted areas) to this\
+  \ type of environmental stressor. At present, over 10% of annual premature deaths\
+  \ in the 27 EU Member States are related to environmental pollution[[https://www.eea.europa.eu/en/topics/at-a-glance/state-of-europes-environment]].\n\
+  \nAge is a major risk factor for neurodegenerative diseases, but environmental exposure\
+  \ and lifestyle are important candidates for understanding their aetiology. Accumulating\
+  \ evidence suggests that the “exposome”, described as the totality of human environmental\
+  \ exposures from pre-conception onwards, represents a major modifiable risk factor\
+  \ for most neurodegenerative diseases and dementia. Additionally, emerging evidence\
+  \ suggests that pollution, may contribute to the development of neurodegenerative\
+  \ disease, with increasing incidence in an ageing population.\n\nThe environment\
+  \ is known to be a significant determinant of child health, with increasing evidence\
+  \ that some industrial chemicals are toxic to the development of the human brain.\
+  \ The health impact of many potentially neurotoxic chemicals remains unstudied in\
+  \ human populations, including in children. The developing brain is particularly\
+  \ vulnerable to toxic chemical exposures and this sensitivity is likely greatest\
+  \ in utero and throughout early childhood.\n\nChronic and repeated exposure to pollutants,\
+  \ in working environments but also for consumers, has also been associated with\
+  \ increased risk of cognitive impairment and neurodegeneration.\n\nResearch activities\
+  \ under this topic should explore evidence on the causal link between exposure to\
+  \ different pollutants (focusing on specific pollutants or a combination thereof)\
+  \ and the development or progression of neurological, neurodegenerative or neurodevelopmental\
+  \ diseases or disorders[[For guidance on the diseases and disorders under scope\
+  \ of this topic please consult ICD-11 for Mortality and Morbidity Statistics (who.int):\
+  \ https://icd.who.int/browse/2024-01/mms/en#1516623224 Chapters 6 and 8 specifically\
+  \ on neurodevelopmental disorders and neurocognitive disorders (including accelerated\
+  \ cognitive decline and chronic pain conditions).]]. Proposals can consider occupational,\
+  \ living and/or social environments and include one or more vulnerable, sensitive\
+  \ or exposed population groups. More specifically research actions under this topic\
+  \ should include several of the following activities while focusing either on neurological,\
+  \ neurodegenerative or neurodevelopmental diseases or disorders[[For each of the\
+  \ three focus areas, proposals can address one or several diseases or disorders\
+  \ as relevant for the research action proposed.]]:\n\n- Gain better insights on\
+  \ the pathogenesis and the molecular, genetic and epigenetic pathways and biological\
+  \ mechanisms involved in the onset and progression of disease, considering emerging\
+  \ pollutants, specific windows of susceptibility and adopting, when relevant, a\
+  \ life-course approach. Synergistic neurotoxic effects and realistic doses and duration\
+  \ of exposure should also be considered;\n- Generate evidence on the impacts of\
+  \ pollution in comorbidities associated to neurodegenerative, neurological or neurodevelopmental\
+  \ diseases and disorders;\n- Develop and/or validate better in-vivo, in-silico and\
+  \ in-vitro models, instruments and/or methods and take advantage (as applicable)\
+  \ of structural, functional and molecular imaging methods (e.g. MRI nuclear imaging),\
+  \ multi-omics and bioinformatics to study disease causation and evolution, considering,\
+  \ among others, also epigenetic factors and providing better biomarkers for early\
+  \ detection and disease progression;\n- Apply the exposome framework to advance\
+  \ the understanding of the role of environment on neurodegenerative diseases research;\
+  \ elucidating the neuroexposome and emphasizing the brain’s distinctive responses\
+  \ to environmental exposures;\n- Contribute to the development of health indicators\
+  \ to inform mitigation and prevention measures, incorporating, when relevant, an\
+  \ intersectional approach that considers diverse individual characteristics such\
+  \ as sex, gender, age, ethnicity, and disability and socioeconomic and lifestyle\
+  \ factors;\n- Strengthen the understanding of the possible causative link between\
+  \ exposure and incidence of disease by taking advantage of well-designed longitudinal\
+  \ studies (considering exposure duration and differences in exposure composition,\
+  \ geographical location and sources), rigorously controlled epidemiologic studies\
+  \ and/or clinical, real-world and/or cohort data (building on existing national\
+  \ and international cohorts when available);\n- Generate evidence on the potential\
+  \ association between the accumulated long-term exposure of workers and consumers\
+  \ to pollutants (including low-level exposure) and neurological and neurodegenerative\
+  \ diseases. The development of neurodevelopmental disorders in children following\
+  \ parental exposure could also be evaluated.\n     \n\nGender and sex-related differences\
+  \ should be addressed, where appropriate.\n\nApplicants are encouraged to consider\
+  \ the use of experimental methods not using live animals, where relevant and allowing\
+  \ to obtain data of comparable validity.\n\nProposals should adhere to the FAIR[[See\
+  \ definition of FAIR data in the introduction to this work programme part.]] data\
+  \ principles and adopt wherever relevant, data standards and data sharing/access\
+  \ good practices.\n\nThe effect of nutrition on mental health should not be the\
+  \ main focus since this area will be covered by topic HORIZON-CL6-2025-02-FARM2FORK-12:\
+  \ “Nutrition and Mental Health”.\n\nApplicants should be acquainted with the activities\
+  \ being developed under the Environment, climate and health research portfolio[[https://research-and-innovation.ec.europa.eu/research-area/health/environment-and-health_en]],\
+  \ the EFSA activities under Environmental Neurotoxicants[[https://etendering.ted.europa.eu/cft/cft-display.html?cftId=13967]]\
+  \ and Developmental neurotoxicity[[https://www.efsa.europa.eu/en/art36grants/article36/gpefsaed202201-nam-projects-areas-aop-development-and-transcriptomics-risk]]\
+  \ and the Partnership for the Assessment of Risks from Chemicals - PARC[[https://www.eu-parc.eu]].\n\
+  \nThis topic requires the effective contribution of social sciences and humanities\
+  \ (SSH) disciplines and the involvement of SSH experts, institutions as well as\
+  \ the inclusion of relevant SSH expertise, in order to produce meaningful and significant\
+  \ effects enhancing the societal impact of the related research activities.\n\n\
+  Proposals should take advantage of and connect to European research infrastructures\
+  \ and services in the area of environmental exposure assessment.\n\nProposals should\
+  \ ensure that chemical monitoring including human biomonitoring data are shared\
+  \ in the Information Platform for Chemical Monitoring (IPCHEM)[[https://ipchem.jrc.ec.europa.eu]]\
+  \ through involvement with the European Commission's Joint Research Centre (JRC),\
+  \ and/or in the future Common Data Platform for Chemicals, through involvement with\
+  \ the European Chemicals Agency (ECHA)[[https://echa.europa.eu]] or other relevant\
+  \ decentralised EU agency (such as the European Environment Agency - EEA[[https://www.eea.europa.eu]])\
+  \ responsible for the specific domain. In that respect, the JRC, ECHA or other relevant\
+  \ decentralised EU agency(ies) should collaborate with any successful proposal and\
+  \ this collaboration, when relevant, should be established after the proposal’s\
+  \ approval.\n\nIn order to maximise synergies and increase the impact of the projects,\
+  \ all proposals selected for funding from this topic will form a cluster and be\
+  \ required to participate in common networking and joint activities. Without the\
+  \ prerequisite to detail concrete joint activities, proposals should allocate a\
+  \ sufficient budget for the attendance of regular joint meetings and to cover the\
+  \ costs of any other potential common networking and joint activities. Guidance\
+  \ on the potential activities to be developed can be obtained by consulting the\
+  \ clusters of projects ongoing under the Environment, climate and health research\
+  \ portfolio[[https://research-and-innovation.ec.europa.eu/research-area/health/environment-and-health_en]].\n\
+  \nApplicants invited to the second stage should provide details of their clinical\
+  \ studies[[Please note that the definition of clinical studies (see introduction\
+  \ to this work programme part) is broad and it is recommended that you review it\
+  \ thoroughly before submitting your application.]] in the dedicated annex using\
+  \ the template provided in the submission system. As proposals under this topic\
+  \ are expected to include clinical studies, the use of the template is strongly\
+  \ encouraged."
+identifiers:
+- creator: ror:00k4n6c32
+  notation: HORIZON-HLTH-2025-03-ENVHLTH-01-two-stage
+  schema_type: dlthings:Identifier
+kind: xyzrins:competition-types/4e49ac7d-d6da-4131-806b-6425491e26fd
+pid: xyzrins:competitions/582f6eb1-70e7-4cf7-9bf6-c0142194bd39
+schema_type: xyzri:XYZCompetition
+title: The impact of pollution on the development and progression of brain diseases
+  and disorders

@@ -1,0 +1,78 @@
+attributed_to:
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Label-based meta-analysis of functional brain dysconnectivity across mood
+    and psychotic disorders
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: BACKGROUND Psychiatric diseases are increasingly conceptualized as brain
+    network disorders. Hundreds of resting-state functional magnetic resonance imaging
+    (rsfMRI) studies have revealed patterns of functional brain dysconnectivity in
+    disorders such as major depression disorder (MDD), bipolar disorder (BD) and schizophrenia
+    (SZ). Although these disorders have been mostly studied in isolation, there is
+    mounting evidence of shared neurobiological alterations across disorders.METHODS
+    To uncover the nature of the relatedness between these psychiatric disorders,
+    we conducted an innovative meta-analysis of past functional brain dysconnectivity
+    findings obtained separately in MDD, BD and SZ. Rather than relying on a classical
+    coordinate-based approach at the voxel level, our procedure extracted relevant
+    neuroanatomical labels from text data and reported findings at the whole brain
+    network level. Data were drawn from 428 rsfMRI studies investigating MDD (158
+    studies, 7429 patients / 7414 controls), BD (81 studies, 3330 patients / 4096
+    patients) and/or SZ (223 studies, 11168 patients / 11754 controls). Permutation
+    testing revealed commonalities and specificities in hypoconnectivity and hyperconnectivity
+    patterns across disorders.RESULTS Among 78 connections within or between 12 cortico-subcortical
+    networks, hypoconnectivity and hyperconnectivity patterns of higher-order cognitive
+    (default-mode, fronto-parietal, cingulo-opercular) networks were similarly observed
+    across the 3 disorders. By contrast, dysconnectivity of lower-order (somatomotor,
+    visual, auditory) networks in some cases differed between disorders, notably dissociating
+    SZ from BD and MDD.CONCLUSIONS Our label-based meta-analytic approach allowed
+    a comprehensive inclusion of prior studies. Findings suggest that functional brain
+    dysconnectivity of higher-order cognitive networks is largely transdiagnostic
+    in nature while that of lower-order networks may best discriminate mood and psychotic
+    disorders, thus emphasizing the relevance of motor and sensory networks to psychiatric
+    neuroscience.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: BACKGROUND Psychiatric diseases are increasingly conceptualized as brain
+  network disorders. Hundreds of resting-state functional magnetic resonance imaging
+  (rsfMRI) studies have revealed patterns of functional brain dysconnectivity in disorders
+  such as major depression disorder (MDD), bipolar disorder (BD) and schizophrenia
+  (SZ). Although these disorders have been mostly studied in isolation, there is mounting
+  evidence of shared neurobiological alterations across disorders.METHODS To uncover
+  the nature of the relatedness between these psychiatric disorders, we conducted
+  an innovative meta-analysis of past functional brain dysconnectivity findings obtained
+  separately in MDD, BD and SZ. Rather than relying on a classical coordinate-based
+  approach at the voxel level, our procedure extracted relevant neuroanatomical labels
+  from text data and reported findings at the whole brain network level. Data were
+  drawn from 428 rsfMRI studies investigating MDD (158 studies, 7429 patients / 7414
+  controls), BD (81 studies, 3330 patients / 4096 patients) and/or SZ (223 studies,
+  11168 patients / 11754 controls). Permutation testing revealed commonalities and
+  specificities in hypoconnectivity and hyperconnectivity patterns across disorders.RESULTS
+  Among 78 connections within or between 12 cortico-subcortical networks, hypoconnectivity
+  and hyperconnectivity patterns of higher-order cognitive (default-mode, fronto-parietal,
+  cingulo-opercular) networks were similarly observed across the 3 disorders. By contrast,
+  dysconnectivity of lower-order (somatomotor, visual, auditory) networks in some
+  cases differed between disorders, notably dissociating SZ from BD and MDD.CONCLUSIONS
+  Our label-based meta-analytic approach allowed a comprehensive inclusion of prior
+  studies. Findings suggest that functional brain dysconnectivity of higher-order
+  cognitive networks is largely transdiagnostic in nature while that of lower-order
+  networks may best discriminate mood and psychotic disorders, thus emphasizing the
+  relevance of motor and sensory networks to psychiatric neuroscience.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2022.09.27.22280420
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/f8494ab4-687e-4868-a09d-c43679bb6fee
+schema_type: xyzri:XYZPublication
+title: Label-based meta-analysis of functional brain dysconnectivity across mood and
+  psychotic disorders

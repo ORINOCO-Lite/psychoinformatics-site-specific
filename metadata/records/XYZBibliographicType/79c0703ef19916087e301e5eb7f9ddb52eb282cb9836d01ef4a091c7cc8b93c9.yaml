@@ -1,0 +1,5 @@
+description: A document describing the exclusive right granted by a government to
+  an inventor to manufacture, use, or sell an invention for a certain number of years.
+display_label: Patent
+pid: bibo:Patent
+schema_type: xyzri:XYZBibliographicType

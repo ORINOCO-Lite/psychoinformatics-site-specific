@@ -1,0 +1,59 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Adaptive delivery of continuous and delayed feedback deep brain stimulation
+    - a computational study
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Adaptive deep brain stimulation (aDBS) is a closed-loop method, where high-frequency
+    DBS is turned on and off according to a feedback signal, whereas conventional
+    high-frequency DBS (cDBS) is delivered permanently. Using a computational model
+    of subthalamic nucleus and external globus pallidus, we extend the concept of
+    adaptive stimulation by adaptively controlling not only continuous, but also demand-controlled
+    stimulation. Apart from aDBS and cDBS, we consider continuous pulsatile linear
+    delayed feedback stimulation (cpLDF), specifically designed to induce desynchronization.
+    Additionally, we combine adaptive on-off delivery with continuous delayed feedback
+    modulation by introducing adaptive pulsatile linear delayed feedback stimulation
+    (apLDF), where cpLDF is turned on and off using pre-defined amplitude thresholds.
+    By varying the stimulation parameters of cDBS, aDBS, cpLDF, and apLDF we obtain
+    optimal parameter ranges. We reveal a simple relation between the thresholds of
+    the local field potential (LFP) for aDBS and apLDF, the extent of the stimulation-induced
+    desynchronization, and the integral stimulation time required. We find that aDBS
+    and apLDF can be more efficient in suppressing abnormal synchronization than continuous
+    simulation. However, apLDF still remains more efficient and also causes a stronger
+    reduction of the LFP beta burst length. Hence, adaptive on-off delivery may further
+    improve the intrinsically demand-controlled pLDF.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Adaptive deep brain stimulation (aDBS) is a closed-loop method, where
+  high-frequency DBS is turned on and off according to a feedback signal, whereas
+  conventional high-frequency DBS (cDBS) is delivered permanently. Using a computational
+  model of subthalamic nucleus and external globus pallidus, we extend the concept
+  of adaptive stimulation by adaptively controlling not only continuous, but also
+  demand-controlled stimulation. Apart from aDBS and cDBS, we consider continuous
+  pulsatile linear delayed feedback stimulation (cpLDF), specifically designed to
+  induce desynchronization. Additionally, we combine adaptive on-off delivery with
+  continuous delayed feedback modulation by introducing adaptive pulsatile linear
+  delayed feedback stimulation (apLDF), where cpLDF is turned on and off using pre-defined
+  amplitude thresholds. By varying the stimulation parameters of cDBS, aDBS, cpLDF,
+  and apLDF we obtain optimal parameter ranges. We reveal a simple relation between
+  the thresholds of the local field potential (LFP) for aDBS and apLDF, the extent
+  of the stimulation-induced desynchronization, and the integral stimulation time
+  required. We find that aDBS and apLDF can be more efficient in suppressing abnormal
+  synchronization than continuous simulation. However, apLDF still remains more efficient
+  and also causes a stronger reduction of the LFP beta burst length. Hence, adaptive
+  on-off delivery may further improve the intrinsically demand-controlled pLDF.
+generated_by:
+- at_location: ISSN:2045-2322
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41598-019-47036-4
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/42f053b4-382f-4993-9d26-fe63ad396e2a
+schema_type: xyzri:XYZPublication
+title: Adaptive delivery of continuous and delayed feedback deep brain stimulation
+  - a computational study

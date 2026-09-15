@@ -1,0 +1,9 @@
+display_note: ISSN:0027-8424
+identifiers:
+- creator: ror:026ytr635
+  notation: 0027-8424
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:0027-8424
+schema_type: xyzri:XYZPublicationVenue
+title: Proceedings Of The National Academy Of Sciences Of The United States Of America

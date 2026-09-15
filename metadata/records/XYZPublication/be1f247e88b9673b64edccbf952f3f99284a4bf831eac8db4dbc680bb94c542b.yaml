@@ -1,0 +1,33 @@
+about:
+- xyzrins:topics/education
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.szczepanik@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-25T17:07:31.981798'
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+description: "Talk given at the virtual meeting of the German Neuroscientific Society\
+  \ 2021, entitled \"Educating and Training for a FAIR future\" by Adina S. Wagner.\
+  \ The html sources of the talk are publicly available at https://github.com/datalad-handbook/course.\n\
+  \n \n\nThe submission was awared the \"Young Investigator Orals\" award and became\
+  \ a part of the symposium \"S28 \"FAIR data management and data sharing in neuroscience\"\
+  .\"\n\n"
+generated_by:
+- at_time: '2021-03-28'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/zenodo.4541322
+  schema_type: dlthings:DOI
+kind: fabio:Presentation
+pid: xyzrins:publications/589eb76e-3aa3-428c-a3ed-30fe547bd042
+rules:
+- spdxlic:CC-BY-4.0
+schema_type: xyzri:XYZPublication
+title: Educating and Training for a FAIR future

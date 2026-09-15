@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Associations between sleep health and grey matter volume in the UK Biobank
+    cohort ( N = 33,356)
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: As suggested by previous research, sleep health is assumed to be a key determinant
+    of future morbidity and mortality. In line with this, recent studies have found
+    that poor sleep is associated with impaired cognitive function. However, to date,
+    little is known about brain structural abnormalities underlying this association.
+    Although recent findings link sleep health deficits to specific alterations in
+    grey matter volume, evidence remains inconsistent and reliant on small sample
+    sizes.Addressing this problem, the current preregistered study investigated associations
+    between sleep health and grey matter volume (139 imaging-derived phenotypes) in
+    the UK Biobank cohort (33,356 participants). Drawing on a large sample size and
+    consistent data acquisition, sleep duration, insomnia symptoms, daytime sleepiness,
+    chronotype, sleep medication, and sleep apnoea were examined.Our main analyses
+    revealed that long sleep duration was systematically associated with larger grey
+    matter volume of basal ganglia substructures. Insomnia symptoms, sleep medication
+    and sleep apnoea were not associated with any of the 139 imaging-derived phenotypes.
+    Short sleep duration, daytime sleepiness as well as late and early chronotype
+    were associated with solitary imaging-derived phenotypes (no recognizable pattern,
+    small effect sizes).To our knowledge, this is the largest study to test associations
+    between sleep health and grey matter volume. Clinical implications of the association
+    between long sleep duration and larger grey matter volume of basal ganglia are
+    discussed. Insomnia symptoms as operationalised in the UK Biobank do not translate
+    into grey matter volume findings.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: As suggested by previous research, sleep health is assumed to be a key
+  determinant of future morbidity and mortality. In line with this, recent studies
+  have found that poor sleep is associated with impaired cognitive function. However,
+  to date, little is known about brain structural abnormalities underlying this association.
+  Although recent findings link sleep health deficits to specific alterations in grey
+  matter volume, evidence remains inconsistent and reliant on small sample sizes.Addressing
+  this problem, the current preregistered study investigated associations between
+  sleep health and grey matter volume (139 imaging-derived phenotypes) in the UK Biobank
+  cohort (33,356 participants). Drawing on a large sample size and consistent data
+  acquisition, sleep duration, insomnia symptoms, daytime sleepiness, chronotype,
+  sleep medication, and sleep apnoea were examined.Our main analyses revealed that
+  long sleep duration was systematically associated with larger grey matter volume
+  of basal ganglia substructures. Insomnia symptoms, sleep medication and sleep apnoea
+  were not associated with any of the 139 imaging-derived phenotypes. Short sleep
+  duration, daytime sleepiness as well as late and early chronotype were associated
+  with solitary imaging-derived phenotypes (no recognizable pattern, small effect
+  sizes).To our knowledge, this is the largest study to test associations between
+  sleep health and grey matter volume. Clinical implications of the association between
+  long sleep duration and larger grey matter volume of basal ganglia are discussed.
+  Insomnia symptoms as operationalised in the UK Biobank do not translate into grey
+  matter volume findings.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2632-1297
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/braincomms/fcad200
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/c6e21e0c-ecdb-4edb-81bc-5b004d0bece5
+schema_type: xyzri:XYZPublication
+title: Associations between sleep health and grey matter volume in the UK Biobank
+  cohort ( N = 33,356)

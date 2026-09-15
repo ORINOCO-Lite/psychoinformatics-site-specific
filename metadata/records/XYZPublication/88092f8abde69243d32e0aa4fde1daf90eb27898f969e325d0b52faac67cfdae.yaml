@@ -1,0 +1,58 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Why Care About Sustainable AI? Some Thoughts From The Debate on Meaning in
+    Life
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'The focus of AI ethics has recently shifted towards the question of whether
+    and how the use of AI technologies can promote sustainability. This new research
+    question involves discerning the sustainability of AI itself and evaluating AI
+    as a tool to achieve sustainable objectives. This article aims to examine the
+    justifications that one might employ to advocate for promoting sustainable AI.
+    Specifically, it concentrates on a dimension of often disregarded reasons — reasons
+    of “meaning” or “meaningfulness” — as discussed more recently in the “meaning
+    in life” literature of analytic ethics. To proceed, the article first elucidates
+    the working definitions of “sustainable AI” and “meaning in life”, while also
+    setting the criteria for evaluating the plausibility of these reasons. Subsequently,
+    it presents and scrutinises three arguments for the claim that one has reasons
+    to care about sustainable AI from a perspective of meaning: the Meaning-conferring-action
+    Argument, the Afterlife Argument, and the Harm Argument. In conclusion, this article
+    asserts that only the Harm Argument presents a viable line of reasoning. However,
+    it also outlines the presuppositions of this argument and the additional steps
+    necessary to make it compelling.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'The focus of AI ethics has recently shifted towards the question of
+  whether and how the use of AI technologies can promote sustainability. This new
+  research question involves discerning the sustainability of AI itself and evaluating
+  AI as a tool to achieve sustainable objectives. This article aims to examine the
+  justifications that one might employ to advocate for promoting sustainable AI. Specifically,
+  it concentrates on a dimension of often disregarded reasons — reasons of “meaning”
+  or “meaningfulness” — as discussed more recently in the “meaning in life” literature
+  of analytic ethics. To proceed, the article first elucidates the working definitions
+  of “sustainable AI” and “meaning in life”, while also setting the criteria for evaluating
+  the plausibility of these reasons. Subsequently, it presents and scrutinises three
+  arguments for the claim that one has reasons to care about sustainable AI from a
+  perspective of meaning: the Meaning-conferring-action Argument, the Afterlife Argument,
+  and the Harm Argument. In conclusion, this article asserts that only the Harm Argument
+  presents a viable line of reasoning. However, it also outlines the presuppositions
+  of this argument and the additional steps necessary to make it compelling.'
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:2210-5433
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s13347-024-00717-z
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/ec30a44d-ab51-4ed5-a531-1b5e18c003ef
+schema_type: xyzri:XYZPublication
+title: Why Care About Sustainable AI? Some Thoughts From The Debate on Meaning in
+  Life

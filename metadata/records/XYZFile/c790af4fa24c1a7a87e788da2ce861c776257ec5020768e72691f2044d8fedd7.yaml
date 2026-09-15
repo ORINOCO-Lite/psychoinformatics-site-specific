@@ -1,0 +1,21 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-19T16:39:46.664418'
+byte_size: 31538
+characterized_by:
+- object: https://hub.psychoinformatics.de/git-annex-p2phttp/git-annex/cedde37c-416a-41fd-87e0-4ac100df4bf7/key/SHA256E-s31538--54607e9bd4e519071f8d8997bb4f1ed71a1213227c6560a3ac217429d821c9c7.png
+  predicate: dcat:downloadUrl
+checksums:
+- creator: spdx:checksumAlgorithm_sha256
+  notation: 54607e9bd4e519071f8d8997bb4f1ed71a1213227c6560a3ac217429d821c9c7
+  schema_type: dlthings:Checksum
+display_label: wagner.png
+distribution_of:
+- xyzrins:depictions/e729fdfb-a695-4dfa-bfeb-363680cdec12
+- xyzrins:depictions/5e152e94-e80b-40e2-88f7-962958e91f0a
+pid: dldi:SHA256E-s31538--54607e9bd4e519071f8d8997bb4f1ed71a1213227c6560a3ac217429d821c9c7.png
+schema_type: xyzri:XYZFile

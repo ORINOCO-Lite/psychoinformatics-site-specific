@@ -1,0 +1,61 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: A Connectivity-Based Psychometric Prediction Framework for Brain–Behavior
+    Relationship Studies
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'The recent availability of population-based studies with neuroimaging and
+    behavioral measurements opens promising perspectives to investigate the relationships
+    between interindividual variability in brain regions'' connectivity and behavioral
+    phenotypes. However, the multivariate nature of connectivity-based prediction
+    model severely limits the insight into brain-behavior patterns for neuroscience.
+    To address this issue, we propose a connectivity-based psychometric prediction
+    framework based on individual regions'' connectivity profiles. We first illustrate
+    two main applications: 1) single brain region''s predictive power for a range
+    of psychometric variables and 2) single psychometric variable''s predictive power
+    variation across brain region. We compare the patterns of brain-behavior provided
+    by these approaches to the brain-behavior relationships from activation approaches.
+    Then, capitalizing on the increased transparency of our approach, we demonstrate
+    how the influence of various data processing and analyses can directly influence
+    the patterns of brain-behavior relationships, as well as the unique insight into
+    brain-behavior relationships offered by this approach.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'The recent availability of population-based studies with neuroimaging
+  and behavioral measurements opens promising perspectives to investigate the relationships
+  between interindividual variability in brain regions'' connectivity and behavioral
+  phenotypes. However, the multivariate nature of connectivity-based prediction model
+  severely limits the insight into brain-behavior patterns for neuroscience. To address
+  this issue, we propose a connectivity-based psychometric prediction framework based
+  on individual regions'' connectivity profiles. We first illustrate two main applications:
+  1) single brain region''s predictive power for a range of psychometric variables
+  and 2) single psychometric variable''s predictive power variation across brain region.
+  We compare the patterns of brain-behavior provided by these approaches to the brain-behavior
+  relationships from activation approaches. Then, capitalizing on the increased transparency
+  of our approach, we demonstrate how the influence of various data processing and
+  analyses can directly influence the patterns of brain-behavior relationships, as
+  well as the unique insight into brain-behavior relationships offered by this approach.'
+generated_by:
+- at_location: ISSN:1047-3211
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/cercor/bhab044
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/1cd64301-2d6e-46e7-997c-73f249102394
+schema_type: xyzri:XYZPublication
+title: A Connectivity-Based Psychometric Prediction Framework for Brain–Behavior Relationship
+  Studies

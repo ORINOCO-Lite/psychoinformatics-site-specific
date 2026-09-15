@@ -1,0 +1,54 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'The neural signatures of social hierarchy-related learning and interaction:
+    A coordinate- and connectivity-based meta-analysis'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Numerous neuroimaging studies have investigated the neural mechanisms of
+    two mutually independent yet closely related cognitive processes aiding humans
+    to navigate complex societies: social hierarchy-related learning (SH-RL) and social
+    hierarchy-related interaction (SH-RI). To integrate these heterogeneous results
+    into a more fine-grained and reliable characterization of the neural basis of
+    social hierarchy, we combined coordinate-based meta-analyses with connectivity
+    and functional decoding analyses to understand the underlying neuropsychological
+    mechanism of SH-RL and SH-RI. We identified the anterior insula and temporoparietal
+    junction (dominance detection), medial prefrontal cortex (information updating
+    and computation), and intraparietal sulcus region, amygdala, and hippocampus (social
+    hierarchy representation) as consistent activated brain regions for SH-RL, but
+    the striatum, amygdala, and hippocampus associated with reward processing for
+    SH-RI. Our results provide an overview of the neural architecture of the neuropsychological
+    processes underlying how we understand, and interact within, social hierarchy.'
+description: 'Numerous neuroimaging studies have investigated the neural mechanisms
+  of two mutually independent yet closely related cognitive processes aiding humans
+  to navigate complex societies: social hierarchy-related learning (SH-RL) and social
+  hierarchy-related interaction (SH-RI). To integrate these heterogeneous results
+  into a more fine-grained and reliable characterization of the neural basis of social
+  hierarchy, we combined coordinate-based meta-analyses with connectivity and functional
+  decoding analyses to understand the underlying neuropsychological mechanism of SH-RL
+  and SH-RI. We identified the anterior insula and temporoparietal junction (dominance
+  detection), medial prefrontal cortex (information updating and computation), and
+  intraparietal sulcus region, amygdala, and hippocampus (social hierarchy representation)
+  as consistent activated brain regions for SH-RL, but the striatum, amygdala, and
+  hippocampus associated with reward processing for SH-RI. Our results provide an
+  overview of the neural architecture of the neuropsychological processes underlying
+  how we understand, and interact within, social hierarchy.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2021.118731
+  schema_type: dlthings:DOI
+pid: xyzrins:publications/b1a13e88-8589-46cb-a289-0b15528e73ee
+schema_type: xyzri:XYZPublication
+title: 'The neural signatures of social hierarchy-related learning and interaction:
+  A coordinate- and connectivity-based meta-analysis'

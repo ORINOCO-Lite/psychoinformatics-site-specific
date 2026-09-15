@@ -1,0 +1,55 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Mapping the principal gradient onto the corpus callosum
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Gradients capture some of the variance of the resting-state functional magnetic
+    resonance imaging (rsfMRI) signal. Amongst these, the principal gradient depicts
+    a functional processing hierarchy that spans from sensory-motor cortices to regions
+    of the default-mode network. While the cortex has been well characterised in terms
+    of gradients little is known about its underlying white matter. For instance,
+    comprehensive mapping of the principal gradient on the largest white matter tract,
+    the corpus callosum, is still missing. Here, we mapped the principal gradient
+    onto the midsection of the corpus callosum using the 7T human connectome project
+    dataset. We further explored how quantitative measures and variability in callosal
+    midsection connectivity relate to the principal gradient values. In so doing,
+    we demonstrated that the extreme values of the principal gradient are located
+    within the callosal genu and the posterior body, have lower connectivity variability
+    but a larger spatial extent along the midsection of the corpus callosum than mid-range
+    values. Our results shed light on the relationship between the brain's functional
+    hierarchy and the corpus callosum. We further speculate about how these results
+    may bridge the gap between functional hierarchy, brain asymmetries, and evolution.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Gradients capture some of the variance of the resting-state functional
+  magnetic resonance imaging (rsfMRI) signal. Amongst these, the principal gradient
+  depicts a functional processing hierarchy that spans from sensory-motor cortices
+  to regions of the default-mode network. While the cortex has been well characterised
+  in terms of gradients little is known about its underlying white matter. For instance,
+  comprehensive mapping of the principal gradient on the largest white matter tract,
+  the corpus callosum, is still missing. Here, we mapped the principal gradient onto
+  the midsection of the corpus callosum using the 7T human connectome project dataset.
+  We further explored how quantitative measures and variability in callosal midsection
+  connectivity relate to the principal gradient values. In so doing, we demonstrated
+  that the extreme values of the principal gradient are located within the callosal
+  genu and the posterior body, have lower connectivity variability but a larger spatial
+  extent along the midsection of the corpus callosum than mid-range values. Our results
+  shed light on the relationship between the brain's functional hierarchy and the
+  corpus callosum. We further speculate about how these results may bridge the gap
+  between functional hierarchy, brain asymmetries, and evolution.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2020.117317
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/5c0ec1d7-9669-41d4-a2ae-b749daf79906
+schema_type: xyzri:XYZPublication
+title: Mapping the principal gradient onto the corpus callosum

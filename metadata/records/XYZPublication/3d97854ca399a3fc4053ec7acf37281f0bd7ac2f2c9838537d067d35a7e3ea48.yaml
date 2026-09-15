@@ -1,0 +1,52 @@
+attributed_to:
+- object: xyzrins:persons/edcdb20e-b1be-4fc8-b93a-6fc4f2cebc5d
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/3cf923ff-969d-4224-bb7b-9f319f0b1564
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Scoliosis Surgery in a Patient With Advanced Friedreich's Ataxia—It Is Not
+    Too Late
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Friedreich's ataxia is a multisystem disorder with scoliosis being the most
+    common non-neurological manifestation. While scoliosis surgery is typically performed
+    in adolescent, ambulatory patients, few data exist on surgical outcomes in patients
+    with advanced disease. We present a 38-year-old woman with late-stage Friedreich's
+    ataxia and pronounced thoracolumbar scoliosis (Cobb angle 48°) causing severe
+    pain and limited sitting tolerance. After posterior corrective spondylodesis (T4-ilium),
+    she reported marked improvements in pain, sitting tolerance, function, and quality
+    of life in the SF-36 questionnaire. This case highlights the potential for substantial
+    clinical and functional benefits from scoliosis surgery in patients with advanced
+    Friedreich's ataxia.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Friedreich's ataxia is a multisystem disorder with scoliosis being the
+  most common non-neurological manifestation. While scoliosis surgery is typically
+  performed in adolescent, ambulatory patients, few data exist on surgical outcomes
+  in patients with advanced disease. We present a 38-year-old woman with late-stage
+  Friedreich's ataxia and pronounced thoracolumbar scoliosis (Cobb angle 48°) causing
+  severe pain and limited sitting tolerance. After posterior corrective spondylodesis
+  (T4-ilium), she reported marked improvements in pain, sitting tolerance, function,
+  and quality of life in the SF-36 questionnaire. This case highlights the potential
+  for substantial clinical and functional benefits from scoliosis surgery in patients
+  with advanced Friedreich's ataxia.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2328-9503
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/acn3.70219
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/34e8f8d5-99ee-4fb6-ad45-b4ad3ed9bc94
+schema_type: xyzri:XYZPublication
+title: Scoliosis Surgery in a Patient With Advanced Friedreich's Ataxia—It Is Not
+  Too Late

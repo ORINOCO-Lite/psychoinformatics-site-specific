@@ -1,0 +1,6 @@
+name: Zentralbibliothek Jülich
+part_of:
+- xyzrins:organizations/fzj
+pid: isil:DE-Juel1
+schema_type: xyzri:XYZOrganization
+short_name: FZJ-ZB

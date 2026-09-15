@@ -1,0 +1,5 @@
+description: A document containing an authoritative determination (as a decree or
+  judgment) made after consideration of facts or law.
+display_label: Decision
+pid: bibo:LegalDecision
+schema_type: xyzri:XYZBibliographicType

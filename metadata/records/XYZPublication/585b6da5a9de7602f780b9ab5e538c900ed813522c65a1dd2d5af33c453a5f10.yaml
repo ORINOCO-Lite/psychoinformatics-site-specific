@@ -1,0 +1,89 @@
+attributed_to:
+- object: xyzrins:persons/9fe30b8c-a331-4166-bd1c-f407b6e06ecc
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Intrinsic connectivity patterns of task-defined brain networks allow individual
+    prediction of cognitive symptom dimension of schizophrenia and are linked to molecular
+    architecture
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Background: Despite the marked inter-individual variability in the clinical
+    presentation of schizophrenia, it remains unclear the extent to which individual
+    dimensions of psychopathology may be reflected in variability across the collective
+    set of functional brain connections. Here, we address this question using network-based
+    predictive modeling of individual psychopathology along four data-driven symptom
+    dimensions. Follow-up analyses assess the molecular underpinnings of predictive
+    networks by relating them to neurotransmitter-receptor distribution patterns.
+    Methods: We investigated resting-state fMRI data from 147 schizophrenia patients
+    recruited at seven sites. Individual expression along negative, positive, affective,
+    and cognitive symptom dimensions was predicted using relevance vector machine
+    based on functional connectivity within 17 meta-analytic task-networks following
+    a repeated 10-fold cross-validation and leave-one-site-out analyses. Results were
+    validated in an independent sample. Networks robustly predicting individual symptom
+    dimensions were spatially correlated with density maps of nine receptors/transporters
+    from prior molecular imaging in healthy populations. Results: Ten-fold and leave-one-site-out
+    analyses revealed five predictive network-symptom associations. Connectivity within
+    theory-of-mind, cognitive reappraisal, and mirror neuron networks predicted negative,
+    positive, and affective symptom dimensions, respectively. Cognitive dimension
+    was predicted by theory-of-mind and socio-affective-default networks. Importantly,
+    these predictions generalized to the independent sample. Intriguingly, these two
+    networks were positively associated with D1 dopamine receptor and serotonin reuptake
+    transporter densities as well as dopamine-synthesis-capacity. Conclusions: We
+    revealed a robust association between intrinsic functional connectivity within
+    networks for socio-affective processes and the cognitive dimension of psychopathology.
+    By investigating the molecular architecture, the present work links dopaminergic
+    and serotonergic systems with the functional topography of brain networks underlying
+    cognitive symptoms in schizophrenia.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Background: Despite the marked inter-individual variability in the clinical
+  presentation of schizophrenia, it remains unclear the extent to which individual
+  dimensions of psychopathology may be reflected in variability across the collective
+  set of functional brain connections. Here, we address this question using network-based
+  predictive modeling of individual psychopathology along four data-driven symptom
+  dimensions. Follow-up analyses assess the molecular underpinnings of predictive
+  networks by relating them to neurotransmitter-receptor distribution patterns. Methods:
+  We investigated resting-state fMRI data from 147 schizophrenia patients recruited
+  at seven sites. Individual expression along negative, positive, affective, and cognitive
+  symptom dimensions was predicted using relevance vector machine based on functional
+  connectivity within 17 meta-analytic task-networks following a repeated 10-fold
+  cross-validation and leave-one-site-out analyses. Results were validated in an independent
+  sample. Networks robustly predicting individual symptom dimensions were spatially
+  correlated with density maps of nine receptors/transporters from prior molecular
+  imaging in healthy populations. Results: Ten-fold and leave-one-site-out analyses
+  revealed five predictive network-symptom associations. Connectivity within theory-of-mind,
+  cognitive reappraisal, and mirror neuron networks predicted negative, positive,
+  and affective symptom dimensions, respectively. Cognitive dimension was predicted
+  by theory-of-mind and socio-affective-default networks. Importantly, these predictions
+  generalized to the independent sample. Intriguingly, these two networks were positively
+  associated with D1 dopamine receptor and serotonin reuptake transporter densities
+  as well as dopamine-synthesis-capacity. Conclusions: We revealed a robust association
+  between intrinsic functional connectivity within networks for socio-affective processes
+  and the cognitive dimension of psychopathology. By investigating the molecular architecture,
+  the present work links dopaminergic and serotonergic systems with the functional
+  topography of brain networks underlying cognitive symptoms in schizophrenia.'
+generated_by:
+- at_location: ISSN:0006-3223
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.biopsych.2020.09.024
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/4fd77237-361c-4caa-83db-7901e7ff6b8e
+schema_type: xyzri:XYZPublication
+title: Intrinsic connectivity patterns of task-defined brain networks allow individual
+  prediction of cognitive symptom dimension of schizophrenia and are linked to molecular
+  architecture

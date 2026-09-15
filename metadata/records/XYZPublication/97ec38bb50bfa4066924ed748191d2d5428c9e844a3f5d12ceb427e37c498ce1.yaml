@@ -1,0 +1,52 @@
+attributed_to:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: The Combination of DAT-SPECT, Structural and Diffusion MRI Predicts Clinical
+    Progression in Parkinson’s Disease
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: There is an increasing interest in identifying non-invasive biomarkers of
+    disease severityand  prognosis  in  idiopathic  Parkinson’s  disease  (PD).  Dopamine-transporter  SPECT(DAT-SPECT),
+    diffusion tensor imaging (DTI), and structural magnetic resonance imaging(sMRI)
+    provide unique information about the brain’s neurotransmitter and microstructuralproperties.  In  this  study,  we  evaluate  the  relative  and  combined  capability  of  theseimaging
+    modalities to predict symptom severity and clinical progression inde novoPDpatients.
+    To this end, we used MRI, SPECT, and clinical data ofde novodrug-naïvePD  patients  (n=  205,  mean  age  61±10)  and  age-,  sex-matched  healthy  controls(n=
+    105, mean age 58±12) acquired at baseline. Moreover, we employed clinical dataacquired
+    at 1 year follow-up for PD patients with or withoutL-Dopa treatment in orderto  predict  the  progression  symptoms  severity.  Voxel-based  group  comparisons  andcovariance
+    analyses were applied to characterize baseline disease-related alterations forDAT-SPECT,
+    DTI, and sMRI. Cortical and subcortical alterations inde novoPD patientswere found
+    in all evaluated imaging modalities, in line with previously reported midbrain-striato-cortical
+    network alterations. The combination of these imaging alterations wasreliably  linked  to  clinical  severity  and  disease  progression  at  1  year  follow-up  in  thispatient  population,  providing  evidence  for  the  potential  use  of  these  modalities  asimaging  biomarkers  for  disease  severity  and  prognosis  that  can  be  integrated  intoclinical
+    trials.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: There is an increasing interest in identifying non-invasive biomarkers
+  of disease severityand  prognosis  in  idiopathic  Parkinson’s  disease  (PD).  Dopamine-transporter  SPECT(DAT-SPECT),
+  diffusion tensor imaging (DTI), and structural magnetic resonance imaging(sMRI)
+  provide unique information about the brain’s neurotransmitter and microstructuralproperties.  In  this  study,  we  evaluate  the  relative  and  combined  capability  of  theseimaging
+  modalities to predict symptom severity and clinical progression inde novoPDpatients.
+  To this end, we used MRI, SPECT, and clinical data ofde novodrug-naïvePD  patients  (n=  205,  mean  age  61±10)  and  age-,  sex-matched  healthy  controls(n=
+  105, mean age 58±12) acquired at baseline. Moreover, we employed clinical dataacquired
+  at 1 year follow-up for PD patients with or withoutL-Dopa treatment in orderto  predict  the  progression  symptoms  severity.  Voxel-based  group  comparisons  andcovariance
+  analyses were applied to characterize baseline disease-related alterations forDAT-SPECT,
+  DTI, and sMRI. Cortical and subcortical alterations inde novoPD patientswere found
+  in all evaluated imaging modalities, in line with previously reported midbrain-striato-cortical
+  network alterations. The combination of these imaging alterations wasreliably  linked  to  clinical  severity  and  disease  progression  at  1  year  follow-up  in  thispatient  population,  providing  evidence  for  the  potential  use  of  these  modalities  asimaging  biomarkers  for  disease  severity  and  prognosis  that  can  be  integrated  intoclinical
+  trials.
+generated_by:
+- at_location: ISSN:1663-4365
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3389/fnagi.2019.00057
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/fe7de389-85ec-4bbe-9cde-57f70b4d0449
+schema_type: xyzri:XYZPublication
+title: The Combination of DAT-SPECT, Structural and Diffusion MRI Predicts Clinical
+  Progression in Parkinson’s Disease

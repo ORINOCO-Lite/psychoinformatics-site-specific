@@ -1,0 +1,44 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2025-12-11T21:41:19.576601'
+description: Motivation ist ein fundamentaler Auslösungs- und Steuerungsfaktor für
+  das Verhalten höherer Tiere und des Menschen. Alle zielorientierten Entscheidungen,
+  die Menschen während ihrer gesamten Lebensspanne treffen, basieren darauf. Motivation
+  ist daher nicht nur für die Lebenswissenschaften und die klinische Forschung von
+  zentralem Interesse, sondern auch von höchster gesellschaftlicher Bedeutung. Während
+  Theorien über die Natur der Motivation eine Jahrhunderte-lange Geschichte in der
+  Psychologie und den Sozialwissenschaften haben, ist die systematische Erforschung
+  der Hirnmechanismen, die Motivation zu Grunde liegen, noch relativ jung. Der SFB
+  779 "Neurobiologie motivierten Verhaltens" erforscht die neuronalen Grundlagen motivationsabhängiger
+  und motivationssteuernder Prozesse mit einem interdisziplinären Ansatz, der die
+  komplementären Vorteile tier- und humanverhaltensphysiologischer Forschungsansätze
+  ausnutzt. Im Sonderforschungsbereich wurde ein Netzwerk eng zusammenarbeitender
+  Forscher aus der Universität Magdeburg, der Universitätsklinik/Fakultät für Medizin,
+  dem Leibniz-Institut für Neurobiologie und dem Deutschen Zentrum für Neurodegenerative
+  Erkrankungen - Standort Magdeburg etabliert, welches die Grenzen zwischen klassischen
+  Forschungsdisziplinen überschreitet. Die Kombination der Analyse neuronaler Schaltkreise
+  bei Nagern mit bildgebenden Ansätzen beim Menschen ermöglichen neue Einsichten in
+  die funktionelle Architektur von Hirnsystemen, die motiviertem Verhalten zu Grunde
+  liegen. Molekulare Analysen untersuchen zelluläre Signalwege bei motivationalen
+  Vorgängen und Proteom-Screens identifizieren Moleküle, die bei verschiedenen Motivationsformen
+  unterschiedlich reguliert werden. Diese Form konzeptbasierter Integration von Beiträgen
+  aus verschiedenen wissenschaftlichen Disziplinen führt zu einem vertieften Verständnis
+  der neuronalen Basis von Motivation und ermöglicht die Translation in klinische
+  Anwendungen, einschließlich neuer Behandlungsmöglichkeiten für neuropsychiatrische
+  Erkrankungen. Der SFB 779 ist zu einem wichtigen strukturbestimmenden Faktor für
+  die neurowissenschaftliche Forschungslandschaft Magdeburgs geworden. Sowohl die
+  Universität als auch das Land Sachsen-Anhalt haben die Neurowissenschaften als ausgezeichneten
+  Schwerpunkt für Forschung und Förderung definiert. Entsprechend hat der SFB 779
+  während seiner ersten beiden Förderperioden nicht nur weitere hochangesehene Forscher
+  aus dem In- und Ausland als neue Mitglieder gewinnen können, sondern hat ebenfalls
+  für eine nachhaltige Unterstützung von Nachwuchswissenschaftlern, beispielsweise
+  durch den Aufbau eines in den SFB integrierten Graduiertenkollegs und durch die
+  Einrichtung von Nachwuchsforschergruppen, gesorgt.
+pid: xyzrins:grants/sfb779
+schema_type: xyzri:XYZGrant
+short_name: SFB 779
+title: ' Neurobiology of Motivated Behaviour'

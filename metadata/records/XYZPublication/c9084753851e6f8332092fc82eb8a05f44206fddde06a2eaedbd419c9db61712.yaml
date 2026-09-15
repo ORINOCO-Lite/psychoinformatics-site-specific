@@ -1,0 +1,84 @@
+attributed_to:
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Confound-leakage: Confound Removal in Machine Learning Leads to Leakage'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: BackgroundMachine learning (ML) approaches are a crucial component of modern
+    data analysis in many fields, including epidemiology and medicine. Nonlinear ML
+    methods often achieve accurate predictions, for instance, in personalized medicine,
+    as they are capable of modeling complex relationships between features and the
+    target. Problematically, ML models and their predictions can be biased by confounding
+    information present in the features. To remove this spurious signal, researchers
+    often employ featurewise linear confound regression (CR). While this is considered
+    a standard approach for dealing with confounding, possible pitfalls of using CR
+    in ML pipelines are not fully understood.ResultsWe provide new evidence that,
+    contrary to general expectations, linear confound regression can increase the
+    risk of confounding when combined with nonlinear ML approaches. Using a simple
+    framework that uses the target as a confound, we show that information leaked
+    via CR can increase null or moderate effects to near-perfect prediction. By shuffling
+    the features, we provide evidence that this increase is indeed due to confound-leakage
+    and not due to revealing of information. We then demonstrate the danger of confound-leakage
+    in a real-world clinical application where the accuracy of predicting attention-deficit/hyperactivity
+    disorder is overestimated using speech-derived features when using depression
+    as a confound.ConclusionsMishandling or even amplifying confounding effects when
+    building ML models due to confound-leakage, as shown, can lead to untrustworthy,
+    biased, and unfair predictions. Our expose of the confound-leakage pitfall and
+    provided guidelines for dealing with it can help create more robust and trustworthy
+    ML models.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: BackgroundMachine learning (ML) approaches are a crucial component of
+  modern data analysis in many fields, including epidemiology and medicine. Nonlinear
+  ML methods often achieve accurate predictions, for instance, in personalized medicine,
+  as they are capable of modeling complex relationships between features and the target.
+  Problematically, ML models and their predictions can be biased by confounding information
+  present in the features. To remove this spurious signal, researchers often employ
+  featurewise linear confound regression (CR). While this is considered a standard
+  approach for dealing with confounding, possible pitfalls of using CR in ML pipelines
+  are not fully understood.ResultsWe provide new evidence that, contrary to general
+  expectations, linear confound regression can increase the risk of confounding when
+  combined with nonlinear ML approaches. Using a simple framework that uses the target
+  as a confound, we show that information leaked via CR can increase null or moderate
+  effects to near-perfect prediction. By shuffling the features, we provide evidence
+  that this increase is indeed due to confound-leakage and not due to revealing of
+  information. We then demonstrate the danger of confound-leakage in a real-world
+  clinical application where the accuracy of predicting attention-deficit/hyperactivity
+  disorder is overestimated using speech-derived features when using depression as
+  a confound.ConclusionsMishandling or even amplifying confounding effects when building
+  ML models due to confound-leakage, as shown, can lead to untrustworthy, biased,
+  and unfair predictions. Our expose of the confound-leakage pitfall and provided
+  guidelines for dealing with it can help create more robust and trustworthy ML models.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2047-217X
+  at_time: '20323'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/gigascience/giad071
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2028-12-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/66cbbef2-5fd4-42c6-8348-cb74af435b75
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/b8f94ba8-0fd7-48d4-adf2-4186714f504a
+schema_type: xyzri:XYZPublication
+title: 'Confound-leakage: Confound Removal in Machine Learning Leads to Leakage'

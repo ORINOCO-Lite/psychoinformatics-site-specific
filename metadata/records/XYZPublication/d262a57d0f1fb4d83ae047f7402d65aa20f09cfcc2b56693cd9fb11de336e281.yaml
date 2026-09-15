@@ -1,0 +1,58 @@
+attributed_to:
+- object: xyzrins:persons/15a9b2f2-d2a0-47f1-aaa6-ca8d4ed541b0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Event-related potentials of social comparisons in depression and social anxiety
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Social comparison is central in human life and can be especially challenging
+    in depression and social anxiety. We assessed event-related potentials and emotions
+    when receiving feedback on both their own and a co-player’s performance, in participants
+    with depression and/or social anxiety (n=63) and healthy controls (n=72). Participants
+    reported more negative emotions for downward (being better than someone else)
+    and upward (being worse) comparisons vs. even outcomes, with these effects being
+    stronger in depression and social anxiety. At the Medial Frontal Negativity, both
+    controls and depressed participants showed enhanced negativity for upward (participant
+    wrong, co-player correct) comparison vs. both the participant and co-player performing
+    wrong. Socially anxious subjects showed the opposite effect, possibly due to greater
+    expectations about being worse than others. The P300 decreased for downward and
+    upward comparisons compared to even outcomes, which may relate to the higher levels
+    of conflict of social inequality. Depressed and socially anxious subjects showed
+    a blunted P300 increase over time in response to the task outcomes, suggesting
+    deficits in allocating resources for the attention of incoming social information.
+    This may relate to difficulties in these disorders in learning how to deal with
+    the cognitive/emotional demands of social comparison.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Social comparison is central in human life and can be especially challenging
+  in depression and social anxiety. We assessed event-related potentials and emotions
+  when receiving feedback on both their own and a co-player’s performance, in participants
+  with depression and/or social anxiety (n=63) and healthy controls (n=72). Participants
+  reported more negative emotions for downward (being better than someone else) and
+  upward (being worse) comparisons vs. even outcomes, with these effects being stronger
+  in depression and social anxiety. At the Medial Frontal Negativity, both controls
+  and depressed participants showed enhanced negativity for upward (participant wrong,
+  co-player correct) comparison vs. both the participant and co-player performing
+  wrong. Socially anxious subjects showed the opposite effect, possibly due to greater
+  expectations about being worse than others. The P300 decreased for downward and
+  upward comparisons compared to even outcomes, which may relate to the higher levels
+  of conflict of social inequality. Depressed and socially anxious subjects showed
+  a blunted P300 increase over time in response to the task outcomes, suggesting deficits
+  in allocating resources for the attention of incoming social information. This may
+  relate to difficulties in these disorders in learning how to deal with the cognitive/emotional
+  demands of social comparison.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.21203/rs.3.rs-2762762/v1
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/30825293-f631-45f2-80a0-98ce087b7fbe
+schema_type: xyzri:XYZPublication
+title: Event-related potentials of social comparisons in depression and social anxiety

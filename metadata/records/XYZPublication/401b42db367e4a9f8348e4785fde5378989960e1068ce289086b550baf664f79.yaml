@@ -1,0 +1,92 @@
+attributed_to:
+- object: xyzrins:persons/534d28e8-d6e0-4a7f-8ba3-bf59298c9221
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c643dc9e-7b8a-4a32-aa1b-6f371c82880a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/269a3b65-df26-4c0d-a6a9-2c4410750dc8
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Machine-learning identifies parkinson's disease patients based on resting-state
+    between-network functional connectivity
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'OBJECTIVES:Evaluation of a data-driven, model-based classification approach
+    to discriminate idiopathic Parkinson''s disease (PD) patients from healthy controls
+    (HC) based on between-network connectivity in whole-brain resting-state functional
+    MRI (rs-fMRI).METHODS:Whole-brain rs-fMRI (EPI/TR = 2.2  s/TE = 30  ms/flip angle
+    = 90°/resolution = 3.1 × 3.1 × 3.1  mm/acquisition time≈11  min) was assessed
+    in 42 PD patients (medical OFF) and 47 HC matched for age and gender. Between-network
+    connectivity based on full and L2-regularized partial correlation measures were
+    computed for each subject based on canonical functional network architectures
+    of two cohorts at different levels of granularity (Human Connectome Project: 15/25/50/100/200
+    networks; 1000BRAINS: 15/25/50/70 networks). A Boosted Logistic Regression model
+    was trained on the correlation matrices using a nested cross-validation (CV) with
+    10 outer and 10 inner folds for an unbiased performance estimate, treating the
+    canonical functional network architecture and the type of correlation as hyperparameters.
+    The number of boosting iterations was fixed at 100. The model with the highest
+    mean accuracy over the inner folds was trained using an non-nested 10- fold 20-repeats
+    CV over the whole dataset to determine feature importance.RESULTS:Over the outer
+    folds the mean accuracy was found to be 76.2 % (median 77.8%, SD 18.2, IQR 69.4
+    - 87.1 %). Mean sensitivity was 81 % (median 80%, SD 21.1, IQR 75 - 100 %) and
+    mean specificity was 72.7 % (median 75%, SD 20.4, IQR 66.7 - 80 %). The 1000BRAINS
+    50-network-parcellation, using full correlations, performed best over the inner
+    folds. The top features predominantly included sensorimotor as well as sensory
+    networks.CONCLUSIONS:A rs-fMRI whole-brain-connectivity, data-driven, model-based
+    approach to discriminate PD patients from healthy controls shows a very good accuracy
+    and a high sensitivity. Given the high sensitivity of the approach, it may be
+    of use in a screening setting.ADVANCES IN KNOWLEDGE:Resting-state functional MRI
+    could prove to be a valuable, non-invasive neuroimaging biomarker for neurodegenerative
+    diseases. The current model-based, data-driven approach on whole-brain between-network
+    connectivity to discriminate Parkinson''s disease patients from healthy controls
+    shows promising results with a very good accuracy and a very high sensitivity.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'OBJECTIVES:Evaluation of a data-driven, model-based classification approach
+  to discriminate idiopathic Parkinson''s disease (PD) patients from healthy controls
+  (HC) based on between-network connectivity in whole-brain resting-state functional
+  MRI (rs-fMRI).METHODS:Whole-brain rs-fMRI (EPI/TR = 2.2  s/TE = 30  ms/flip angle
+  = 90°/resolution = 3.1 × 3.1 × 3.1  mm/acquisition time≈11  min) was assessed in
+  42 PD patients (medical OFF) and 47 HC matched for age and gender. Between-network
+  connectivity based on full and L2-regularized partial correlation measures were
+  computed for each subject based on canonical functional network architectures of
+  two cohorts at different levels of granularity (Human Connectome Project: 15/25/50/100/200
+  networks; 1000BRAINS: 15/25/50/70 networks). A Boosted Logistic Regression model
+  was trained on the correlation matrices using a nested cross-validation (CV) with
+  10 outer and 10 inner folds for an unbiased performance estimate, treating the canonical
+  functional network architecture and the type of correlation as hyperparameters.
+  The number of boosting iterations was fixed at 100. The model with the highest mean
+  accuracy over the inner folds was trained using an non-nested 10- fold 20-repeats
+  CV over the whole dataset to determine feature importance.RESULTS:Over the outer
+  folds the mean accuracy was found to be 76.2 % (median 77.8%, SD 18.2, IQR 69.4
+  - 87.1 %). Mean sensitivity was 81 % (median 80%, SD 21.1, IQR 75 - 100 %) and mean
+  specificity was 72.7 % (median 75%, SD 20.4, IQR 66.7 - 80 %). The 1000BRAINS 50-network-parcellation,
+  using full correlations, performed best over the inner folds. The top features predominantly
+  included sensorimotor as well as sensory networks.CONCLUSIONS:A rs-fMRI whole-brain-connectivity,
+  data-driven, model-based approach to discriminate PD patients from healthy controls
+  shows a very good accuracy and a high sensitivity. Given the high sensitivity of
+  the approach, it may be of use in a screening setting.ADVANCES IN KNOWLEDGE:Resting-state
+  functional MRI could prove to be a valuable, non-invasive neuroimaging biomarker
+  for neurodegenerative diseases. The current model-based, data-driven approach on
+  whole-brain between-network connectivity to discriminate Parkinson''s disease patients
+  from healthy controls shows promising results with a very good accuracy and a very
+  high sensitivity.'
+generated_by:
+- at_location: ISSN:0007-1285
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1259/bjr.20180886
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/4f7cc7c8-a89e-4970-9329-734dea66cd47
+schema_type: xyzri:XYZPublication
+title: Machine-learning identifies parkinson's disease patients based on resting-state
+  between-network functional connectivity

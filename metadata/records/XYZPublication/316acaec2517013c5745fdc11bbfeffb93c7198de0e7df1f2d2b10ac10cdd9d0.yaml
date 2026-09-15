@@ -1,0 +1,62 @@
+attributed_to:
+- object: xyzrins:persons/c5630bae-5817-4599-a579-aa4fcadec6e9
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Identification of five sleep-biopsychosocial profiles with specific neural
+    signatures linking sleep variability with health, cognition, and lifestyle factors
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Sleep is essential for optimal functioning and health. Interconnected to
+    multiple biological, psychological, and socio-environmental factors (i.e., biopsychosocial
+    factors), the multidimensional nature of sleep is rarely capitalized on in research.
+    Here, we deployed a data-driven approach to identify sleep-biopsychosocial profiles
+    that linked self-reported sleep patterns to inter-individual variability in health,
+    cognition, and lifestyle factors in 770 healthy young adults. We uncovered five
+    profiles, including two profiles reflecting general psychopathology associated
+    with either reports of general poor sleep or an absence of sleep complaints (i.e.,
+    sleep resilience), respectively. The three other profiles were driven by the use
+    of sleep aids and social satisfaction, sleep duration, and cognitive performance,
+    and sleep disturbance linked to cognition and mental health. Furthermore, identified
+    sleep-biopsychosocial profiles displayed unique patterns of brain network organization.
+    In particular, somatomotor network connectivity alterations were involved in the
+    relationships between sleep and biopsychosocial factors. These profiles can potentially
+    untangle the interplay between individuals’ variability in sleep, health, cognition,
+    and lifestyle—equipping research and clinical settings to better support individual’s
+    well-being.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Sleep is essential for optimal functioning and health. Interconnected
+  to multiple biological, psychological, and socio-environmental factors (i.e., biopsychosocial
+  factors), the multidimensional nature of sleep is rarely capitalized on in research.
+  Here, we deployed a data-driven approach to identify sleep-biopsychosocial profiles
+  that linked self-reported sleep patterns to inter-individual variability in health,
+  cognition, and lifestyle factors in 770 healthy young adults. We uncovered five
+  profiles, including two profiles reflecting general psychopathology associated with
+  either reports of general poor sleep or an absence of sleep complaints (i.e., sleep
+  resilience), respectively. The three other profiles were driven by the use of sleep
+  aids and social satisfaction, sleep duration, and cognitive performance, and sleep
+  disturbance linked to cognition and mental health. Furthermore, identified sleep-biopsychosocial
+  profiles displayed unique patterns of brain network organization. In particular,
+  somatomotor network connectivity alterations were involved in the relationships
+  between sleep and biopsychosocial factors. These profiles can potentially untangle
+  the interplay between individuals’ variability in sleep, health, cognition, and
+  lifestyle—equipping research and clinical settings to better support individual’s
+  well-being.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1544-9173
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1371/journal.pbio.3003399
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/75c98f51-e6ff-4897-86ba-6e6ca39d054d
+schema_type: xyzri:XYZPublication
+title: Identification of five sleep-biopsychosocial profiles with specific neural
+  signatures linking sleep variability with health, cognition, and lifestyle factors

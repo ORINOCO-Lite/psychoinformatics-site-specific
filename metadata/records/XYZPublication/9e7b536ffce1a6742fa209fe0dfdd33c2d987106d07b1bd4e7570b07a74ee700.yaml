@@ -1,0 +1,56 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/924c0245-6ca4-468e-9291-a0e312ce3c49
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Executive functions predict verbal fluency scores in healthy participants
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: While there is a clear link between impairments of executive functions (EFs),
+    i.e. cognitive control mechanisms that facilitate goal-directed behavior, and
+    speech problems, it is so far unclear exactly which of the complex subdomains
+    of EFs most strongly contribute to speech performance, as measured by verbal fluency
+    (VF) tasks. Furthermore, the impact of intra-individual variability is largely
+    unknown. This study on healthy participants (n = 235) shows that the use of a
+    relevance vector machine approach allows for the prediction of VF performance
+    from EF scores. Based on a comprehensive set of EF scores, results identified
+    cognitive flexibility and inhibition as well as processing speed as strongest
+    predictors for VF performance, but also highlighted a modulatory influence of
+    fluctuating hormone levels. These findings demonstrate that speech production
+    performance is strongly linked to specific EF subdomains, but they also suggest
+    that inter-individual differences should be taken into account.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: While there is a clear link between impairments of executive functions
+  (EFs), i.e. cognitive control mechanisms that facilitate goal-directed behavior,
+  and speech problems, it is so far unclear exactly which of the complex subdomains
+  of EFs most strongly contribute to speech performance, as measured by verbal fluency
+  (VF) tasks. Furthermore, the impact of intra-individual variability is largely unknown.
+  This study on healthy participants (n = 235) shows that the use of a relevance vector
+  machine approach allows for the prediction of VF performance from EF scores. Based
+  on a comprehensive set of EF scores, results identified cognitive flexibility and
+  inhibition as well as processing speed as strongest predictors for VF performance,
+  but also highlighted a modulatory influence of fluctuating hormone levels. These
+  findings demonstrate that speech production performance is strongly linked to specific
+  EF subdomains, but they also suggest that inter-individual differences should be
+  taken into account.
+generated_by:
+- at_location: ISSN:2045-2322
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41598-020-65525-9
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/2a518ee7-c087-46bb-8cd8-03dadfb28608
+schema_type: xyzri:XYZPublication
+title: Executive functions predict verbal fluency scores in healthy participants

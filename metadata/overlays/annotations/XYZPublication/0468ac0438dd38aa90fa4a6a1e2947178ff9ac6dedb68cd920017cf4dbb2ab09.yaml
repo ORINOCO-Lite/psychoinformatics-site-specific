@@ -1,0 +1,34 @@
+assertions:
+- assertion_sha256: sha256:2308e29c3acfab57717f3f927abf25c2aee1f2d022e3d845352512faa4661393
+  path: /attributed_to
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/911339
+- assertion_sha256: sha256:573e6c9d9d4b38065600072ddea2658755647b43665fda127111cb638d7f1d9a
+  path: /attributes
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/911339
+- assertion_sha256: sha256:9a35d89e35bb971b8c24db41f9f76f6d6dc54afc451844d564cf709ae302c4bb
+  path: /attributes
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/911339
+- assertion_sha256: sha256:daaf525b6f3d3378a5630d6cee38e0b0b19098a51ceab864edf5e50321977190
+  path: /characterized_by
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/911339
+- assertion_sha256: sha256:19553b25b647ebf0f8bd7772bfa2c5323e1932316ce6612bf8d752a558a2303c
+  path: /generated_by
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/911339
+- assertion_sha256: sha256:7d9eee28d91c5dc452b9eca7693f873e0146ba4239583c4fbc82ea748d83bbdc
+  path: /generated_by
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/911339
+- assertion_sha256: sha256:ddb1683faf8bbd9236e74cd58a09c92ce1051c0affe5f5148b9526dd1c959e30
+  path: /identifiers
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/911339
+- assertion_sha256: sha256:98fdefa7e3142e8cc450d1f26f211aa3d934a2ef0f44a0874382d6e26129995b
+  path: /influenced_by
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/911339
+record: xyzrins:publications/a9d9c3ac-66dd-4f53-ac46-574648f29c14

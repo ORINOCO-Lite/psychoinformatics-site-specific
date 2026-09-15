@@ -1,0 +1,68 @@
+about:
+- xyzrins:topics/data-management
+- xyzrins:topics/distributed-systems
+- xyzrins:topics/education
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-06-26T12:31:43.966235'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - marcrel:aut
+  - marcrel:dsr
+  - marcrel:edt
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:aut
+  - marcrel:dsr
+  schema_type: dlthings:Attribution
+depiction:
+- xyzrins:depictions/80a95afb-02fa-432e-9c13-227516721c52
+- xyzrins:depictions/cfdcfdbc-6078-4c5b-9a3c-1e841d91358c
+description: 'The goal of this book is to teach universal research data management
+  skills that require nothing but a standard computer and free software, yet scale
+  from working with a few tables up to wrangling terabytes on high performance computing
+  systems.
+
+  This book approaches research data management with a hands-on, code-along tutorial
+  style. It focuses on practical aspects and getting things done, with demos that
+  are easy to follow and DIY-ready. Nevertheless, relevant technical concepts are
+  explained, when necessary, in small excursions, and by insightful trial-and-error
+  explorations.
+
+  The content is centered around the data management solution DataLad. This free software
+  is an multitool for managing digital information and its use, regardless of data
+  type, size, location, volatility or origin. It provides functionality to share,
+  retrieve, and version control data in a distributed fashion, and it aids managing
+  the evolution of "FAIR" digital objects.
+
+  This book is made from essential parts of the DataLad Handbook project, a rich online
+  resource, built collaboratively by more than 50 contributors and visited thousands
+  of times every day.
+
+  You are invited to fire up your computer''s terminal and follow along, but you do
+  not need to be a programmer, computer scientist, or Linux crack. If you have never
+  touched your computer’s command line before, you will be fine. No prior knowledge
+  about DataLad and its underlying software foundations, Git and git-annex, is required.
+
+  In short, this book equips students, researchers, and any data wrangler with essentials
+  skills needed for today''s digital data workflows, and for building reproducible
+  and reusable data projects.'
+generated_by:
+- at_time: '2023-12-01'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 979-8857037973
+  schema_type: dlthings:Identifier
+kind: bibo:Book
+pid: xyzrins:publications/4d692cf1-2a19-406c-9066-e0c85de46e4a
+rules:
+- spdxlic:CC-BY-SA-4.0
+schema_type: xyzri:XYZPublication
+title: An Introduction to Research Data Management with DataLad

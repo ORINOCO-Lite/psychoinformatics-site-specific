@@ -1,0 +1,74 @@
+attributed_to:
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Machine learning based identification of structural brain alterations underlying
+    suicide risk in adolescents
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Suicide is the third leading cause of death for individuals between 15 and
+    19 years of age. The high suicide mortality rate and limited prior success in
+    identifying neuroimaging biomarkers indicate that it is crucial to improve the
+    accuracy of clinical neural signatures underlying suicide risk. The current study
+    implements machine-learning (ML) algorithms to examine structural brain alterations
+    in adolescents that can discriminate individuals with suicide risk from typically
+    developing (TD) adolescents at the individual level. Structural MRI data were
+    collected from 79 adolescents who demonstrated clinical levels of suicide risk
+    and 79 demographically matched TD adolescents. Region-specific cortical/subcortical
+    volume (CV/SCV) was evaluated following whole-brain parcellation into 1000 cortical
+    and 12 subcortical regions. CV/SCV parameters were used as inputs for feature
+    selection and three ML algorithms (i.e., support vector machine [SVM], K-nearest
+    neighbors, and ensemble) to classify adolescents at suicide risk from TD adolescents.
+    The highest classification accuracy of 74.79% (with sensitivity = 75.90%, specificity = 74.07%,
+    and area under the receiver operating characteristic curve = 87.18%) was obtained
+    for CV/SCV data using the SVM classifier. Identified bilateral regions that contributed
+    to the classification mainly included reduced CV within the frontal and temporal
+    cortices but increased volume within the cuneus/precuneus for adolescents at suicide
+    risk relative to TD adolescents. The current data demonstrate an unbiased region-specific
+    ML framework to effectively assess the structural biomarkers of suicide risk.
+    Future studies with larger sample sizes and the inclusion of clinical controls
+    and independent validation data sets are needed to confirm our findings.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Suicide is the third leading cause of death for individuals between 15
+  and 19 years of age. The high suicide mortality rate and limited prior success in
+  identifying neuroimaging biomarkers indicate that it is crucial to improve the accuracy
+  of clinical neural signatures underlying suicide risk. The current study implements
+  machine-learning (ML) algorithms to examine structural brain alterations in adolescents
+  that can discriminate individuals with suicide risk from typically developing (TD)
+  adolescents at the individual level. Structural MRI data were collected from 79
+  adolescents who demonstrated clinical levels of suicide risk and 79 demographically
+  matched TD adolescents. Region-specific cortical/subcortical volume (CV/SCV) was
+  evaluated following whole-brain parcellation into 1000 cortical and 12 subcortical
+  regions. CV/SCV parameters were used as inputs for feature selection and three ML
+  algorithms (i.e., support vector machine [SVM], K-nearest neighbors, and ensemble)
+  to classify adolescents at suicide risk from TD adolescents. The highest classification
+  accuracy of 74.79% (with sensitivity = 75.90%, specificity = 74.07%, and area under
+  the receiver operating characteristic curve = 87.18%) was obtained for CV/SCV data
+  using the SVM classifier. Identified bilateral regions that contributed to the classification
+  mainly included reduced CV within the frontal and temporal cortices but increased
+  volume within the cuneus/precuneus for adolescents at suicide risk relative to TD
+  adolescents. The current data demonstrate an unbiased region-specific ML framework
+  to effectively assess the structural biomarkers of suicide risk. Future studies
+  with larger sample sizes and the inclusion of clinical controls and independent
+  validation data sets are needed to confirm our findings.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:2731-4383
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s44192-023-00033-6
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/ab7f26f2-b66f-4205-a26e-d3020b25369f
+schema_type: xyzri:XYZPublication
+title: Machine learning based identification of structural brain alterations underlying
+  suicide risk in adolescents

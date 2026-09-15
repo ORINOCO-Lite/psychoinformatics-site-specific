@@ -1,0 +1,58 @@
+attributed_to:
+- object: xyzrins:persons/c3e4db14-5d1c-4156-bb3e-ffc905751e98
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Elevating sleep to a global health priority: The One Sleep Health framework'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Sleep is a non-negotiable necessity for humans and animals and a cornerstone
+    of health. Research is recently undergoing a paradigm shift, moving from a focus
+    on individual factors to macro-level influences on sleep health. The physical,
+    social, and lifestyle exposome increasingly disrupts human and animal sleep, highlighting
+    shared vulnerabilities and potential health risks across species within shared
+    ecosystems. Yet, the interactions among sleep, whole-body health, and exposome
+    factors remain elusive. Here, we propose a novel integrative One Sleep Health
+    framework that recognizes sleep as a fundamental pillar of planetary health and
+    highlights how environmental factors influence it in the modern era. It incorporates
+    the sleep capital concept—the cumulative health, social, and economic benefits
+    of high sleep quality—into a global sleep health agenda. By adopting a transdisciplinary
+    lens encompassing neuroscience, medicine, environmental science, and public health,
+    this framework aims to bridge critical gaps in global sleep research and diplomacy.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Sleep is a non-negotiable necessity for humans and animals and a cornerstone
+  of health. Research is recently undergoing a paradigm shift, moving from a focus
+  on individual factors to macro-level influences on sleep health. The physical, social,
+  and lifestyle exposome increasingly disrupts human and animal sleep, highlighting
+  shared vulnerabilities and potential health risks across species within shared ecosystems.
+  Yet, the interactions among sleep, whole-body health, and exposome factors remain
+  elusive. Here, we propose a novel integrative One Sleep Health framework that recognizes
+  sleep as a fundamental pillar of planetary health and highlights how environmental
+  factors influence it in the modern era. It incorporates the sleep capital concept—the
+  cumulative health, social, and economic benefits of high sleep quality—into a global
+  sleep health agenda. By adopting a transdisciplinary lens encompassing neuroscience,
+  medicine, environmental science, and public health, this framework aims to bridge
+  critical gaps in global sleep research and diplomacy.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2666-3791
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.xcrm.2026.102828
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/a2128c9b-c4b7-4e2b-8e5e-1194dfcbd294
+schema_type: xyzri:XYZPublication
+title: 'Elevating sleep to a global health priority: The One Sleep Health framework'

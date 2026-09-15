@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/91325970-a275-4cb9-ad49-568d705b798c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Brain connectivity fingerprinting and behavioural prediction rest on distinct
+    functional systems of the human connectome
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The prediction of inter-individual behavioural differences from neuroimaging
+    data is a rapidly evolving field of research focusing on individualised methods
+    to describe human brain organisation on the single-subject level. One method that
+    harnesses such individual signatures is functional connectome fingerprinting,
+    which can reliably identify individuals from large study populations. However,
+    the precise relationship between functional signatures underlying fingerprinting
+    and behavioural prediction remains unclear. Expanding on previous reports, here
+    we systematically investigate the link between discrimination and prediction on
+    different levels of brain network organisation (individual connections, network
+    interactions, topographical organisation, and connection variability). Our analysis
+    revealed a substantial divergence between discriminatory and predictive connectivity
+    signatures on all levels of network organisation. Across different brain parcellations,
+    thresholds, and prediction algorithms, we find discriminatory connections in higher-order
+    multimodal association cortices, while neural correlates of behaviour display
+    more variable distributions. Furthermore, we find the standard deviation of connections
+    between participants to be significantly higher in fingerprinting than in prediction,
+    making inter-individual connection variability a possible separating marker. These
+    results demonstrate that participant identification and behavioural prediction
+    involve highly distinct functional systems of the human connectome. The present
+    study thus calls into question the direct functional relevance of connectome fingerprints.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The prediction of inter-individual behavioural differences from neuroimaging
+  data is a rapidly evolving field of research focusing on individualised methods
+  to describe human brain organisation on the single-subject level. One method that
+  harnesses such individual signatures is functional connectome fingerprinting, which
+  can reliably identify individuals from large study populations. However, the precise
+  relationship between functional signatures underlying fingerprinting and behavioural
+  prediction remains unclear. Expanding on previous reports, here we systematically
+  investigate the link between discrimination and prediction on different levels of
+  brain network organisation (individual connections, network interactions, topographical
+  organisation, and connection variability). Our analysis revealed a substantial divergence
+  between discriminatory and predictive connectivity signatures on all levels of network
+  organisation. Across different brain parcellations, thresholds, and prediction algorithms,
+  we find discriminatory connections in higher-order multimodal association cortices,
+  while neural correlates of behaviour display more variable distributions. Furthermore,
+  we find the standard deviation of connections between participants to be significantly
+  higher in fingerprinting than in prediction, making inter-individual connection
+  variability a possible separating marker. These results demonstrate that participant
+  identification and behavioural prediction involve highly distinct functional systems
+  of the human connectome. The present study thus calls into question the direct functional
+  relevance of connectome fingerprints.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2399-3642
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s42003-022-03185-3
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/ff7f299e-b7b7-4c1b-83fb-1adbb68b568e
+schema_type: xyzri:XYZPublication
+title: Brain connectivity fingerprinting and behavioural prediction rest on distinct
+  functional systems of the human connectome

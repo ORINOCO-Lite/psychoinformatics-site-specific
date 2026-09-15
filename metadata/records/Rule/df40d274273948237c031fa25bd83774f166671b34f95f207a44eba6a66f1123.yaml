@@ -1,0 +1,12 @@
+attributes:
+- predicate: spdx:isOsiApproved
+  schema_type: dlthings:AttributeSpecification
+  value: obo:NCIT_C68851
+- predicate: spdx:isFsfLibre
+  schema_type: dlthings:AttributeSpecification
+  value: obo:NCIT_C68851
+broad_mappings:
+- dcterms:LicenseDocument
+display_label: Norwegian Licence for Open Government Data (NLOD) 1.0
+pid: spdxlic:NLOD-1.0
+schema_type: dlthings:Rule

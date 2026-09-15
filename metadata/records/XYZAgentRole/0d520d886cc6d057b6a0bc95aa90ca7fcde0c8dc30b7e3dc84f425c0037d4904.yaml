@@ -1,0 +1,5 @@
+description: A person or organization relevant to a resource, who is called upon for
+  professional advice or services in a specialized field of knowledge or training
+display_label: Consultant
+pid: marcrel:csl
+schema_type: xyzri:XYZAgentRole

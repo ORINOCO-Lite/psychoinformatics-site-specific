@@ -1,0 +1,61 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/41666a91-143f-49f5-8e58-0a3bd6c4e10c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c3e4db14-5d1c-4156-bb3e-ffc905751e98
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/9fe30b8c-a331-4166-bd1c-f407b6e06ecc
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'The Burden of Reliability: How Measurement Noise Limits Brain-Behaviour
+    Predictions'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Major efforts in human neuroimaging strive to understand individual differences
+    and find biomarkers for clinical applications by predicting behavioural phenotypes
+    from brain imaging data. An essential prerequisite for identifying generalizable
+    and replicable brain-behaviour prediction models is sufficient measurement reliability.
+    However, the selection of prediction targets is predominantly guided by scientific
+    interest or data availability rather than reliability considerations. Here we
+    demonstrate the impact of low phenotypic reliability on out-of-sample prediction
+    performance. Using simulated and empirical data from the Human Connectome Projects,
+    we found that reliability levels common across many phenotypes can markedly limit
+    the ability to link brain and behaviour. Next, using 5000 subjects from the UK
+    Biobank, we show that only highly reliable data can fully benefit from increasing
+    sample sizes from hundreds to thousands of participants. Overall, our findings
+    highlight the importance of measurement reliability for identifying brain–behaviour
+    associations from individual differences.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Major efforts in human neuroimaging strive to understand individual differences
+  and find biomarkers for clinical applications by predicting behavioural phenotypes
+  from brain imaging data. An essential prerequisite for identifying generalizable
+  and replicable brain-behaviour prediction models is sufficient measurement reliability.
+  However, the selection of prediction targets is predominantly guided by scientific
+  interest or data availability rather than reliability considerations. Here we demonstrate
+  the impact of low phenotypic reliability on out-of-sample prediction performance.
+  Using simulated and empirical data from the Human Connectome Projects, we found
+  that reliability levels common across many phenotypes can markedly limit the ability
+  to link brain and behaviour. Next, using 5000 subjects from the UK Biobank, we show
+  that only highly reliable data can fully benefit from increasing sample sizes from
+  hundreds to thousands of participants. Overall, our findings highlight the importance
+  of measurement reliability for identifying brain–behaviour associations from individual
+  differences.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2023.02.09.527898
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/8af48cde-a72b-4f08-880c-53802c0b6c1f
+schema_type: xyzri:XYZPublication
+title: 'The Burden of Reliability: How Measurement Noise Limits Brain-Behaviour Predictions'

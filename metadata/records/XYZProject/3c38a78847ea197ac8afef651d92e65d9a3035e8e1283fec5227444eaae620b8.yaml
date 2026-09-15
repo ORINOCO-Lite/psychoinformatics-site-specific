@@ -1,0 +1,85 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: j.goddard@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-03T17:07:19.523915'
+associated_with:
+- attributes:
+  - predicate: foaf:homepage
+    schema_type: dlthings:AttributeSpecification
+    value: https://www.trr379.de/contributors/michael-hanke/
+  description: Michael Hanke is a group leader at Forschungszentrum Jülich and an
+    internationally renowned expert on psychoinformatics.nHe takes on the high responsibility
+    of data management and research software and secures the use, reproducibility
+    andnaccessibility of large data sets that TRR379 strives for.
+  identifiers:
+  - creator: xyzrins:grants/trr379
+    notation: https://www.trr379.de/contributors/michael-hanke/
+    schema_type: dlthings:Identifier
+  object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+- attributes:
+  - predicate: vcard:Email
+    schema_type: dlthings:AttributeSpecification
+    value: trr379@lists.fz-juelich.de
+  - predicate: foaf:homepage
+    schema_type: dlthings:AttributeSpecification
+    value: https://www.trr379.de/sites/juelich/
+  description: '[Forschungszentrum Jülich](https://www.fz-juelich.de/en) (FZJ) is
+    a German national research institution that pursues interdisciplinary research
+    in the fields of energy, information, and bioeconomy. It operates a broad range
+    of research infrastructures like supercomputers, an atmospheric simulation chamber,
+    electron microscopes, a particle accelerator, cleanrooms for nanotechnology, among
+    other things. As a member of the [Helmholtz Association](https://www.helmholtz.de/en)
+    with roughly 6,800 employees in ten institutes and 80 subinstitutes, Jülich is
+    one of the largest research institutions in Europe.nnFZJ collaborates with [RWTH
+    Aachen](https://www.rwth-aachen.de/) within JARA-BRAIN, one of five divisions
+    of the [Jülich Aachen Research Alliance](https://www.jara.org/en/) (JARA). In
+    JARA-BRAIN, researchers of RWTH and FZJ have joined forces to work on improving
+    the diagnosis and treatment of mental and neurological disorders. JARA-BRAIN is
+    dedicated to improving the translational aspect of neuropsychiatric research.'
+  identifiers:
+  - creator: xyzrins:grants/trr379
+    notation: https://www.trr379.de/sites/juelich/
+    schema_type: dlthings:Identifier
+  object: xyzrins:organizations/fzj
+  roles:
+  - marcrel:sht
+  schema_type: dlthings:Association
+attributes:
+- predicate: foaf:homepage
+  schema_type: dlthings:AttributeSpecification
+  value: https://www.trr379.de/
+depiction:
+- xyzrins:depictions/logo_trr379
+description: 'This project brings together a team of researchers from various German
+  universities to identify transdiagnostic biosignatures of aggressive behavior to
+  enable more specific prevention and treatment. A longitudinal, developmental, multidimensional,
+  transdiagnostic approach is applied to address three primary objectives: 1) transdiagnostic
+  characterization of agression, 2) multilevel mechanistic understanding of biosignatures
+  of aggression, and 3) investigation of the developmental and longitudinal stability
+  of aggression in mental disorders.'
+ended:
+  at_time: '2028-09-30'
+  schema_type: dlthings:End
+influenced_by:
+- object: xyzrins:grants/trr379
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+- description: This is the approved proposal for the first funding period for TRR379.
+  object: xyzrins:documents/trr379_proposal_stage1
+  roles:
+  - fabio:GrantApplicationDocument
+  schema_type: xyzri:XYZInfluence
+pid: xyzrins:projects/trr379
+schema_type: xyzri:XYZProject
+short_name: TRR379
+started:
+  at_time: '2024-10-01'
+  schema_type: dlthings:Start
+title: 'Neuropsychobiology of Aggression: A Transdiagnostic Approach in Mental Disorders'

@@ -1,0 +1,73 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'The common and distinct brain basis associated with adult and adolescent
+    risk-taking behavior: Evidence from the neuroimaging meta-analysis'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Risk-taking is a common, complex, and multidimensional behavior construct
+    that has significant implications for human health and well-being. Previous research
+    has identified the neural mechanisms underlying risk-taking behavior in both adolescents
+    and adults, yet the differences between adolescents' and adults' risk-taking in
+    the brain remain elusive. This study firstly employs a comprehensive meta-analysis
+    approach that includes 73 adult and 20 adolescent whole-brain experiments, incorporating
+    observations from 1986 adults and 789 adolescents obtained from online databases,
+    including Web of Science, PubMed, ScienceDirect, Google Scholar, EBSCO PsycINFO,
+    Scopus, Medline and PsycARTICLES. It then combines functional decoding methods
+    to identify common and distinct brain regions and corresponding psychological
+    processes associated with risk-taking behavior in these two cohorts. The results
+    indicated that the neural bases underlying risk-taking behavior in both age groups
+    are situated within the cognitive control, reward, and sensory networks. Subsequent
+    contrast analysis revealed that adolescents and adults risk-taking engaged frontal
+    pole within the fronto-parietal control network (FPN), but the former recruited
+    more ventrolateral area and the latter recruited more dorsolateral area. Moreover,
+    adolescents' risk-taking evoked brain area activity within the ventral attention
+    network (VAN) and the default mode network (DMN) compared with adults, consistent
+    with the functional decoding analyses. These findings provide new insights into
+    the similarities and disparities of risk-taking neural substrates underlying different
+    age cohorts, supporting future neuroimaging research on the dynamic changes of
+    risk-taking.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Risk-taking is a common, complex, and multidimensional behavior construct
+  that has significant implications for human health and well-being. Previous research
+  has identified the neural mechanisms underlying risk-taking behavior in both adolescents
+  and adults, yet the differences between adolescents' and adults' risk-taking in
+  the brain remain elusive. This study firstly employs a comprehensive meta-analysis
+  approach that includes 73 adult and 20 adolescent whole-brain experiments, incorporating
+  observations from 1986 adults and 789 adolescents obtained from online databases,
+  including Web of Science, PubMed, ScienceDirect, Google Scholar, EBSCO PsycINFO,
+  Scopus, Medline and PsycARTICLES. It then combines functional decoding methods to
+  identify common and distinct brain regions and corresponding psychological processes
+  associated with risk-taking behavior in these two cohorts. The results indicated
+  that the neural bases underlying risk-taking behavior in both age groups are situated
+  within the cognitive control, reward, and sensory networks. Subsequent contrast
+  analysis revealed that adolescents and adults risk-taking engaged frontal pole within
+  the fronto-parietal control network (FPN), but the former recruited more ventrolateral
+  area and the latter recruited more dorsolateral area. Moreover, adolescents' risk-taking
+  evoked brain area activity within the ventral attention network (VAN) and the default
+  mode network (DMN) compared with adults, consistent with the functional decoding
+  analyses. These findings provide new insights into the similarities and disparities
+  of risk-taking neural substrates underlying different age cohorts, supporting future
+  neuroimaging research on the dynamic changes of risk-taking.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:0149-7634
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2024.105607
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/a504f770-c920-4ec5-b988-21a774516650
+schema_type: xyzri:XYZPublication
+title: 'The common and distinct brain basis associated with adult and adolescent risk-taking
+  behavior: Evidence from the neuroimaging meta-analysis'

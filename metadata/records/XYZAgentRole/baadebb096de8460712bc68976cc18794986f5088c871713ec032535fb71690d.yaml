@@ -1,0 +1,4 @@
+description: A role that has no equivalent in the MARC list.
+display_label: Other
+pid: marcrel:oth
+schema_type: xyzri:XYZAgentRole

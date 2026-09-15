@@ -1,0 +1,58 @@
+attributed_to:
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Insomnia and post-traumatic stress disorder: A meta-analysis on interrelated
+    association (n = 57,618) and prevalence (n = 573,665)'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Posttraumatic stress disorder (PTSD) is a common mental disorder, which
+    is strongly associated with insomnia, yet their epidemiological overlap is poorly
+    understood. To determine the convergent quantitative magnitude of their relationship,
+    PubMed, EMBASE, Scopus, Web of Science, PubPsych, and PsycINFO were searched to
+    identify studies that either reported the correlation or frequency of insomnia
+    symptoms in PTSD and posttraumatic stress symptoms (PTSS), or both. Out of 3714
+    records, 75 studies met selection criteria and aggregate effect size (ES) estimates
+    were generated for the correlations (K=44, comprising 57,618 subjects) and frequencies
+    (K=33, comprising 573,665 subjects with PTSD/PTSS) of insomnia symptoms in PTSD/PTSS.
+    A medium-size significant correlation was found [ES: 0.52 (CI: 0.47–0.57)] with
+    moderating effects of the COVID-19 pandemic and military service as causes of
+    trauma. The prevalence of insomnia in PTSD/PTSS was 63% [CI: 45%−78%] and was
+    moderated by the cause of trauma as well as the PTSD/PTSS assessment scale. The
+    findings from this meta-analysis highlight the importance of screening and managing
+    insomnia in PTSD patients.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Posttraumatic stress disorder (PTSD) is a common mental disorder, which
+  is strongly associated with insomnia, yet their epidemiological overlap is poorly
+  understood. To determine the convergent quantitative magnitude of their relationship,
+  PubMed, EMBASE, Scopus, Web of Science, PubPsych, and PsycINFO were searched to
+  identify studies that either reported the correlation or frequency of insomnia symptoms
+  in PTSD and posttraumatic stress symptoms (PTSS), or both. Out of 3714 records,
+  75 studies met selection criteria and aggregate effect size (ES) estimates were
+  generated for the correlations (K=44, comprising 57,618 subjects) and frequencies
+  (K=33, comprising 573,665 subjects with PTSD/PTSS) of insomnia symptoms in PTSD/PTSS.
+  A medium-size significant correlation was found [ES: 0.52 (CI: 0.47–0.57)] with
+  moderating effects of the COVID-19 pandemic and military service as causes of trauma.
+  The prevalence of insomnia in PTSD/PTSS was 63% [CI: 45%−78%] and was moderated
+  by the cause of trauma as well as the PTSD/PTSS assessment scale. The findings from
+  this meta-analysis highlight the importance of screening and managing insomnia in
+  PTSD patients.'
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:0149-7634
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2022.104850
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/c32484bc-d82c-45ae-ace9-528ad4396a86
+schema_type: xyzri:XYZPublication
+title: 'Insomnia and post-traumatic stress disorder: A meta-analysis on interrelated
+  association (n = 57,618) and prevalence (n = 573,665)'

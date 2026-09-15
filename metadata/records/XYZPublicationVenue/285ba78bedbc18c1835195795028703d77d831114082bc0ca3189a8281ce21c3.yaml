@@ -1,0 +1,9 @@
+display_note: ISSN:1472-6939
+identifiers:
+- creator: ror:026ytr635
+  notation: 1472-6939
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:1472-6939
+schema_type: xyzri:XYZPublicationVenue
+title: BMC Medical Ethics

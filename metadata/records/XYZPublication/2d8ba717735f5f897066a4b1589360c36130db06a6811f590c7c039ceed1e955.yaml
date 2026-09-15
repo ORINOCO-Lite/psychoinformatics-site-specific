@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'GAN-MAT: Generative adversarial network-based microstructural profile covariance
+    analysis toolbox'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Multimodal magnetic resonance imaging (MRI) provides complementary information
+    for investigating brain structure and function; for example, an in vivo microstructure-sensitive
+    proxy can be estimated using the ratio between T1- and T2-weighted structural
+    MRI. However, acquiring multiple imaging modalities is challenging in patients
+    with inattentive disorders. In this study, we proposed a comprehensive framework
+    to provide multiple imaging features related to the brain microstructure using
+    only T1-weighted MRI. Our toolbox consists of (i) synthesizing T2-weighted MRI
+    from T1-weighted MRI using a conditional generative adversarial network; (ii)
+    estimating microstructural features, including intracortical covariance and moment
+    features of cortical layer-wise microstructural profiles; and (iii) generating
+    a microstructural gradient, which is a low-dimensional representation of the intracortical
+    microstructure profile. We trained and tested our toolbox using T1- and T2-weighted
+    MRI scans of 1,104 healthy young adults obtained from the Human Connectome Project
+    database. We found that the synthesized T2-weighted MRI was very similar to the
+    actual image and that the synthesized data successfully reproduced the microstructural
+    features. The toolbox was validated using an independent dataset containing healthy
+    controls and patients with episodic migraine as well as the atypical developmental
+    condition of autism spectrum disorder. Our toolbox may provide a new paradigm
+    for analyzing multimodal structural MRI in the neuroscience community.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Multimodal magnetic resonance imaging (MRI) provides complementary information
+  for investigating brain structure and function; for example, an in vivo microstructure-sensitive
+  proxy can be estimated using the ratio between T1- and T2-weighted structural MRI.
+  However, acquiring multiple imaging modalities is challenging in patients with inattentive
+  disorders. In this study, we proposed a comprehensive framework to provide multiple
+  imaging features related to the brain microstructure using only T1-weighted MRI.
+  Our toolbox consists of (i) synthesizing T2-weighted MRI from T1-weighted MRI using
+  a conditional generative adversarial network; (ii) estimating microstructural features,
+  including intracortical covariance and moment features of cortical layer-wise microstructural
+  profiles; and (iii) generating a microstructural gradient, which is a low-dimensional
+  representation of the intracortical microstructure profile. We trained and tested
+  our toolbox using T1- and T2-weighted MRI scans of 1,104 healthy young adults obtained
+  from the Human Connectome Project database. We found that the synthesized T2-weighted
+  MRI was very similar to the actual image and that the synthesized data successfully
+  reproduced the microstructural features. The toolbox was validated using an independent
+  dataset containing healthy controls and patients with episodic migraine as well
+  as the atypical developmental condition of autism spectrum disorder. Our toolbox
+  may provide a new paradigm for analyzing multimodal structural MRI in the neuroscience
+  community.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2024.120595
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/fd0224db-5241-4ea0-a2a9-282c52777090
+schema_type: xyzri:XYZPublication
+title: 'GAN-MAT: Generative adversarial network-based microstructural profile covariance
+  analysis toolbox'

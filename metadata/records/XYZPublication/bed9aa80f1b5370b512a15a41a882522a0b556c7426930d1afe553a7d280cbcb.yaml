@@ -1,0 +1,28 @@
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'ESMRMB annual meeting roundtable discussion: “Challenges and solutions in
+    data sharing—an MRI perspective”'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:0968-5243
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s10334-021-00942-z
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/fb53e183-13e2-4d53-b68c-492f46828b0a
+schema_type: xyzri:XYZPublication
+title: 'ESMRMB annual meeting roundtable discussion: “Challenges and solutions in
+  data sharing—an MRI perspective”'

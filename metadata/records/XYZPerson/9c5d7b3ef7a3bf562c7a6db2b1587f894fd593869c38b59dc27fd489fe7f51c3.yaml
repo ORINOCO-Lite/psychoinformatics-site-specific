@@ -1,0 +1,18 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-06-29T14:47:29.786009'
+description: Professor of ethics and applied ethics at the Institute for Science and
+  Ethics (IWE) at the University of Bonn and head of the “Neuroethics and Ethics of
+  AI” research group at Forschungszentrum Jülich.
+family_name: Heinrichs
+given_name: Bert
+honorific_name_prefix: Prof. Dr.
+identifiers:
+- notation: 0000-0002-0181-0078
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/60feb346-954c-4625-93d6-1b8bd1ca0dfa
+schema_type: xyzri:XYZPerson

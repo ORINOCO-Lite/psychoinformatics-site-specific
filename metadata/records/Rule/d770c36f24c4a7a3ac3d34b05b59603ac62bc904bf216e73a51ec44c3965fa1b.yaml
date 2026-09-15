@@ -1,0 +1,14 @@
+attributes:
+- predicate: spdx:isOsiApproved
+  schema_type: dlthings:AttributeSpecification
+  value: obo:NCIT_C68851
+- predicate: spdx:isFsfLibre
+  schema_type: dlthings:AttributeSpecification
+  value: obo:NCIT_C68851
+broad_mappings:
+- dcterms:LicenseDocument
+display_label: Creative Commons Attribution 2.5 Australia
+exact_mappings:
+- https://creativecommons.org/licenses/by/2.5/au/
+pid: spdxlic:CC-BY-2.5-AU
+schema_type: dlthings:Rule

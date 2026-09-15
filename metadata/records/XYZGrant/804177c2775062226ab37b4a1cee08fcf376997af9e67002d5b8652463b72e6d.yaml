@@ -1,0 +1,19 @@
+attributed_to:
+- object: xyzrins:persons/3764fca4-0337-4395-a553-9be5d479df80
+  schema_type: dlthings:Attribution
+- object: ror:04pz7b180
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+identifiers:
+- creator: xyzrins:organizations/fzj
+  description: PSP Element Jülich
+  notation: D.B.002805
+  schema_type: dlthings:Identifier
+- creator: ror:04pz7b180
+  notation: 16SV9520
+  schema_type: dlthings:Identifier
+pid: xyzrins:grants/a1a89bb1-5596-439a-ac65-903494549bd2
+schema_type: xyzri:XYZGrant
+short_name: HELIA
+title: 'HELIA: Helfender Roboter im Klinikalltag '

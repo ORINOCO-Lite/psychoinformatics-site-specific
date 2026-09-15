@@ -1,0 +1,62 @@
+attributed_to:
+- object: xyzrins:persons/6ae68288-73ec-491b-a25f-75bbf9783e70
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Peripheral oxytocin levels are linked to hypothalamic gray matter volume
+    in autistic adults: a cross-sectional secondary data analysis'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Oxytocin (OXT) is known to modulate social behavior and cognition and has
+    been discussed as pathophysiological and therapeutic factor for autism spectrum
+    disorder (ASD). An accumulating body of evidence indicates the hypothalamus to
+    be of particular importance with regard to the underlying neurobiology. Here we
+    used a region of interest voxel-based morphometry (VBM) approach to investigate
+    hypothalamic gray matter volume (GMV) in autistic (n = 29, age 36.03 ± 11.0) and
+    non-autistic adults (n = 27, age 30.96 ± 11.2). Peripheral plasma OXT levels and
+    the autism spectrum quotient (AQ) were used for correlation analyses. Results
+    showed no differences in hypothalamic GMV in autistic compared to non-autistic
+    adults but suggested a differential association between hypothalamic GMV and OXT
+    levels, such that a positive association was found for the ASD group. In addition,
+    hypothalamic GMV showed a positive association with autistic traits in the ASD
+    group. Bearing in mind the limitations such as a relatively small sample size,
+    a wide age range and a high rate of psychopharmacological treatment in the ASD
+    sample, these results provide new preliminary evidence for a potentially important
+    role of the HTH in ASD and its relationship to the OXT system, but also point
+    towards the importance of interindividual differences.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Oxytocin (OXT) is known to modulate social behavior and cognition and
+  has been discussed as pathophysiological and therapeutic factor for autism spectrum
+  disorder (ASD). An accumulating body of evidence indicates the hypothalamus to be
+  of particular importance with regard to the underlying neurobiology. Here we used
+  a region of interest voxel-based morphometry (VBM) approach to investigate hypothalamic
+  gray matter volume (GMV) in autistic (n = 29, age 36.03 ± 11.0) and non-autistic
+  adults (n = 27, age 30.96 ± 11.2). Peripheral plasma OXT levels and the autism spectrum
+  quotient (AQ) were used for correlation analyses. Results showed no differences
+  in hypothalamic GMV in autistic compared to non-autistic adults but suggested a
+  differential association between hypothalamic GMV and OXT levels, such that a positive
+  association was found for the ASD group. In addition, hypothalamic GMV showed a
+  positive association with autistic traits in the ASD group. Bearing in mind the
+  limitations such as a relatively small sample size, a wide age range and a high
+  rate of psychopharmacological treatment in the ASD sample, these results provide
+  new preliminary evidence for a potentially important role of the HTH in ASD and
+  its relationship to the OXT system, but also point towards the importance of interindividual
+  differences.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2045-2322
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41598-023-50770-5
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/d16bce0f-4e6c-4973-81a9-8c583010dc65
+schema_type: xyzri:XYZPublication
+title: 'Peripheral oxytocin levels are linked to hypothalamic gray matter volume in
+  autistic adults: a cross-sectional secondary data analysis'

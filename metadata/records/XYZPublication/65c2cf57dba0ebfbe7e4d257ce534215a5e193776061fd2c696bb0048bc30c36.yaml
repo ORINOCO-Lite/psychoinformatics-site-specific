@@ -1,0 +1,66 @@
+attributed_to:
+- object: xyzrins:persons/ad58139b-57cd-4e0d-a698-2d80463a4d93
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Heritability of hippocampal functional and microstructural organisation
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'The hippocampus is a uniquely infolded allocortical structure in the medial
+    temporal lobe that consists of the microstructurally and functionally distinct
+    subregions: subiculum, cornu ammonis, and dentate gyrus. The hippocampus is a
+    remarkably plastic region that is implicated in learning and memory. At the same
+    time it has been shown that hippocampal subregion volumes are heritable, and that
+    genetic expression varies along a posterior to anterior axis. Here, we studied
+    how a heritable, stable, hippocampal organisation may support its flexible function
+    in healthy adults. Leveraging the twin set-up of the Human Connectome Project
+    with multimodal neuroimaging, we observed that the functional connectivity between
+    hippocampus and cortex was heritable and that microstructure of the hippocampus
+    genetically correlated with cortical microstructure. Moreover, both functional
+    and microstructural organisation could be consistently captured by anterior-to-posterior
+    and medial-to-lateral axes across individuals. However, heritability of functional,
+    relative to microstructural, organisation was found reduced, suggesting individual
+    variation in functional organisation may be explained by experience-driven factors.
+    Last, we demonstrate that structure and function couple along an inherited macroscale
+    organisation, suggesting an interplay of stability and plasticity within the hippocampus.
+    Our study provides new insights on the heritability of the hippocampal of the
+    structure and function within the hippocampal organisation.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'The hippocampus is a uniquely infolded allocortical structure in the
+  medial temporal lobe that consists of the microstructurally and functionally distinct
+  subregions: subiculum, cornu ammonis, and dentate gyrus. The hippocampus is a remarkably
+  plastic region that is implicated in learning and memory. At the same time it has
+  been shown that hippocampal subregion volumes are heritable, and that genetic expression
+  varies along a posterior to anterior axis. Here, we studied how a heritable, stable,
+  hippocampal organisation may support its flexible function in healthy adults. Leveraging
+  the twin set-up of the Human Connectome Project with multimodal neuroimaging, we
+  observed that the functional connectivity between hippocampus and cortex was heritable
+  and that microstructure of the hippocampus genetically correlated with cortical
+  microstructure. Moreover, both functional and microstructural organisation could
+  be consistently captured by anterior-to-posterior and medial-to-lateral axes across
+  individuals. However, heritability of functional, relative to microstructural, organisation
+  was found reduced, suggesting individual variation in functional organisation may
+  be explained by experience-driven factors. Last, we demonstrate that structure and
+  function couple along an inherited macroscale organisation, suggesting an interplay
+  of stability and plasticity within the hippocampus. Our study provides new insights
+  on the heritability of the hippocampal of the structure and function within the
+  hippocampal organisation.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2022.119656
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/6a9d9ef3-ee53-43c7-8aec-c14146ddf4ed
+schema_type: xyzri:XYZPublication
+title: Heritability of hippocampal functional and microstructural organisation

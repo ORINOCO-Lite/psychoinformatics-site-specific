@@ -1,0 +1,33 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-06-30T05:48:32.430822'
+  xyzrins:annotation-tags/psyinf-ns-id:
+    annotation_tag: xyzrins:annotation-tags/psyinf-ns-id
+    annotation_value: instruments/dump-things-pyclient
+attributed_to:
+- object: xyzrins:persons/christian-moench
+  roles:
+  - xyzrins:agent-roles/7e8c6eda-7d12-4c9f-9a3e-225e53a3db46
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: obo:APOLLO_SV_00000488
+  schema_type: dlthings:AttributeSpecification
+  value: https://hub.psychoinformatics.de/orinoco/dump-things-pyclient
+description: A simple client library and some CLI tools for dump-things-server in
+  Python.
+generated_by:
+- object: xyzrins:projects/orinoco
+  schema_type: dlthings:Generation
+influenced_by:
+- object: xyzrins:objectives/97ded4aa-108d-4b84-8195-d6076dce63ce
+  schema_type: xyzri:XYZInfluence
+kind: obo:IAO_0000010
+name: dump-things-pyclient
+part_of:
+- xyzrins:instruments/dump-things
+pid: xyzrins:instruments/35ca6b36-38a4-4caf-98bf-e696d4c7a319
+schema_type: xyzri:XYZInstrument

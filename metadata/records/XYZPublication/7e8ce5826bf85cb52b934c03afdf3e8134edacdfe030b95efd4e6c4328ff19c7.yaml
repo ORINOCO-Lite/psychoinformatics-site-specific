@@ -1,0 +1,60 @@
+attributed_to:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Disentangling dyskinesia from parkinsonism in motor structures of patients
+    with schizophrenia
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Patients with schizophrenia frequently suffer from motor abnormalities, but
+    underlying alterations in neuroarchitecture remain unclear. Here, we aimed to
+    disentangle dyskinesia from parkinsonism in motor structures of patients with
+    schizophrenia and to assess associated molecular architecture. We measured grey
+    matter of motor regions and correlated volumetric estimates with dyskinesia and
+    parkinsonism severity. Associations with molecular architecture were identified
+    by cross-modal spatial correlations between ensuing maps of abnormality-related
+    volume alterations and neurotransmitter maps from healthy populations. Both phenomena
+    were linked to (specific) striatal and basal forebrain reductions as well as to
+    D1 receptor density. Dyskinesia also manifested in cerebellar decrease, while
+    parkinsonism was associated with less motor cortex volume. The parkinsonism-related
+    brain pattern was additionally associated with 5-HT1A/2A and µ-opioid receptors
+    distribution. Findings suggest the need to develop psychopharmacological compounds
+    that display not only selectivity for receptor subtypes but also anatomical selectivity
+    for alleviating dyskinesia without worsening parkinsonism and vice versa.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Patients with schizophrenia frequently suffer from motor abnormalities,
+  but underlying alterations in neuroarchitecture remain unclear. Here, we aimed to
+  disentangle dyskinesia from parkinsonism in motor structures of patients with schizophrenia
+  and to assess associated molecular architecture. We measured grey matter of motor
+  regions and correlated volumetric estimates with dyskinesia and parkinsonism severity.
+  Associations with molecular architecture were identified by cross-modal spatial
+  correlations between ensuing maps of abnormality-related volume alterations and
+  neurotransmitter maps from healthy populations. Both phenomena were linked to (specific)
+  striatal and basal forebrain reductions as well as to D1 receptor density. Dyskinesia
+  also manifested in cerebellar decrease, while parkinsonism was associated with less
+  motor cortex volume. The parkinsonism-related brain pattern was additionally associated
+  with 5-HT1A/2A and µ-opioid receptors distribution. Findings suggest the need to
+  develop psychopharmacological compounds that display not only selectivity for receptor
+  subtypes but also anatomical selectivity for alleviating dyskinesia without worsening
+  parkinsonism and vice versa.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2632-1297
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/braincomms/fcac190
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/a4038106-b9a2-4d4b-9b98-b7059a0f23fb
+schema_type: xyzri:XYZPublication
+title: Disentangling dyskinesia from parkinsonism in motor structures of patients
+  with schizophrenia

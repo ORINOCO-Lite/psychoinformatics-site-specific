@@ -1,0 +1,54 @@
+attributed_to:
+- object: xyzrins:persons/3efc5cfa-a10c-4c65-9bcf-36ad37d9b7e0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/6dd61910-c158-400e-aefc-6f1cd75215e0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/535129e4-fc67-4e19-8f5e-0d4a43a4578c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'MRI- or 18F-FDG PET-derived brain age gaps: Associations with markers of
+    Alzheimer''s disease'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: When the age of an individual's brain appears older than their chronological
+    age, i.e., when the brain age gap (BAG) is positive, it may indicate the presence
+    of a neurodegenerative condition, such as Alzheimer’s disease (AD). In this study,
+    we evaluated whether BAG, determined by MRI (reflecting atrophy) or 18F-FDG PET
+    (reflecting brain metabolism), correlate differentially with cognitive function,
+    neuropathological indicators, and disease progression in individuals with normal
+    cognitive function (CN), as well as those with subjective cognitive decline (SCD)
+    or mild cognitive impairment (MCI).
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: When the age of an individual's brain appears older than their chronological
+  age, i.e., when the brain age gap (BAG) is positive, it may indicate the presence
+  of a neurodegenerative condition, such as Alzheimer’s disease (AD). In this study,
+  we evaluated whether BAG, determined by MRI (reflecting atrophy) or 18F-FDG PET
+  (reflecting brain metabolism), correlate differentially with cognitive function,
+  neuropathological indicators, and disease progression in individuals with normal
+  cognitive function (CN), as well as those with subjective cognitive decline (SCD)
+  or mild cognitive impairment (MCI).
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:1388-2457
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.clinph.2023.12.043
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/f5744b2e-85a6-4b99-aaa7-b90124a487c5
+schema_type: xyzri:XYZPublication
+title: 'MRI- or 18F-FDG PET-derived brain age gaps: Associations with markers of Alzheimer''s
+  disease'

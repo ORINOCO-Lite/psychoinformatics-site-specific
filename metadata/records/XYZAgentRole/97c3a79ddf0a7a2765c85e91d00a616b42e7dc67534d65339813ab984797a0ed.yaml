@@ -1,0 +1,5 @@
+description: A person or organization who is a signer of the license, imprimatur,
+  etc
+display_label: Licensor
+pid: marcrel:lso
+schema_type: xyzri:XYZAgentRole

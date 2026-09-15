@@ -1,0 +1,82 @@
+attributed_to:
+- object: xyzrins:persons/c3e4db14-5d1c-4156-bb3e-ffc905751e98
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: The effect of psychotherapy on the multivariate association between insomnia
+    and depressive symptoms in late-life depression
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Background Late-life depression (LLD) is prevalent in older adults and linked
+    to increased disability, mortality, and suicide risk. Insomnia symptoms are considered
+    common remaining symptoms of LLD following treatment. However, the multivariate
+    relationship between insomnia and depressive symptoms and the impact of psychotherapy
+    on their interrelationship is insufficiently assessed.Methods We used data from
+    185 patients with LLD recruited from seven university hospitals in Germany. Participants
+    had undergone eight-week psychotherapy interventions (cognitive behavioral therapy
+    or supportive unspecific intervention). Three regularized canonical correlation
+    analyses (rCCA) assessed the multivariate association between insomnia and depressive
+    symptoms at baseline, post-treatment, and six-month follow-up. rCCA was conducted
+    within a machine learning framework with 100 repeated hold-out splits and permutation
+    tests to ensure robust findings. Canonical loadings and cross-loading difference
+    scores were calculated to examine symptom changes before/after psychotherapy (Holm-Bonferroni
+    corrected p-value < 0.05).Results At baseline, a moderate association was observed
+    between insomnia and depressive symptoms (r = 0.24). Interestingly, this association
+    slightly increased after the eight-week treatment period (r = 0.42, pcorrected
+    = 0.064) and remained significantly elevated at the follow-up session (r = 0.49,
+    pcorrected = 0.018). At baseline, anxiety-related depressive symptoms were mainly
+    associated with insomnia, while at post-treatment and follow-up sessions, somatic
+    and negative affective symptoms showed the strongest correlation with insomnia
+    symptoms. Although depressive symptoms significantly improved, insomnia symptoms
+    remained unchanged after psychotherapy.Conclusions Unlike depressive symptoms,
+    insomnia symptoms did not improve after psychotherapy, highlighting the necessity
+    to target insomnia for effective LLD treatment.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Background Late-life depression (LLD) is prevalent in older adults and
+  linked to increased disability, mortality, and suicide risk. Insomnia symptoms are
+  considered common remaining symptoms of LLD following treatment. However, the multivariate
+  relationship between insomnia and depressive symptoms and the impact of psychotherapy
+  on their interrelationship is insufficiently assessed.Methods We used data from
+  185 patients with LLD recruited from seven university hospitals in Germany. Participants
+  had undergone eight-week psychotherapy interventions (cognitive behavioral therapy
+  or supportive unspecific intervention). Three regularized canonical correlation
+  analyses (rCCA) assessed the multivariate association between insomnia and depressive
+  symptoms at baseline, post-treatment, and six-month follow-up. rCCA was conducted
+  within a machine learning framework with 100 repeated hold-out splits and permutation
+  tests to ensure robust findings. Canonical loadings and cross-loading difference
+  scores were calculated to examine symptom changes before/after psychotherapy (Holm-Bonferroni
+  corrected p-value < 0.05).Results At baseline, a moderate association was observed
+  between insomnia and depressive symptoms (r = 0.24). Interestingly, this association
+  slightly increased after the eight-week treatment period (r = 0.42, pcorrected =
+  0.064) and remained significantly elevated at the follow-up session (r = 0.49, pcorrected
+  = 0.018). At baseline, anxiety-related depressive symptoms were mainly associated
+  with insomnia, while at post-treatment and follow-up sessions, somatic and negative
+  affective symptoms showed the strongest correlation with insomnia symptoms. Although
+  depressive symptoms significantly improved, insomnia symptoms remained unchanged
+  after psychotherapy.Conclusions Unlike depressive symptoms, insomnia symptoms did
+  not improve after psychotherapy, highlighting the necessity to target insomnia for
+  effective LLD treatment.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0924-9338
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1192/j.eurpsy.2025.10088
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/c17ad57d-d926-434f-b9e0-3babbe3d3e62
+schema_type: xyzri:XYZPublication
+title: The effect of psychotherapy on the multivariate association between insomnia
+  and depressive symptoms in late-life depression

@@ -1,0 +1,64 @@
+attributed_to:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Procrustes Alignment in Individual-level Analyses of Functional Gradients
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Functional connectivity (FC) gradients provide valuable insights into individual
+    differences in brain organization, yet aligning these gradients across individuals
+    poses challenges. Procrustes alignment is often employed to standardize gradients
+    across multiple subjects, but the choice of the number of gradients used in alignment
+    introduces complexities that may impact individual-level analyses. In this study,
+    we systematically investigate the impact of varying gradient counts in Procrustes
+    alignment on the principal FC gradient, using data from four resting state fMRI
+    datasets, including the Human Connectome Project (HCP-YA), Amsterdam Open MRI
+    Collection (AOMIC) PIOP1 and PIOP2, and Cambridge Centre for Ageing and Neuroscience
+    (Cam-CAN). We find that increasing the number of gradients used in alignment enhances
+    identification accuracy but can reduce differential identifiability, as additional
+    gradients risk introducing nuisance signals such as motion back into the principal
+    gradient. To further probe these effects, machine learning to predict fluid intelligence
+    and age, and a motion prediction analysis, revealing that higher alignment gradient
+    counts may leak information from lower gradients into the principal gradient for
+    individual-level analyses. These findings highlight the trade-off between alignment
+    precision and the potential reintroduction of noise.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Functional connectivity (FC) gradients provide valuable insights into
+  individual differences in brain organization, yet aligning these gradients across
+  individuals poses challenges. Procrustes alignment is often employed to standardize
+  gradients across multiple subjects, but the choice of the number of gradients used
+  in alignment introduces complexities that may impact individual-level analyses.
+  In this study, we systematically investigate the impact of varying gradient counts
+  in Procrustes alignment on the principal FC gradient, using data from four resting
+  state fMRI datasets, including the Human Connectome Project (HCP-YA), Amsterdam
+  Open MRI Collection (AOMIC) PIOP1 and PIOP2, and Cambridge Centre for Ageing and
+  Neuroscience (Cam-CAN). We find that increasing the number of gradients used in
+  alignment enhances identification accuracy but can reduce differential identifiability,
+  as additional gradients risk introducing nuisance signals such as motion back into
+  the principal gradient. To further probe these effects, machine learning to predict
+  fluid intelligence and age, and a motion prediction analysis, revealing that higher
+  alignment gradient counts may leak information from lower gradients into the principal
+  gradient for individual-level analyses. These findings highlight the trade-off between
+  alignment precision and the potential reintroduction of noise.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2024.11.26.625368
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/6ff3d92f-9923-44e8-ba5a-c57cfec00b9c
+schema_type: xyzri:XYZPublication
+title: Procrustes Alignment in Individual-level Analyses of Functional Gradients

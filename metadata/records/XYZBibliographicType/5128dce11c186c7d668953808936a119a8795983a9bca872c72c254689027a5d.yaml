@@ -1,0 +1,4 @@
+description: A loose, thematic, collection of Documents, often Books.
+display_label: Series
+pid: bibo:Series
+schema_type: xyzri:XYZBibliographicType

@@ -1,0 +1,56 @@
+attributed_to:
+- object: xyzrins:persons/0767650a-2548-4ec6-a1ad-68f8e4e6c214
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Listening to real-world sounds: fMRI data for analyzing connectivity networks'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: There is a growing interest in functional magnetic resonance imaging (fMRI)
+    studies on connectivity networks in the brain when subjects are under exposure
+    to natural sensory stimulation. Because of a complicated coupling between spontaneous
+    and evoked brain activity under real-world stimulation, there is no critical mapping
+    between the experimental inputs and corresponding brain responses. The dataset
+    contains auditory fMRI scans and T1-weighted anatomical scans acquired under eyes-closed
+    and eyes-open conditions. Within each scanning condition, the subject was presented
+    12 different sound clips, including human voices followed by animal vocalizations.
+    The dataset is meant to be used to assess brain dynamics and connectivity networks
+    under natural sound stimulation; it also allows for empirical investigation of
+    changes in fMRI responses between eyes-closed and eyes-open conditions, between
+    animal vocalizations and human voices, as well as between the 12 different sound
+    clips during auditory stimulation. The dataset is a supplement to the research
+    findings in the paper “Brain dynamics and connectivity networks under natural
+    auditory stimulation” published in NeuroImage.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: There is a growing interest in functional magnetic resonance imaging
+  (fMRI) studies on connectivity networks in the brain when subjects are under exposure
+  to natural sensory stimulation. Because of a complicated coupling between spontaneous
+  and evoked brain activity under real-world stimulation, there is no critical mapping
+  between the experimental inputs and corresponding brain responses. The dataset contains
+  auditory fMRI scans and T1-weighted anatomical scans acquired under eyes-closed
+  and eyes-open conditions. Within each scanning condition, the subject was presented
+  12 different sound clips, including human voices followed by animal vocalizations.
+  The dataset is meant to be used to assess brain dynamics and connectivity networks
+  under natural sound stimulation; it also allows for empirical investigation of changes
+  in fMRI responses between eyes-closed and eyes-open conditions, between animal vocalizations
+  and human voices, as well as between the 12 different sound clips during auditory
+  stimulation. The dataset is a supplement to the research findings in the paper “Brain
+  dynamics and connectivity networks under natural auditory stimulation” published
+  in NeuroImage.
+generated_by:
+- at_location: ISSN:2352-3409
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.dib.2019.104411
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/5dd20908-050b-48f1-be55-99673e9b8753
+schema_type: xyzri:XYZPublication
+title: 'Listening to real-world sounds: fMRI data for analyzing connectivity networks'

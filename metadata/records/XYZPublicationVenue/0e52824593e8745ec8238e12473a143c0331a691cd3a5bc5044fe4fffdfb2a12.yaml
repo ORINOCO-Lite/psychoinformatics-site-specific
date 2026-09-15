@@ -1,0 +1,9 @@
+display_note: ISSN:1932-6203
+identifiers:
+- creator: ror:026ytr635
+  notation: 1932-6203
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:1932-6203
+schema_type: xyzri:XYZPublicationVenue
+title: PLOS ONE

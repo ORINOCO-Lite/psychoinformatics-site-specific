@@ -1,0 +1,4 @@
+description: An edited book.
+display_label: Edited Book
+pid: bibo:EditedBook
+schema_type: xyzri:XYZBibliographicType

@@ -1,0 +1,5 @@
+description: A person or organization that was granted the patent referred to by the
+  item
+display_label: Patent holder
+pid: marcrel:pth
+schema_type: xyzri:XYZAgentRole

@@ -1,0 +1,48 @@
+about:
+- xyzrins:topics/education
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-06-23T11:09:44.138897'
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: obo:APOLLO_SV_00000488
+  schema_type: dlthings:AttributeSpecification
+  value: https://codebase.helmholtz.cloud/knue/slides-datalad-hpc/-/tree/isc26?ref_type=heads
+description: 'DataLad is a domain agnostic data management system based on the version
+  control tools Git (git-scm.com) and git-annex (https://git-annex.branchable.com).
+  Its core data structure, the DataLad Dataset, is a joint Git/git-annex repository
+  that provides version control for data, code, and software containers. Unlike default
+  Git this combination is suitable for large and binary files. In addition, DataLad
+  offers computational reproducibility by capturing the outcome of process executions
+  in a machine-actionable reproducibility record.
+
+
+  In high performance and high throughput computing, version control and reproducibility
+  management conflict with efficient and highly concurrent processing. [3] developed
+  a large-scale processing framework centered around DataLad, and prototyped it on
+  different HPC systems. With [2], this work has been extended to a direct integration
+  with the SLURM job scheduler and to avoid further inefficient behavior patterns
+  which may emerge on parallel file systems.
+
+
+  This tutorial shall enable participants to understand the importance and difficulties
+  of version control and reproducibility management in HPC and, in a hands-on fashion,
+  introduce them to DataLad and the DataLad-SLURM extension to bring these valuable
+  concepts to their own HPC systems and use cases.'
+generated_by:
+- at_time: '2026-06-22'
+  description: 4 hour tutorial presented together with Dr. Andreas Knüpfer from HDZR
+    and Dr. Vahideh Alizadeh from HDZR at the ISC High Performance Conference 2026
+    in Hamburg.
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+kind: bibo:Workshop
+pid: xyzrins:publications/d50018fc-be4e-4b02-8949-71e30a50b2f4
+schema_type: xyzri:XYZPublication
+title: Large-Scale Data Version Control for HPC and HTC with Git and DataLad

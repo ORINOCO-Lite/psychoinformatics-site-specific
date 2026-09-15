@@ -1,0 +1,80 @@
+attributed_to:
+- object: xyzrins:persons/d4e23096-f9d8-47e0-bb48-a25ba181f202
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/086e45ca-472d-4419-ad35-9082b142c638
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Neural correlates of impulse control behaviors in Parkinson’s disease: Analysis
+    of multimodal imaging data'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Background: Impulse control behaviors (ICB) are frequently observed in patients
+    with Parkinson''s disease (PD) and are characterized by compulsive and repetitive
+    behavior resulting from the inability to resist internal drives.Objectives: In
+    this study, we aimed to provide a better understanding of structural and functional
+    brain alterations and clinical parameters related to ICB in PD patients.Methods:
+    We utilized a dataset from the Parkinson''s Progression Markers Initiative including
+    36 patients with ICB (PDICB+) compared to 76 without ICB (PDICB-) and 61 healthy
+    controls (HC). Using multimodal MRI data we assessed gray matter brain volume,
+    white matter integrity, and graph topological properties at rest.Results: Compared
+    with HC, PDICB+ showed reduced gray matter volume in the bilateral superior and
+    middle temporal gyrus and in the right middle occipital gyrus. Compared with PDICB-,
+    PDICB+ showed volume reduction in the left anterior insula. Depression and anxiety
+    were more prevalent in PDICB+ than in PDICB- and HC. In PDICB+, lower gray matter
+    volume in the precentral gyrus and medial frontal cortex, and higher axial diffusivity
+    in the superior corona radiata were related to higher depression score. Both PD
+    groups showed disrupted functional topological network pattern within the cingulate
+    cortex compared with HC. PDICB+ vs PDICB- displayed reduced topological network
+    pattern in the anterior cingulate cortex, insula, and nucleus accumbens.Conclusions:
+    Our results suggest that structural alterations in the insula and abnormal topological
+    connectivity pattern in the salience network and the nucleus accumbens may lead
+    to impaired decision making and hypersensitivity towards reward in PDICB+. Moreover,
+    PDICB+ are more prone to suffer from depression and anxiety.Keywords: Functional
+    MRI; Impulse control behaviors; Parkinson’s disease; Structural magnetic resonance
+    imaging (MRI).'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Background: Impulse control behaviors (ICB) are frequently observed
+  in patients with Parkinson''s disease (PD) and are characterized by compulsive and
+  repetitive behavior resulting from the inability to resist internal drives.Objectives:
+  In this study, we aimed to provide a better understanding of structural and functional
+  brain alterations and clinical parameters related to ICB in PD patients.Methods:
+  We utilized a dataset from the Parkinson''s Progression Markers Initiative including
+  36 patients with ICB (PDICB+) compared to 76 without ICB (PDICB-) and 61 healthy
+  controls (HC). Using multimodal MRI data we assessed gray matter brain volume, white
+  matter integrity, and graph topological properties at rest.Results: Compared with
+  HC, PDICB+ showed reduced gray matter volume in the bilateral superior and middle
+  temporal gyrus and in the right middle occipital gyrus. Compared with PDICB-, PDICB+
+  showed volume reduction in the left anterior insula. Depression and anxiety were
+  more prevalent in PDICB+ than in PDICB- and HC. In PDICB+, lower gray matter volume
+  in the precentral gyrus and medial frontal cortex, and higher axial diffusivity
+  in the superior corona radiata were related to higher depression score. Both PD
+  groups showed disrupted functional topological network pattern within the cingulate
+  cortex compared with HC. PDICB+ vs PDICB- displayed reduced topological network
+  pattern in the anterior cingulate cortex, insula, and nucleus accumbens.Conclusions:
+  Our results suggest that structural alterations in the insula and abnormal topological
+  connectivity pattern in the salience network and the nucleus accumbens may lead
+  to impaired decision making and hypersensitivity towards reward in PDICB+. Moreover,
+  PDICB+ are more prone to suffer from depression and anxiety.Keywords: Functional
+  MRI; Impulse control behaviors; Parkinson’s disease; Structural magnetic resonance
+  imaging (MRI).'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2213-1582
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.nicl.2023.103315
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/e54e53c6-90f5-46cc-945d-4d4e9f2e7e4d
+schema_type: xyzri:XYZPublication
+title: 'Neural correlates of impulse control behaviors in Parkinson’s disease: Analysis
+  of multimodal imaging data'

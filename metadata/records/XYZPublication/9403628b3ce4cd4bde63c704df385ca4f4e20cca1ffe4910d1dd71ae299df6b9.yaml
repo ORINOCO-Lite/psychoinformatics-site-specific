@@ -1,0 +1,65 @@
+attributed_to:
+- object: xyzrins:persons/christian-moench
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/adina-wagner
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/alex-waite
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/laura-waite
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Distributed data management for large collaborative projects: DataLad ecosystem
+    in Collaborative Research Center 1451'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Multi-site research projects offer a unique opportunity for scientific insight
+    based on data collected across different modalities, paradigms, and species. Yet,
+    they also pose unique research data management challenges. Here, we present software
+    developments and lessons learned from the information management project of CRC1451.
+    Given the large variability of RDM demands across over 20 CRC member projects,
+    we opted for a decentralized approach: Projects retain full control over key data
+    management decisions (standards, storage, sharing), and the findability, accessibility,
+    interoperability, and reusability of their data is achieved with DataLad as an
+    overlay structure for all distributed datasets. We use DataLad Catalog to generate
+    an online data portal based on metadata. Metadata extraction is done using MetaLad,
+    based on the ''capture immediately, curate perpetually'' iterative approach. To
+    mitigate DataLad’s limited adoption outside central projects, we are developing
+    two solutions. First, DataLad Gooey is a graphical user interface for basic data
+    management operations. Second, DataLad Tabby is a format specification and a collection
+    of tools for dataset descriptions which can be created and provided as a spreadsheet,
+    using well-defined terms, translatable to catalog records and linked data objects.'
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+description: 'Multi-site research projects offer a unique opportunity for scientific
+  insight based on data collected across different modalities, paradigms, and species.
+  Yet, they also pose unique research data management challenges. Here, we present
+  software developments and lessons learned from the information management project
+  of CRC1451. Given the large variability of RDM demands across over 20 CRC member
+  projects, we opted for a decentralized approach: Projects retain full control over
+  key data management decisions (standards, storage, sharing), and the findability,
+  accessibility, interoperability, and reusability of their data is achieved with
+  DataLad as an overlay structure for all distributed datasets. We use DataLad Catalog
+  to generate an online data portal based on metadata. Metadata extraction is done
+  using MetaLad, based on the ''capture immediately, curate perpetually'' iterative
+  approach. To mitigate DataLad’s limited adoption outside central projects, we are
+  developing two solutions. First, DataLad Gooey is a graphical user interface for
+  basic data management operations. Second, DataLad Tabby is a format specification
+  and a collection of tools for dataset descriptions which can be created and provided
+  as a spreadsheet, using well-defined terms, translatable to catalog records and
+  linked data objects.'
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/ZENODO.8355962
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/bccb548d-dec0-4ea2-8d10-c93c60ef30f0
+schema_type: xyzri:XYZPublication
+title: 'Distributed data management for large collaborative projects: DataLad ecosystem
+  in Collaborative Research Center 1451'

@@ -1,0 +1,12 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2025-12-15T06:48:40.322168'
+exact_mappings:
+- http://purl.obolibrary.org/obo/NCIT_C134832
+name: Supervisor
+pid: xyzrins:agent-roles/b248c1cc-135c-4e06-8366-6d38539fb825
+schema_type: xyzri:XYZAgentRole

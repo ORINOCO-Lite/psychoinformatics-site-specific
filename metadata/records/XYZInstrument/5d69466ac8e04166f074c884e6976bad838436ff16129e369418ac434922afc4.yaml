@@ -1,0 +1,30 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-10T14:46:29.661959'
+attributed_to:
+- object: xyzrins:persons/stephan-heunis
+  roles:
+  - marcrel:cre
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: foaf:homepage
+  schema_type: dlthings:AttributeSpecification
+  value: https://pool.v0.trr379.de/ui/
+description: 'For TRR379 members, the knowledge pool takes the form of a web-based
+  metadata editor. It is used to collect information on research progress and outputs. '
+identifiers:
+- creator: xyzrins:projects/trr379
+  notation: https://pool.v0.trr379.de/ui/
+  schema_type: dlthings:Identifier
+kind: obo:IAO_0000010
+name: Metadata Editor of the TRR379
+part_of:
+- xyzrins:instruments/trr379_pool
+pid: xyzrins:instruments/trr379_pool_editor
+schema_type: xyzri:XYZInstrument
+specialization_of:
+- xyzrins:instruments/b8dc8b0a-4408-46f4-9f47-c1d3ae747fac

@@ -1,0 +1,35 @@
+associated_with:
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+description: Project B05 in SFB 1451 investigates multivariate patterns of associations
+  between motor performance and behavioral and brain phenotypes using machine-learning
+  approaches. This endeavor builds upon the work in the first funding period demonstrating
+  that successful predictions of motor phenotypes primarily reflected learning of
+  broader manifolds of individual variation. In the second funding period, these overarching
+  dimensions are now identified, characterized, and related to their underlying neurobiology
+  in health and diseases. The models build and evaluated by project B05 characterize
+  the relationships between different levels of motor performance, socio-demographic,
+  neuropsychological and mental health measures, as well multimodal neuroimaging data,
+  drawing on the resources collected by Z03 and organized by INF.
+ended:
+  at_time: '2028-12-31'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2028-12-31'
+    schema_type: dlthings:End
+  object: xyzrins:grants/66cbbef2-5fd4-42c6-8348-cb74af435b75
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2025-01-01'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/88b4de52-84b3-4743-b19a-3eaeb2fb8c15
+schema_type: xyzri:XYZProject
+short_name: B05
+started:
+  schema_type: dlthings:Start
+title: Identification of overarching components in neuromotor phenotypes

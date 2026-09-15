@@ -1,0 +1,90 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Cardiac effects of 5F-Cumyl-PEGACLONE
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Synthetic cannabinoids become increasingly popular as a supposedly safe
+    and legal alternative to cannabis. In order to circumvent the German New Psychoactive
+    Substances Law, producers of so-called herbal mixtures rapidly design new substances
+    with structural alterations that are not covered by the law. Acting as full agonists
+    not only at the cannabinoid receptors 1 and 2, synthetic cannabinoids might have
+    not only desired mental but also serious physical adverse effects. However, knowledge
+    of adverse effects of specific substances is sparse and incomplete. This also
+    accounts for 5F-Cumyl-PEGACLONE, a synthetic cannabinoid, which has been detected
+    regularly in Germany in recent years. By using an animal model, the isolated perfused
+    Langendorff heart, the study at hand aimed on finding out more about possible
+    cardiovascular adverse effects of 5F-Cumyl-PEGACLONE. Hearts of male Wistar rats,
+    which were excised postmortem, were exposed to two different concentrations of
+    5F-Cumyl-PEGACLONE: 13 hearts were exposed to 50 ng/ml and 12 hearts were exposed
+    to 100 ng/ml. Thirteen control hearts were merely exposed to an additional amount
+    of buffer solution. Functional parameters heart rate, minimal and maximum left
+    ventricular pressure and coronary flow were documented at pre-defined time points
+    during and after the administration of 5F-Cumyl-PEGACLONE/additional buffer solution.
+    Electrocardiograms (ECGs) were documented throughout the experiments and evaluated
+    afterwards. Kruskal–Wallis analysis was performed for each functional parameter
+    as well as for the duration of the QRS complexes and the duration of RR intervals
+    as derived from the ECGs. Furthermore, a multivariate analysis, comprising all
+    functional and ECG parameters, was performed. Kruskal–Wallis analysis revealed
+    only single significant p-values for QRS duration and minimum left ventricular
+    pressure that did not pass a Bonferroni test. The results of the multivariate
+    approach were also comparably homogeneous, but still the model correctly recognized
+    hearts exposed to 100 ng/ml of 5F-Cumyl-PEGACLONE more often than hearts exposed
+    to the low concentration of 5F-Cumyl-PEGACLONE or additional buffer solution.
+    Evaluation of the ECGs presented single cases of ST depression and QT prolongation.
+    Though certainly not unambiguous, these findings support the assumption that 5F-Cumyl-PEGACLONE
+    can cause severe, if not lethal, cardiac adverse effects like arrhythmias or myocardial
+    infarctions especially if it is consumed in combination with other drugs like
+    alcohol or if the consumer suffers from pre-existing heart diseases.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Synthetic cannabinoids become increasingly popular as a supposedly safe
+  and legal alternative to cannabis. In order to circumvent the German New Psychoactive
+  Substances Law, producers of so-called herbal mixtures rapidly design new substances
+  with structural alterations that are not covered by the law. Acting as full agonists
+  not only at the cannabinoid receptors 1 and 2, synthetic cannabinoids might have
+  not only desired mental but also serious physical adverse effects. However, knowledge
+  of adverse effects of specific substances is sparse and incomplete. This also accounts
+  for 5F-Cumyl-PEGACLONE, a synthetic cannabinoid, which has been detected regularly
+  in Germany in recent years. By using an animal model, the isolated perfused Langendorff
+  heart, the study at hand aimed on finding out more about possible cardiovascular
+  adverse effects of 5F-Cumyl-PEGACLONE. Hearts of male Wistar rats, which were excised
+  postmortem, were exposed to two different concentrations of 5F-Cumyl-PEGACLONE:
+  13 hearts were exposed to 50 ng/ml and 12 hearts were exposed to 100 ng/ml. Thirteen
+  control hearts were merely exposed to an additional amount of buffer solution. Functional
+  parameters heart rate, minimal and maximum left ventricular pressure and coronary
+  flow were documented at pre-defined time points during and after the administration
+  of 5F-Cumyl-PEGACLONE/additional buffer solution. Electrocardiograms (ECGs) were
+  documented throughout the experiments and evaluated afterwards. Kruskal–Wallis analysis
+  was performed for each functional parameter as well as for the duration of the QRS
+  complexes and the duration of RR intervals as derived from the ECGs. Furthermore,
+  a multivariate analysis, comprising all functional and ECG parameters, was performed.
+  Kruskal–Wallis analysis revealed only single significant p-values for QRS duration
+  and minimum left ventricular pressure that did not pass a Bonferroni test. The results
+  of the multivariate approach were also comparably homogeneous, but still the model
+  correctly recognized hearts exposed to 100 ng/ml of 5F-Cumyl-PEGACLONE more often
+  than hearts exposed to the low concentration of 5F-Cumyl-PEGACLONE or additional
+  buffer solution. Evaluation of the ECGs presented single cases of ST depression
+  and QT prolongation. Though certainly not unambiguous, these findings support the
+  assumption that 5F-Cumyl-PEGACLONE can cause severe, if not lethal, cardiac adverse
+  effects like arrhythmias or myocardial infarctions especially if it is consumed
+  in combination with other drugs like alcohol or if the consumer suffers from pre-existing
+  heart diseases.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0937-9827
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00414-023-03146-3
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/f619e4e9-6f9f-4906-8e1c-b7265cbc72b7
+schema_type: xyzri:XYZPublication
+title: Cardiac effects of 5F-Cumyl-PEGACLONE

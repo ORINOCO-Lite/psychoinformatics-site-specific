@@ -1,0 +1,26 @@
+application_deadline: '2026-07-10'
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: EMBO Postdoctoral Fellowships
+- predicate: dcterms:description
+  schema_type: dlthings:AttributeSpecification
+  value: 'Funding Opportunities  Career Status: Postdocs  Mobility: Incoming, Outgoing  Deadline:
+    July 10, 2026  Information Funding Organization: Embo Postdoctoral Fellowships<https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/>  Information
+    FZJ: EMBO<https://www.fz-juelich.de/en/research/research-fields/young-scientists/funding-calendar/funding-opportunities/embo_postdoctoral_fellowships>
+    (Funding Calendar)  FZJ Contact: Aikanysh Bazarova (W), email: a.bazarova@fz-juelich.de<mailto:a.bazarova@fz-juelich.de>    '
+- predicate: dcterms:date
+  schema_type: dlthings:AttributeSpecification
+  value: '2026-07-10'
+characterized_by:
+- object: xyzrins:competition-types/4e49ac7d-d6da-4131-806b-6425491e26fd
+  predicate: dcterms:type
+description: 'Funding Opportunities  Career Status: Postdocs  Mobility: Incoming,
+  Outgoing  Deadline: July 10, 2026  Information Funding Organization: Embo Postdoctoral
+  Fellowships<https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/>  Information
+  FZJ: EMBO<https://www.fz-juelich.de/en/research/research-fields/young-scientists/funding-calendar/funding-opportunities/embo_postdoctoral_fellowships>
+  (Funding Calendar)  FZJ Contact: Aikanysh Bazarova (W), email: a.bazarova@fz-juelich.de<mailto:a.bazarova@fz-juelich.de>    '
+kind: xyzrins:competition-types/4e49ac7d-d6da-4131-806b-6425491e26fd
+pid: xyzrins:competition/040000008200E00074C5B7101A82E0080000000050FDA403306FDC01000000000000000010000000EEF7A12A45FF024E8E638F6AE523EF16
+schema_type: xyzri:XYZCompetition
+title: EMBO Postdoctoral Fellowships

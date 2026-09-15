@@ -1,0 +1,13 @@
+at_location: geodata:2894553
+characterized_by:
+- object: https://www.fz-juelich.de
+  predicate: rdfs:seeAlso
+- object: http://en.wikipedia.org/wiki/Forschungszentrum_J%C3%BClich
+  predicate: rdfs:seeAlso
+display_label: Forschungszentrum Jülich (Germany)
+name: Forschungszentrum Jülich
+part_of:
+- ror:0281dp749
+pid: xyzrins:organizations/fzj
+schema_type: xyzri:XYZOrganization
+short_name: FZJ

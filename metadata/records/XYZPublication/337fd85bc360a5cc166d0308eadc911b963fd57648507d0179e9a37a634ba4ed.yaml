@@ -1,0 +1,60 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Noninvasive brain stimulation in autism: review and outlook for personalized
+    interventions in adult patients'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Noninvasive brain stimulation (NIBS) has been increasingly investigated during
+    the last decade as a treatment option for persons with autism spectrum disorder
+    (ASD). Yet, previous studies did not reach a consensus on a superior treatment
+    protocol or stimulation target. Persons with ASD often suffer from social isolation
+    and high rates of unemployment, arising from difficulties in social interaction.
+    ASD involves multiple neural systems involved in perception, language, and cognition,
+    and the underlying brain networks of these functional domains have been well documented.
+    Aiming to provide an overview of NIBS effects when targeting these neural systems
+    in late adolescent and adult ASD, we conducted a systematic search of the literature
+    starting at 631 non-duplicate publications, leading to six studies corresponding
+    with inclusion and exclusion criteria. We discuss these studies regarding their
+    treatment rationale and the accordingly chosen methodological setup. The results
+    of these studies vary, while methodological advances may allow to explain some
+    of the variability. Based on these insights, we discuss strategies for future
+    clinical trials to personalize the selection of brain stimulation targets taking
+    into account intersubject variability of brain anatomy as well as function.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Noninvasive brain stimulation (NIBS) has been increasingly investigated
+  during the last decade as a treatment option for persons with autism spectrum disorder
+  (ASD). Yet, previous studies did not reach a consensus on a superior treatment protocol
+  or stimulation target. Persons with ASD often suffer from social isolation and high
+  rates of unemployment, arising from difficulties in social interaction. ASD involves
+  multiple neural systems involved in perception, language, and cognition, and the
+  underlying brain networks of these functional domains have been well documented.
+  Aiming to provide an overview of NIBS effects when targeting these neural systems
+  in late adolescent and adult ASD, we conducted a systematic search of the literature
+  starting at 631 non-duplicate publications, leading to six studies corresponding
+  with inclusion and exclusion criteria. We discuss these studies regarding their
+  treatment rationale and the accordingly chosen methodological setup. The results
+  of these studies vary, while methodological advances may allow to explain some of
+  the variability. Based on these insights, we discuss strategies for future clinical
+  trials to personalize the selection of brain stimulation targets taking into account
+  intersubject variability of brain anatomy as well as function.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1047-3211
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/cercor/bhae096
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/63f36c97-194b-44f2-abaf-c4b9d631b979
+schema_type: xyzri:XYZPublication
+title: 'Noninvasive brain stimulation in autism: review and outlook for personalized
+  interventions in adult patients'

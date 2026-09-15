@@ -1,0 +1,58 @@
+attributed_to:
+- object: xyzrins:persons/6ae68288-73ec-491b-a25f-75bbf9783e70
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Psychopathic traits predict neural responses to emotional movies in the general
+    population
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Psychopathic personality traits such as callousness, manipulativeness, and
+    lack of empathy are continuously distributed in non-institutionalized populations.
+    Here, we show that brain responses to emotional movies in healthy females vary
+    as a function of primary (PP) and secondary psychopathy (SP) traits. Healthy female
+    volunteers (n=50) with variable scorings in Levenson Self-Report Psychopathy Scale
+    watched a set of emotional movie clips (n=39) during functional magnetic resonance
+    imaging of brain activity. We found that participants low on primary and secondary
+    psychopathy traits showed higher cortical and subcortical activity when watching
+    emotional movies, what possibly indicates the somatosensory simulation and empathizing
+    with the emotions of movie characters. On the other hand, the individuals with
+    high primary and secondary psychopathy traits presented a lack of vicarious engagement
+    during watching movies and they manifested brainstem-based heightened response
+    towards thread-related stimuli, which could indicate potent autonomic reactivity.
+    Overall, our results indicate that variability in psychopathic traits in the general
+    population is manifested as differential neural responses to emotional signals,
+    and confirm previous findings of there being separate PP and SP personality characteristics
+    due to the dissociable brain activity patterns while viewing emotional movies.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Psychopathic personality traits such as callousness, manipulativeness,
+  and lack of empathy are continuously distributed in non-institutionalized populations.
+  Here, we show that brain responses to emotional movies in healthy females vary as
+  a function of primary (PP) and secondary psychopathy (SP) traits. Healthy female
+  volunteers (n=50) with variable scorings in Levenson Self-Report Psychopathy Scale
+  watched a set of emotional movie clips (n=39) during functional magnetic resonance
+  imaging of brain activity. We found that participants low on primary and secondary
+  psychopathy traits showed higher cortical and subcortical activity when watching
+  emotional movies, what possibly indicates the somatosensory simulation and empathizing
+  with the emotions of movie characters. On the other hand, the individuals with high
+  primary and secondary psychopathy traits presented a lack of vicarious engagement
+  during watching movies and they manifested brainstem-based heightened response towards
+  thread-related stimuli, which could indicate potent autonomic reactivity. Overall,
+  our results indicate that variability in psychopathic traits in the general population
+  is manifested as differential neural responses to emotional signals, and confirm
+  previous findings of there being separate PP and SP personality characteristics
+  due to the dissociable brain activity patterns while viewing emotional movies.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2023.07.31.551268
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/6658fb90-971e-4050-8d5a-aa26ba0e7cea
+schema_type: xyzri:XYZPublication
+title: Psychopathic traits predict neural responses to emotional movies in the general
+  population

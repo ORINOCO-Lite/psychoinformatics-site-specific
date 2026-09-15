@@ -1,0 +1,73 @@
+attributed_to:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Early neurotransmitters changes in prodromal frontotemporal dementia: A
+    GENFI study'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: BackgroundNeurotransmitters deficits in Frontotemporal Dementia (FTD) are
+    still poorly understood. Better knowledge of neurotransmitters impairment, especially
+    in prodromal disease stages, might tailor symptomatic treatment approaches.MethodsIn
+    the present study, we applied JuSpace toolbox, which allowed for cross-modal correlation
+    of Magnetic Resonance Imaging (MRI)-based measures with nuclear imaging derived
+    estimates covering various neurotransmitter systems including dopaminergic, serotonergic,
+    noradrenergic, GABAergic and glutamatergic neurotransmission.We included 392 mutation
+    carriers (157 GRN, 164 C9orf72, 71 MAPT), together with 276 non-carrier cognitively
+    healthy controls (HC). We tested if the spatial patterns of grey matter volume
+    (GMV) alterations in mutation carriers (relative to HC) are correlated with specific
+    neurotransmitter systems in prodromal (CDR® plus NACC FTLD = 0.5) and in symptomatic
+    (CDR® plus NACC FTLD≥1) FTD.ResultsIn prodromal stages of C9orf72 disease, voxel-based
+    brain changes were significantly associated with spatial distribution of dopamine
+    and acetylcholine pathways; in prodromal MAPT disease with dopamine and serotonin
+    pathways, while in prodromal GRN disease no significant findings were reported
+    (p < 0.05, Family Wise Error corrected). In symptomatic FTD, a widespread involvement
+    of dopamine, serotonin, glutamate and acetylcholine pathways across all genetic
+    subtypes was found. Social cognition scores, loss of empathy and poor response
+    to emotional cues were found to correlate with the strength of GMV colocalization
+    of dopamine and serotonin pathways (all p < 0.01).ConclusionsThis study, indirectly
+    assessing neurotransmitter deficits in monogenic FTD, provides novel insight into
+    disease mechanisms and might suggest potential therapeutic targets to counteract
+    disease-related symptoms.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: BackgroundNeurotransmitters deficits in Frontotemporal Dementia (FTD)
+  are still poorly understood. Better knowledge of neurotransmitters impairment, especially
+  in prodromal disease stages, might tailor symptomatic treatment approaches.MethodsIn
+  the present study, we applied JuSpace toolbox, which allowed for cross-modal correlation
+  of Magnetic Resonance Imaging (MRI)-based measures with nuclear imaging derived
+  estimates covering various neurotransmitter systems including dopaminergic, serotonergic,
+  noradrenergic, GABAergic and glutamatergic neurotransmission.We included 392 mutation
+  carriers (157 GRN, 164 C9orf72, 71 MAPT), together with 276 non-carrier cognitively
+  healthy controls (HC). We tested if the spatial patterns of grey matter volume (GMV)
+  alterations in mutation carriers (relative to HC) are correlated with specific neurotransmitter
+  systems in prodromal (CDR® plus NACC FTLD = 0.5) and in symptomatic (CDR® plus NACC
+  FTLD≥1) FTD.ResultsIn prodromal stages of C9orf72 disease, voxel-based brain changes
+  were significantly associated with spatial distribution of dopamine and acetylcholine
+  pathways; in prodromal MAPT disease with dopamine and serotonin pathways, while
+  in prodromal GRN disease no significant findings were reported (p < 0.05, Family
+  Wise Error corrected). In symptomatic FTD, a widespread involvement of dopamine,
+  serotonin, glutamate and acetylcholine pathways across all genetic subtypes was
+  found. Social cognition scores, loss of empathy and poor response to emotional cues
+  were found to correlate with the strength of GMV colocalization of dopamine and
+  serotonin pathways (all p < 0.01).ConclusionsThis study, indirectly assessing neurotransmitter
+  deficits in monogenic FTD, provides novel insight into disease mechanisms and might
+  suggest potential therapeutic targets to counteract disease-related symptoms.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0969-9961
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.nbd.2023.106068
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/b0c7b7b1-19c1-4527-b21c-940ed5c05976
+schema_type: xyzri:XYZPublication
+title: 'Early neurotransmitters changes in prodromal frontotemporal dementia: A GENFI
+  study'

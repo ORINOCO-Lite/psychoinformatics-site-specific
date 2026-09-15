@@ -1,0 +1,29 @@
+description: Subtopic "Neuroethics and Ethics of Information" in PoF IV Programme
+  2 Topic 5 "Decoding Brain Organization and Dysfunction".
+ended:
+  at_time: '2027-12-31'
+  schema_type: dlthings:End
+identifiers:
+- creator: xyzrins:organizations/fzj
+  description: Topic number in JUSER
+  notation: Topic 5255
+  schema_type: dlthings:Identifier
+influenced_by:
+- ended:
+    at_time: '2027-12-31'
+    schema_type: dlthings:End
+  object: xyzrins:grants/c083c8d1-fc5f-4352-b8f2-de391a8c8498
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+part_of:
+- xyzrins:projects/05f030d0-f9e5-4f85-aa5e-ccd4104856a1
+pid: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+schema_type: xyzri:XYZProject
+started:
+  at_time: '2021-01-01'
+  schema_type: dlthings:Start
+title: Neuroethics and Ethics of Information (PoF-IV)

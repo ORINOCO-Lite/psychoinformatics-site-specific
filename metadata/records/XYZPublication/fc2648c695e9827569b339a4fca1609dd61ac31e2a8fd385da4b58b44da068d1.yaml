@@ -1,0 +1,48 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Reflections on the past two decades of neuroscience
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The first issue of Nature Reviews Neuroscience was published 20 years ago,
+    in 2000. To mark this anniversary, in this Viewpoint article we asked a selection
+    of researchers from across the field who have authored pieces published in the
+    journal in recent years for their thoughts on notable and interesting developments
+    in neuroscience, and particularly in their areas of the field, over the past two
+    decades. They also provide some thoughts on current lines of research and questions
+    that excite them.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The first issue of Nature Reviews Neuroscience was published 20 years
+  ago, in 2000. To mark this anniversary, in this Viewpoint article we asked a selection
+  of researchers from across the field who have authored pieces published in the journal
+  in recent years for their thoughts on notable and interesting developments in neuroscience,
+  and particularly in their areas of the field, over the past two decades. They also
+  provide some thoughts on current lines of research and questions that excite them.
+generated_by:
+- at_location: ISSN:1471-003X
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41583-020-0363-6
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2023-09-30'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/hbp-sga3
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2020-04-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/9c6ed3fb-9a08-4f1a-a0c2-ac24c2cf51d6
+schema_type: xyzri:XYZPublication
+title: Reflections on the past two decades of neuroscience

@@ -1,0 +1,49 @@
+attributed_to:
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Editorial for the special issue “Resting-state fMRI and cognition” in Brain
+    and Cognition
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Research in cognitive neuroscience employing resting-state functional magnetic
+    resonance imaging (rs-fMRI) has experienced an exponential boom since Biswal et
+    al.’s pioneering work in the mid-nineties of the last century, when it was demonstrated
+    that rs-fMRI is capable to reveal enhanced functional connectivity within functional
+    subsystems of the human brain (Biswal et al., 1997, Biswal et al., 1995). Rs-fMRI
+    derives its name from the fact that hemodynamic activity is recorded while participants
+    lie in the MR scanner without any experimental task. Instead, participants are
+    usually instructed to let their minds wander freely and not fall asleep. Under
+    these conditions, the body obviously is in a “resting position”; the brain, however,
+    is never at rest but rather enters a so-called default mode involving increased
+    activity in a set of brain areas that are usually deactivated during externally
+    structured tasks ...
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Research in cognitive neuroscience employing resting-state functional
+  magnetic resonance imaging (rs-fMRI) has experienced an exponential boom since Biswal
+  et al.’s pioneering work in the mid-nineties of the last century, when it was demonstrated
+  that rs-fMRI is capable to reveal enhanced functional connectivity within functional
+  subsystems of the human brain (Biswal et al., 1997, Biswal et al., 1995). Rs-fMRI
+  derives its name from the fact that hemodynamic activity is recorded while participants
+  lie in the MR scanner without any experimental task. Instead, participants are usually
+  instructed to let their minds wander freely and not fall asleep. Under these conditions,
+  the body obviously is in a “resting position”; the brain, however, is never at rest
+  but rather enters a so-called default mode involving increased activity in a set
+  of brain areas that are usually deactivated during externally structured tasks ...
+generated_by:
+- at_location: ISSN:0278-2626
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.bandc.2019.01.003
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/1cef71a6-121e-4760-813d-fdfdfad02efe
+schema_type: xyzri:XYZPublication
+title: Editorial for the special issue “Resting-state fMRI and cognition” in Brain
+  and Cognition

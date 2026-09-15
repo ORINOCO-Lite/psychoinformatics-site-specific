@@ -1,0 +1,4 @@
+description: A document accompanying a legal case.
+display_label: Legal Case Document
+pid: bibo:LegalCaseDocument
+schema_type: xyzri:XYZBibliographicType

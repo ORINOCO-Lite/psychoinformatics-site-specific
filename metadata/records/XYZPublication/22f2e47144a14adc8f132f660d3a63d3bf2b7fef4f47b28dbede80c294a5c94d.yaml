@@ -1,0 +1,35 @@
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Is the PPA a visual area? BOLD responses to incidental spatial cues in naturalistic
+    stimulation
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: We re-used fMRI data taken from the studyforrest-dataset (studyforrest.com)
+    to investigate if BOLD responses of the parahippocampal place area (PPA; Epstein
+    & Kanwisher, 1998, A cortical representation of the local visual environment)
+    correlate with incidential spatial speech cues given by an audio drama's narrator
+    (audio-only variant of the movie "Forrest Gump"). Results suggest a standard general
+    linear model (GLM) applied to a complex, auditory stimulus can be used to localize
+    a "visual area" in individual subjects.
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+description: We re-used fMRI data taken from the studyforrest-dataset (studyforrest.com)
+  to investigate if BOLD responses of the parahippocampal place area (PPA; Epstein
+  & Kanwisher, 1998, A cortical representation of the local visual environment) correlate
+  with incidential spatial speech cues given by an audio drama's narrator (audio-only
+  variant of the movie "Forrest Gump"). Results suggest a standard general linear
+  model (GLM) applied to a complex, auditory stimulus can be used to localize a "visual
+  area" in individual subjects.
+identifiers:
+- notation: 10.7490/F1000RESEARCH.1116876.1
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/15b66898-93bd-46c5-8c7b-7b03450a1c58
+schema_type: xyzri:XYZPublication
+title: Is the PPA a visual area? BOLD responses to incidental spatial cues in naturalistic
+  stimulation

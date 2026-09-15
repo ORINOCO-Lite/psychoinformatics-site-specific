@@ -1,0 +1,12 @@
+attributes:
+- predicate: spdx:isOsiApproved
+  schema_type: dlthings:AttributeSpecification
+  value: obo:NCIT_C68850
+- predicate: spdx:isFsfLibre
+  schema_type: dlthings:AttributeSpecification
+  value: obo:NCIT_C68851
+broad_mappings:
+- dcterms:LicenseDocument
+display_label: Unicode License Agreement - Data Files and Software (2016)
+pid: spdxlic:Unicode-DFS-2016
+schema_type: dlthings:Rule

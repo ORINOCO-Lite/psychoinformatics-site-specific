@@ -1,0 +1,23 @@
+about:
+- xyzrins:topics/naturalistic-neuroimaging
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-05-18T13:05:02.665228'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002035
+  schema_type: dlthings:Attribution
+generated_by:
+- at_location: ISSN:2046-1402
+  at_time: '2015-04-13'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/cfe671ce-314c-4d86-a306-92e2e593e6dd
+schema_type: xyzri:XYZPublication
+title: Portrayed emotions in the movie "Forrest Gump"

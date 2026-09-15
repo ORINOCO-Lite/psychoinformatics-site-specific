@@ -1,0 +1,16 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-01-07T13:42:37.046191'
+description: The citing entity cites the cited entity as an item of recommended reading.
+  This property can be used, for example, to describe references in a lecture reading
+  list, where the cited references are relevant to the general topic of the lecture,
+  but might not be individually cited within the text of the lecture. Similarly, it
+  could be used to describe items in a 'Suggested further reading' list at the end
+  of a book chapter.
+display_label: cites as recommended reading
+pid: CiTO:citesAsRecommendedReading
+schema_type: dlthings:Property

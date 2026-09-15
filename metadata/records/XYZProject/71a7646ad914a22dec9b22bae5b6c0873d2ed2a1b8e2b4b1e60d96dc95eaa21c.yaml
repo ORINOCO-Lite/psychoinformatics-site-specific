@@ -1,0 +1,276 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-05-16T10:51:11.635309'
+associated_with:
+- ended:
+    at_time: '2022-03-22'
+    schema_type: dlthings:End
+  object: xyzrins:persons/odelfa-songong
+  roles:
+  - obo:AGRO_00000374
+  schema_type: dlthings:Association
+  started:
+    at_time: '2021-05-03'
+    schema_type: dlthings:Start
+- object: xyzrins:persons/laura-waite
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+  started:
+    at_time: '2019-04-01'
+    schema_type: dlthings:Start
+- description: Full-time informagician, real-life psychologist, Debian developer,
+    Pythonero, open science and free software proponent.
+  object: xyzrins:persons/michael-hanke
+  roles:
+  - marcrel:led
+  schema_type: dlthings:Association
+- object: xyzrins:organizations/fzj
+  schema_type: dlthings:Association
+  started:
+    at_time: '2019-04-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2014-07-31'
+    schema_type: dlthings:End
+  object: xyzrins:persons/sven-buchholz
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+  started:
+    at_time: '2013-11-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: 2015-06
+    schema_type: dlthings:End
+  object: xyzrins:persons/vittorio-iacovella
+  roles:
+  - obo:AGRO_00000374
+  schema_type: dlthings:Association
+- ended:
+    at_time: '2018'
+    schema_type: dlthings:End
+  object: xyzrins:persons/ayan-sengupta
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+- ended:
+    at_time: '2016'
+    schema_type: dlthings:End
+  object: xyzrins:persons/daniel-kottke
+  roles:
+  - obo:ICO_0000080
+  schema_type: dlthings:Association
+- ended:
+    at_time: 2019-03
+    schema_type: dlthings:End
+  object: xyzrins:persons/emanuele-porcu
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+- ended:
+    at_time: '2015'
+    schema_type: dlthings:End
+  object: xyzrins:persons/richard-dinga
+  roles:
+  - obo:AGRO_00000374
+  schema_type: dlthings:Association
+- object: ror:02nv7yv05
+  roles:
+  - marcrel:sht
+  schema_type: dlthings:Association
+  started:
+    at_time: '2019-04-01'
+    schema_type: dlthings:Start
+- object: xyzrins:persons/jenna-swarthout-goddard
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+  started:
+    at_time: '2025-02-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2015-07-30'
+    schema_type: dlthings:End
+  object: xyzrins:persons/moritz-boos
+  roles:
+  - obo:AGRO_00000374
+  schema_type: dlthings:Association
+  started:
+    at_time: '2015-05-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2024-09-30'
+    schema_type: dlthings:End
+  object: xyzrins:persons/christian-haeusler
+  roles:
+  - obo:AGRO_00000374
+  - marcrel:rtm
+  schema_type: dlthings:Association
+- ended:
+    at_time: '2016'
+    schema_type: dlthings:End
+  object: xyzrins:persons/michael-notter
+  roles:
+  - obo:AGRO_00000374
+  schema_type: dlthings:Association
+- object: xyzrins:persons/benjamin-poldrack
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+- ended:
+    at_time: '2016'
+    schema_type: dlthings:End
+  object: xyzrins:persons/pierre-ibe
+  roles:
+  - obo:ICO_0000080
+  schema_type: dlthings:Association
+- object: xyzrins:persons/malgorzata-wierzba
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+- ended:
+    at_time: 2020-05
+    schema_type: dlthings:End
+  object: xyzrins:persons/manuel-bayer
+  roles:
+  - obo:AGRO_00000374
+  schema_type: dlthings:Association
+- object: xyzrins:persons/michal-szczepanik
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+  started:
+    at_time: '2021-09-01'
+    schema_type: dlthings:Start
+- object: xyzrins:persons/venkatesh-hariharapura-shivashankar
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+  started:
+    at_time: '2023-11-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2024-07-31'
+    schema_type: dlthings:End
+  object: xyzrins:persons/tosca-heunis
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+  started:
+    at_time: '2023-09-01'
+    schema_type: dlthings:Start
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/stephan-heunis
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+  started:
+    at_time: '2021-04-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2019-03-31'
+    schema_type: dlthings:End
+  object: xyzrins:organizations/ovgu
+  roles:
+  - marcrel:sht
+  schema_type: dlthings:Association
+  started:
+    at_time: '2013-04-01'
+    schema_type: dlthings:Start
+- object: xyzrins:persons/alex-waite
+  roles:
+  - obo:OCCO_15129909
+  schema_type: dlthings:Association
+  started:
+    at_time: '2014-04-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2022-12-31'
+    schema_type: dlthings:End
+  object: xyzrins:persons/leonardo-muller-rodriguez
+  roles:
+  - xyzrins:agent-roles/79ce2c0b-ff6a-4d90-8914-924cdaaf40df
+  schema_type: dlthings:Association
+  started:
+    at_time: '2022-03-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2017-12-31'
+    schema_type: dlthings:End
+  object: xyzrins:persons/falko-kaule
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+  started:
+    at_time: '2014-07-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2021-12-20'
+    schema_type: dlthings:End
+  object: xyzrins:persons/michael-burgardt
+  roles:
+  - xyzrins:agent-roles/79ce2c0b-ff6a-4d90-8914-924cdaaf40df
+  schema_type: dlthings:Association
+  started:
+    at_time: '2021-10-04'
+    schema_type: dlthings:Start
+- object: xyzrins:persons/christian-moench
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+  started:
+    at_time: '2020-05-01'
+    schema_type: dlthings:Start
+attributes:
+- predicate: foaf:homepage
+  schema_type: dlthings:AttributeSpecification
+  value: https://www.psychoinformatics.de
+description: 'We develop open, reproducible tools and datasets to advance computational
+  neuroscience and psychological research. Our projects create and maintain software
+  for distributed data-versioning and provenance, stable neuroimaging platforms, and
+  analysis/data-format libraries, while also curating large, shareable naturalistic
+  neuroimaging and behavioral datasets. We prioritize FAIR principles, provenance
+  capture, and decentralized research-data management.
+
+
+  Our goal is to make complex neuroimaging and behavioral data easier to discover,
+  access, reproduce, and reuse across labs by integrating data, code, and workflows.
+  Through tool development, open data releases, and methodological research, we aim
+  to improve replicability in cognitive and brain sciences and to lower the technical
+  barriers for collaborative, large-scale computational studies.'
+influenced_by:
+- object: xyzrins:objectives/self-hosted-it
+  roles:
+  - xyzrins:entity-roles/1160471a-9f8e-4379-85f2-351a2a36ef40
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:objectives/87be5fa3-80fb-4221-8406-2ddd40fb1fd1
+  roles:
+  - xyzrins:entity-roles/1160471a-9f8e-4379-85f2-351a2a36ef40
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:objectives/97ded4aa-108d-4b84-8195-d6076dce63ce
+  roles:
+  - xyzrins:entity-roles/1160471a-9f8e-4379-85f2-351a2a36ef40
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:objectives/b6e7dfb2-3534-487e-bd8a-d2f58ec47e47
+  roles:
+  - xyzrins:entity-roles/1160471a-9f8e-4379-85f2-351a2a36ef40
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:objectives/99a7e9fe-f8d8-46b8-aa97-44571b0eb3ba
+  roles:
+  - xyzrins:entity-roles/1160471a-9f8e-4379-85f2-351a2a36ef40
+  schema_type: xyzri:XYZInfluence
+pid: xyzrins:.
+schema_type: xyzri:XYZProject
+short_name: PsyInf
+started:
+  at_time: '2013-08-01'
+  schema_type: dlthings:Start
+title: Psychoinformatics

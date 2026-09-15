@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Comparison of different group-level templates in gradient-based multimodal
+    connectivity analysis
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The study of large-scale brain connectivity is increasingly adopting unsupervised
+    approaches that derive low-dimensional spatial representations from high-dimensional
+    connectomes, referred to as gradient analysis. When translating this approach
+    to study interindividual variations in connectivity, one technical issue pertains
+    to the selection of an appropriate group-level template to which individual gradients
+    are aligned. Here, we compared different group-level template construction strategies
+    using functional and structural connectome data from neurotypical controls and
+    individuals with autism spectrum disorder (ASD) to identify between-group differences.
+    We studied multimodal magnetic resonance imaging data obtained from the Autism
+    Brain Imaging Data Exchange (ABIDE) Initiative II and the Human Connectome Project
+    (HCP). We designed six template construction strategies that varied in whether
+    (1) they included typical controls in addition to ASD; or (2) they mapped from
+    one dataset onto another. We found that aligning a combined subject template of
+    the ASD and control subjects from the ABIDE Initiative onto the HCP template exhibited
+    the most pronounced effect size. This strategy showed robust identification of
+    ASD-related brain regions for both functional and structural gradients across
+    different study settings. Replicating the findings on focal epilepsy demonstrated
+    the generalizability of our approach. Our findings will contribute to improving
+    gradient-based connectivity research.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The study of large-scale brain connectivity is increasingly adopting
+  unsupervised approaches that derive low-dimensional spatial representations from
+  high-dimensional connectomes, referred to as gradient analysis. When translating
+  this approach to study interindividual variations in connectivity, one technical
+  issue pertains to the selection of an appropriate group-level template to which
+  individual gradients are aligned. Here, we compared different group-level template
+  construction strategies using functional and structural connectome data from neurotypical
+  controls and individuals with autism spectrum disorder (ASD) to identify between-group
+  differences. We studied multimodal magnetic resonance imaging data obtained from
+  the Autism Brain Imaging Data Exchange (ABIDE) Initiative II and the Human Connectome
+  Project (HCP). We designed six template construction strategies that varied in whether
+  (1) they included typical controls in addition to ASD; or (2) they mapped from one
+  dataset onto another. We found that aligning a combined subject template of the
+  ASD and control subjects from the ABIDE Initiative onto the HCP template exhibited
+  the most pronounced effect size. This strategy showed robust identification of ASD-related
+  brain regions for both functional and structural gradients across different study
+  settings. Replicating the findings on focal epilepsy demonstrated the generalizability
+  of our approach. Our findings will contribute to improving gradient-based connectivity
+  research.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2472-1751
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1162/netn_a_00382
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/eba925a4-08c9-429d-bdcf-7aa73113ecc9
+schema_type: xyzri:XYZPublication
+title: Comparison of different group-level templates in gradient-based multimodal
+  connectivity analysis

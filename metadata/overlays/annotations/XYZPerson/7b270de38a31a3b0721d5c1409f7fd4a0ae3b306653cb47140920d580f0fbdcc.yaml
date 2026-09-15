@@ -1,0 +1,6 @@
+assertions:
+- assertion_sha256: sha256:dde799e4ccc8beefbfb33bbfe3120d293929e0192419a72514ffafe3d8c859b5
+  path: /identifiers
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/857111
+record: xyzrins:persons/michael-hanke

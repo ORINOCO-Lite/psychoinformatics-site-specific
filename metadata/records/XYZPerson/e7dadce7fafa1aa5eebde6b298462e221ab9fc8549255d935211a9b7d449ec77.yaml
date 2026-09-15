@@ -1,0 +1,15 @@
+delegated_by:
+- object: ror:02gm5zw39
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+description: 'Head of the Neurological Clinical Trial Centre. '
+family_name: Reetz
+given_name: Kathrin
+honorific_name_prefix: Prof. Dr.
+identifiers:
+- creator: ror:04fa4r544
+  notation: 0000-0002-9730-9228
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/086e45ca-472d-4419-ad35-9082b142c638
+schema_type: xyzri:XYZPerson

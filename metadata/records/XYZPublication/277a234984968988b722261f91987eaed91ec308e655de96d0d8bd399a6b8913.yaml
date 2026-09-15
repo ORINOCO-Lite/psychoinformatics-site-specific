@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Transdiagnostic subtyping of males with developmental disorders using cortical
+    characteristics
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Background: Autism spectrum disorder (ASD) and attention-deficit/hyperactivity
+    disorder (ADHD) are biologically heterogeneous and often co-occur. As within-diagnosis
+    heterogeneity and overlapping diagnoses are challenging for researchers and clinicians,
+    identifying biologically homogenous subgroups, independent of diagnosis, is an
+    urgent need.Methods: MRI data from 148 adult males with developmental disorders
+    (99 primary ASD, mean age = 31.7 ± 8.0, 49 primary ADHD; mean age = 31.7 ± 9.6)
+    and 105 neurotypical controls (NTC; mean age = 30.6 ± 6.8) were analyzed. We extracted
+    mean cortical thickness (CT) and surface area (SA) values using a functional atlas.
+    Then, we conducted HeterogeneitY through DiscRiminant Analysis (HYDRA) to transdiagnostically
+    cluster and classify individuals. Differences in diagnostic likelihood and clinical
+    symptoms between subtypes were tested. Sensitivity analyses tested the stability
+    of the number of subtypes and their membership by excluding 13 participants diagnosed
+    with both ASD and ADHD and by using a different atlas.Results: In relation to
+    both CT and SA, HYDRA identified two subtypes. The likelihood of ASD or ADHD was
+    not significantly different from the chance of belonging to any of these two subtypes.
+    Clinical characteristics did not differ between subtypes in either CT or SA based
+    analyses. The high consistency in membership was replicated when utilizing a different
+    atlas or excluding people with dual diagnoses in CT (dice coefficients > 0.94)
+    and in SA (>0.88).Conclusion: Although the brain-derived subtypes do not match
+    diagnostic groups, individuals with developmental disorders were successfully
+    and stably subtyped using either CT or SA.Keywords: Attention-deficit/hyperactivity
+    disorder; Autism spectrum disorder; Cortical thickness; HYDRA; Subtype.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Background: Autism spectrum disorder (ASD) and attention-deficit/hyperactivity
+  disorder (ADHD) are biologically heterogeneous and often co-occur. As within-diagnosis
+  heterogeneity and overlapping diagnoses are challenging for researchers and clinicians,
+  identifying biologically homogenous subgroups, independent of diagnosis, is an urgent
+  need.Methods: MRI data from 148 adult males with developmental disorders (99 primary
+  ASD, mean age = 31.7 ± 8.0, 49 primary ADHD; mean age = 31.7 ± 9.6) and 105 neurotypical
+  controls (NTC; mean age = 30.6 ± 6.8) were analyzed. We extracted mean cortical
+  thickness (CT) and surface area (SA) values using a functional atlas. Then, we conducted
+  HeterogeneitY through DiscRiminant Analysis (HYDRA) to transdiagnostically cluster
+  and classify individuals. Differences in diagnostic likelihood and clinical symptoms
+  between subtypes were tested. Sensitivity analyses tested the stability of the number
+  of subtypes and their membership by excluding 13 participants diagnosed with both
+  ASD and ADHD and by using a different atlas.Results: In relation to both CT and
+  SA, HYDRA identified two subtypes. The likelihood of ASD or ADHD was not significantly
+  different from the chance of belonging to any of these two subtypes. Clinical characteristics
+  did not differ between subtypes in either CT or SA based analyses. The high consistency
+  in membership was replicated when utilizing a different atlas or excluding people
+  with dual diagnoses in CT (dice coefficients > 0.94) and in SA (>0.88).Conclusion:
+  Although the brain-derived subtypes do not match diagnostic groups, individuals
+  with developmental disorders were successfully and stably subtyped using either
+  CT or SA.Keywords: Attention-deficit/hyperactivity disorder; Autism spectrum disorder;
+  Cortical thickness; HYDRA; Subtype.'
+generated_by:
+- at_location: ISSN:2213-1582
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.nicl.2020.102288
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/680a41d3-1c10-43ad-be71-80f0ac86b23e
+schema_type: xyzri:XYZPublication
+title: Transdiagnostic subtyping of males with developmental disorders using cortical
+  characteristics

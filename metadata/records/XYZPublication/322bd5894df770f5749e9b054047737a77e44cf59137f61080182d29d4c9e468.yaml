@@ -1,0 +1,59 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Disease-specific resting-state EEG network variations in schizophrenia revealed
+    by the contrastive machine learning
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Given a multitude of genetic and environmental factors, when investigating
+    the variability in schizophrenia (SCZ) and the first-degree relatives (R-SCZ),
+    latent disease-specific variation is usually hidden. To reliably investigate the
+    mechanism underlying the brain deficits from the aspect of functional networks,
+    we newly iterated a framework of contrastive variational autoencoders (cVAEs)
+    applied in the contrasts among three groups, to disentangle the latent resting-state
+    network patterns specified for the SCZ and R-SCZ. We demonstrated that the comparison
+    in reconstructed resting-state networks among SCZ, R-SCZ, and healthy controls
+    (HC) revealed network distortions of the inner-frontal hypoconnectivity and frontal-occipital
+    hyperconnectivity, while the original ones illustrated no differences. And only
+    the classification by adopting the reconstructed network metrics achieved satisfying
+    performances, as the highest accuracy of 96.80% ± 2.87%, along with the precision
+    of 95.05% ± 4.28%, recall of 98.18% ± 3.83%, and F1-score of 96.51% ± 2.83%, was
+    obtained. These findings consistently verified the validity of the newly proposed
+    framework for the contrasts among the three groups and provided related resting-state
+    network evidence for illustrating the pathological mechanism underlying the brain
+    deficits in SCZ, as well as facilitating the diagnosis of SCZ.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Given a multitude of genetic and environmental factors, when investigating
+  the variability in schizophrenia (SCZ) and the first-degree relatives (R-SCZ), latent
+  disease-specific variation is usually hidden. To reliably investigate the mechanism
+  underlying the brain deficits from the aspect of functional networks, we newly iterated
+  a framework of contrastive variational autoencoders (cVAEs) applied in the contrasts
+  among three groups, to disentangle the latent resting-state network patterns specified
+  for the SCZ and R-SCZ. We demonstrated that the comparison in reconstructed resting-state
+  networks among SCZ, R-SCZ, and healthy controls (HC) revealed network distortions
+  of the inner-frontal hypoconnectivity and frontal-occipital hyperconnectivity, while
+  the original ones illustrated no differences. And only the classification by adopting
+  the reconstructed network metrics achieved satisfying performances, as the highest
+  accuracy of 96.80% ± 2.87%, along with the precision of 95.05% ± 4.28%, recall of
+  98.18% ± 3.83%, and F1-score of 96.51% ± 2.83%, was obtained. These findings consistently
+  verified the validity of the newly proposed framework for the contrasts among the
+  three groups and provided related resting-state network evidence for illustrating
+  the pathological mechanism underlying the brain deficits in SCZ, as well as facilitating
+  the diagnosis of SCZ.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0361-9230
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.brainresbull.2023.110744
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/97a3f32d-be45-466a-a878-12c240dcec79
+schema_type: xyzri:XYZPublication
+title: Disease-specific resting-state EEG network variations in schizophrenia revealed
+  by the contrastive machine learning

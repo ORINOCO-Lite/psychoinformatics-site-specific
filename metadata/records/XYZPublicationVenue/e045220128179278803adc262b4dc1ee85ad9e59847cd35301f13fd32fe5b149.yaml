@@ -1,0 +1,9 @@
+display_note: ISSN:0129-0657
+identifiers:
+- creator: ror:026ytr635
+  notation: 0129-0657
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:0129-0657
+schema_type: xyzri:XYZPublicationVenue
+title: International Journal Of Neural Systems

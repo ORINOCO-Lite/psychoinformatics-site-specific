@@ -1,0 +1,72 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/8f836375-520c-43d7-afb6-29abea72c0ab
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Multimodal Parcellations and Extensive Behavioral Profiling Tackling the
+    Hippocampus Gradient
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The hippocampus displays a complex organization and function that is perturbed
+    in many neuropathologies. Histological work revealed a complex arrangement of
+    subfields along the medial–lateral and the ventral–dorsal dimension, which contrasts
+    with the anterior–posterior functional differentiation. The variety of maps has
+    raised the need for an integrative multimodal view. We applied connectivity-based
+    parcellation to 1) intrinsic connectivity 2) task-based connectivity, and 3) structural
+    covariance, as complementary windows into structural and functional differentiation
+    of the hippocampus. Strikingly, while functional properties (i.e., intrinsic and
+    task-based) revealed similar partitions dominated by an anterior–posterior organization,
+    structural covariance exhibited a hybrid pattern reflecting both functional and
+    cytoarchitectonic subdivision. Capitalizing on the consistency of functional parcellations,
+    we defined robust functional maps at different levels of partitions, which are
+    openly available for the scientific community. Our functional maps demonstrated
+    a head–body and tail partition, subdivided along the anterior–posterior and medial–lateral
+    axis. Behavioral profiling of these fine partitions based on activation data indicated
+    an emotion–cognition gradient along the anterior–posterior axis and additionally
+    suggested a self-world-centric gradient supporting the role of the hippocampus
+    in the construction of abstract representations for spatial navigation and episodic
+    memory.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The hippocampus displays a complex organization and function that is
+  perturbed in many neuropathologies. Histological work revealed a complex arrangement
+  of subfields along the medial–lateral and the ventral–dorsal dimension, which contrasts
+  with the anterior–posterior functional differentiation. The variety of maps has
+  raised the need for an integrative multimodal view. We applied connectivity-based
+  parcellation to 1) intrinsic connectivity 2) task-based connectivity, and 3) structural
+  covariance, as complementary windows into structural and functional differentiation
+  of the hippocampus. Strikingly, while functional properties (i.e., intrinsic and
+  task-based) revealed similar partitions dominated by an anterior–posterior organization,
+  structural covariance exhibited a hybrid pattern reflecting both functional and
+  cytoarchitectonic subdivision. Capitalizing on the consistency of functional parcellations,
+  we defined robust functional maps at different levels of partitions, which are openly
+  available for the scientific community. Our functional maps demonstrated a head–body
+  and tail partition, subdivided along the anterior–posterior and medial–lateral axis.
+  Behavioral profiling of these fine partitions based on activation data indicated
+  an emotion–cognition gradient along the anterior–posterior axis and additionally
+  suggested a self-world-centric gradient supporting the role of the hippocampus in
+  the construction of abstract representations for spatial navigation and episodic
+  memory.
+generated_by:
+- at_location: ISSN:1047-3211
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/cercor/bhy336
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/c1c30a1e-3029-42d5-b3b3-beb75d4e4efa
+schema_type: xyzri:XYZPublication
+title: Multimodal Parcellations and Extensive Behavioral Profiling Tackling the Hippocampus
+  Gradient

@@ -1,0 +1,81 @@
+attributed_to:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d25533c9-aef7-428e-a9e9-f2cbc5acf3a1
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Intrinsic connectivity patterns of striatal subfields predict individual
+    dimensions of psychopathology and are associated with cholinergic and serotonergic
+    neurotransmission in schizophrenia
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: AbstractSymptoms of schizophrenia may reflect different pathophysiological
+    processes in the striatum, but the links between striatal subfield connectivity,
+    symptom dimensions, and molecular architectures remain unclear. Using connectivity
+    profiles from 12 striatal subfields to predict negative, positive, affective,
+    and cognitive symptoms in schizophrenia, we identified consistent connectivity
+    features through cross-validations and validated with leave-one-site-out analysis
+    and an independent dataset. Feature importance scores for brain parcels linked
+    through consistent connectivity features that predicted symptoms were spatially
+    correlated with density maps of 19 receptors/transporters from prior molecular
+    imaging in healthy populations using partial least squares. We found that the
+    connectivity profiles of the rostral and ventral striatal subfields significantly
+    predicted affective and cognitive symptoms, respectively, and these predictions
+    were generalized to the independent sample. Feature importance scores for brain
+    parcels connected to the ventral striatum (predicting cognitive symptoms) were
+    spatially correlated with density maps of both the vesicular acetylcholine transporter
+    and the serotonin 1 A receptor. By contrast, importance scores for parcels linked
+    to rostral striatal connectivity (predicting affective symptoms) were specifically
+    associated with the spatial distribution of the serotonin 1 A receptor. Here,
+    we show specific striatal connectivity patterns related to symptom dimensions
+    and indicate multiple neurotransmitter systems to underlie the reward-related
+    disturbances in schizophrenia.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: AbstractSymptoms of schizophrenia may reflect different pathophysiological
+  processes in the striatum, but the links between striatal subfield connectivity,
+  symptom dimensions, and molecular architectures remain unclear. Using connectivity
+  profiles from 12 striatal subfields to predict negative, positive, affective, and
+  cognitive symptoms in schizophrenia, we identified consistent connectivity features
+  through cross-validations and validated with leave-one-site-out analysis and an
+  independent dataset. Feature importance scores for brain parcels linked through
+  consistent connectivity features that predicted symptoms were spatially correlated
+  with density maps of 19 receptors/transporters from prior molecular imaging in healthy
+  populations using partial least squares. We found that the connectivity profiles
+  of the rostral and ventral striatal subfields significantly predicted affective
+  and cognitive symptoms, respectively, and these predictions were generalized to
+  the independent sample. Feature importance scores for brain parcels connected to
+  the ventral striatum (predicting cognitive symptoms) were spatially correlated with
+  density maps of both the vesicular acetylcholine transporter and the serotonin 1
+  A receptor. By contrast, importance scores for parcels linked to rostral striatal
+  connectivity (predicting affective symptoms) were specifically associated with the
+  spatial distribution of the serotonin 1 A receptor. Here, we show specific striatal
+  connectivity patterns related to symptom dimensions and indicate multiple neurotransmitter
+  systems to underlie the reward-related disturbances in schizophrenia.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0893-133X
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41386-026-02354-w
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/ec861c9a-a4db-4271-ad1b-259f54c4e815
+schema_type: xyzri:XYZPublication
+title: Intrinsic connectivity patterns of striatal subfields predict individual dimensions
+  of psychopathology and are associated with cholinergic and serotonergic neurotransmission
+  in schizophrenia

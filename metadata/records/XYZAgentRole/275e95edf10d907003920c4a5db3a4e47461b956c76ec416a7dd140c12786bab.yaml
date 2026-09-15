@@ -1,0 +1,5 @@
+description: A person or organization performing the coding of SGML, HTML, or XML
+  markup of metadata, text, etc.
+display_label: Markup editor
+pid: marcrel:mrk
+schema_type: xyzri:XYZAgentRole

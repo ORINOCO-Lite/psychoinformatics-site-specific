@@ -1,0 +1,79 @@
+attributed_to:
+- object: xyzrins:persons/0767650a-2548-4ec6-a1ad-68f8e4e6c214
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Brain dynamics and connectivity networks under natural auditory stimulation.
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The analysis of functional magnetic resonance imaging (fMRI) data is challenging
+    when subjects are under exposure to natural sensory stimulation. In this study,
+    a two-stage approach was developed to enable the identification of connectivity
+    networks involved in the processing of information in the brain under natural
+    sensory stimulation. In the first stage, the degree of concordance between the
+    results of inter-subject and intra-subject correlation analyses is assessed statistically.
+    The microstructurally (i.e., cytoarchitectonically) defined brain areas are designated
+    either as concordant in which the results of both correlation analyses are in
+    agreement, or as discordant in which one analysis method shows a higher proportion
+    of supra-threshold voxels than does the other. In the second stage, connectivity
+    networks are identified using the time courses of supra-threshold voxels in brain
+    areas, contingent upon the classifications derived in the first stage. In an empirical
+    study, fMRI data were collected from 40 young adults (19 males, average age 22.76 ± 3.25),
+    who underwent auditory stimulation involving sound clips of human voices and animal
+    vocalizations under two operational conditions (i.e., eyes-closed and eyes-open).
+    The operational conditions were designed to assess confounding effects due to
+    auditory instructions or visual perception. The proposed two-stage analysis demonstrated
+    that stress modulation (affective) and language networks in the limbic and cortical
+    structures were respectively engaged during sound stimulation, and presented considerable
+    variability among subjects. The network involved in regulating visuomotor control
+    was sensitive to the eyes-open instruction, and presented only small variations
+    among subjects. A high degree of concordance was observed between the two analyses
+    in the primary auditory cortex which was highly sensitive to the pitch of sound
+    clips. Our results have indicated that brain areas can be identified as concordant
+    or discordant based on the two correlation analyses. This may further facilitate
+    the search for connectivity networks involved in the processing of information
+    under natural sensory stimulation.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The analysis of functional magnetic resonance imaging (fMRI) data is
+  challenging when subjects are under exposure to natural sensory stimulation. In
+  this study, a two-stage approach was developed to enable the identification of connectivity
+  networks involved in the processing of information in the brain under natural sensory
+  stimulation. In the first stage, the degree of concordance between the results of
+  inter-subject and intra-subject correlation analyses is assessed statistically.
+  The microstructurally (i.e., cytoarchitectonically) defined brain areas are designated
+  either as concordant in which the results of both correlation analyses are in agreement,
+  or as discordant in which one analysis method shows a higher proportion of supra-threshold
+  voxels than does the other. In the second stage, connectivity networks are identified
+  using the time courses of supra-threshold voxels in brain areas, contingent upon
+  the classifications derived in the first stage. In an empirical study, fMRI data
+  were collected from 40 young adults (19 males, average age 22.76 ± 3.25), who underwent
+  auditory stimulation involving sound clips of human voices and animal vocalizations
+  under two operational conditions (i.e., eyes-closed and eyes-open). The operational
+  conditions were designed to assess confounding effects due to auditory instructions
+  or visual perception. The proposed two-stage analysis demonstrated that stress modulation
+  (affective) and language networks in the limbic and cortical structures were respectively
+  engaged during sound stimulation, and presented considerable variability among subjects.
+  The network involved in regulating visuomotor control was sensitive to the eyes-open
+  instruction, and presented only small variations among subjects. A high degree of
+  concordance was observed between the two analyses in the primary auditory cortex
+  which was highly sensitive to the pitch of sound clips. Our results have indicated
+  that brain areas can be identified as concordant or discordant based on the two
+  correlation analyses. This may further facilitate the search for connectivity networks
+  involved in the processing of information under natural sensory stimulation.
+generated_by:
+- at_location: ISSN:1053-8119
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2019.116042
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/6ff6c546-7faa-48e2-a7f4-56df378565b6
+schema_type: xyzri:XYZPublication
+title: Brain dynamics and connectivity networks under natural auditory stimulation.

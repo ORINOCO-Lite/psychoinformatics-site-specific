@@ -1,0 +1,81 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-08T13:19:16.605254'
+associated_with:
+- object: xyzrins:persons/falko-kaule
+  roles:
+  - marcrel:aut
+  - marcrel:dtc
+  - marcrel:rtm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/alex-waite
+  roles:
+  - marcrel:dsr
+  schema_type: dlthings:Association
+- object: xyzrins:persons/ayan-sengupta
+  roles:
+  - marcrel:aut
+  - marcrel:dtc
+  - marcrel:res
+  schema_type: dlthings:Association
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - marcrel:cre
+  schema_type: dlthings:Association
+attributes:
+- predicate: foaf:homepage
+  schema_type: dlthings:AttributeSpecification
+  value: https://www.studyforrest.org
+description: 'StudyForrest is a long-term, open neuroscience project that provides
+  richly annotated neuroimaging and behavioral data collected while participants experienced
+  naturalistic stimuli—most famously the full-length film “Forrest Gump.” The project’s
+  goal is to enable reproducible research on how the human brain processes complex,
+  real-world sensory input (audio, visual, narrative) by offering multimodal datasets:
+  functional MRI (including retinotopy and natural vision runs), structural MRI, physiological
+  recordings, eye-tracking, and detailed stimulus annotations (timing of scenes, audio
+  transcripts, visual feature labels). Data are organized and shared in standard formats
+  to ease reuse and comparison across labs.
+
+
+  Beyond the original movie-viewing dataset, StudyForrest expanded to include tasks
+  probing face perception, voice and language processing, and individual differences,
+  plus high-quality metadata and code for stimulus presentation and analysis. Its
+  emphasis on naturalistic paradigms and open data has made it a valuable resource
+  for studying temporal dynamics, cross-modal integration, and models of brain activity
+  driven by rich, ecologically valid stimuli, supporting efforts in machine-learning-based
+  encoding/decoding and reproducible neuroscience.'
+influenced_by:
+- object: xyzrins:grants/hyperalignment
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:objectives/99a7e9fe-f8d8-46b8-aa97-44571b0eb3ba
+  roles:
+  - xyzrins:entity-roles/1160471a-9f8e-4379-85f2-351a2a36ef40
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:objectives/b6e7dfb2-3534-487e-bd8a-d2f58ec47e47
+  roles:
+  - FRAPO:Deliverable
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:objectives/87be5fa3-80fb-4221-8406-2ddd40fb1fd1
+  roles:
+  - FRAPO:Deliverable
+  schema_type: xyzri:XYZInfluence
+informed_by:
+- object: xyzrins:projects/datalad
+  roles:
+  - obo:IAO_0000010
+  schema_type: xyzri:XYZCommunication
+part_of:
+- xyzrins:.
+pid: xyzrins:projects/studyforrest
+schema_type: xyzri:XYZProject
+short_name: studyforrest
+started:
+  at_time: '2013-06-01'
+  schema_type: dlthings:Start
+title: Study Forrest

@@ -1,0 +1,9 @@
+display_note: ISSN:1437-1596
+identifiers:
+- creator: ror:026ytr635
+  notation: 1437-1596
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:1437-1596
+schema_type: xyzri:XYZPublicationVenue
+title: International Journal Of Legal Medicine

@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/11bba584-d08e-47f2-b3d4-980c5472dca3
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c3e4db14-5d1c-4156-bb3e-ffc905751e98
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Delineating visual, auditory and motor regions in the human brain with functional
+    neuroimaging: a BrainMap-based meta-analytic synthesis'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Most everyday behaviors and laboratory tasks rely on visual, auditory and/or
+    motor-related processes. Yet, to date, there has been no large-scale quantitative
+    synthesis of functional neuroimaging studies mapping the brain regions consistently
+    recruited during such perceptuo-motor processing. We therefore performed three
+    coordinate-based meta-analyses, sampling the results of neuroimaging experiments
+    on visual (n = 114), auditory (n = 122), or motor-related (n = 251) processing,
+    respectively, from the BrainMap database. Our analyses yielded both regions known
+    to be recruited for basic perceptual or motor processes and additional regions
+    in posterior frontal cortex. Comparing our results with data-driven network definitions
+    based on resting-state functional connectivity revealed good overlap in expected
+    regions but also showed that perceptual and motor task-related activations consistently
+    involve additional frontal, cerebellar, and subcortical areas associated with
+    "higher-order" cognitive functions, extending beyond what is captured when the
+    brain is at "rest." Our resulting sets of domain-typical brain regions can be
+    used by the neuroimaging community as robust functional definitions or masks of
+    regions of interest when investigating brain correlates of perceptual or motor
+    processes and their interplay with other mental functions such as cognitive control
+    or affective processing. The maps are made publicly available via the ANIMA database.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Most everyday behaviors and laboratory tasks rely on visual, auditory
+  and/or motor-related processes. Yet, to date, there has been no large-scale quantitative
+  synthesis of functional neuroimaging studies mapping the brain regions consistently
+  recruited during such perceptuo-motor processing. We therefore performed three coordinate-based
+  meta-analyses, sampling the results of neuroimaging experiments on visual (n = 114),
+  auditory (n = 122), or motor-related (n = 251) processing, respectively, from the
+  BrainMap database. Our analyses yielded both regions known to be recruited for basic
+  perceptual or motor processes and additional regions in posterior frontal cortex.
+  Comparing our results with data-driven network definitions based on resting-state
+  functional connectivity revealed good overlap in expected regions but also showed
+  that perceptual and motor task-related activations consistently involve additional
+  frontal, cerebellar, and subcortical areas associated with "higher-order" cognitive
+  functions, extending beyond what is captured when the brain is at "rest." Our resulting
+  sets of domain-typical brain regions can be used by the neuroimaging community as
+  robust functional definitions or masks of regions of interest when investigating
+  brain correlates of perceptual or motor processes and their interplay with other
+  mental functions such as cognitive control or affective processing. The maps are
+  made publicly available via the ANIMA database.
+generated_by:
+- at_location: ISSN:2045-2322
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41598-021-88773-9
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/6c500c07-7105-4186-b2cc-9c2698cfc65b
+schema_type: xyzri:XYZPublication
+title: 'Delineating visual, auditory and motor regions in the human brain with functional
+  neuroimaging: a BrainMap-based meta-analytic synthesis'

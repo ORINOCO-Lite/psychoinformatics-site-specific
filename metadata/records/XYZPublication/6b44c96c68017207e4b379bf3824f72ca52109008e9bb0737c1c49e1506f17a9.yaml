@@ -1,0 +1,26 @@
+attributed_to:
+- object: xyzrins:persons/d1eb4dfd-cb51-4f4b-b55c-a65d1faf769d
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Die Sinnfrage in der Medizinethik
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:0935-7335
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00481-021-00664-9
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/a05dc1b5-ff95-4d7a-8594-4d5cca602b55
+schema_type: xyzri:XYZPublication
+title: Die Sinnfrage in der Medizinethik

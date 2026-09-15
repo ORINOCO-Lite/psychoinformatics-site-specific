@@ -1,0 +1,79 @@
+attributed_to:
+- object: xyzrins:persons/6ae68288-73ec-491b-a25f-75bbf9783e70
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Reduced inter-subject functional connectivity during movies in autism: replicability
+    across cross-national fMRI datasets'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: BackgroundAutism is a neurodevelopmental disorder characterized by repetitive
+    behaviors and difficulties in social communication and interaction. Previous research
+    has shown that these symptoms are linked to idiosyncratic behavioral and brain
+    activity patterns while viewing natural social events in movies. This study aimed
+    to investigate the replicability of brain activity idiosyncrasy in adult autistic
+    individuals by comparing their inter-subject functional connectivity (ISFC) with
+    that of neurotypical individuals.MethodsWe tested for ISFC differences between
+    adult autistic and neurotypical groups using functional magnetic resonance imaging
+    (fMRI) data from two independent datasets from Germany (Nneurotypical = 25, 7
+    Males, 18 Females; Nautism = 22, 12 Males, 10 Females) and Finland (Nneurotypical
+    = 19, Nautism = 18; All males). Participants watched short movie stimuli, and
+    pairwise ISFCs were computed across 273 brain regions. Group differences were
+    evaluated using subject-wise permutation tests for each dataset.ResultsIn both
+    datasets, the autistic group showed lower ISFCs compared to the neurotypical group,
+    specifically between visual regions (e.g., occipital gyrus, cuneus) and parietal
+    regions (e.g., superior and inferior parietal lobules), as well as between visual
+    regions and frontal regions (e.g., inferior frontal gyrus, precentral gyrus).
+    ISFC was higher in the Finnish autistic group in temporal regions associated with
+    sound and speech processing.LimitationsLarger multi-site datasets using diverse
+    analysis pipelines are needed to evaluate the robustness and replicability of
+    current findings. They are also essential for evaluating the reliability of the
+    subject-wise permutation method without explicit correction for multiple comparisons.ConclusionsThe
+    study confirmed the replicability of reduced ISFCs in adult autistic individuals
+    during naturalistic movie-watching, especially between visual and parietal/frontal
+    brain regions. These findings reinforce the utility of ISFC and naturalistic movie-watching
+    paradigm in studying neural connectivity alterations in autism.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: BackgroundAutism is a neurodevelopmental disorder characterized by repetitive
+  behaviors and difficulties in social communication and interaction. Previous research
+  has shown that these symptoms are linked to idiosyncratic behavioral and brain activity
+  patterns while viewing natural social events in movies. This study aimed to investigate
+  the replicability of brain activity idiosyncrasy in adult autistic individuals by
+  comparing their inter-subject functional connectivity (ISFC) with that of neurotypical
+  individuals.MethodsWe tested for ISFC differences between adult autistic and neurotypical
+  groups using functional magnetic resonance imaging (fMRI) data from two independent
+  datasets from Germany (Nneurotypical = 25, 7 Males, 18 Females; Nautism = 22, 12
+  Males, 10 Females) and Finland (Nneurotypical = 19, Nautism = 18; All males). Participants
+  watched short movie stimuli, and pairwise ISFCs were computed across 273 brain regions.
+  Group differences were evaluated using subject-wise permutation tests for each dataset.ResultsIn
+  both datasets, the autistic group showed lower ISFCs compared to the neurotypical
+  group, specifically between visual regions (e.g., occipital gyrus, cuneus) and parietal
+  regions (e.g., superior and inferior parietal lobules), as well as between visual
+  regions and frontal regions (e.g., inferior frontal gyrus, precentral gyrus). ISFC
+  was higher in the Finnish autistic group in temporal regions associated with sound
+  and speech processing.LimitationsLarger multi-site datasets using diverse analysis
+  pipelines are needed to evaluate the robustness and replicability of current findings.
+  They are also essential for evaluating the reliability of the subject-wise permutation
+  method without explicit correction for multiple comparisons.ConclusionsThe study
+  confirmed the replicability of reduced ISFCs in adult autistic individuals during
+  naturalistic movie-watching, especially between visual and parietal/frontal brain
+  regions. These findings reinforce the utility of ISFC and naturalistic movie-watching
+  paradigm in studying neural connectivity alterations in autism.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:2040-2392
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1186/s13229-026-00707-2
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/7757bb94-ed42-4976-9b19-54d8c1c2ebed
+schema_type: xyzri:XYZPublication
+title: 'Reduced inter-subject functional connectivity during movies in autism: replicability
+  across cross-national fMRI datasets'

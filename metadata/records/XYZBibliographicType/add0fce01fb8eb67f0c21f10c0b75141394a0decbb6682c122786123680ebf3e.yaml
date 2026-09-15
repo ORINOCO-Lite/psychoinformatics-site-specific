@@ -1,0 +1,8 @@
+description: The realization of a grant application, usually containing a case for
+  support document. This is a document containing the case for support for a particular
+  project, usually contained within a grant application document but sometimes distributed
+  separately, without the financial and organizational information that the grant
+  application document also contains.
+display_label: Grant application document
+pid: fabio:GrantApplicationDocument
+schema_type: xyzri:XYZBibliographicType

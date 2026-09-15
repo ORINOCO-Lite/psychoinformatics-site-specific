@@ -1,0 +1,75 @@
+attributed_to:
+- object: xyzrins:persons/81b3a1a2-cde7-46c2-8edd-87145adc579e
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/3cf923ff-969d-4224-bb7b-9f319f0b1564
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Recovery-associated resting-state activity and connectivity alterations in
+    Anorexia nervosa
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Background: Previous studies provided controversial insight on the impact
+    of starvation, disease status and underlying grey matter volume (GMV) changes
+    on resting-state functional magnetic resonance imaging (rsfMRI) alterations in
+    Anorexia nervosa (AN). Here we adapt a combined longitudinal and cross-sectional
+    approach to disentangle the effects of these factors on resting-state alterations
+    in AN.Methods: Overall, 87 female subjects were included in the study: adolescent
+    patients with acute AN scanned at inpatient admission (N = 22, mean age 15.3 years)
+    and at discharge (N = 21), 21 patients recovered from AN (22.3 years) and two
+    groups of healthy age-matched controls (both N = 22, 16.0 and 22.5 years). Whole-brain
+    measures of resting-state activity and functional connectivity were computed (Network
+    Based Statistics, Global Correlation, Integrated Local Correlation, fractional
+    Amplitude of Low Frequency Fluctuations) to assess rsfMRI alterations over the
+    course of AN treatment before and after controlling for underlying GMV.Results:
+    Patients with acute AN displayed strong and widespread prefrontal, sensorimotor,
+    parietal, temporal, precuneal and insular reductions of resting-state connectivity
+    and activity. All alterations were independent of GMV and were largely normalized
+    in short- and absent in long-term recovered AN.Conclusions: Resting-state fMRI
+    alterations in AN constitute acute and GMV independent presumably starvation-related
+    phenomena. The majority of alterations found here normalized over the course of
+    recovery without evidence for possible preexisting trait- or remaining "scar"-effects.Keywords:
+    Anorexia nervosa; functional connectivity; grey matter volume; longitudinal; recovery;
+    resting-state functional magnetic resonance imaging.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Background: Previous studies provided controversial insight on the impact
+  of starvation, disease status and underlying grey matter volume (GMV) changes on
+  resting-state functional magnetic resonance imaging (rsfMRI) alterations in Anorexia
+  nervosa (AN). Here we adapt a combined longitudinal and cross-sectional approach
+  to disentangle the effects of these factors on resting-state alterations in AN.Methods:
+  Overall, 87 female subjects were included in the study: adolescent patients with
+  acute AN scanned at inpatient admission (N = 22, mean age 15.3 years) and at discharge
+  (N = 21), 21 patients recovered from AN (22.3 years) and two groups of healthy age-matched
+  controls (both N = 22, 16.0 and 22.5 years). Whole-brain measures of resting-state
+  activity and functional connectivity were computed (Network Based Statistics, Global
+  Correlation, Integrated Local Correlation, fractional Amplitude of Low Frequency
+  Fluctuations) to assess rsfMRI alterations over the course of AN treatment before
+  and after controlling for underlying GMV.Results: Patients with acute AN displayed
+  strong and widespread prefrontal, sensorimotor, parietal, temporal, precuneal and
+  insular reductions of resting-state connectivity and activity. All alterations were
+  independent of GMV and were largely normalized in short- and absent in long-term
+  recovered AN.Conclusions: Resting-state fMRI alterations in AN constitute acute
+  and GMV independent presumably starvation-related phenomena. The majority of alterations
+  found here normalized over the course of recovery without evidence for possible
+  preexisting trait- or remaining "scar"-effects.Keywords: Anorexia nervosa; functional
+  connectivity; grey matter volume; longitudinal; recovery; resting-state functional
+  magnetic resonance imaging.'
+generated_by:
+- at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.bpsc.2021.03.006
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/2e81b940-5970-4c08-b8c0-1b85b36c6ba2
+schema_type: xyzri:XYZPublication
+title: Recovery-associated resting-state activity and connectivity alterations in
+  Anorexia nervosa

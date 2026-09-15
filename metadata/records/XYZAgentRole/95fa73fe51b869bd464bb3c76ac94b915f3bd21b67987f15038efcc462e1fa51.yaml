@@ -1,0 +1,4 @@
+description: A role taken by a person who serves as a contact for some process.
+display_label: Contact person
+pid: obo:MS_1002030
+schema_type: xyzri:XYZAgentRole

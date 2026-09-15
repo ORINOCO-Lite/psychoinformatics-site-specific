@@ -1,0 +1,72 @@
+attributed_to:
+- object: xyzrins:persons/d4e23096-f9d8-47e0-bb48-a25ba181f202
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/269a3b65-df26-4c0d-a6a9-2c4410750dc8
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/9d1d9209-a21a-43d8-aceb-f95b48933639
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Structural imaging studies of patients with chronic pain: an anatomical
+    likelihood estimate meta-analysis'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Neuroimaging is a powerful tool to investigate potential associations between
+    chronic pain and brain structure. However, the proliferation of studies across
+    diverse chronic pain syndromes and heterogeneous results challenges data integration
+    and interpretation. We conducted a preregistered anatomical likelihood estimate
+    meta-analysis on structural magnetic imaging studies comparing patients with chronic
+    pain and healthy controls. Specifically, we investigated a broad range of measures
+    of brain structure as well as specific alterations in gray matter and cortical
+    thickness. A total of 7849 abstracts of experiments published between January
+    1, 1990, and April 26, 2021, were identified from 8 databases and evaluated by
+    2 independent reviewers. Overall, 103 experiments with a total of 5075 participants
+    met the preregistered inclusion criteria. After correction for multiple comparisons
+    using the gold-standard family-wise error correction (P < 0.05), no significant
+    differences associated with chronic pain were found. However, exploratory analyses
+    using threshold-free cluster enhancement revealed several spatially distributed
+    clusters showing structural alterations in chronic pain. Most of the clusters
+    coincided with regions implicated in nociceptive processing including the amygdala,
+    thalamus, hippocampus, insula, anterior cingulate cortex, and inferior frontal
+    gyrus. Taken together, these results suggest that chronic pain is associated with
+    subtle, spatially distributed alterations of brain structure.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Neuroimaging is a powerful tool to investigate potential associations
+  between chronic pain and brain structure. However, the proliferation of studies
+  across diverse chronic pain syndromes and heterogeneous results challenges data
+  integration and interpretation. We conducted a preregistered anatomical likelihood
+  estimate meta-analysis on structural magnetic imaging studies comparing patients
+  with chronic pain and healthy controls. Specifically, we investigated a broad range
+  of measures of brain structure as well as specific alterations in gray matter and
+  cortical thickness. A total of 7849 abstracts of experiments published between January
+  1, 1990, and April 26, 2021, were identified from 8 databases and evaluated by 2
+  independent reviewers. Overall, 103 experiments with a total of 5075 participants
+  met the preregistered inclusion criteria. After correction for multiple comparisons
+  using the gold-standard family-wise error correction (P < 0.05), no significant
+  differences associated with chronic pain were found. However, exploratory analyses
+  using threshold-free cluster enhancement revealed several spatially distributed
+  clusters showing structural alterations in chronic pain. Most of the clusters coincided
+  with regions implicated in nociceptive processing including the amygdala, thalamus,
+  hippocampus, insula, anterior cingulate cortex, and inferior frontal gyrus. Taken
+  together, these results suggest that chronic pain is associated with subtle, spatially
+  distributed alterations of brain structure.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:0304-3959
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1097/j.pain.0000000000002681
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/0965b456-d456-4a18-bf7b-a0c38f43e03a
+schema_type: xyzri:XYZPublication
+title: 'Structural imaging studies of patients with chronic pain: an anatomical likelihood
+  estimate meta-analysis'

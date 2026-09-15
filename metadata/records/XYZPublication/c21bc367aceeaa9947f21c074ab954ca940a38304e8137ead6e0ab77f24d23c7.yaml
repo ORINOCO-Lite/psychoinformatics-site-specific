@@ -1,0 +1,53 @@
+attributed_to:
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Rank Selection in Non-negative Matrix Factorization: systematic comparison
+    and a new MAD metric'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Non-Negative Matrix Factorization (NMF) is apowerful dimensionality reduction
+    and factorization method thatprovides a part-based representation of the data.
+    In the absence ofa priori knowledge about the latent dimensionality of the data,
+    itis necessary to select a rank of the reduced representation. Severalrank selection
+    methods have been proposed, but no consensusexists on when a method is suitable
+    to use. In this work, we proposea new metric for rank selection based on imputation
+    crossvalidation,and we systematically compare it against six othermetrics while
+    assessing the effects of data properties. Usingsynthetic datasets with different
+    properties, our work criticallyevidences that most methods fail to identify the
+    true rank. Weshow that properties of the data heavily impact the ability ofdifferent
+    methods. Imputation-based metrics, including our newMADimput, provided the best
+    accuracy irrespective of the datatype, but no solution worked perfectly in all
+    circumstances. Oneshould therefore carefully assess characteristics of their dataset
+    inorder to identify the most suitable metric for rank selection.
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+description: Non-Negative Matrix Factorization (NMF) is apowerful dimensionality reduction
+  and factorization method thatprovides a part-based representation of the data. In
+  the absence ofa priori knowledge about the latent dimensionality of the data, itis
+  necessary to select a rank of the reduced representation. Severalrank selection
+  methods have been proposed, but no consensusexists on when a method is suitable
+  to use. In this work, we proposea new metric for rank selection based on imputation
+  crossvalidation,and we systematically compare it against six othermetrics while
+  assessing the effects of data properties. Usingsynthetic datasets with different
+  properties, our work criticallyevidences that most methods fail to identify the
+  true rank. Weshow that properties of the data heavily impact the ability ofdifferent
+  methods. Imputation-based metrics, including our newMADimput, provided the best
+  accuracy irrespective of the datatype, but no solution worked perfectly in all circumstances.
+  Oneshould therefore carefully assess characteristics of their dataset inorder to
+  identify the most suitable metric for rank selection.
+identifiers:
+- notation: 10.1109/IJCNN.2019.8852146
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/05409dbd-2a3b-4e13-949d-2c291b0bc78d
+schema_type: xyzri:XYZPublication
+title: 'Rank Selection in Non-negative Matrix Factorization: systematic comparison
+  and a new MAD metric'

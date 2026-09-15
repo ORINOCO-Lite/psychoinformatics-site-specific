@@ -1,0 +1,9 @@
+display_note: ISSN:2047-217X
+identifiers:
+- creator: ror:026ytr635
+  notation: 2047-217X
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:2047-217X
+schema_type: xyzri:XYZPublicationVenue
+title: GigaScience

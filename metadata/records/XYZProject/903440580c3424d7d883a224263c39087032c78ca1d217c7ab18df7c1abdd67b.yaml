@@ -1,0 +1,32 @@
+associated_with:
+- object: xyzrins:persons/60feb346-954c-4625-93d6-1b8bd1ca0dfa
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+description: The NAViStem3D project examines the ethical, epistemological, and societal
+  issues surrounding neural organoids—that is, three-dimensional brain models derived
+  from human stem cells. These organoids offer great potential for research into brain
+  development and diseases such as Alzheimer’s and autism, but at the same time raise
+  questions about moral status, data protection, and risks to donors.
+ended:
+  at_time: '2029-02-28'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2029-02-28'
+    schema_type: dlthings:End
+  object: xyzrins:grants/f8bc2700-ada4-4f4d-aae1-886c43026ba7
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2026-03-01'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/20cb1e21-9518-4d22-bfe3-fe87a1587736
+schema_type: xyzri:XYZProject
+short_name: NAWiStem3D
+started:
+  at_time: '2026-03-01'
+  schema_type: dlthings:Start
+title: 'Neuronale Organoide: Wissenschaftstheoretische, ethische und rechtliche Implikationen
+  alternativer, aus Stammzellen gewonnener 3D-Modelle'

@@ -1,0 +1,4 @@
+description: The academic degree of a Thesis
+display_label: Thesis degree
+pid: bibo:ThesisDegree
+schema_type: xyzri:XYZBibliographicType

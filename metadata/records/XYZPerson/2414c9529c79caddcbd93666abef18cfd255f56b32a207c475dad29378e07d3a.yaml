@@ -1,0 +1,45 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: s.heunis@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-06-02T12:25:08.068045'
+attributes:
+- predicate: foaf:homepage
+  schema_type: dlthings:AttributeSpecification
+  value: https://mszczepanik.eu/
+delegated_by:
+- attributes:
+  - predicate: vcard:Email
+    schema_type: dlthings:AttributeSpecification
+    value: m.szczepanik@fz-juelich.de
+  object: ror:02nv7yv05
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+  started:
+    at_time: '2021-09-01'
+    schema_type: dlthings:Start
+depiction:
+- xyzrins:depictions/1208f28d-0f31-4727-8334-b8f0061fecb6
+- xyzrins:depictions/7cb88436-b316-45cd-9897-815973a2ace8
+description: Apparent in some Psychoinformatics projects, but hidden from others,
+  his myth is both his curse and inconsistency brought to the research software engineering.
+  Once believed to be led by research centers unknown, only curiosity now leads this
+  wandering postdoc through the plains of research data management.
+family_name: Szczepanik
+given_name: Michał
+honorific_name_prefix: Dr
+identifiers:
+- creator: https://masto.ai/
+  notation: '@doktorpanik'
+  schema_type: dlthings:Identifier
+- creator: ror:04fa4r544
+  notation: 0000-0002-4028-2087
+  schema_type: xyzri:ORCID
+- creator: rrid:SCR_002630
+  notation: mslw
+  schema_type: dlthings:Identifier
+pid: xyzrins:persons/michal-szczepanik
+schema_type: xyzri:XYZPerson

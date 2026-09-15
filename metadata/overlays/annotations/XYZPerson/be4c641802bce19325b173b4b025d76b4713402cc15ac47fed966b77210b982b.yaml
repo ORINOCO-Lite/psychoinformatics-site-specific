@@ -1,0 +1,10 @@
+assertions:
+- assertion_sha256: sha256:027697c4a40657c151dfdf5968f040f493815b59ec229e91b222d87dd9d4187d
+  path: /identifiers
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/834306
+- assertion_sha256: sha256:8dadbbb09d4eb25ad66b0fcf7b3573bc17154e65b86746696968d6b9fc9c8e97
+  path: /identifiers
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/834306
+record: xyzrins:persons/d4e23096-f9d8-47e0-bb48-a25ba181f202

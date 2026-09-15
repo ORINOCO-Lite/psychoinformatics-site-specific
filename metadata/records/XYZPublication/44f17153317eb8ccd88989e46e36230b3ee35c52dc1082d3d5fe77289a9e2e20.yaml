@@ -1,0 +1,50 @@
+attributed_to:
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Atypical structural connectome asymmetry and associations with network communication
+    in autism spectrum disorder
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Autism spectrum disorder is a common neurodevelopmental condition showing
+    connectome disorganization in sensory and transmodal cortices. However, alterations
+    in the inter-hemispheric asymmetry of structural connectome are remained to be
+    investigated. Here, we studied structural connectome asymmetry in individuals
+    with autism using dimensionality reduction techniques and assessed its topological
+    underpinnings by associating with network communication measures. We found that
+    the sensory and heteromodal association regions showed significant between-group
+    differences in inter-hemispheric asymmetry between individuals with autism and
+    neurotypical controls. In addition, the network communication ability was particularly
+    altered between visual and limbic areas. Our findings provide insights for understanding
+    structural connectome alteration in autism and its topological underpinnings.Clinical
+    Relevance— This study provides insights into the understanding of atypical macroscale
+    structural connectome organization in individuals with autism.
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+description: Autism spectrum disorder is a common neurodevelopmental condition showing
+  connectome disorganization in sensory and transmodal cortices. However, alterations
+  in the inter-hemispheric asymmetry of structural connectome are remained to be investigated.
+  Here, we studied structural connectome asymmetry in individuals with autism using
+  dimensionality reduction techniques and assessed its topological underpinnings by
+  associating with network communication measures. We found that the sensory and heteromodal
+  association regions showed significant between-group differences in inter-hemispheric
+  asymmetry between individuals with autism and neurotypical controls. In addition,
+  the network communication ability was particularly altered between visual and limbic
+  areas. Our findings provide insights for understanding structural connectome alteration
+  in autism and its topological underpinnings.Clinical Relevance— This study provides
+  insights into the understanding of atypical macroscale structural connectome organization
+  in individuals with autism.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1109/EMBC40787.2023.10340029
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/9a9a56df-3989-486c-8bff-8e00f865feea
+schema_type: xyzri:XYZPublication
+title: Atypical structural connectome asymmetry and associations with network communication
+  in autism spectrum disorder

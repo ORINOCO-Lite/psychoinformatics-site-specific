@@ -1,0 +1,79 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c643dc9e-7b8a-4a32-aa1b-6f371c82880a
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Cortical, subcortical, and cerebellar contributions to language processing:
+    A meta-analytic review of 403 neuroimaging experiments.'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Language is a key human faculty for communication and interaction that provides
+    invaluable insight into the human mind. Previous work has dissected different
+    linguistic operations, but the large-scale brain networks involved in language
+    processing are still not fully uncovered. Particularly, little is known about
+    the subdomain-specific engagement of brain areas during semantic, syntactic, phonological,
+    and prosodic processing and the role of subcortical and cerebellar areas. Here,
+    we present the largest coordinate-based meta-analysis of language processing including
+    403 experiments. Overall, language processing primarily engaged bilateral fronto-temporal
+    cortices, with the highest activation likelihood in the left posterior inferior
+    frontal gyrus (IFG). Whereas we could not detect any syntax-specific regions,
+    semantics specifically engaged left posterior temporal areas (left fusiform and
+    occipitotemporal cortex) and the left frontal pole. Phonology showed highest subdomain-specificity
+    in bilateral auditory and left postcentral regions, whereas prosody engaged specifically
+    the right amygdala and the right IFG. Across all subdomains and modalities, we
+    found strong bilateral subcortical and cerebellar contributions. Especially the
+    right cerebellum was engaged during various processes, including speech production,
+    visual, and phonological tasks. Collectively, our results emphasize consistent
+    recruitment and high functional modularity for general language processing in
+    bilateral domain-specific (temporo-frontal) and domain-general (medial frontal/anterior
+    cingulate cortex) regions but also a high specialization of different subareas
+    for different linguistic subdomains. Our findings refine current neurobiological
+    models of language by adding novel insight into the general sensitivity of the
+    language network and subdomain-specific functions of different brain areas and
+    highlighting the role of subcortical and cerebellar regions for different language
+    operations.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Language is a key human faculty for communication and interaction that
+  provides invaluable insight into the human mind. Previous work has dissected different
+  linguistic operations, but the large-scale brain networks involved in language processing
+  are still not fully uncovered. Particularly, little is known about the subdomain-specific
+  engagement of brain areas during semantic, syntactic, phonological, and prosodic
+  processing and the role of subcortical and cerebellar areas. Here, we present the
+  largest coordinate-based meta-analysis of language processing including 403 experiments.
+  Overall, language processing primarily engaged bilateral fronto-temporal cortices,
+  with the highest activation likelihood in the left posterior inferior frontal gyrus
+  (IFG). Whereas we could not detect any syntax-specific regions, semantics specifically
+  engaged left posterior temporal areas (left fusiform and occipitotemporal cortex)
+  and the left frontal pole. Phonology showed highest subdomain-specificity in bilateral
+  auditory and left postcentral regions, whereas prosody engaged specifically the
+  right amygdala and the right IFG. Across all subdomains and modalities, we found
+  strong bilateral subcortical and cerebellar contributions. Especially the right
+  cerebellum was engaged during various processes, including speech production, visual,
+  and phonological tasks. Collectively, our results emphasize consistent recruitment
+  and high functional modularity for general language processing in bilateral domain-specific
+  (temporo-frontal) and domain-general (medial frontal/anterior cingulate cortex)
+  regions but also a high specialization of different subareas for different linguistic
+  subdomains. Our findings refine current neurobiological models of language by adding
+  novel insight into the general sensitivity of the language network and subdomain-specific
+  functions of different brain areas and highlighting the role of subcortical and
+  cerebellar regions for different language operations.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:0033-2909
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1037/bul0000403
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/2911217e-5558-401e-bbcd-42ab8812fe40
+schema_type: xyzri:XYZPublication
+title: 'Cortical, subcortical, and cerebellar contributions to language processing:
+  A meta-analytic review of 403 neuroimaging experiments.'

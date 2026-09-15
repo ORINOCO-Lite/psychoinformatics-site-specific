@@ -1,0 +1,9 @@
+display_note: ISSN:2090-6765
+identifiers:
+- creator: ror:026ytr635
+  notation: 2090-6765
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:2090-6765
+schema_type: xyzri:XYZPublicationVenue
+title: Case Reports In Otolaryngology

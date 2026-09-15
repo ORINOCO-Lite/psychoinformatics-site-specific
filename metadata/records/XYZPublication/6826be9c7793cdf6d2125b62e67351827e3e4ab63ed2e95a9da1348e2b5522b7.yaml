@@ -1,0 +1,93 @@
+attributed_to:
+- object: xyzrins:persons/4bbd6721-42e7-4a31-93cc-8ff0e9814e93
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/06b9a2d5-b71d-4fd3-8f19-966c53adf8d4
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/950d9384-760a-4eab-8f60-949b230319bb
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/laura-waite
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Can we predict sleep health based on brain features? A large-scale machine
+    learning study using UK Biobank
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Numerous correlational and group comparison studies have demonstrated robust
+    associations between sleep health and large-scale brain organization. However,
+    individual differences play a critical role in this relationship, highlighting
+    the need for person-specific analyses. In this study, we aimed to explore whether
+    brain imaging features could predict various sleep health-related traits at the
+    individual level using machine learning (ML) techniques.We utilized data from
+    28,088 participants in the UK Biobank, extracting 4,677 structural and functional
+    neuroimaging markers. These features were then used to predict a range of self-reported
+    sleep characteristics, including insomnia symptoms, sleep duration, ease of waking
+    in the morning, chronotype, napping behavior, daytime sleepiness, and snoring.
+    For each of these seven traits, we trained both linear and nonlinear ML models
+    to evaluate how well brain imaging data could account for individual differences.Our
+    analyses involved extensive computational resources, equivalent to over 200.000
+    core-hours (equivalent to 25 years of compute time). Despite this, the predictive
+    performance of brain features was consistently low across all models, with balanced
+    accuracy scores ranging from 0.50 to 0.59. The highest accuracy achieved (0.59)
+    came from a linear model predicting the ease of getting up in the morning. Notably,
+    models using only demographic variables such as age and sex achieved comparable
+    performance, suggesting that these basic characteristics may largely explain the
+    observed variability.These findings indicate that, even when using a large, well-powered
+    sample and advanced ML techniques, multimodal brain imaging features provide limited
+    predictive value for sleep health at the individual level. This low predictability
+    underscores the complexity of the relationship between sleep and brain structure/function.
+    It also suggests that other biological, environmental, or psychological factors—possibly
+    not captured by current imaging modalities—may play a more substantial role in
+    shaping sleep-related behaviors.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Numerous correlational and group comparison studies have demonstrated
+  robust associations between sleep health and large-scale brain organization. However,
+  individual differences play a critical role in this relationship, highlighting the
+  need for person-specific analyses. In this study, we aimed to explore whether brain
+  imaging features could predict various sleep health-related traits at the individual
+  level using machine learning (ML) techniques.We utilized data from 28,088 participants
+  in the UK Biobank, extracting 4,677 structural and functional neuroimaging markers.
+  These features were then used to predict a range of self-reported sleep characteristics,
+  including insomnia symptoms, sleep duration, ease of waking in the morning, chronotype,
+  napping behavior, daytime sleepiness, and snoring. For each of these seven traits,
+  we trained both linear and nonlinear ML models to evaluate how well brain imaging
+  data could account for individual differences.Our analyses involved extensive computational
+  resources, equivalent to over 200.000 core-hours (equivalent to 25 years of compute
+  time). Despite this, the predictive performance of brain features was consistently
+  low across all models, with balanced accuracy scores ranging from 0.50 to 0.59.
+  The highest accuracy achieved (0.59) came from a linear model predicting the ease
+  of getting up in the morning. Notably, models using only demographic variables such
+  as age and sex achieved comparable performance, suggesting that these basic characteristics
+  may largely explain the observed variability.These findings indicate that, even
+  when using a large, well-powered sample and advanced ML techniques, multimodal brain
+  imaging features provide limited predictive value for sleep health at the individual
+  level. This low predictability underscores the complexity of the relationship between
+  sleep and brain structure/function. It also suggests that other biological, environmental,
+  or psychological factors—possibly not captured by current imaging modalities—may
+  play a more substantial role in shaping sleep-related behaviors.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2632-1297
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/braincomms/fcag016
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/5f8b4e41-ded9-4a4b-a103-709ae940cc42
+schema_type: xyzri:XYZPublication
+title: Can we predict sleep health based on brain features? A large-scale machine
+  learning study using UK Biobank

@@ -1,0 +1,32 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: s.heunis@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-06-02T11:51:25.823708'
+delegated_by:
+- attributes:
+  - predicate: vcard:Email
+    schema_type: dlthings:AttributeSpecification
+    value: l.waite@fz-juelich.de
+  object: ror:02nv7yv05
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+  started:
+    at_time: '2019-04-01'
+    schema_type: dlthings:Start
+depiction:
+- xyzrins:depictions/2c0e4684-e220-4335-8274-baed6a52c6a0
+family_name: Waite
+given_name: Laura
+identifiers:
+- creator: rrid:SCR_002630
+  notation: loj
+  schema_type: dlthings:Identifier
+- creator: ror:04fa4r544
+  notation: 0000-0003-2213-7465
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/laura-waite
+schema_type: xyzri:XYZPerson

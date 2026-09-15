@@ -1,0 +1,91 @@
+attributed_to:
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Connectome architecture shapes large-scale cortical alterations in schizophrenia:
+    a worldwide ENIGMA study'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Schizophrenia is a prototypical network disorder with widespread brain-morphological
+    alterations, yet it remains unclear whether these distributed alterations robustly
+    reflect the underlying network layout. We tested whether large-scale structural
+    alterations in schizophrenia relate to normative structural and functional connectome
+    architecture, and systematically evaluated robustness and generalizability of
+    these network-level alterations. Leveraging anatomical MRI scans from 2439 adults
+    with schizophrenia and 2867 healthy controls from 26 ENIGMA sites and normative
+    data from the Human Connectome Project (n = 207), we evaluated structural alterations
+    of schizophrenia against two network susceptibility models: (i) hub vulnerability,
+    which examines associations between regional network centrality and magnitude
+    of disease-related alterations; (ii) epicenter mapping, which identifies regions
+    whose typical connectivity profile most closely resembles the disease-related
+    morphological alterations. To assess generalizability and specificity, we contextualized
+    the influence of site, disease stages, and individual clinical factors and compared
+    network associations of schizophrenia with that found in affective disorders.
+    Our findings show schizophrenia-related cortical thinning is spatially associated
+    with functional and structural hubs, suggesting that highly interconnected regions
+    are more vulnerable to morphological alterations. Predominantly temporo-paralimbic
+    and frontal regions emerged as epicenters with connectivity profiles linked to
+    schizophrenia’s alteration patterns. Findings were robust across sites, disease
+    stages, and related to individual symptoms. Moreover, transdiagnostic comparisons
+    revealed overlapping epicenters in schizophrenia and bipolar, but not major depressive
+    disorder, suggestive of a pathophysiological continuity within the schizophrenia-bipolar-spectrum.
+    In sum, cortical alterations over the course of schizophrenia robustly follow
+    brain network architecture, emphasizing marked hub susceptibility and temporo-frontal
+    epicenters at both the level of the group and the individual. Subtle variations
+    of epicenters across disease stages suggest interacting pathological processes,
+    while associations with patient-specific symptoms support additional inter-individual
+    variability of hub vulnerability and epicenters in schizophrenia. Our work outlines
+    potential pathways to better understand macroscale structural alterations, and
+    inter- individual variability in schizophrenia.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Schizophrenia is a prototypical network disorder with widespread brain-morphological
+  alterations, yet it remains unclear whether these distributed alterations robustly
+  reflect the underlying network layout. We tested whether large-scale structural
+  alterations in schizophrenia relate to normative structural and functional connectome
+  architecture, and systematically evaluated robustness and generalizability of these
+  network-level alterations. Leveraging anatomical MRI scans from 2439 adults with
+  schizophrenia and 2867 healthy controls from 26 ENIGMA sites and normative data
+  from the Human Connectome Project (n = 207), we evaluated structural alterations
+  of schizophrenia against two network susceptibility models: (i) hub vulnerability,
+  which examines associations between regional network centrality and magnitude of
+  disease-related alterations; (ii) epicenter mapping, which identifies regions whose
+  typical connectivity profile most closely resembles the disease-related morphological
+  alterations. To assess generalizability and specificity, we contextualized the influence
+  of site, disease stages, and individual clinical factors and compared network associations
+  of schizophrenia with that found in affective disorders. Our findings show schizophrenia-related
+  cortical thinning is spatially associated with functional and structural hubs, suggesting
+  that highly interconnected regions are more vulnerable to morphological alterations.
+  Predominantly temporo-paralimbic and frontal regions emerged as epicenters with
+  connectivity profiles linked to schizophrenia’s alteration patterns. Findings were
+  robust across sites, disease stages, and related to individual symptoms. Moreover,
+  transdiagnostic comparisons revealed overlapping epicenters in schizophrenia and
+  bipolar, but not major depressive disorder, suggestive of a pathophysiological continuity
+  within the schizophrenia-bipolar-spectrum. In sum, cortical alterations over the
+  course of schizophrenia robustly follow brain network architecture, emphasizing
+  marked hub susceptibility and temporo-frontal epicenters at both the level of the
+  group and the individual. Subtle variations of epicenters across disease stages
+  suggest interacting pathological processes, while associations with patient-specific
+  symptoms support additional inter-individual variability of hub vulnerability and
+  epicenters in schizophrenia. Our work outlines potential pathways to better understand
+  macroscale structural alterations, and inter- individual variability in schizophrenia.'
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1359-4184
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41380-024-02442-7
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8aeaa59d-2725-4212-87d8-083bc6cb939d
+schema_type: xyzri:XYZPublication
+title: 'Connectome architecture shapes large-scale cortical alterations in schizophrenia:
+  a worldwide ENIGMA study'

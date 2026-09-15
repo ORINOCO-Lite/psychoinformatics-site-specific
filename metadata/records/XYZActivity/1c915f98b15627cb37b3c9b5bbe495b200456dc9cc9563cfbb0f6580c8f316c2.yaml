@@ -1,0 +1,13 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-05-26T14:24:03.640936'
+description: The principle of functional MRI imaging is to take a series of images
+  of an organ in quick succession and to statistically analyze the images for differences
+  among them.  Most commonly used in studies of brain function.
+name: Functional Magnetic Resonance Imaging
+pid: obo:NCIT_C17958
+schema_type: xyzri:XYZActivity

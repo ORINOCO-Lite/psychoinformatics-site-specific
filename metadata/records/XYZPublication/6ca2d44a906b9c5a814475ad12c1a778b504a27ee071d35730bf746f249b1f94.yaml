@@ -1,0 +1,86 @@
+attributed_to:
+- object: xyzrins:persons/15a9b2f2-d2a0-47f1-aaa6-ca8d4ed541b0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Discovery, Replicability, and Generalizability of a Left Anterior Hippocampus'
+    Morphological Network Linked to Self‐Regulation
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'The human hippocampus is a key region in cognitive and emotional processing,
+    but also a vulnerable and plastic region. Accordingly, there is a great interest
+    in understanding how variability in the hippocampus'' structure relates to variability
+    in behavior in healthy and clinical populations. In this study, we aimed to link
+    interindividual variability in subregional hippocampal networks (i.e., the brain
+    grey matter networks of hippocampal subregions) to variability in behavioral phenotype.
+    To do so, we used a multiblock multivariate approach mapping the association between
+    grey matter volume in hippocampal subregions, grey matter volume in the whole
+    brain regions, and behavioral variables in healthy adults. To ensure the robustness
+    and generalizability of the findings, we implemented a cross-cohort discovery
+    and validation framework. This framework utilized two independent cohorts: the
+    Human Connectome Project Young Adult (HCP-YA) cohort and the Human Connectome
+    Project Aging (HCP-A) cohort, enabling us to assess the replicability and generalizability
+    of hippocampal-brain-behavior phenotypes across different age groups in the population.
+    Our results highlighted a left anterior hippocampal morphological network including
+    the left amygdala and the posterior midline structures whose expression relates
+    to higher self-regulation, life satisfaction, and better performance at standard
+    neuropsychological tests. The cross-cohort generalizability of the hippocampus-brain-behavior
+    mapping demonstrates its relevance beyond a specific population sample. Our previous
+    work in developmental populations showed that the hippocampus'' head co-maturates
+    with most of the brain during childhood. The current data-driven study further
+    suggests that grey matter volume in the left hippocampal head network would be
+    particularly relevant for self-regulation abilities in adults that influence a
+    range of life outcomes. Future studies should thus investigate the factors influencing
+    the development of this morphological network across childhood, as well as its
+    relationship to neurocognitive phenotypes in various brain diseases.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'The human hippocampus is a key region in cognitive and emotional processing,
+  but also a vulnerable and plastic region. Accordingly, there is a great interest
+  in understanding how variability in the hippocampus'' structure relates to variability
+  in behavior in healthy and clinical populations. In this study, we aimed to link
+  interindividual variability in subregional hippocampal networks (i.e., the brain
+  grey matter networks of hippocampal subregions) to variability in behavioral phenotype.
+  To do so, we used a multiblock multivariate approach mapping the association between
+  grey matter volume in hippocampal subregions, grey matter volume in the whole brain
+  regions, and behavioral variables in healthy adults. To ensure the robustness and
+  generalizability of the findings, we implemented a cross-cohort discovery and validation
+  framework. This framework utilized two independent cohorts: the Human Connectome
+  Project Young Adult (HCP-YA) cohort and the Human Connectome Project Aging (HCP-A)
+  cohort, enabling us to assess the replicability and generalizability of hippocampal-brain-behavior
+  phenotypes across different age groups in the population. Our results highlighted
+  a left anterior hippocampal morphological network including the left amygdala and
+  the posterior midline structures whose expression relates to higher self-regulation,
+  life satisfaction, and better performance at standard neuropsychological tests.
+  The cross-cohort generalizability of the hippocampus-brain-behavior mapping demonstrates
+  its relevance beyond a specific population sample. Our previous work in developmental
+  populations showed that the hippocampus'' head co-maturates with most of the brain
+  during childhood. The current data-driven study further suggests that grey matter
+  volume in the left hippocampal head network would be particularly relevant for self-regulation
+  abilities in adults that influence a range of life outcomes. Future studies should
+  thus investigate the factors influencing the development of this morphological network
+  across childhood, as well as its relationship to neurocognitive phenotypes in various
+  brain diseases.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1065-9471
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/hbm.70099
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/7e14abdb-8cd0-47dc-9cde-c94ca4805d9c
+schema_type: xyzri:XYZPublication
+title: Discovery, Replicability, and Generalizability of a Left Anterior Hippocampus'
+  Morphological Network Linked to Self‐Regulation

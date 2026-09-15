@@ -1,0 +1,60 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Brain networks for engaging oneself in positive-social emotion regulation
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Positive emotions facilitate cognitive performance, and their absence is
+    associated with burdening psychiatric disorders. However, the brain networks regulating
+    positive emotions are not well understood, especially with regard to engaging
+    oneself in positive-social situations. Here we report convergent evidence from
+    a multimodal approach that includes functional magnetic resonance imaging (fMRI)
+    brain activations, meta-analytic functional characterization, Bayesian model-driven
+    analysis of effective brain connectivity, and personality questionnaires to identify
+    the brain networks mediating the cognitive up-regulation of positive-social emotions.
+    Our comprehensive approach revealed that engaging in positive-social emotion regulation
+    with a self-referential first-person perspective is characterized by dynamic interactions
+    between functionally specialized prefrontal cortex (PFC) areas, the temporoparietal
+    junction (TPJ) and the amygdala. Increased top-down connectivity from the superior
+    frontal gyrus (SFG) controls affective valuation in the ventromedial and dorsomedial
+    PFC, self-referential processes in the TPJ, and modulate emotional responses in
+    the amygdala via the ventromedial PFC. Understanding the brain networks engaged
+    in the regulation of positive-social emotions that involve a first-person perspective
+    is important as they are known to constitute an effective strategy in therapeutic
+    settings
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Positive emotions facilitate cognitive performance, and their absence
+  is associated with burdening psychiatric disorders. However, the brain networks
+  regulating positive emotions are not well understood, especially with regard to
+  engaging oneself in positive-social situations. Here we report convergent evidence
+  from a multimodal approach that includes functional magnetic resonance imaging (fMRI)
+  brain activations, meta-analytic functional characterization, Bayesian model-driven
+  analysis of effective brain connectivity, and personality questionnaires to identify
+  the brain networks mediating the cognitive up-regulation of positive-social emotions.
+  Our comprehensive approach revealed that engaging in positive-social emotion regulation
+  with a self-referential first-person perspective is characterized by dynamic interactions
+  between functionally specialized prefrontal cortex (PFC) areas, the temporoparietal
+  junction (TPJ) and the amygdala. Increased top-down connectivity from the superior
+  frontal gyrus (SFG) controls affective valuation in the ventromedial and dorsomedial
+  PFC, self-referential processes in the TPJ, and modulate emotional responses in
+  the amygdala via the ventromedial PFC. Understanding the brain networks engaged
+  in the regulation of positive-social emotions that involve a first-person perspective
+  is important as they are known to constitute an effective strategy in therapeutic
+  settings
+generated_by:
+- at_location: ISSN:1053-8119
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2018.12.049
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/c28c061a-4c60-4499-b713-aa479751f6aa
+schema_type: xyzri:XYZPublication
+title: Brain networks for engaging oneself in positive-social emotion regulation

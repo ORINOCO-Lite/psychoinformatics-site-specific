@@ -1,0 +1,18 @@
+description: 'As part of its Programme-oriented Funding (PoF), the Helmholtz Association
+  does not invest its resources in individual institutions, but rather in cross-centre
+  research programmes that address the major societal challenges of our time.
+
+
+  These programmes and their scientific questions are divided into thematical units
+  ("Topics"). The fourth period of programme-oriented funding (PoF IV) is running
+  from 2021-2027.'
+ended:
+  at_time: '2027-12-31'
+  schema_type: dlthings:End
+pid: xyzrins:projects/7d475f77-48e7-4d67-b121-274b4582e561
+schema_type: xyzri:XYZProject
+short_name: PoF-IV
+started:
+  at_time: '2021-01-01'
+  schema_type: dlthings:Start
+title: Helmholtz PoF IV

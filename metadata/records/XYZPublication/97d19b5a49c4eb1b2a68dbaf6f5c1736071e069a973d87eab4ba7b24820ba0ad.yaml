@@ -1,0 +1,75 @@
+attributed_to:
+- object: xyzrins:persons/964aee5a-ddd2-453c-87d0-84ea9e7fadcb
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Response-code conflict in dual-task interference and its modulation by age
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Difficulties in performing two tasks at once can arise from several sources
+    and usually increase in advanced age. Tasks with concurrent bimodal (e.g., manual
+    and oculomotor) responding to single stimuli consistently revealed crosstalk between
+    conflicting response codes as a relevant source. However, how this finding translates
+    to unimodal (i.e., manual only) response settings and how it is affected by age
+    remains open. To address this issue, we had young and older adults respond to
+    high- or low-pitched tones with one (single task) or both hands concurrently (dual
+    task). Responses were either compatible or incompatible with the pitch. When responses
+    with the same level of compatibility were combined in dual-task conditions, their
+    response codes were congruent to each other, whereas combining a compatible and
+    an incompatible response created mutually incongruent (i.e., conflicting) response
+    codes, potentially inducing detrimental crosstalk. Across age groups, dual-task
+    costs indeed were overall highest with response-code incongruency. In these trials,
+    compatible responses exhibited higher costs than incompatible ones, even after
+    removing trials with strongly synchronized responses. This underadditive cost
+    asymmetry argues against mutual crosstalk as the sole source of interference and
+    corroborates notions of strategic prioritization of limited processing capacity
+    based on mapping-selection difficulty. As expected, the effects of incongruent
+    response codes were found to be especially deleterious in older adults, supporting
+    assumptions of age-related deficits in multiple-action control at the level of
+    task-shielding. Overall, our results suggest that aging is linked to higher response
+    confusability and less efficient flexibility for capacity sharing in dual-task
+    settings.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Difficulties in performing two tasks at once can arise from several sources
+  and usually increase in advanced age. Tasks with concurrent bimodal (e.g., manual
+  and oculomotor) responding to single stimuli consistently revealed crosstalk between
+  conflicting response codes as a relevant source. However, how this finding translates
+  to unimodal (i.e., manual only) response settings and how it is affected by age
+  remains open. To address this issue, we had young and older adults respond to high-
+  or low-pitched tones with one (single task) or both hands concurrently (dual task).
+  Responses were either compatible or incompatible with the pitch. When responses
+  with the same level of compatibility were combined in dual-task conditions, their
+  response codes were congruent to each other, whereas combining a compatible and
+  an incompatible response created mutually incongruent (i.e., conflicting) response
+  codes, potentially inducing detrimental crosstalk. Across age groups, dual-task
+  costs indeed were overall highest with response-code incongruency. In these trials,
+  compatible responses exhibited higher costs than incompatible ones, even after removing
+  trials with strongly synchronized responses. This underadditive cost asymmetry argues
+  against mutual crosstalk as the sole source of interference and corroborates notions
+  of strategic prioritization of limited processing capacity based on mapping-selection
+  difficulty. As expected, the effects of incongruent response codes were found to
+  be especially deleterious in older adults, supporting assumptions of age-related
+  deficits in multiple-action control at the level of task-shielding. Overall, our
+  results suggest that aging is linked to higher response confusability and less efficient
+  flexibility for capacity sharing in dual-task settings.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0340-0727
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00426-021-01639-7
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/eab1f42c-f409-499b-84dd-6a398b5eff96
+schema_type: xyzri:XYZPublication
+title: Response-code conflict in dual-task interference and its modulation by age

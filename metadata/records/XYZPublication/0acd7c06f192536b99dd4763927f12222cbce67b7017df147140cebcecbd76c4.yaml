@@ -1,0 +1,85 @@
+attributed_to:
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d4e23096-f9d8-47e0-bb48-a25ba181f202
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Neurobiological divergence of the positive and negative schizophrenia subtypes
+    identified upon a new factor-structure of psychopathology using non-negative factorization:
+    An international machine-learning study'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: ObjectiveDisentangling psychopathological heterogeneity in schizophrenia
+    is challenging and previous results remain inconclusive. We employed advanced
+    machine-learning to identify a stable and generalizable factorization of the “Positive
+    and Negative Syndrome Scale (PANSS)”, and used it to identify psychopathological
+    subtypes as well as their neurobiological differentiations.MethodsPANSS data from
+    the Pharmacotherapy Monitoring and Outcome Survey cohort (1545 patients, 586 followed
+    up after 1.35±0.70 years) were used for learning the factor-structure by an orthonormal
+    projective non-negative factorization. An international sample, pooled from nine
+    medical centers across Europe, USA, and Asia (490 patients), was used for validation.
+    Patients were clustered into psychopathological subtypes based on the identified
+    factor-structure, and the neurobiological divergence between the subtypes was
+    assessed by classification analysis on functional MRI connectivity patterns.ResultsA
+    four-factor structure representing negative, positive, affective, and cognitive
+    symptoms was identified as the most stable and generalizable representation of
+    psychopathology. It showed higher internal consistency than the original PANSS
+    subscales and previously proposed factor-models. Based on this representation,
+    the positive-negative dichotomy was confirmed as the (only) robust psychopathological
+    subtypes, and these subtypes were longitudinally stable in about 80% of the repeatedly
+    assessed patients. Finally, the individual subtype could be predicted with good
+    accuracy from functional connectivity profiles of the ventro-medial frontal cortex,
+    temporoparietal junction, and precuneus.ConclusionsMachine-learning applied to
+    multi-site data with cross-validation yielded a factorization generalizable across
+    populations and medical systems. Together with subtyping and the demonstrated
+    ability to predict subtype membership from neuroimaging data, this work further
+    disentangles the heterogeneity in schizophrenia.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: ObjectiveDisentangling psychopathological heterogeneity in schizophrenia
+  is challenging and previous results remain inconclusive. We employed advanced machine-learning
+  to identify a stable and generalizable factorization of the “Positive and Negative
+  Syndrome Scale (PANSS)”, and used it to identify psychopathological subtypes as
+  well as their neurobiological differentiations.MethodsPANSS data from the Pharmacotherapy
+  Monitoring and Outcome Survey cohort (1545 patients, 586 followed up after 1.35±0.70
+  years) were used for learning the factor-structure by an orthonormal projective
+  non-negative factorization. An international sample, pooled from nine medical centers
+  across Europe, USA, and Asia (490 patients), was used for validation. Patients were
+  clustered into psychopathological subtypes based on the identified factor-structure,
+  and the neurobiological divergence between the subtypes was assessed by classification
+  analysis on functional MRI connectivity patterns.ResultsA four-factor structure
+  representing negative, positive, affective, and cognitive symptoms was identified
+  as the most stable and generalizable representation of psychopathology. It showed
+  higher internal consistency than the original PANSS subscales and previously proposed
+  factor-models. Based on this representation, the positive-negative dichotomy was
+  confirmed as the (only) robust psychopathological subtypes, and these subtypes were
+  longitudinally stable in about 80% of the repeatedly assessed patients. Finally,
+  the individual subtype could be predicted with good accuracy from functional connectivity
+  profiles of the ventro-medial frontal cortex, temporoparietal junction, and precuneus.ConclusionsMachine-learning
+  applied to multi-site data with cross-validation yielded a factorization generalizable
+  across populations and medical systems. Together with subtyping and the demonstrated
+  ability to predict subtype membership from neuroimaging data, this work further
+  disentangles the heterogeneity in schizophrenia.
+generated_by:
+- at_location: ISSN:0006-3223
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.biopsych.2019.08.031
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/6d210f38-f041-4d66-9eb7-1d9d2e653f48
+schema_type: xyzri:XYZPublication
+title: 'Neurobiological divergence of the positive and negative schizophrenia subtypes
+  identified upon a new factor-structure of psychopathology using non-negative factorization:
+  An international machine-learning study'

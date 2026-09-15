@@ -1,0 +1,63 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Understanding identification-based trust in the light of affiliative bonding:
+    Meta-analytic neuroimaging evidence'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Trust is vital for establishing social relationships and is a crucial precursor
+    for affiliative bonds. Investigations explored the neuropsychological bases of
+    trust separately (e.g., measured by the trust game) and affiliative bonding (e.g.,
+    measured by parental care, pair-bonding, or friendship). However, direct empirical
+    support for the shared neural mechanisms between trust and affiliative bonding
+    is missing. Here, we conducted a coordinate-based meta-analysis on functional
+    magnetic resonance imaging studies on interpersonal trust and affiliative bonding
+    using the activation likelihood estimation method. Our results demonstrated that
+    decisions to trust strangers in repeated interactions (i.e., identification-based
+    trust) engaged the ventral striatum (vSTR, part of the mesolimbic dopaminergic
+    pathway), likely signaling the reward anticipation. Further, both feedbacks in
+    repeated interactions and affiliative bonding engaged the dorsal striatum (dSTR,
+    part of the nigrostriatal dopaminergic pathway), likely encoding learning dynamics.
+    Our findings suggest that identification-based trust can be understood in the
+    light of affiliative bonding, involving the mesocorticolimbic "reward" pathway
+    (vSTR) and nigrostriatal "habit formation" pathway (dSTR) in building and sustaining
+    social relationships.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Trust is vital for establishing social relationships and is a crucial
+  precursor for affiliative bonds. Investigations explored the neuropsychological
+  bases of trust separately (e.g., measured by the trust game) and affiliative bonding
+  (e.g., measured by parental care, pair-bonding, or friendship). However, direct
+  empirical support for the shared neural mechanisms between trust and affiliative
+  bonding is missing. Here, we conducted a coordinate-based meta-analysis on functional
+  magnetic resonance imaging studies on interpersonal trust and affiliative bonding
+  using the activation likelihood estimation method. Our results demonstrated that
+  decisions to trust strangers in repeated interactions (i.e., identification-based
+  trust) engaged the ventral striatum (vSTR, part of the mesolimbic dopaminergic pathway),
+  likely signaling the reward anticipation. Further, both feedbacks in repeated interactions
+  and affiliative bonding engaged the dorsal striatum (dSTR, part of the nigrostriatal
+  dopaminergic pathway), likely encoding learning dynamics. Our findings suggest that
+  identification-based trust can be understood in the light of affiliative bonding,
+  involving the mesocorticolimbic "reward" pathway (vSTR) and nigrostriatal "habit
+  formation" pathway (dSTR) in building and sustaining social relationships.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0149-7634
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2021.09.053
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/27ce8530-a71b-49be-bdc4-1c08970740c5
+schema_type: xyzri:XYZPublication
+title: 'Understanding identification-based trust in the light of affiliative bonding:
+  Meta-analytic neuroimaging evidence'

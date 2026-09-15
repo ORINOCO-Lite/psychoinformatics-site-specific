@@ -1,0 +1,9 @@
+display_note: ISSN:2472-1751
+identifiers:
+- creator: ror:026ytr635
+  notation: 2472-1751
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:2472-1751
+schema_type: xyzri:XYZPublicationVenue
+title: Network Neuroscience

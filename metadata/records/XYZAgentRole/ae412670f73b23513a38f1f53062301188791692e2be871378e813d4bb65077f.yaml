@@ -1,0 +1,5 @@
+description: A performer contributing to a resource by giving instruction or providing
+  a demonstration
+display_label: Teacher
+pid: marcrel:tch
+schema_type: xyzri:XYZAgentRole

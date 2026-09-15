@@ -1,0 +1,66 @@
+attributed_to:
+- object: xyzrins:persons/91325970-a275-4cb9-ad49-568d705b798c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Highly accurate local functional fingerprints and their stability
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The neural underpinnings of individual identity reflected in cognition, behavior,
+    and disease remain elusive. Functional connectivity profiles have been used as
+    a “fingerprint” with which an individual can be identified in a dataset. These
+    established functional connectivity fingerprints generally show high accuracy
+    but are still sensitive to mental states. A truly unique, and especially state-independent,
+    neural fingerprint will shed light on fundamental intra-individual brain organization.
+    Moreover, a fingerprint that also captures inter-individual differences in brain-behavior
+    associations will provide the necessary ingredients for the development of biomarkers
+    for precision medicine. With resting-state and task fMRI-data of the Human Connectome
+    Project and the enhanced Nathan Kline Institute sample, we show that the local
+    functional fingerprint, and especially regional homogeneity (ReHo), is 1) a highly
+    accurate neural fingerprint, 2) more stable within an individual regardless of
+    their mental state (compared to the baseline functional connectome fingerprint),
+    and 3) captures specific inter-individual differences. Our findings are replicable
+    across parcellations as well as resilient to confounding effects. Further analyses
+    showed that the attention networks and the Default Mode Network contributed most
+    to individual “uniqueness”. Moreover, with the OpenNeuro.ds000115 sample, we show
+    that ReHo is also stable in individuals with schizophrenia and that its stability
+    relates to intelligence subtest scores. Altogether, our findings show the potential
+    of the application of local functional fingerprints in precision medicine.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: The neural underpinnings of individual identity reflected in cognition,
+  behavior, and disease remain elusive. Functional connectivity profiles have been
+  used as a “fingerprint” with which an individual can be identified in a dataset.
+  These established functional connectivity fingerprints generally show high accuracy
+  but are still sensitive to mental states. A truly unique, and especially state-independent,
+  neural fingerprint will shed light on fundamental intra-individual brain organization.
+  Moreover, a fingerprint that also captures inter-individual differences in brain-behavior
+  associations will provide the necessary ingredients for the development of biomarkers
+  for precision medicine. With resting-state and task fMRI-data of the Human Connectome
+  Project and the enhanced Nathan Kline Institute sample, we show that the local functional
+  fingerprint, and especially regional homogeneity (ReHo), is 1) a highly accurate
+  neural fingerprint, 2) more stable within an individual regardless of their mental
+  state (compared to the baseline functional connectome fingerprint), and 3) captures
+  specific inter-individual differences. Our findings are replicable across parcellations
+  as well as resilient to confounding effects. Further analyses showed that the attention
+  networks and the Default Mode Network contributed most to individual “uniqueness”.
+  Moreover, with the OpenNeuro.ds000115 sample, we show that ReHo is also stable in
+  individuals with schizophrenia and that its stability relates to intelligence subtest
+  scores. Altogether, our findings show the potential of the application of local
+  functional fingerprints in precision medicine.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2021.08.03.454862
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/fd3c7f26-d55a-4efb-a21a-631e1f5ac04d
+schema_type: xyzri:XYZPublication
+title: Highly accurate local functional fingerprints and their stability

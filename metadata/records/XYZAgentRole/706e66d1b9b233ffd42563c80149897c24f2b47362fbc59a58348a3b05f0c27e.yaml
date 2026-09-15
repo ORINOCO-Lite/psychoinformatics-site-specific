@@ -1,0 +1,5 @@
+description: A person who is ultimately in charge of scenery, props, lights and sound
+  for a production
+display_label: Technical director
+pid: marcrel:tcd
+schema_type: xyzri:XYZAgentRole

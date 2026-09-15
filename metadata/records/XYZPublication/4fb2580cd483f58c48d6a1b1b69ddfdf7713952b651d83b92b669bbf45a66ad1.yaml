@@ -1,0 +1,60 @@
+attributed_to:
+- object: xyzrins:persons/c6210e0d-96a9-4da8-a426-4da1f6811615
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/62be45d1-b8eb-46a3-a929-31c6fc60a20d
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/3cf923ff-969d-4224-bb7b-9f319f0b1564
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Revealing the neurobiology underlying interpersonal neural synchronization
+    with multimodal data fusion
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Humans synchronize with one another to foster successful interactions. Here,
+    we use a multimodal data fusion approach with the aim of elucidating the neurobiological
+    mechanisms by which interpersonal neural synchronization (INS) occurs. Our meta-analysis
+    of 22 functional magnetic resonance imaging and 69 near-infrared spectroscopy
+    hyperscanning experiments (740 and 3721 subjects) revealed robust brain regional
+    correlates of INS in the right temporoparietal junction and left ventral prefrontal
+    cortex. Integrating this meta-analytic information with public databases, biobehavioral
+    and brain-functional association analyses suggested that INS involves sensory-integrative
+    hubs with functional connections to mentalizing and attention networks. On the
+    molecular and genetic levels, we found INS to be associated with GABAergic neurotransmission
+    and layer IV/V neuronal circuits, protracted developmental gene expression patterns,
+    and disorders of neurodevelopment. Although limited by the indirect nature of
+    phenotypic-molecular association analyses, our findings generate new testable
+    hypotheses on the neurobiological basis of INS.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Humans synchronize with one another to foster successful interactions.
+  Here, we use a multimodal data fusion approach with the aim of elucidating the neurobiological
+  mechanisms by which interpersonal neural synchronization (INS) occurs. Our meta-analysis
+  of 22 functional magnetic resonance imaging and 69 near-infrared spectroscopy hyperscanning
+  experiments (740 and 3721 subjects) revealed robust brain regional correlates of
+  INS in the right temporoparietal junction and left ventral prefrontal cortex. Integrating
+  this meta-analytic information with public databases, biobehavioral and brain-functional
+  association analyses suggested that INS involves sensory-integrative hubs with functional
+  connections to mentalizing and attention networks. On the molecular and genetic
+  levels, we found INS to be associated with GABAergic neurotransmission and layer
+  IV/V neuronal circuits, protracted developmental gene expression patterns, and disorders
+  of neurodevelopment. Although limited by the indirect nature of phenotypic-molecular
+  association analyses, our findings generate new testable hypotheses on the neurobiological
+  basis of INS.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0149-7634
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2023.105042
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/15adcb94-d4c6-498f-8ea0-8e13000a0ada
+schema_type: xyzri:XYZPublication
+title: Revealing the neurobiology underlying interpersonal neural synchronization
+  with multimodal data fusion

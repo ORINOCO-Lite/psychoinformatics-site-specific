@@ -1,0 +1,119 @@
+attributed_to:
+- object: xyzrins:persons/3167e618-0112-4de8-954b-a3c94178bb85
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c643dc9e-7b8a-4a32-aa1b-6f371c82880a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/969235eb-06f6-4eb4-857c-1681a660220a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b8dacbc9-f4bb-42bf-997d-f2d73f7b0d23
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/2c9af20c-0578-4f95-a8dc-eedf6f8c4466
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/11380db5-bfa5-40c7-9c56-67f7b81a5c5c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/1ebb6256-90a3-44fe-b244-de51c60cb3fb
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/0e1c3c08-87cc-4ceb-a908-ea58882816f9
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/0c8b2278-7222-48a1-9c64-fcc8e98fbcdf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/0bc70ccb-7eae-4204-b3ea-413669748a65
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b55ca6ad-784a-42e2-aae2-632272bebf23
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/8e2eba1d-c439-4192-91a1-d98c86c91f2f
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/5158048b-378a-4f07-9908-cf6c19c083b3
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c42fbb17-db19-4ca2-8f6b-bcdae8492215
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'The coming decade of digital brain research: A vision for neuroscience at
+    the intersection of technology and computing'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'In recent years, brain research has indisputably entered a new epoch, driven
+    by substantial methodological advances and digitally enabled data integration
+    and modelling at multiple scales— from molecules to the whole brain. Major advances
+    are emerging at the intersection of neuroscience with technology and computing.
+    This new science of the brain combines high-quality research, data integration
+    across multiple scales, a new culture of multidisciplinary large-scale collaboration
+    and translation into applications. As pioneered in Europe’s Human Brain Project
+    (HBP), a systematic approach will be essential for meeting the coming decade’s
+    pressing medical and technological challenges. The aims of this paper are to:
+    develop a concept for the coming decade of digital brain research, discuss this
+    new concept with the research community at large, to identify points of convergence,
+    and derive therefrom scientific common goals; provide a scientific framework for
+    the current and future development of EBRAINS, a research infrastructure resulting
+    from the HBP’s work; inform and engage stakeholders, funding organisations and
+    research institutions regarding future digital brain research; identify and address
+    the transformational potential of comprehensive brain models for artificial intelligence,
+    including machine learning and deep learning; outline a collaborative approach
+    that integrates reflection, dialogues and societal engagement on ethical and societal
+    opportunities and challenges as part of future neuroscience research.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'In recent years, brain research has indisputably entered a new epoch,
+  driven by substantial methodological advances and digitally enabled data integration
+  and modelling at multiple scales— from molecules to the whole brain. Major advances
+  are emerging at the intersection of neuroscience with technology and computing.
+  This new science of the brain combines high-quality research, data integration across
+  multiple scales, a new culture of multidisciplinary large-scale collaboration and
+  translation into applications. As pioneered in Europe’s Human Brain Project (HBP),
+  a systematic approach will be essential for meeting the coming decade’s pressing
+  medical and technological challenges. The aims of this paper are to: develop a concept
+  for the coming decade of digital brain research, discuss this new concept with the
+  research community at large, to identify points of convergence, and derive therefrom
+  scientific common goals; provide a scientific framework for the current and future
+  development of EBRAINS, a research infrastructure resulting from the HBP’s work;
+  inform and engage stakeholders, funding organisations and research institutions
+  regarding future digital brain research; identify and address the transformational
+  potential of comprehensive brain models for artificial intelligence, including machine
+  learning and deep learning; outline a collaborative approach that integrates reflection,
+  dialogues and societal engagement on ethical and societal opportunities and challenges
+  as part of future neuroscience research.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2837-6056
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1162/imag_a_00137
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2023-09-30'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/hbp-sga3
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2020-04-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2026-12-01'
+    schema_type: dlthings:End
+  object: xyzrins:grants/ebrains-2.0
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2024-01-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/7966441e-6830-4aca-b4e0-9415adf29c64
+schema_type: xyzri:XYZPublication
+title: 'The coming decade of digital brain research: A vision for neuroscience at
+  the intersection of technology and computing'

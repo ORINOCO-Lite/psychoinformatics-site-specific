@@ -1,0 +1,27 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Meaning in Life oder: Die Debatte um das sinnvolle Leben – Überblick über
+    ein neues Forschungsthema in der analytischen Ethik. Teil 2: normativ-inhaltliche
+    Fragen'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:0044-3301
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3196/004433021832831657
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/2dc886cc-186a-495c-9caf-751932a0a4bd
+schema_type: xyzri:XYZPublication
+title: 'Meaning in Life oder: Die Debatte um das sinnvolle Leben – Überblick über
+  ein neues Forschungsthema in der analytischen Ethik. Teil 2: normativ-inhaltliche
+  Fragen'

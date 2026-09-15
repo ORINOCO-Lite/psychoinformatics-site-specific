@@ -1,0 +1,79 @@
+attributed_to:
+- object: xyzrins:persons/a645a6d0-96df-472b-9505-b67299896ad8
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Alterations of Subcortical Brain Structures in Paradoxical and Psychophysiological
+    Insomnia Disorder
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Insomnia disorder (ID) is a common illness associated with mood and cognitive
+    impairments. Subtyping ID is an ongoing debate in sleep medicine, but the underlying
+    mechanisms of each subtype is poorly understood. Growing evidence suggests that
+    subcortical brain structures play the key roles in pathophysiology of ID and its
+    subtypes. Here, we aimed to investigate structural alteration of subcortical regions
+    in patients with two common ID subtypes i.e., paradoxical and psychophysiological
+    insomnia. Fifty-five patients and 49 healthy controls were recruited for this
+    study and T1-weighted images and subjective and objective sleep parameters (i.e.,
+    Pittsburgh Sleep Quality Index and polysomnography) were collected from participants.
+    Subcortical structures including the hippocampus, amygdala, caudate, putamen,
+    globus pallidus, nucleus accumbens, and thalamus were automatically segmented
+    in FSL. Volume and shape (using surface vertices) of each structure were compared
+    between the groups, controlled for covariates, and corrected for multiple comparisons.
+    In addition, correlations of sleep parameters and surface vertices or volumes
+    were calculated. The caudate's volume was smaller in patients than controls. Compared
+    with controls, we found regional shrinkage in the caudate, nucleus accumbens,
+    posterior putamen, hippocampus, thalamus, and amygdala in paradoxical insomnia
+    and shrinkage in the amygdala, caudate, hippocampus, and putamen in psychophysiological
+    insomnia. Interestingly, comparing two patients groups, shape alteration in the
+    caudate, putamen, and nucleus accumbens in paradoxical insomnia and shrinkage
+    in the thalamus, amygdala, and hippocampus in psychophysiological insomnia were
+    observed. Both subjective and objective sleep parameters were associated with
+    these regional shape alterations in patients. Our results support the differential
+    role of subcortical brain structures in pathophysiology of paradoxical and psychophysiological
+    insomnia.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Insomnia disorder (ID) is a common illness associated with mood and cognitive
+  impairments. Subtyping ID is an ongoing debate in sleep medicine, but the underlying
+  mechanisms of each subtype is poorly understood. Growing evidence suggests that
+  subcortical brain structures play the key roles in pathophysiology of ID and its
+  subtypes. Here, we aimed to investigate structural alteration of subcortical regions
+  in patients with two common ID subtypes i.e., paradoxical and psychophysiological
+  insomnia. Fifty-five patients and 49 healthy controls were recruited for this study
+  and T1-weighted images and subjective and objective sleep parameters (i.e., Pittsburgh
+  Sleep Quality Index and polysomnography) were collected from participants. Subcortical
+  structures including the hippocampus, amygdala, caudate, putamen, globus pallidus,
+  nucleus accumbens, and thalamus were automatically segmented in FSL. Volume and
+  shape (using surface vertices) of each structure were compared between the groups,
+  controlled for covariates, and corrected for multiple comparisons. In addition,
+  correlations of sleep parameters and surface vertices or volumes were calculated.
+  The caudate's volume was smaller in patients than controls. Compared with controls,
+  we found regional shrinkage in the caudate, nucleus accumbens, posterior putamen,
+  hippocampus, thalamus, and amygdala in paradoxical insomnia and shrinkage in the
+  amygdala, caudate, hippocampus, and putamen in psychophysiological insomnia. Interestingly,
+  comparing two patients groups, shape alteration in the caudate, putamen, and nucleus
+  accumbens in paradoxical insomnia and shrinkage in the thalamus, amygdala, and hippocampus
+  in psychophysiological insomnia were observed. Both subjective and objective sleep
+  parameters were associated with these regional shape alterations in patients. Our
+  results support the differential role of subcortical brain structures in pathophysiology
+  of paradoxical and psychophysiological insomnia.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1664-0640
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3389/fpsyt.2021.661286
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/c8fc4f55-f438-4f66-be25-59b582761db8
+schema_type: xyzri:XYZPublication
+title: Alterations of Subcortical Brain Structures in Paradoxical and Psychophysiological
+  Insomnia Disorder

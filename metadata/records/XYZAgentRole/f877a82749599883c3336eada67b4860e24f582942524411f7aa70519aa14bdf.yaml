@@ -1,0 +1,5 @@
+description: An entity in which the activity or plot of a work takes place, e.g. a
+  geographic place, a time period, a building, an event
+display_label: Setting
+pid: marcrel:stg
+schema_type: xyzri:XYZAgentRole

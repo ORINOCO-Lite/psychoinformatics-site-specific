@@ -1,0 +1,20 @@
+attributed_to:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'NiSpace: Neuroimaging Spatial Colocalization Environment'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: First release to assign Zenodo doi.
+description: First release to assign Zenodo doi.
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/ZENODO.12514623
+  schema_type: dlthings:DOI
+pid: xyzrins:publications/902e00f3-6fc9-47ac-9d64-63c83f3e1777
+schema_type: xyzri:XYZPublication
+title: 'NiSpace: Neuroimaging Spatial Colocalization Environment'

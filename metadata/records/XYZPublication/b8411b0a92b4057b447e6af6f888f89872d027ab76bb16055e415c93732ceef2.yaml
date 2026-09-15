@@ -1,0 +1,32 @@
+attributed_to:
+- object: xyzrins:persons/laura-waite
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/alex-waite
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/benjamin-poldrack
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'FAIRly big: A framework for reproducible processing of large-scale data'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.7490/F1000RESEARCH.1118958.1
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/0b253c89-25a8-4951-a2ba-456bceffa3c9
+schema_type: xyzri:XYZPublication
+title: 'FAIRly big: A framework for reproducible processing of large-scale data'

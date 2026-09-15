@@ -1,0 +1,55 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Unobtrusive tracking of interpersonal orienting and distance predicts the
+    subjective quality of social interactions
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Interpersonal coordination of behaviour is essential forsmooth social interactions.
+    Measures of interpersonal behaviour,however, often rely on subjective evaluations,
+    invasivemeasurement techniques or gross measures of motion. Here,we constructed
+    an unobtrusive motion tracking system thatenables detailed analysis of behaviour
+    at the individual andinterpersonal levels, which we validated using wearablesensors.
+    We evaluate dyadic measures of joint orienting anddistancing, synchrony and gaze
+    behaviours to summarize datacollected during natural conversation and joint action
+    tasks.Our results demonstrate that patterns of proxemic behaviours,rather than
+    more widely used measures of interpersonalsynchrony, best predicted the subjective
+    quality of theinteractions. Increased distance between participants predictedlower
+    enjoyment, while increased joint orienting towards eachother during cooperation
+    correlated with increased effortreported by the participants. Importantly, the
+    interpersonaldistance was most informative of the quality of interactionwhen task
+    demands and experimental control were minimal.gathered during minimally constrained
+    social interactions are particularly sensitive for the subjectivequality of social
+    interactions and may be useful for interaction-based phenotyping for further studies.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Interpersonal coordination of behaviour is essential forsmooth social
+  interactions. Measures of interpersonal behaviour,however, often rely on subjective
+  evaluations, invasivemeasurement techniques or gross measures of motion. Here,we
+  constructed an unobtrusive motion tracking system thatenables detailed analysis
+  of behaviour at the individual andinterpersonal levels, which we validated using
+  wearablesensors. We evaluate dyadic measures of joint orienting anddistancing, synchrony
+  and gaze behaviours to summarize datacollected during natural conversation and joint
+  action tasks.Our results demonstrate that patterns of proxemic behaviours,rather
+  than more widely used measures of interpersonalsynchrony, best predicted the subjective
+  quality of theinteractions. Increased distance between participants predictedlower
+  enjoyment, while increased joint orienting towards eachother during cooperation
+  correlated with increased effortreported by the participants. Importantly, the interpersonaldistance
+  was most informative of the quality of interactionwhen task demands and experimental
+  control were minimal.gathered during minimally constrained social interactions are
+  particularly sensitive for the subjectivequality of social interactions and may
+  be useful for interaction-based phenotyping for further studies.
+generated_by:
+- at_location: ISSN:2054-5703
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1098/rsos.191815
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/6edd3213-ccb0-4fae-8e1c-6d754f0c724a
+schema_type: xyzri:XYZPublication
+title: Unobtrusive tracking of interpersonal orienting and distance predicts the subjective
+  quality of social interactions

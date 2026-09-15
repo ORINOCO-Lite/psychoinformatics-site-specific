@@ -1,0 +1,83 @@
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: HeuDiConv — flexible DICOM conversion into structured directory layouts
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: In order to support efficient processing, data must be formatted according
+    to standards thatare prevalent in the field and widely supported among actively
+    developed analysis tools. TheBrain Imaging Data Structure (BIDS) (Gorgolewski
+    et al., 2016) is an open standard designedfor computational accessibility, operator
+    legibility, and a wide and easily extendable scopeof modalities — and is consequently
+    used by numerous analysis and processing tools as thepreferred input format in
+    many fields of neuroscience. HeuDiConv (Heuristic DICOM Converter)enables flexible
+    and efficient conversion of spatially reconstructed neuroimaging data fromthe
+    DICOM format (quasi-ubiquitous in biomedical image acquisition systems, particularlyin
+    clinical settings) to BIDS, as well as other file layouts. HeuDiConv provides
+    a multi-stageoperator input workflow (discovery, manual tuning, conversion) where
+    a manual tuning step isoptional and the entire conversion can thus be seamlessly
+    integrated into a data processingpipeline. HeuDiConv is written in Python, and
+    supports the DICOM specification for input parsing, and the BIDS specification
+    for output construction. The support for these standardsis extensive, and HeuDiConv
+    can handle complex organization scenarios that arise for specificdata types (e.g.,
+    multi-echo sequences, or single-band reference volumes). In addition togenerating
+    valid BIDS outputs, additional support is offered for custom output layouts. Thisis
+    obtained via a set of built-in fully functional or example heuristics expressed
+    as simplePython functions. Those heuristics could be taken as a template or as
+    a base for developingcustom heuristics, thus providing full flexibility and maintaining
+    user accessibility. HeuDiConvfurther integrates with DataLad (Halchenko et al.,
+    2021), and can automatically preparehierarchies of DataLad datasets with optional
+    obfuscation of sensitive data and metadata,including obfuscating patient visit
+    timestamps in the git version control system. As a result,given its extensibility,
+    large modality support, and integration with advanced data managementtechnologies,
+    HeuDiConv has become a mainstay in numerous neuroimaging workflows, andconstitutes
+    a powerful and highly adaptable tool of potential interest to large swathes of
+    theneuroimaging community.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: In order to support efficient processing, data must be formatted according
+  to standards thatare prevalent in the field and widely supported among actively
+  developed analysis tools. TheBrain Imaging Data Structure (BIDS) (Gorgolewski et
+  al., 2016) is an open standard designedfor computational accessibility, operator
+  legibility, and a wide and easily extendable scopeof modalities — and is consequently
+  used by numerous analysis and processing tools as thepreferred input format in many
+  fields of neuroscience. HeuDiConv (Heuristic DICOM Converter)enables flexible and
+  efficient conversion of spatially reconstructed neuroimaging data fromthe DICOM
+  format (quasi-ubiquitous in biomedical image acquisition systems, particularlyin
+  clinical settings) to BIDS, as well as other file layouts. HeuDiConv provides a
+  multi-stageoperator input workflow (discovery, manual tuning, conversion) where
+  a manual tuning step isoptional and the entire conversion can thus be seamlessly
+  integrated into a data processingpipeline. HeuDiConv is written in Python, and supports
+  the DICOM specification for input parsing, and the BIDS specification for output
+  construction. The support for these standardsis extensive, and HeuDiConv can handle
+  complex organization scenarios that arise for specificdata types (e.g., multi-echo
+  sequences, or single-band reference volumes). In addition togenerating valid BIDS
+  outputs, additional support is offered for custom output layouts. Thisis obtained
+  via a set of built-in fully functional or example heuristics expressed as simplePython
+  functions. Those heuristics could be taken as a template or as a base for developingcustom
+  heuristics, thus providing full flexibility and maintaining user accessibility.
+  HeuDiConvfurther integrates with DataLad (Halchenko et al., 2021), and can automatically
+  preparehierarchies of DataLad datasets with optional obfuscation of sensitive data
+  and metadata,including obfuscating patient visit timestamps in the git version control
+  system. As a result,given its extensibility, large modality support, and integration
+  with advanced data managementtechnologies, HeuDiConv has become a mainstay in numerous
+  neuroimaging workflows, andconstitutes a powerful and highly adaptable tool of potential
+  interest to large swathes of theneuroimaging community.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:2475-9066
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.21105/joss.05839
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/58f785fb-5a34-4813-a8fb-c8053a00badd
+schema_type: xyzri:XYZPublication
+title: HeuDiConv — flexible DICOM conversion into structured directory layouts

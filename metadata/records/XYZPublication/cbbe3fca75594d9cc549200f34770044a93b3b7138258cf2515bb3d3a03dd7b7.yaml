@@ -1,0 +1,61 @@
+attributed_to:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/659e2c63-bcaa-4348-bf2c-2d6176dfad96
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Genetic and phylogenetic uncoupling of structure and function in human transmodal
+    cortex
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Brain structure scaffolds intrinsic function, supporting cognition and ultimately
+    behavioral flexibility. However, it remains unclear how a static, genetically
+    controlled architecture supports flexible cognition and behavior. Here, we synthesize
+    genetic, phylogenetic and cognitive analyses to understand how the macroscale
+    organization of structure-function coupling across the cortex can inform its role
+    in cognition. In humans, structure-function coupling was highest in regions of
+    unimodal cortex and lowest in transmodal cortex, a pattern that was mirrored by
+    a reduced alignment with heritable connectivity profiles. Structure-function uncoupling
+    in macaques had a similar spatial distribution, but we observed an increased coupling
+    between structure and function in association cortices relative to humans. Meta-analysis
+    suggested regions with the least genetic control (low heritable correspondence
+    and different across primates) are linked to social-cognition and autobiographical
+    memory. Our findings suggest that genetic and evolutionary uncoupling of structure
+    and function in different transmodal systems may support the emergence of complex
+    forms of cognition.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Brain structure scaffolds intrinsic function, supporting cognition and
+  ultimately behavioral flexibility. However, it remains unclear how a static, genetically
+  controlled architecture supports flexible cognition and behavior. Here, we synthesize
+  genetic, phylogenetic and cognitive analyses to understand how the macroscale organization
+  of structure-function coupling across the cortex can inform its role in cognition.
+  In humans, structure-function coupling was highest in regions of unimodal cortex
+  and lowest in transmodal cortex, a pattern that was mirrored by a reduced alignment
+  with heritable connectivity profiles. Structure-function uncoupling in macaques
+  had a similar spatial distribution, but we observed an increased coupling between
+  structure and function in association cortices relative to humans. Meta-analysis
+  suggested regions with the least genetic control (low heritable correspondence and
+  different across primates) are linked to social-cognition and autobiographical memory.
+  Our findings suggest that genetic and evolutionary uncoupling of structure and function
+  in different transmodal systems may support the emergence of complex forms of cognition.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2041-1723
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41467-022-29886-1
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/74088c0f-73bb-4008-8fac-3b0735ed91c2
+schema_type: xyzri:XYZPublication
+title: Genetic and phylogenetic uncoupling of structure and function in human transmodal
+  cortex

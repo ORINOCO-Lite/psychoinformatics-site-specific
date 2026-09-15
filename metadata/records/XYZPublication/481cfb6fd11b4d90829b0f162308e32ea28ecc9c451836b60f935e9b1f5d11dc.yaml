@@ -1,0 +1,65 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Early and late neural correlates of mentalizing: ALE meta-analyses in adults,
+    children and adolescents'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The ability to understand mental states of others is referred to as mentalizing
+    and enabled by our Theory of Mind. This social skill relies on brain regions comprising
+    the mentalizing network, as robustly observed in adults, but also in a growing
+    number of developmental studies. We summarized and compared neuroimaging evidence
+    in children/adolescents and adults during mentalizing using coordinate-based activation
+    likelihood estimation meta-analyses to inform about brain regions consistently
+    or differentially engaged across age categories. Adults (N = 5286) recruited medial
+    prefrontal and middle/inferior frontal cortices, precuneus, temporoparietal junction
+    and middle temporal gyri during mentalizing, which were functionally connected
+    to bilateral inferior/superior parietal lobule and thalamus/striatum. Conjunction
+    and contrast analyses revealed that children and adolescents (N = 479) recruit
+    similar, but fewer regions within core mentalizing regions. Subgroup analyses
+    revealed an early continuous engagement of middle medial prefrontal cortex, precuneus
+    and right temporoparietal junction in younger children (8-11y) and adolescents
+    (12-18y). Adolescents additionally recruited the left temporoparietal junction
+    and middle/inferior temporal cortex. Overall, the observed engagement of the medial
+    prefrontal cortex, precuneus and right temporoparietal junction during mentalizing
+    across all ages reflects an early specialization of some key regions of the social
+    brain.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The ability to understand mental states of others is referred to as mentalizing
+  and enabled by our Theory of Mind. This social skill relies on brain regions comprising
+  the mentalizing network, as robustly observed in adults, but also in a growing number
+  of developmental studies. We summarized and compared neuroimaging evidence in children/adolescents
+  and adults during mentalizing using coordinate-based activation likelihood estimation
+  meta-analyses to inform about brain regions consistently or differentially engaged
+  across age categories. Adults (N = 5286) recruited medial prefrontal and middle/inferior
+  frontal cortices, precuneus, temporoparietal junction and middle temporal gyri during
+  mentalizing, which were functionally connected to bilateral inferior/superior parietal
+  lobule and thalamus/striatum. Conjunction and contrast analyses revealed that children
+  and adolescents (N = 479) recruit similar, but fewer regions within core mentalizing
+  regions. Subgroup analyses revealed an early continuous engagement of middle medial
+  prefrontal cortex, precuneus and right temporoparietal junction in younger children
+  (8-11y) and adolescents (12-18y). Adolescents additionally recruited the left temporoparietal
+  junction and middle/inferior temporal cortex. Overall, the observed engagement of
+  the medial prefrontal cortex, precuneus and right temporoparietal junction during
+  mentalizing across all ages reflects an early specialization of some key regions
+  of the social brain.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1749-5016
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/scan/nsab105
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/70306c67-e348-4c52-a443-6c09fe674b6f
+schema_type: xyzri:XYZPublication
+title: 'Early and late neural correlates of mentalizing: ALE meta-analyses in adults,
+  children and adolescents'

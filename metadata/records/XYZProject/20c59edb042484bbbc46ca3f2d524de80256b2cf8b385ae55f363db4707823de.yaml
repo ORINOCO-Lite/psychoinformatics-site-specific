@@ -1,0 +1,74 @@
+about:
+- xyzrins:topics/distributed-systems
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-04-01T09:14:07.045885'
+associated_with:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - marcrel:orm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:orm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/stephan-heunis
+  roles:
+  - marcrel:orm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/alex-waite
+  roles:
+  - marcrel:orm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/laura-waite
+  roles:
+  - marcrel:orm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/christian-moench
+  roles:
+  - marcrel:orm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/michal-szczepanik
+  roles:
+  - marcrel:orm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/jenna-swarthout-goddard
+  roles:
+  - marcrel:orm
+  schema_type: dlthings:Association
+- object: orcid:0000-0003-3456-2493
+  roles:
+  - marcrel:orm
+  schema_type: dlthings:Association
+description: 'Distribits is a community for enthusiasts of tools and workflows in
+  the domain of distributed data. '
+influenced_by:
+- object: xyzrins:objectives/87be5fa3-80fb-4221-8406-2ddd40fb1fd1
+  roles:
+  - FRAPO:Deliverable
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:grants/sfb1451
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:grants/mkw-abcd-j
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:objectives/self-hosted-it
+  roles:
+  - FRAPO:Deliverable
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:objectives/97ded4aa-108d-4b84-8195-d6076dce63ce
+  roles:
+  - FRAPO:Deliverable
+  schema_type: xyzri:XYZInfluence
+part_of:
+- xyzrins:.
+pid: xyzrins:projects/a605574d-ee49-4ad4-8348-599b632ed5eb
+schema_type: xyzri:XYZProject
+title: Distribits

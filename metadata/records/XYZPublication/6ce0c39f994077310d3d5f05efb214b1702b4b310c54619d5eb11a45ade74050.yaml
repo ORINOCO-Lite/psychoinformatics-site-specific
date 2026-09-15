@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Transcutaneous Auricular Vagus Nerve Stimulation for the Treatment of Myoarthropathic
+    Symptoms Associated With Temporomandibular Disorders—A Pilot Randomised Controlled
+    Trial
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'ABSTRACTBackground: Transcutaneous auricular vagus nerve stimulation (taVNS)
+    is a safe and feasible treatment for a variety of acuteand chronic pain conditions.
+    However, no evidence about taVNS effectiveness in patients with chronic pain associated
+    with tem-poromandibular disorders (TMD) is available.Objective: To evaluate the
+    feasibility of and compliance with taVNS in participants experiencing chronic
+    TMD pain and poten-tial effects on pain, psychological well-being, muscle activity,
+    and kinematics.Methods: Twenty adults with chronic TMD pain were randomised to
+    receive taVNS (n = 10) or sham (n = 10). In the taVNSgroup, stimulation was performed
+    on the left tragus for 4 h daily (25 Hz, pulse width 250 μs, 28 s on/32 s off).
+    In the sham group,an inactive non-functional sham electrode was used. Patient-reported
+    outcome measures (GCPS, PHQ-9, GAD-7, PHQ-15, andOHIP- G14), muscle activity,
+    and kinematics were assessed at baseline, 4 weeks, and 8 weeks. Compliance was
+    assessed using asmartphone app, which recorded daily stimulation time and intensity.Results:
+    Recruitment and retention rates were high (100% and 90%, respectively), with 83%
+    adherence to the intervention.Participants receiving taVNS showed a large effect
+    on oral health-related quality of life, and at least a small but potentially impor-tant
+    effect on pain intensity, anxiety, depression, severity of somatic symptoms, muscle
+    activity, and kinematics. However, noneof these differences were statistically
+    significant. No serious adverse events were identified.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'ABSTRACTBackground: Transcutaneous auricular vagus nerve stimulation
+  (taVNS) is a safe and feasible treatment for a variety of acuteand chronic pain
+  conditions. However, no evidence about taVNS effectiveness in patients with chronic
+  pain associated with tem-poromandibular disorders (TMD) is available.Objective:
+  To evaluate the feasibility of and compliance with taVNS in participants experiencing
+  chronic TMD pain and poten-tial effects on pain, psychological well-being, muscle
+  activity, and kinematics.Methods: Twenty adults with chronic TMD pain were randomised
+  to receive taVNS (n = 10) or sham (n = 10). In the taVNSgroup, stimulation was performed
+  on the left tragus for 4 h daily (25 Hz, pulse width 250 μs, 28 s on/32 s off).
+  In the sham group,an inactive non-functional sham electrode was used. Patient-reported
+  outcome measures (GCPS, PHQ-9, GAD-7, PHQ-15, andOHIP- G14), muscle activity, and
+  kinematics were assessed at baseline, 4 weeks, and 8 weeks. Compliance was assessed
+  using asmartphone app, which recorded daily stimulation time and intensity.Results:
+  Recruitment and retention rates were high (100% and 90%, respectively), with 83%
+  adherence to the intervention.Participants receiving taVNS showed a large effect
+  on oral health-related quality of life, and at least a small but potentially impor-tant
+  effect on pain intensity, anxiety, depression, severity of somatic symptoms, muscle
+  activity, and kinematics. However, noneof these differences were statistically significant.
+  No serious adverse events were identified.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0305-182X
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1111/joor.70039
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/d5cf9321-0807-4572-893a-a7e33de9fc00
+schema_type: xyzri:XYZPublication
+title: Transcutaneous Auricular Vagus Nerve Stimulation for the Treatment of Myoarthropathic
+  Symptoms Associated With Temporomandibular Disorders—A Pilot Randomised Controlled
+  Trial

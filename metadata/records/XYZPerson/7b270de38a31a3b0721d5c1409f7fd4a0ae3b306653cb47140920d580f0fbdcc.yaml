@@ -1,0 +1,121 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-05-18T15:19:08.582016'
+delegated_by:
+- attributes:
+  - predicate: vcard:Email
+    schema_type: dlthings:AttributeSpecification
+    value: michael.hanke@hhu.de
+  object: ror:024z2rq82
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+  started:
+    at_time: '2019-04-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: 2011-07
+    schema_type: dlthings:End
+  object: 'ror:'
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+  started:
+    at_time: 2009-08
+    schema_type: dlthings:Start
+- ended:
+    at_time: 2019-03
+    schema_type: dlthings:End
+  object: xyzrins:organizations/ovgu
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+  started:
+    at_time: 2005-04
+    schema_type: dlthings:Start
+- object: xyzrins:persons/simon-eickhoff
+  roles:
+  - xyzrins:agent-roles/b248c1cc-135c-4e06-8366-6d38539fb825
+  schema_type: dlthings:Delegation
+  started:
+    at_time: '2019-04-01'
+    schema_type: dlthings:Start
+- object: rrid:SCR_006638
+  schema_type: dlthings:Delegation
+  started:
+    at_time: 2010-10
+    schema_type: dlthings:Start
+- attributes:
+  - predicate: vcard:Email
+    schema_type: dlthings:AttributeSpecification
+    value: m.hanke@fz-juelich.de
+  object: ror:02nv7yv05
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+  started:
+    at_time: '2019-04-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: 2011-07
+    schema_type: dlthings:End
+  object: orcid:0000-0002-6558-3118
+  roles:
+  - xyzrins:agent-roles/b248c1cc-135c-4e06-8366-6d38539fb825
+  schema_type: dlthings:Delegation
+  started:
+    at_time: 2009-08
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2019-03-31'
+    schema_type: dlthings:End
+  object: xyzrins:organizations/55dda01f-1556-4b34-bf5c-5f2f7cb0a20a
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+  started:
+    at_time: '2013-04-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: 2013-07
+    schema_type: dlthings:End
+  object: orcid:0000-0001-5840-5658
+  roles:
+  - xyzrins:agent-roles/b248c1cc-135c-4e06-8366-6d38539fb825
+  schema_type: dlthings:Delegation
+  started:
+    at_time: 2005-04
+    schema_type: dlthings:Start
+depiction:
+- xyzrins:depictions/31557c86-cf9e-4810-9565-4a6ce0bea05b
+family_name: Hanke
+given_name: Michael
+honorific_name_prefix: Prof. Dr.
+identifiers:
+- creator: rrid:SCR_002630
+  notation: mih
+  schema_type: dlthings:Identifier
+- creator: rrid:SCR_006638
+  notation: mih
+  schema_type: dlthings:Identifier
+- creator: ror:008f3q107
+  notation: Michael-Hanke-4
+  schema_type: dlthings:Identifier
+- creator: ror:02fyxhe35
+  notation: mhanke
+  schema_type: dlthings:Identifier
+- creator: ror:04fa4r544
+  notation: 0000-0001-6398-6370
+  schema_type: xyzri:ORCID
+- creator: https://mas.to
+  notation: '@mih'
+  schema_type: dlthings:Identifier
+- creator: https://w3id.org/isil/DE-Juel1
+  notation: P:(DE-Juel1)177087
+  schema_type: dlthings:Identifier
+pid: xyzrins:persons/michael-hanke
+schema_type: xyzri:XYZPerson

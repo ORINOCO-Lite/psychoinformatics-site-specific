@@ -1,0 +1,16 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2025-12-17T15:06:45.401293'
+description: Specifies whether the Open Source Initiative (OSI) has listed a License
+  as "approved" in their list of OSI Approved Licenses, located at the time of this
+  writing at OSI Approved Licenses. A value of "true" indicates that the license is
+  in the list of licenses that OSI publishes as approved. A value of "false" indicates
+  that the license is explicitly not in the corresponding list of OSI licenses (e.g.,
+  OSI has stated publicly that a license is not approved).
+display_label: OSI approved
+pid: spdx:isOsiApproved
+schema_type: dlthings:Property

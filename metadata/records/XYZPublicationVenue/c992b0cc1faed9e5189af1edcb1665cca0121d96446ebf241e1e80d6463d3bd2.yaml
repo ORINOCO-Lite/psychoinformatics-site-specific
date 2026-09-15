@@ -1,0 +1,9 @@
+display_note: ISSN:1664-1078
+identifiers:
+- creator: ror:026ytr635
+  notation: 1664-1078
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:1664-1078
+schema_type: xyzri:XYZPublicationVenue
+title: Frontiers In Psychology

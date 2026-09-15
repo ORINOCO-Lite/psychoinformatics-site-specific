@@ -1,0 +1,36 @@
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: A studyforrest extension, an annotation of spoken language in the German
+    dubbed movie ``Forrest Gump'' and its audio-description (validation analysis)
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: <p>This component contains the data of the analysis that we ran as a validation
+    of the annotation of speech spoken in the research cut (Hanke et al., 2016) of
+    the movie "Forrest Gump" (Zemeckis, 1994) and its audio-description. The corresponding
+    paper is hosted on github (https://github.com/psychoinformatics-de/studyforrest-paper-speechannotation)&nbsp;and
+    published in f1000research (https://doi.org/10.12688/f1000research.27621.1).</p>
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: <p>This component contains the data of the analysis that we ran as a
+  validation of the annotation of speech spoken in the research cut (Hanke et al.,
+  2016) of the movie "Forrest Gump" (Zemeckis, 1994) and its audio-description. The
+  corresponding paper is hosted on github (https://github.com/psychoinformatics-de/studyforrest-paper-speechannotation)&nbsp;and
+  published in f1000research (https://doi.org/10.12688/f1000research.27621.1).</p>
+generated_by:
+- at_location: ISSN:2046-1402
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/ZENODO.4382188
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/62e9f9de-19cb-4f19-8c75-5f50a8e4e03f
+schema_type: xyzri:XYZPublication
+title: A studyforrest extension, an annotation of spoken language in the German dubbed
+  movie ``Forrest Gump'' and its audio-description (validation analysis)

@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/659e2c63-bcaa-4348-bf2c-2d6176dfad96
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/39e91aa8-3e7e-4e72-9977-ae6941e9e142
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Author Correction: A cross-cohort replicable and heritable latent dimension
+    linking behaviour to multi-featured brain structure'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Identifying associations between interindividual variability in brain structure
+    and behaviour requires large cohorts, multivariate methods, out-of-sample validation
+    and, ideally, out-of-cohort replication. Moreover, the influence of nature vs
+    nurture on brain-behaviour associations should be analysed. We analysed associations
+    between brain structure (grey matter volume, cortical thickness, and surface area)
+    and behaviour (spanning cognition, emotion, and alertness) using regularized canonical
+    correlation analysis and a machine learning framework that tests the generalisability
+    and stability of such associations. The replicability of brain-behaviour associations
+    was assessed in two large, independent cohorts. The load of genetic factors on
+    these associations was analysed with heritability and genetic correlation. We
+    found one heritable and replicable latent dimension linking cognitive-control/executive-functions
+    and positive affect to brain structural variability in areas typically associated
+    with higher cognitive functions, and with areas typically associated with sensorimotor
+    functions. These results revealed a major axis of interindividual behavioural
+    variability linking to a whole-brain structural pattern.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Identifying associations between interindividual variability in brain
+  structure and behaviour requires large cohorts, multivariate methods, out-of-sample
+  validation and, ideally, out-of-cohort replication. Moreover, the influence of nature
+  vs nurture on brain-behaviour associations should be analysed. We analysed associations
+  between brain structure (grey matter volume, cortical thickness, and surface area)
+  and behaviour (spanning cognition, emotion, and alertness) using regularized canonical
+  correlation analysis and a machine learning framework that tests the generalisability
+  and stability of such associations. The replicability of brain-behaviour associations
+  was assessed in two large, independent cohorts. The load of genetic factors on these
+  associations was analysed with heritability and genetic correlation. We found one
+  heritable and replicable latent dimension linking cognitive-control/executive-functions
+  and positive affect to brain structural variability in areas typically associated
+  with higher cognitive functions, and with areas typically associated with sensorimotor
+  functions. These results revealed a major axis of interindividual behavioural variability
+  linking to a whole-brain structural pattern.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2399-3642
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s42003-023-04697-2
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/7fc2b8aa-c3ea-4e5a-80cf-00a445cb08ff
+schema_type: xyzri:XYZPublication
+title: 'Author Correction: A cross-cohort replicable and heritable latent dimension
+  linking behaviour to multi-featured brain structure'

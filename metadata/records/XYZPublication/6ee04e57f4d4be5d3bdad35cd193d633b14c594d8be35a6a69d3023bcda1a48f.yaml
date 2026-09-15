@@ -1,0 +1,73 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Opposite changes in morphometric similarity of medial reward and lateral
+    non-reward orbitofrontal cortex circuits in obesity
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Obesity has a profound impact on metabolic health thereby adversely affecting
+    brain structure and function. However, the majority of previous studies used a
+    single structural index to investigate the link between brain structure and body
+    mass index (BMI), which hinders our understanding of structural covariance between
+    regions in obesity. This study aimed to examine the relationship between macroscale
+    cortical organization and BMI using novel morphometric similarity networks (MSNs).
+    The individual MSNs were first constructed from individual eight multimodal cortical
+    morphometric features between brain regions. Then the relationship between BMI
+    and MSNs within the discovery sample of 434 participants was assessed. The key
+    findings were further validated in an independent sample of 192 participants.
+    We observed that the lateral non-reward orbitofrontal cortex (lOFC) exhibited
+    decoupling (i.e., reduction in integration) in obesity, which was mainly manifested
+    by its decoupling with the cognitive systems (i.e., DMN and FPN) while the medial
+    reward orbitofrontal cortex (mOFC) showed de-differentiation (i.e., decrease in
+    distinctiveness) in obesity, which was mainly represented by its de-differentiation
+    with the cognitive and attention systems (i.e., DMN and VAN). Additionally, the
+    lOFC showed de-differentiation with the visual system in obesity, while the mOFC
+    showed decoupling with the visual system and hyper-coupling with the sensory-motor
+    system in obesity. As an important first step in revealing the role of underlying
+    structural covariance in body mass variability, the present study presents a novel
+    mechanism that underlies the reward-control interaction imbalance in obesity,
+    thus can inform future weight-management approaches.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Obesity has a profound impact on metabolic health thereby adversely affecting
+  brain structure and function. However, the majority of previous studies used a single
+  structural index to investigate the link between brain structure and body mass index
+  (BMI), which hinders our understanding of structural covariance between regions
+  in obesity. This study aimed to examine the relationship between macroscale cortical
+  organization and BMI using novel morphometric similarity networks (MSNs). The individual
+  MSNs were first constructed from individual eight multimodal cortical morphometric
+  features between brain regions. Then the relationship between BMI and MSNs within
+  the discovery sample of 434 participants was assessed. The key findings were further
+  validated in an independent sample of 192 participants. We observed that the lateral
+  non-reward orbitofrontal cortex (lOFC) exhibited decoupling (i.e., reduction in
+  integration) in obesity, which was mainly manifested by its decoupling with the
+  cognitive systems (i.e., DMN and FPN) while the medial reward orbitofrontal cortex
+  (mOFC) showed de-differentiation (i.e., decrease in distinctiveness) in obesity,
+  which was mainly represented by its de-differentiation with the cognitive and attention
+  systems (i.e., DMN and VAN). Additionally, the lOFC showed de-differentiation with
+  the visual system in obesity, while the mOFC showed decoupling with the visual system
+  and hyper-coupling with the sensory-motor system in obesity. As an important first
+  step in revealing the role of underlying structural covariance in body mass variability,
+  the present study presents a novel mechanism that underlies the reward-control interaction
+  imbalance in obesity, thus can inform future weight-management approaches.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2024.120574
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/9dbffa61-2db1-446c-8a1e-be289ac9b60e
+schema_type: xyzri:XYZPublication
+title: Opposite changes in morphometric similarity of medial reward and lateral non-reward
+  orbitofrontal cortex circuits in obesity

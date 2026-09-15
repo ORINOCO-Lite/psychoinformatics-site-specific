@@ -1,0 +1,66 @@
+attributed_to:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/60feb346-954c-4625-93d6-1b8bd1ca0dfa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Artificial intelligence in the care of children and adolescents with chronic
+    diseases: a systematic review'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The integration of artificial intelligence (AI) and machine learning (ML)
+    has shown potential for various applications in the medical field, particularly
+    for diagnosing and managing chronic diseases among children and adolescents. This
+    systematic review aims to comprehensively analyze and synthesize research on the
+    use of AI for monitoring, guiding, and assisting pediatric patients with chronic
+    diseases. Five major electronic databases were searched (Medline, Scopus, PsycINFO,
+    ACM, Web of Science), along with manual searches of gray literature, personal
+    archives, and reference lists of relevant papers. All original studies as well
+    as conference abstracts and proceedings, focusing on AI applications for pediatric
+    chronic disease care were included. Thirty-one studies met the inclusion criteria.
+    We extracted AI method used, study design, population, intervention, and main
+    results. Two researchers independently extracted data and resolved discrepancies
+    through discussion. AI applications are diverse, encompassing, e.g., disease classification,
+    outcome prediction, or decision support. AI generally performed well, though most
+    models were tested on retrospective data. AI-based tools have shown promise in
+    mental health analysis, e.g., by using speech sampling or social media data to
+    predict therapy outcomes for various chronic conditions.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The integration of artificial intelligence (AI) and machine learning
+  (ML) has shown potential for various applications in the medical field, particularly
+  for diagnosing and managing chronic diseases among children and adolescents. This
+  systematic review aims to comprehensively analyze and synthesize research on the
+  use of AI for monitoring, guiding, and assisting pediatric patients with chronic
+  diseases. Five major electronic databases were searched (Medline, Scopus, PsycINFO,
+  ACM, Web of Science), along with manual searches of gray literature, personal archives,
+  and reference lists of relevant papers. All original studies as well as conference
+  abstracts and proceedings, focusing on AI applications for pediatric chronic disease
+  care were included. Thirty-one studies met the inclusion criteria. We extracted
+  AI method used, study design, population, intervention, and main results. Two researchers
+  independently extracted data and resolved discrepancies through discussion. AI applications
+  are diverse, encompassing, e.g., disease classification, outcome prediction, or
+  decision support. AI generally performed well, though most models were tested on
+  retrospective data. AI-based tools have shown promise in mental health analysis,
+  e.g., by using speech sampling or social media data to predict therapy outcomes
+  for various chronic conditions.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:0340-6199
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00431-024-05846-3
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/86f6795c-40b2-4bba-92fd-c045cee69d5a
+schema_type: xyzri:XYZPublication
+title: 'Artificial intelligence in the care of children and adolescents with chronic
+  diseases: a systematic review'

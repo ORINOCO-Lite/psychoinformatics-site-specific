@@ -1,0 +1,35 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Eine Bedrohung für den Sinn? Human Enhancement und das sinnvolle LebenA threat
+    for meaningfulness? Human enhancement and the meaningful life
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'The general theme of this article is the connection between two topics which
+    are well-researched on their own, but are hardly linked to each other: the debate
+    on human enhancement and the meaning in life debate. More precisely, the article
+    explores the claim whether there is reason to believe that enhancement techniques
+    can undermine the meaning of one’s life.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'The general theme of this article is the connection between two topics
+  which are well-researched on their own, but are hardly linked to each other: the
+  debate on human enhancement and the meaning in life debate. More precisely, the
+  article explores the claim whether there is reason to believe that enhancement techniques
+  can undermine the meaning of one’s life.'
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:0935-7335
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00481-021-00660-z
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/f127743d-347d-4d56-b905-6a36c6f8f7c3
+schema_type: xyzri:XYZPublication
+title: Eine Bedrohung für den Sinn? Human Enhancement und das sinnvolle LebenA threat
+  for meaningfulness? Human enhancement and the meaningful life

@@ -1,0 +1,93 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/3efc5cfa-a10c-4c65-9bcf-36ad37d9b7e0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/06b9a2d5-b71d-4fd3-8f19-966c53adf8d4
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d44b2ca0-e927-4495-939e-a05fac8e2aca
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Predicting brain volumes from anthropometric and demographic features: insights
+    from UK biobank neuroimaging data'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Brain size measures are well-studied and often treated as a confound in
+    volumetric neuroimaging analyses. Yet their relationship with body anthropometric
+    measures and demographics remains underexplored. In this study, we examined those
+    relationships alongside age- and sex-related differences in global brain volumes.
+    Using brain magnetic resonance imaging (MRI) of healthy participants in the UK
+    Biobank, we derived global measures of brain morphometry, including total intracranial
+    volume (TIV), total brain volume (TBV), gray matter volume (GMV), white matter
+    volume (WMV), and cerebrospinal fluid (CSF). We extracted these measures using
+    the Computational Anatomy Toolbox (CAT) and FreeSurfer. Our analyses were structured
+    in three approaches: across-sex analysis, sex-specific analysis, and impact of
+    age analysis. Employing machine learning (ML), we found that TIV was strongly
+    predicted by sex (across-sex formula image 0.68), reflecting sex difference. On
+    the other hand, TBV, GMV, WMV, and CSF were more sensitive to age, with higher
+    prediction accuracy when age was included as a feature, highlighting age-related
+    changes in the brain structure, such as fluid expansion. Sex-specific models showed
+    reduced TIV prediction (formula image 0.25) but improved TBV accuracy (formula
+    image 0.44), underscoring sex-specific body-brain relationships. Anthropometric
+    measures, particularly seated height and weight, improved prediction of TIV and
+    TBV, while waist and hip circumference showed negative associations, though their
+    effects generally remained secondary to age and sex. These findings advance our
+    understanding of brain-body scaling relationships and underscore the necessity
+    of accounting for age and sex in neuroimaging studies of brain morphology.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Brain size measures are well-studied and often treated as a confound
+  in volumetric neuroimaging analyses. Yet their relationship with body anthropometric
+  measures and demographics remains underexplored. In this study, we examined those
+  relationships alongside age- and sex-related differences in global brain volumes.
+  Using brain magnetic resonance imaging (MRI) of healthy participants in the UK Biobank,
+  we derived global measures of brain morphometry, including total intracranial volume
+  (TIV), total brain volume (TBV), gray matter volume (GMV), white matter volume (WMV),
+  and cerebrospinal fluid (CSF). We extracted these measures using the Computational
+  Anatomy Toolbox (CAT) and FreeSurfer. Our analyses were structured in three approaches:
+  across-sex analysis, sex-specific analysis, and impact of age analysis. Employing
+  machine learning (ML), we found that TIV was strongly predicted by sex (across-sex
+  formula image 0.68), reflecting sex difference. On the other hand, TBV, GMV, WMV,
+  and CSF were more sensitive to age, with higher prediction accuracy when age was
+  included as a feature, highlighting age-related changes in the brain structure,
+  such as fluid expansion. Sex-specific models showed reduced TIV prediction (formula
+  image 0.25) but improved TBV accuracy (formula image 0.44), underscoring sex-specific
+  body-brain relationships. Anthropometric measures, particularly seated height and
+  weight, improved prediction of TIV and TBV, while waist and hip circumference showed
+  negative associations, though their effects generally remained secondary to age
+  and sex. These findings advance our understanding of brain-body scaling relationships
+  and underscore the necessity of accounting for age and sex in neuroimaging studies
+  of brain morphology.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1863-2653
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00429-025-03070-9
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2028-12-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/sfb1451
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/f5a27848-fa8a-45ce-9f18-66e009be72f9
+schema_type: xyzri:XYZPublication
+title: 'Predicting brain volumes from anthropometric and demographic features: insights
+  from UK biobank neuroimaging data'

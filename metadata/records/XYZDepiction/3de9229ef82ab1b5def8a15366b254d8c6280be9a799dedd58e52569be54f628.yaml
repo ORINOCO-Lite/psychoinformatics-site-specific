@@ -1,0 +1,18 @@
+about:
+- xyzrins:instruments/trr379_hub
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-05-18T15:20:39.888511'
+description: The forgejo aneksajo logo
+distributions:
+- dldi:SHA256E-s1846--36e779ff193879a07e14fe17151f5feeafb666e1a0f3f8e40726426dab8bd739.svg
+kind: schema:logo
+pid: xyzrins:depictions/3a8e1a2e-eea3-4e56-8da2-9d70d5e8a416
+rules:
+- spdxlic:CC-BY-4.0
+schema_type: xyzri:XYZDepiction
+title: Forgejo-aneksajo

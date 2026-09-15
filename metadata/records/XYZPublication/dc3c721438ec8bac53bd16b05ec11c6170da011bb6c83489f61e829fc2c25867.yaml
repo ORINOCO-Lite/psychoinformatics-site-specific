@@ -1,0 +1,55 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Neural signatures of prosocial behaviors
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Prosocial behaviors are hypothesized to require socio-cognitive and empathic
+    abilities—engaging brain regions attributed to the mentalizing and empathy brain
+    networks. Here, we tested this hypothesis with a coordinate-based meta-analysis
+    of 600 neuroimaging studies on prosociality, mentalizing and empathy (∼12,000
+    individuals). We showed that brain areas recruited by prosocial behaviors only
+    partially overlap with the mentalizing (dorsal posterior cingulate cortex) and
+    empathy networks (middle cingulate cortex). Additionally, the dorsolateral and
+    ventromedial prefrontal cortices were preferentially activated by prosocial behaviors.
+    Analyses on the functional connectivity profile and functional roles of the neural
+    patterns underlying prosociality revealed that in addition to socio-cognitive
+    and empathic processes, prosocial behaviors further involve evaluation processes
+    and action planning, likely to select the action sequence that best satisfies
+    another person’s needs. By characterizing the multidimensional construct of prosociality
+    at the neural level, we provide insights that may support a better understanding
+    of normal and abnormal social cognition (e.g., psychopathy).
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Prosocial behaviors are hypothesized to require socio-cognitive and empathic
+  abilities—engaging brain regions attributed to the mentalizing and empathy brain
+  networks. Here, we tested this hypothesis with a coordinate-based meta-analysis
+  of 600 neuroimaging studies on prosociality, mentalizing and empathy (∼12,000 individuals).
+  We showed that brain areas recruited by prosocial behaviors only partially overlap
+  with the mentalizing (dorsal posterior cingulate cortex) and empathy networks (middle
+  cingulate cortex). Additionally, the dorsolateral and ventromedial prefrontal cortices
+  were preferentially activated by prosocial behaviors. Analyses on the functional
+  connectivity profile and functional roles of the neural patterns underlying prosociality
+  revealed that in addition to socio-cognitive and empathic processes, prosocial behaviors
+  further involve evaluation processes and action planning, likely to select the action
+  sequence that best satisfies another person’s needs. By characterizing the multidimensional
+  construct of prosociality at the neural level, we provide insights that may support
+  a better understanding of normal and abnormal social cognition (e.g., psychopathy).
+generated_by:
+- at_location: ISSN:0149-7634
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2020.07.006
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/ea4cddd2-f429-4a33-8c1d-257abc6ecf4c
+schema_type: xyzri:XYZPublication
+title: Neural signatures of prosocial behaviors

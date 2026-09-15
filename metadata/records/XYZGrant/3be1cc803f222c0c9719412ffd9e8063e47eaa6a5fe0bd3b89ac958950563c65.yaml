@@ -1,0 +1,16 @@
+attributed_to:
+- object: ror:018mejw64
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+identifiers:
+- creator: ror:018mejw64
+  notation: '458684554'
+  schema_type: dlthings:Identifier
+part_of:
+- xyzrins:grants/sfb1451
+pid: xyzrins:grants/3977dc9e-59e9-4ff2-bcbf-5bcb8f1c5c2d
+schema_type: xyzri:XYZGrant
+short_name: C05
+title: ' Die Rolle der sensomotorischen Integration für motorische Kontrolle im geschädigten
+  Gehirn'

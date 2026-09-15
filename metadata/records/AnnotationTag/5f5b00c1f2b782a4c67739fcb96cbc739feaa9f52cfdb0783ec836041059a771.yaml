@@ -1,0 +1,13 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2025-12-20T06:21:27.811349'
+description: Tag indicating that the tagged content must be access protected, and
+  must not be made publicly available. The annotation value should detail acceptable
+  target audiences.
+display_label: Do not publish
+pid: xyzrins:tags/5b6d882c-2135-495e-82ad-0bc34675feac
+schema_type: dlthings:AnnotationTag

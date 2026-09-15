@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Empirical assessment of changing sample-characteristics in task-fMRI over
+    two decades: An example from gustatory and food studies'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Over the past two decades, functional neuroimaging has not only grown into
+    a large field of research, but also substantially evolved. Here we provide a quantitative
+    assessment of these presumed in sample composition and data analysis, using fMRI
+    studies on food/taste research published between 1998 and 2019 as an exemplary
+    case in which the scientific objectives themselves have remained largely stable.
+    A systematic search for papers written in English was done using multiple databases
+    and identified 426 original articles that were subsequently analyzed. The median
+    sample size significantly increased from 11.5 to 35.5 while the ratio of male
+    to female subjects remained stable. There were, however, more papers involving
+    female subjects only, rather than male subjects only, since 2003. There was a
+    decline in uncorrected results and statistical correction by false-discovery rate.
+    Reflecting a trend toward more conservative thresholding, the number of foci reported
+    per paper did not change significantly and sample size (power) did not correlate
+    with the number of reported foci. The median journal impact factor and the normalized
+    number of citations (citations per year) of the papers, in turn, showed a significantly
+    decreasing trend. Number of citations negatively correlated to sample size, publication
+    year but positively correlated to journal impact factor, and was also influenced
+    by statistical correction method. There was a decreasing trend in studies recruiting
+    both left-handed and right-handed subjects. In summary, the present paper quantifies
+    several large-scale trends that have often been anecdotally discussed and reveals
+    the changing nature of neuroimaging studies that may be considered when pursuing
+    meta-analytic approaches.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Over the past two decades, functional neuroimaging has not only grown
+  into a large field of research, but also substantially evolved. Here we provide
+  a quantitative assessment of these presumed in sample composition and data analysis,
+  using fMRI studies on food/taste research published between 1998 and 2019 as an
+  exemplary case in which the scientific objectives themselves have remained largely
+  stable. A systematic search for papers written in English was done using multiple
+  databases and identified 426 original articles that were subsequently analyzed.
+  The median sample size significantly increased from 11.5 to 35.5 while the ratio
+  of male to female subjects remained stable. There were, however, more papers involving
+  female subjects only, rather than male subjects only, since 2003. There was a decline
+  in uncorrected results and statistical correction by false-discovery rate. Reflecting
+  a trend toward more conservative thresholding, the number of foci reported per paper
+  did not change significantly and sample size (power) did not correlate with the
+  number of reported foci. The median journal impact factor and the normalized number
+  of citations (citations per year) of the papers, in turn, showed a significantly
+  decreasing trend. Number of citations negatively correlated to sample size, publication
+  year but positively correlated to journal impact factor, and was also influenced
+  by statistical correction method. There was a decreasing trend in studies recruiting
+  both left-handed and right-handed subjects. In summary, the present paper quantifies
+  several large-scale trends that have often been anecdotally discussed and reveals
+  the changing nature of neuroimaging studies that may be considered when pursuing
+  meta-analytic approaches.
+generated_by:
+- at_location: ISSN:1065-9471
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/hbm.24957
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/e8a4726e-b821-453d-a352-24e3f197d42e
+schema_type: xyzri:XYZPublication
+title: 'Empirical assessment of changing sample-characteristics in task-fMRI over
+  two decades: An example from gustatory and food studies'

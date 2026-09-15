@@ -1,0 +1,69 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Urethral length and bladder neck behavior: can dynamic magnetic resonance
+    imaging give the same results as introital ultrasound?'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Purpose To compare dynamic magnetic resonance imaging (dMRI) and introital
+    ultrasound results with regard to urethral length measurements and the evaluation
+    of bladder neck changes.MethodsRetrospective analyses of urethral length measurements
+    and detection of bladder neck changes (rotated/vertical bladder neck descent,
+    urethral funneling) were conducted in women—scheduled for surgical treatment with
+    alloplastic material—who had undergone introital ultrasound and dMRI presurgery
+    and 3 months postsurgery. Measurement differences between both imaging modalities
+    were evaluated by assessing the confidence interval for the difference in means
+    between the datasets using bootstrap analysis.ResultsBased on data from 40 patients
+    (320 image series), the urethra could be clearly measured on every pre- and postsurgical
+    dMRI dataset but not on preoperative ultrasound images in nine women during Valsalva
+    maneuver due to a large cystocele. The estimation of the mean difference distribution
+    based on 500,000 bootstrap resamples indicated that the urethral length was measured
+    shorter by dMRI pre- and postsurgery at rest and postsurgery during Valsalva maneuver
+    (median 1.6–3.1 mm) but longer by dMRI (median 0.2 mm) during Valsalva maneuver
+    presurgery. Rotated/vertical bladder neck descent and urethral funneling diagnoses
+    showed concordance of 67–74% in the direct comparison of patients; the estimation
+    of the concordance indicated poorer outcomes with 50–72%.ConclusionsMetric information
+    on urethral length from dMRI is comparable to that from introital ultrasound.
+    dMRI is more advantageous in cases with an extended organ prolapse. At present,
+    dMRI does not give the same diagnosis on bladder neck changes as introital ultrasound
+    does.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Purpose To compare dynamic magnetic resonance imaging (dMRI) and introital
+  ultrasound results with regard to urethral length measurements and the evaluation
+  of bladder neck changes.MethodsRetrospective analyses of urethral length measurements
+  and detection of bladder neck changes (rotated/vertical bladder neck descent, urethral
+  funneling) were conducted in women—scheduled for surgical treatment with alloplastic
+  material—who had undergone introital ultrasound and dMRI presurgery and 3 months
+  postsurgery. Measurement differences between both imaging modalities were evaluated
+  by assessing the confidence interval for the difference in means between the datasets
+  using bootstrap analysis.ResultsBased on data from 40 patients (320 image series),
+  the urethra could be clearly measured on every pre- and postsurgical dMRI dataset
+  but not on preoperative ultrasound images in nine women during Valsalva maneuver
+  due to a large cystocele. The estimation of the mean difference distribution based
+  on 500,000 bootstrap resamples indicated that the urethral length was measured shorter
+  by dMRI pre- and postsurgery at rest and postsurgery during Valsalva maneuver (median
+  1.6–3.1 mm) but longer by dMRI (median 0.2 mm) during Valsalva maneuver presurgery.
+  Rotated/vertical bladder neck descent and urethral funneling diagnoses showed concordance
+  of 67–74% in the direct comparison of patients; the estimation of the concordance
+  indicated poorer outcomes with 50–72%.ConclusionsMetric information on urethral
+  length from dMRI is comparable to that from introital ultrasound. dMRI is more advantageous
+  in cases with an extended organ prolapse. At present, dMRI does not give the same
+  diagnosis on bladder neck changes as introital ultrasound does.
+generated_by:
+- at_location: ISSN:0932-0067
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00404-019-05060-9
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/1aaaa18e-4735-4b20-b315-254fe5dceae8
+schema_type: xyzri:XYZPublication
+title: 'Urethral length and bladder neck behavior: can dynamic magnetic resonance
+  imaging give the same results as introital ultrasound?'

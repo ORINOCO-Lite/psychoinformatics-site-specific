@@ -1,0 +1,5 @@
+description: An organization (usually a government agency) that issues permits under
+  which work is accomplished
+display_label: Permitting agency
+pid: marcrel:pma
+schema_type: xyzri:XYZAgentRole

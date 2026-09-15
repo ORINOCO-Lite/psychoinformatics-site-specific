@@ -1,0 +1,13 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-06-23T11:08:07.660357'
+depiction:
+- xyzrins:depictions/7dda79f1-eeca-43f5-9d94-41691a7368cd
+description: OHBM2022 People's echoice award
+pid: xyzrins:accolades/f6c9a713-a186-4f65-8046-d5d2d2a3df8a
+schema_type: xyzri:XYZAccolade
+title: OHBM2022 People's e-choice award

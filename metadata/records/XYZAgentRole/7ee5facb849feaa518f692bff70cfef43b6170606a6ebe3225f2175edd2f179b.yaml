@@ -1,0 +1,5 @@
+description: A jurisdiction enacting a law, regulation, constitution, court rule,
+  etc.
+display_label: Enacting jurisdiction
+pid: marcrel:enj
+schema_type: xyzri:XYZAgentRole

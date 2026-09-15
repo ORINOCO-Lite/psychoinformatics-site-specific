@@ -1,0 +1,29 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Data and Reproducibility Management with DataLad
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Slides for a two-hour workshop 'Data and reproducibility management with
+    DataLad', part of the 'Helmholtz Reproducibility' Workshop in the International
+    at the GFZ Potsdam, November 16th 2023. https://events.hifis.net/event/998 The
+    slide sources can be found at github.com/datalad-handbook/datalad-course, and
+    a rendering of the slides is at files.inm7.de/adina/talks/html/helmholtz-reproducibility.
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+description: Slides for a two-hour workshop 'Data and reproducibility management with
+  DataLad', part of the 'Helmholtz Reproducibility' Workshop in the International
+  at the GFZ Potsdam, November 16th 2023. https://events.hifis.net/event/998 The slide
+  sources can be found at github.com/datalad-handbook/datalad-course, and a rendering
+  of the slides is at files.inm7.de/adina/talks/html/helmholtz-reproducibility.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/ZENODO.10118793
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/4633818b-d188-4f41-bec2-b31972f85b1d
+schema_type: xyzri:XYZPublication
+title: Data and Reproducibility Management with DataLad

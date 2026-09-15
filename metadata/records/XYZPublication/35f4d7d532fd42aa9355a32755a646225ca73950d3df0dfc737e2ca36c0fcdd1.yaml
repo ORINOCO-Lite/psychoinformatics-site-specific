@@ -1,0 +1,60 @@
+attributed_to:
+- object: xyzrins:persons/laura-waite
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Individual differences reveal distinct age and pubertal contributions to
+    the refinement of the functional cortical hierarchy during adolescence
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The development of the functional cortical hierarchy, spanning sensorimotor
+    to association systems, is exclusively studied as a function of age. During adolescence,
+    this overlooks puberty as a major neurodevelopmental driver and source of variability.
+    We studied sensorimotor-association axis refinement longitudinally (6323 observations
+    across 4919 subjects), leveraging individual differences to disentangle chronological
+    age from pubertal effects. We derived low dimensional features of sensorimotor-association
+    axis development from resting-state functional connectomes, revealing substantial
+    inter-individual heterogeneity in maturational trajectories that challenge group-level
+    developmental trends and milestones. Then, we demonstrate independent effects
+    of age and pubertal stage on sensorimotor-association axis refinement through
+    the polarization of the cortical hierarchy. We further show that coordinated system-level
+    shifts in network topology reflect an ongoing specialization of functional connectivity
+    profiles across all major functional networks. Our findings frame adolescent hierarchical
+    functional cortical maturation as an individualized, multifactorial phenomenon
+    shaped by distinct chronological age and pubertal processes.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: The development of the functional cortical hierarchy, spanning sensorimotor
+  to association systems, is exclusively studied as a function of age. During adolescence,
+  this overlooks puberty as a major neurodevelopmental driver and source of variability.
+  We studied sensorimotor-association axis refinement longitudinally (6323 observations
+  across 4919 subjects), leveraging individual differences to disentangle chronological
+  age from pubertal effects. We derived low dimensional features of sensorimotor-association
+  axis development from resting-state functional connectomes, revealing substantial
+  inter-individual heterogeneity in maturational trajectories that challenge group-level
+  developmental trends and milestones. Then, we demonstrate independent effects of
+  age and pubertal stage on sensorimotor-association axis refinement through the polarization
+  of the cortical hierarchy. We further show that coordinated system-level shifts
+  in network topology reflect an ongoing specialization of functional connectivity
+  profiles across all major functional networks. Our findings frame adolescent hierarchical
+  functional cortical maturation as an individualized, multifactorial phenomenon shaped
+  by distinct chronological age and pubertal processes.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.64898/2026.05.07.723547
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/ad6dc592-98d4-4525-aed8-40b72d8b9af7
+schema_type: xyzri:XYZPublication
+title: Individual differences reveal distinct age and pubertal contributions to the
+  refinement of the functional cortical hierarchy during adolescence

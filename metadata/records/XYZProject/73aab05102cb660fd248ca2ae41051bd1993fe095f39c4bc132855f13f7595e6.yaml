@@ -1,0 +1,35 @@
+associated_with:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Association
+description: The Case-E project aims to develop a flexible, cost-effective open-source
+  solution for Electronic Case Report Forms (eCRFs) that, in particular, facilitates
+  standardised, secure and quality-assured data collection and data exchange in multicentre
+  clinical trials. To this end, JTrack’s expertise in clinical trials and digital
+  data collection (biomarker development) is being combined with DataLad’s expertise
+  in data management (psychoinformatics). Case-E is designed to be easily adaptable
+  to different trials and to be deployed alongside existing clinical IT infrastructures.
+ended:
+  at_time: '2026-10-31'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2026-10-31'
+    schema_type: dlthings:End
+  object: xyzrins:grants/797b5f7a-96b3-4175-86a6-9fa41742b9b8
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2024-11-01'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/c600d833-4b34-4f8f-b70c-b4b753fbd475
+schema_type: xyzri:XYZProject
+short_name: Case-E
+started:
+  at_time: '2024-11-01'
+  schema_type: dlthings:Start
+title: Entwicklung einer Case Report Form Umgebung für klinische Studien

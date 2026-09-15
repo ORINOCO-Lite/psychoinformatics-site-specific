@@ -1,0 +1,4 @@
+description: A person overseeing a higher level academic degree
+display_label: Degree supervisor
+pid: marcrel:dgs
+schema_type: xyzri:XYZAgentRole

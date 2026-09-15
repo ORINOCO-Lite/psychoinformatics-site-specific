@@ -1,0 +1,16 @@
+about:
+- xyzrins:persons/adina-wagner
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-19T16:39:46.703510'
+description: Portrait of Adina Wagner taken from https://www.psychoinformatics.de/lab-members.html
+distributions:
+- dldi:SHA256E-s31538--54607e9bd4e519071f8d8997bb4f1ed71a1213227c6560a3ac217429d821c9c7.png
+kind: xyzrins:depiction-types/e9a34f7d-d05e-4591-bb45-f8a0c499e07b
+pid: xyzrins:depictions/5e152e94-e80b-40e2-88f7-962958e91f0a
+schema_type: xyzri:XYZDepiction
+title: Wagner, Adina (Portrait)

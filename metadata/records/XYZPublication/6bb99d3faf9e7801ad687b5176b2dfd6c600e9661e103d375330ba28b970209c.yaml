@@ -1,0 +1,77 @@
+attributed_to:
+- object: xyzrins:persons/4bbd6721-42e7-4a31-93cc-8ff0e9814e93
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/06b9a2d5-b71d-4fd3-8f19-966c53adf8d4
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/69ecde4d-415d-4c33-8225-8f761863ebe6
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/950d9384-760a-4eab-8f60-949b230319bb
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/laura-waite
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Can we predict sleep health based on brain features? A large-scale machine
+    learning study
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Objectives Normal sleep is crucial for brain health. Recent studies have
+    reported robust associations between sleep disturbance and various brain structural
+    and functional traits. However, the complex interplay between sleep health and
+    macro-scale brain organization remains inconclusive. In this study, we aimed to
+    uncover the links between brain imaging features and diverse sleep health-related
+    characteristics by means of Machine Learning (ML).Methods We used 28,088 participants
+    from the UK Biobank to calculate 4677 structural and functional neuroimaging markers.
+    Then, we employed them to predict self-reported insomnia symptoms, sleep duration,
+    easiness getting up in the morning, chronotype, daily nap, daytime sleepiness,
+    and snoring. We built seven different linear and nonlinear ML models for each
+    sleep health-related characteristic to assess their predictability.Results We
+    performed an extensive ML analysis that involved more than 100,000 hours of computing.
+    We observed relatively low performance in predicting all sleep health-related
+    characteristics (e.g., balanced accuracy ranging between 0.50-0.59). Across all
+    models, the best performance achieved was 0.59, using a Linear SVM to predict
+    easiness getting up in the morning.Conclusions The low capability of multimodal
+    neuroimaging markers in predicting sleep health-related characteristics, even
+    under extensive ML optimization in a large population sample suggests a complex
+    relationship between sleep health and brain organization.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Objectives Normal sleep is crucial for brain health. Recent studies have
+  reported robust associations between sleep disturbance and various brain structural
+  and functional traits. However, the complex interplay between sleep health and macro-scale
+  brain organization remains inconclusive. In this study, we aimed to uncover the
+  links between brain imaging features and diverse sleep health-related characteristics
+  by means of Machine Learning (ML).Methods We used 28,088 participants from the UK
+  Biobank to calculate 4677 structural and functional neuroimaging markers. Then,
+  we employed them to predict self-reported insomnia symptoms, sleep duration, easiness
+  getting up in the morning, chronotype, daily nap, daytime sleepiness, and snoring.
+  We built seven different linear and nonlinear ML models for each sleep health-related
+  characteristic to assess their predictability.Results We performed an extensive
+  ML analysis that involved more than 100,000 hours of computing. We observed relatively
+  low performance in predicting all sleep health-related characteristics (e.g., balanced
+  accuracy ranging between 0.50-0.59). Across all models, the best performance achieved
+  was 0.59, using a Linear SVM to predict easiness getting up in the morning.Conclusions
+  The low capability of multimodal neuroimaging markers in predicting sleep health-related
+  characteristics, even under extensive ML optimization in a large population sample
+  suggests a complex relationship between sleep health and brain organization.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2024.10.13.618080
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/d5ad9d47-e521-4f36-b51d-493cb263a3fb
+schema_type: xyzri:XYZPublication
+title: Can we predict sleep health based on brain features? A large-scale machine
+  learning study

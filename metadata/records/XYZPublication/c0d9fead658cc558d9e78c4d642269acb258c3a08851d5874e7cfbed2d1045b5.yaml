@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Individual-Specific Areal-Level Parcellations Improve Functional Connectivity
+    Prediction of Behavior
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Resting-state functional magnetic resonance imaging (rs-fMRI) allows estimation
+    of individual-specific cortical parcellations. We have previously developed a
+    multi-session hierarchical Bayesian model (MS-HBM) for estimating high-quality
+    individual-specific network-level parcellations. Here, we extend the model to
+    estimate individual-specific areal-level parcellations. While network-level parcellations
+    comprise spatially distributed networks spanning the cortex, the consensus is
+    that areal-level parcels should be spatially localized, that is, should not span
+    multiple lobes. There is disagreement about whether areal-level parcels should
+    be strictly contiguous or comprise multiple noncontiguous components; therefore,
+    we considered three areal-level MS-HBM variants spanning these range of possibilities.
+    Individual-specific MS-HBM parcellations estimated using 10 min of data generalized
+    better than other approaches using 150 min of data to out-of-sample rs-fMRI and
+    task-fMRI from the same individuals. Resting-state functional connectivity derived
+    from MS-HBM parcellations also achieved the best behavioral prediction performance.
+    Among the three MS-HBM variants, the strictly contiguous MS-HBM exhibited the
+    best resting-state homogeneity and most uniform within-parcel task activation.
+    In terms of behavioral prediction, the gradient-infused MS-HBM was numerically
+    the best, but differences among MS-HBM variants were not statistically significant.
+    Overall, these results suggest that areal-level MS-HBMs can capture behaviorally
+    meaningful individual-specific parcellation features beyond group-level parcellations.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Resting-state functional magnetic resonance imaging (rs-fMRI) allows
+  estimation of individual-specific cortical parcellations. We have previously developed
+  a multi-session hierarchical Bayesian model (MS-HBM) for estimating high-quality
+  individual-specific network-level parcellations. Here, we extend the model to estimate
+  individual-specific areal-level parcellations. While network-level parcellations
+  comprise spatially distributed networks spanning the cortex, the consensus is that
+  areal-level parcels should be spatially localized, that is, should not span multiple
+  lobes. There is disagreement about whether areal-level parcels should be strictly
+  contiguous or comprise multiple noncontiguous components; therefore, we considered
+  three areal-level MS-HBM variants spanning these range of possibilities. Individual-specific
+  MS-HBM parcellations estimated using 10 min of data generalized better than other
+  approaches using 150 min of data to out-of-sample rs-fMRI and task-fMRI from the
+  same individuals. Resting-state functional connectivity derived from MS-HBM parcellations
+  also achieved the best behavioral prediction performance. Among the three MS-HBM
+  variants, the strictly contiguous MS-HBM exhibited the best resting-state homogeneity
+  and most uniform within-parcel task activation. In terms of behavioral prediction,
+  the gradient-infused MS-HBM was numerically the best, but differences among MS-HBM
+  variants were not statistically significant. Overall, these results suggest that
+  areal-level MS-HBMs can capture behaviorally meaningful individual-specific parcellation
+  features beyond group-level parcellations.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1047-3211
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/cercor/bhab101
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/2119d6ca-5440-4e6f-9fb9-84b69b663dc3
+schema_type: xyzri:XYZPublication
+title: Individual-Specific Areal-Level Parcellations Improve Functional Connectivity
+  Prediction of Behavior

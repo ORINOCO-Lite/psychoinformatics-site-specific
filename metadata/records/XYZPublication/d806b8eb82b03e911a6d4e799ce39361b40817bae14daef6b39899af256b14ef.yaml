@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/269a3b65-df26-4c0d-a6a9-2c4410750dc8
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Gray matter volume and estimated brain age gap are not linked with sleep-disordered
+    breathing
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Alzheimer's disease (AD) and sleep-disordered breathing (SDB) are prevalent
+    conditions with a rising burden. It is suggested that SDB may contribute to cognitive
+    decline and advanced aging. Here, we assessed the link between self-reported SDB
+    and gray matter volume in patients with AD, mild cognitive impairment (MCI) and
+    healthy controls (HCs). We further investigated whether SDB was associated with
+    advanced brain aging. We included a total of 330 participants, divided based on
+    self-reported history of SDB, and matched across diagnoses for age, sex and presence
+    of the Apolipoprotein E4 allele, from the Alzheimer's Disease Neuroimaging Initiative
+    (ADNI). Gray-matter volume was measured using voxel-wise morphometry and group
+    differences in terms of SDB, cognitive status, and their interaction were assessed.
+    Further, using an age-prediction model fitted on gray-matter data of external
+    datasets, we predicted study participants' age from their structural images. Cognitive
+    decline and advanced age were associated with lower gray matter volume in various
+    regions, particularly in the bilateral temporal lobes. Brains age was well predicted
+    from the morphological data in HCs and, as expected, elevated in MCI and particularly
+    in AD subjects. However, there was neither a significant difference between regional
+    gray matter volume in any diagnostic group related to the SDB status, nor in SDB-by-cognitive
+    status interaction. Moreover, we found no difference in estimated chronological
+    age gap related to SDB, or by-cognitive status interaction. Contrary to our hypothesis,
+    we were not able to find a general or a diagnostic-dependent association of SDB
+    with either gray-matter volumetric or brain aging.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Alzheimer's disease (AD) and sleep-disordered breathing (SDB) are prevalent
+  conditions with a rising burden. It is suggested that SDB may contribute to cognitive
+  decline and advanced aging. Here, we assessed the link between self-reported SDB
+  and gray matter volume in patients with AD, mild cognitive impairment (MCI) and
+  healthy controls (HCs). We further investigated whether SDB was associated with
+  advanced brain aging. We included a total of 330 participants, divided based on
+  self-reported history of SDB, and matched across diagnoses for age, sex and presence
+  of the Apolipoprotein E4 allele, from the Alzheimer's Disease Neuroimaging Initiative
+  (ADNI). Gray-matter volume was measured using voxel-wise morphometry and group differences
+  in terms of SDB, cognitive status, and their interaction were assessed. Further,
+  using an age-prediction model fitted on gray-matter data of external datasets, we
+  predicted study participants' age from their structural images. Cognitive decline
+  and advanced age were associated with lower gray matter volume in various regions,
+  particularly in the bilateral temporal lobes. Brains age was well predicted from
+  the morphological data in HCs and, as expected, elevated in MCI and particularly
+  in AD subjects. However, there was neither a significant difference between regional
+  gray matter volume in any diagnostic group related to the SDB status, nor in SDB-by-cognitive
+  status interaction. Moreover, we found no difference in estimated chronological
+  age gap related to SDB, or by-cognitive status interaction. Contrary to our hypothesis,
+  we were not able to find a general or a diagnostic-dependent association of SDB
+  with either gray-matter volumetric or brain aging.
+generated_by:
+- at_location: ISSN:1065-9471
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/hbm.24995
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/537fba06-6186-45cd-8736-e0f0caf83484
+schema_type: xyzri:XYZPublication
+title: Gray matter volume and estimated brain age gap are not linked with sleep-disordered
+  breathing

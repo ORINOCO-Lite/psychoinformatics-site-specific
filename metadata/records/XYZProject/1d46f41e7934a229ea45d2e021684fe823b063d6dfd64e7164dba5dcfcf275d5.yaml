@@ -1,0 +1,38 @@
+associated_with:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+description: The ONCOverse project addresses the inadequate and often delayed care
+  provided to patients with pancreatic cancer, an oncological emergency. At its core
+  is the development of a nationwide, interoperable digital platform that systematically
+  records tumour, host and clinical course data and connects stakeholders from the
+  fields of healthcare, research and the patient perspective. By integrating modern
+  diagnostics, wearables, patient reports and AI-based analyses, the aim is to gain
+  a better understanding of individual disease progression and to personalise treatment
+  decisions. ONCOverse also promotes patient-centred involvement, facilitates access
+  to expertise and clinical trials, and supports the implementation of new technologies
+  in an ethical and user-centred manner. The aim is to bring about a paradigm shift
+  towards data-driven, precision medicine-based and comprehensively standardised care
+  for patients with pancreatic cancer.
+ended:
+  at_time: '2031-03-31'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2031-03-31'
+    schema_type: dlthings:End
+  object: xyzrins:grants/e7661099-df2d-4d97-9123-d1e90135a245
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2026-04-01'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/2c375332-3be1-4212-934e-a088bbf6fca7
+schema_type: xyzri:XYZProject
+short_name: ONCOverse
+started:
+  at_time: '2026-04-01'
+  schema_type: dlthings:Start
+title: Patient-centric and intuitive evidence generation in Pancreatic Cancer

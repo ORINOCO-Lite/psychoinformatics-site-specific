@@ -1,0 +1,5 @@
+description: A person, family, or organization responsible for creating a computer
+  program
+display_label: Programmer
+pid: marcrel:prg
+schema_type: xyzri:XYZAgentRole

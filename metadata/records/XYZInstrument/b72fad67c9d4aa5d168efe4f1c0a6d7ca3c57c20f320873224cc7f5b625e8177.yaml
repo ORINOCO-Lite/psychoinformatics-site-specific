@@ -1,0 +1,37 @@
+about:
+- xyzrins:topics/research-software-engineering
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: v.shivashankar@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-10T08:22:11.836132'
+attributed_to:
+- object: xyzrins:persons/venkatesh-hariharapura-shivashankar
+  roles:
+  - marcrel:cre
+  schema_type: dlthings:Attribution
+description: 'case-e is a self-contained Electronic Case Report Form (eCRF) application
+  packaged to run locally. It bundles a FastAPI backend, a Vue.js frontend, an embedded
+  database, and a web server so researchers or clinicians can design study forms,
+  collect subject data, review entries, and export results without installing or configuring
+  external services.
+
+
+  Downloads for macOS and Windows are provided. It’s MIT-licensed and intended as
+  an easy-to-deploy tool for managing clinical/experimental study data.'
+generated_by:
+- at_time: 2026-02
+  object: xyzrins:projects/abcd-j
+  schema_type: dlthings:Generation
+identifiers:
+- creator: rrid:SCR_002630
+  notation: venkateshhs/case-e
+  schema_type: dlthings:Identifier
+kind: obo:IAO_0000010
+name: Case-e
+pid: xyzrins:instruments/case-e
+rules:
+- spdxlic:MIT
+schema_type: xyzri:XYZInstrument

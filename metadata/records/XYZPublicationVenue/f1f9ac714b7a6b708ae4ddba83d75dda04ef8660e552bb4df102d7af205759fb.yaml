@@ -1,0 +1,9 @@
+display_note: ISSN:0278-2626
+identifiers:
+- creator: ror:026ytr635
+  notation: 0278-2626
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:0278-2626
+schema_type: xyzri:XYZPublicationVenue
+title: Brain And Cognition

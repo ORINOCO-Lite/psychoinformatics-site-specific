@@ -1,0 +1,73 @@
+attributed_to:
+- object: xyzrins:persons/11bba584-d08e-47f2-b3d4-980c5472dca3
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/964aee5a-ddd2-453c-87d0-84ea9e7fadcb
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Brain functional characterization of response-code conflict in dual-tasking
+    and its modulation by age
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Crosstalk between conflicting response codes contributes to interference
+    in dual-tasking, an effect exacerbated in advanced age. Here, we investigated
+    (i) brain activity correlates of such response-code conflicts, (ii) activity modulations
+    by individual dual-task performance and related cognitive abilities, (iii) task-modulated
+    connectivity within the task network, and (iv) age-related differences in all
+    these aspects. Young and older adults underwent fMRI while responding to the pitch
+    of tones through spatially mapped speeded button presses with one or two hands
+    concurrently. Using opposing stimulus–response mappings between hands, we induced
+    conflict between simultaneously activated response codes. These response-code
+    conflicts elicited activation in key regions of the multiple-demand network. While
+    thalamic and parietal areas of the conflict-related network were modulated by
+    attentional, working-memory and task-switching abilities, efficient conflict resolution
+    in dual-tasking mainly relied on increasing supplementary motor activity. Older
+    adults showed non-compensatory hyperactivity in left superior frontal gyrus, and
+    higher right premotor activity was modulated by working-memory capacity. Finally,
+    connectivity between premotor or parietal seed regions and the conflict-sensitive
+    network was neither conflict-specific nor age-sensitive. Overall, resolving dual-task
+    response-code conflict recruited substantial parts of the multiple-demand network,
+    whose activity and coupling, however, were only little affected by individual
+    differences in task performance or age.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Crosstalk between conflicting response codes contributes to interference
+  in dual-tasking, an effect exacerbated in advanced age. Here, we investigated (i)
+  brain activity correlates of such response-code conflicts, (ii) activity modulations
+  by individual dual-task performance and related cognitive abilities, (iii) task-modulated
+  connectivity within the task network, and (iv) age-related differences in all these
+  aspects. Young and older adults underwent fMRI while responding to the pitch of
+  tones through spatially mapped speeded button presses with one or two hands concurrently.
+  Using opposing stimulus–response mappings between hands, we induced conflict between
+  simultaneously activated response codes. These response-code conflicts elicited
+  activation in key regions of the multiple-demand network. While thalamic and parietal
+  areas of the conflict-related network were modulated by attentional, working-memory
+  and task-switching abilities, efficient conflict resolution in dual-tasking mainly
+  relied on increasing supplementary motor activity. Older adults showed non-compensatory
+  hyperactivity in left superior frontal gyrus, and higher right premotor activity
+  was modulated by working-memory capacity. Finally, connectivity between premotor
+  or parietal seed regions and the conflict-sensitive network was neither conflict-specific
+  nor age-sensitive. Overall, resolving dual-task response-code conflict recruited
+  substantial parts of the multiple-demand network, whose activity and coupling, however,
+  were only little affected by individual differences in task performance or age.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1047-3211
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/cercor/bhad273
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8f8957fc-344d-4594-bbb4-afafe7efa345
+schema_type: xyzri:XYZPublication
+title: Brain functional characterization of response-code conflict in dual-tasking
+  and its modulation by age

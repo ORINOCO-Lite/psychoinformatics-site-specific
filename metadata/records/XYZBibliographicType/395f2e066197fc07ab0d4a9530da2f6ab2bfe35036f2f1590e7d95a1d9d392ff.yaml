@@ -1,0 +1,4 @@
+description: A communication between an agent and one or more specific recipients.
+display_label: Personal Communication
+pid: bibo:PersonalCommunication
+schema_type: xyzri:XYZBibliographicType

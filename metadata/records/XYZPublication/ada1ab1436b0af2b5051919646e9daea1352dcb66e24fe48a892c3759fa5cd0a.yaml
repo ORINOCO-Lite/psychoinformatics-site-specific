@@ -1,0 +1,59 @@
+attributed_to:
+- object: xyzrins:persons/3cf923ff-969d-4224-bb7b-9f319f0b1564
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/edcdb20e-b1be-4fc8-b93a-6fc4f2cebc5d
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Friedreich's ataxia—a rare multisystem disease
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Friedreich''s ataxia is a rare autosomal recessive neurodegenerative disease.
+    Most patients have a homozygous GAA repeat expansion in the FXN gene, resulting
+    in a deficiency of the mitochondrial protein frataxin. Disease onset occurs typically
+    in adolescence but can vary widely, ranging from early childhood to late adulthood.
+    Friedreich''s ataxia is increasingly recognised as a multisystem disorder, affecting
+    not only the nervous system, but also the heart and musculoskeletal system, and
+    metabolism. Common extraneural manifestations include cardiomyopathy, which is
+    the most common cause of mortality, and also scoliosis and diabetes. Despite research
+    advances, the phenotypical heterogeneity of patients with Friedrich''s ataxia
+    remains inadequately explained by current knowledge of the underlying genetics.
+    The approval of omaveloxolone by the US Food and Drug Administration and the European
+    Medicines Agency has been a pharmacological milestone; however, further research
+    addressing complex interorgan interactions is crucial for a better understanding
+    of the multisystem nature of Friedreich''s ataxia and the development of targeted
+    treatment approaches. '
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Friedreich''s ataxia is a rare autosomal recessive neurodegenerative
+  disease. Most patients have a homozygous GAA repeat expansion in the FXN gene, resulting
+  in a deficiency of the mitochondrial protein frataxin. Disease onset occurs typically
+  in adolescence but can vary widely, ranging from early childhood to late adulthood.
+  Friedreich''s ataxia is increasingly recognised as a multisystem disorder, affecting
+  not only the nervous system, but also the heart and musculoskeletal system, and
+  metabolism. Common extraneural manifestations include cardiomyopathy, which is the
+  most common cause of mortality, and also scoliosis and diabetes. Despite research
+  advances, the phenotypical heterogeneity of patients with Friedrich''s ataxia remains
+  inadequately explained by current knowledge of the underlying genetics. The approval
+  of omaveloxolone by the US Food and Drug Administration and the European Medicines
+  Agency has been a pharmacological milestone; however, further research addressing
+  complex interorgan interactions is crucial for a better understanding of the multisystem
+  nature of Friedreich''s ataxia and the development of targeted treatment approaches. '
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1474-4422
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/S1474-4422(25)00175-9
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/46ce8b19-3ef4-44ed-becd-c985da2ab6f1
+schema_type: xyzri:XYZPublication
+title: Friedreich's ataxia—a rare multisystem disease

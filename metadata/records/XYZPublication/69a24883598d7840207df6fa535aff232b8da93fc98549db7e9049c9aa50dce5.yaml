@@ -1,0 +1,76 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c643dc9e-7b8a-4a32-aa1b-6f371c82880a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/086e45ca-472d-4419-ad35-9082b142c638
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/269a3b65-df26-4c0d-a6a9-2c4410750dc8
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d25533c9-aef7-428e-a9e9-f2cbc5acf3a1
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d87e2f94-6057-4663-965b-f435379e3d06
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Joint Multi-modal Parcellation of the Human Striatum: Functions and Clinical
+    Relevance'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The human striatum is essential for both low- and high-level functions and
+    has been implicated in the pathophysiology of various prevalent disorders, including
+    Parkinson's disease (PD) and schizophrenia (SCZ). It is known to consist of structurally
+    and functionally divergent subdivisions. However, previous parcellations are based
+    on a single neuroimaging modality, leaving the extent of the multi-modal organization
+    of the striatum unknown. Here, we investigated the organization of the striatum
+    across three modalities-resting-state functional connectivity, probabilistic diffusion
+    tractography, and structural covariance-to provide a holistic convergent view
+    of its structure and function. We found convergent clusters in the dorsal, dorsolateral,
+    rostral, ventral, and caudal striatum. Functional characterization revealed the
+    anterior striatum to be mainly associated with cognitive and emotional functions,
+    while the caudal striatum was related to action execution. Interestingly, significant
+    structural atrophy in the rostral and ventral striatum was common to both PD and
+    SCZ, but atrophy in the dorsolateral striatum was specifically attributable to
+    PD. Our study revealed a cross-modal convergent organization of the striatum,
+    representing a fundamental topographical model that can be useful for investigating
+    structural and functional variability in aging and in clinical conditions.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The human striatum is essential for both low- and high-level functions
+  and has been implicated in the pathophysiology of various prevalent disorders, including
+  Parkinson's disease (PD) and schizophrenia (SCZ). It is known to consist of structurally
+  and functionally divergent subdivisions. However, previous parcellations are based
+  on a single neuroimaging modality, leaving the extent of the multi-modal organization
+  of the striatum unknown. Here, we investigated the organization of the striatum
+  across three modalities-resting-state functional connectivity, probabilistic diffusion
+  tractography, and structural covariance-to provide a holistic convergent view of
+  its structure and function. We found convergent clusters in the dorsal, dorsolateral,
+  rostral, ventral, and caudal striatum. Functional characterization revealed the
+  anterior striatum to be mainly associated with cognitive and emotional functions,
+  while the caudal striatum was related to action execution. Interestingly, significant
+  structural atrophy in the rostral and ventral striatum was common to both PD and
+  SCZ, but atrophy in the dorsolateral striatum was specifically attributable to PD.
+  Our study revealed a cross-modal convergent organization of the striatum, representing
+  a fundamental topographical model that can be useful for investigating structural
+  and functional variability in aging and in clinical conditions.
+generated_by:
+- at_location: ISSN:1673-7067
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s12264-020-00543-1
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8bee8c98-6d5f-499c-8170-6c9927c5efcf
+schema_type: xyzri:XYZPublication
+title: 'Joint Multi-modal Parcellation of the Human Striatum: Functions and Clinical
+  Relevance'

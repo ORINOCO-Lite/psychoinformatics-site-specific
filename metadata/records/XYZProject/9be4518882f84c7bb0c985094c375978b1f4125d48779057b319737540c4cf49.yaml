@@ -1,0 +1,29 @@
+associated_with:
+- object: xyzrins:persons/simon-eickhoff
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+description: PoF IV Programme 2 Topic 5 "Decoding Brain Organization and Dysfunction".
+ended:
+  at_time: '2027-12-31'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2027-12-31'
+    schema_type: dlthings:End
+  object: xyzrins:grants/c083c8d1-fc5f-4352-b8f2-de391a8c8498
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+part_of:
+- xyzrins:projects/7d475f77-48e7-4d67-b121-274b4582e561
+pid: xyzrins:projects/05f030d0-f9e5-4f85-aa5e-ccd4104856a1
+schema_type: xyzri:XYZProject
+short_name: PoF-IV-P2T5
+started:
+  at_time: '2021-01-01'
+  schema_type: dlthings:Start
+title: Decoding Brain Organization and Dysfunction (PoF IV)

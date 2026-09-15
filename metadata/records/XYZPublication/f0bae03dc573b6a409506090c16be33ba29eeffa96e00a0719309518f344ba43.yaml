@@ -1,0 +1,87 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/3efc5cfa-a10c-4c65-9bcf-36ad37d9b7e0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/06b9a2d5-b71d-4fd3-8f19-966c53adf8d4
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/9fe30b8c-a331-4166-bd1c-f407b6e06ecc
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d44b2ca0-e927-4495-939e-a05fac8e2aca
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Machine learning-driven correction of handgrip strength: a novel biomarker
+    for neurological and health outcomes in the UK Biobank'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Handgrip strength (HGS) is a significant biomarker for overall health, offering
+    a simple, cost-effective method for assessing muscle function. Lower HGS is linked
+    to higher mortality, functional decline, cognitive impairments, and chronic diseases.
+    Considering the influence of anthropometrics and demographics on HGS, this study
+    aims to develop a corrected HGS score using machine learning (ML) models to enhance
+    its utility in understanding brain health and disease. Using UK Biobank data,
+    sex-specific ML models were developed to predict HGS based on three anthropometric
+    variables and age. A novel biomarker, ∆HGS, was introduced as the difference between
+    true HGS (i.e., directly measured HGS) and bias-free predicted HGS. The neural
+    basis of true HGS and ∆HGS was investigated by correlating them with regional
+    gray matter volume (GMV). Statistical analyses were performed to test their sensitivity
+    to longitudinal changes in stroke and major depressive disorder (MDD) patients
+    compared to matched healthy controls (HC). HGS could be accurately predicted using
+    anthropometric and demographic features with high accuracy using linear support
+    vector machine (SVM). Compared to true HGS, ∆HGS showed high reassessment reliability
+    and stronger, widespread associations with GMV, especially in motor-related regions.
+    Longitudinal analysis revealed that neither HGS nor ∆HGS effectively differentiated
+    patients from matched HC at post time-point. The proposed ∆HGS score exhibited
+    stronger correlations with GMV compared to true HGS, suggesting it better represents
+    the relationship between muscle strength and brain structure. While not effective
+    in differentiating patients from HC at post time-point, the increase in ∆HGS from
+    pre to post time-point in patient cohorts may indicate improved utility for monitoring
+    disease progression, treatment efficacy, or rehabilitation effects, warranting
+    further longitudinal validation.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Handgrip strength (HGS) is a significant biomarker for overall health,
+  offering a simple, cost-effective method for assessing muscle function. Lower HGS
+  is linked to higher mortality, functional decline, cognitive impairments, and chronic
+  diseases. Considering the influence of anthropometrics and demographics on HGS,
+  this study aims to develop a corrected HGS score using machine learning (ML) models
+  to enhance its utility in understanding brain health and disease. Using UK Biobank
+  data, sex-specific ML models were developed to predict HGS based on three anthropometric
+  variables and age. A novel biomarker, ∆HGS, was introduced as the difference between
+  true HGS (i.e., directly measured HGS) and bias-free predicted HGS. The neural basis
+  of true HGS and ∆HGS was investigated by correlating them with regional gray matter
+  volume (GMV). Statistical analyses were performed to test their sensitivity to longitudinal
+  changes in stroke and major depressive disorder (MDD) patients compared to matched
+  healthy controls (HC). HGS could be accurately predicted using anthropometric and
+  demographic features with high accuracy using linear support vector machine (SVM).
+  Compared to true HGS, ∆HGS showed high reassessment reliability and stronger, widespread
+  associations with GMV, especially in motor-related regions. Longitudinal analysis
+  revealed that neither HGS nor ∆HGS effectively differentiated patients from matched
+  HC at post time-point. The proposed ∆HGS score exhibited stronger correlations with
+  GMV compared to true HGS, suggesting it better represents the relationship between
+  muscle strength and brain structure. While not effective in differentiating patients
+  from HC at post time-point, the increase in ∆HGS from pre to post time-point in
+  patient cohorts may indicate improved utility for monitoring disease progression,
+  treatment efficacy, or rehabilitation effects, warranting further longitudinal validation.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:2057-1976
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1088/2057-1976/ae87ac
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/fc04b5a9-def5-4d28-b912-17059748d890
+schema_type: xyzri:XYZPublication
+title: 'Machine learning-driven correction of handgrip strength: a novel biomarker
+  for neurological and health outcomes in the UK Biobank'

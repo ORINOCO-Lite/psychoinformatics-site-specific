@@ -1,0 +1,218 @@
+attributed_to:
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: ' Individual Brain Charting dataset extension, second release of high-resolution
+    fMRI data for cognitive mapping'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: '<div>This dataset contains key characteristics about the data described
+    in the Data Descriptor Individual Brain Charting dataset extension, second release
+    of high-resolution fMRI data for cognitive mapping.</div> <br> <div>Contents:
+    </div> <br> <div> 1. human readable metadata summary table in CSV format </div>
+    <div> 2. machine readable metadata file in JSON format </div> <br> <br> <div><br></div>We
+    present an extension of the Individual Brain Charting dataset –a high spatial-resolution,
+    multitask,functional Magnetic Resonance Imaging dataset, intended to support the
+    investigation on thefunctional principles governing cognition in the human brain.
+    The concomitant data acquisition fromthe same 12 participants, in the same environment,
+    allows to obtain in the long run finer cognitivetopographies, free from inter-subject
+    and inter-site variability. This second release provides more datafrom psychological
+    domains present in the first release, and also yields data featuring new ones.
+    Itincludes tasks on e.g. mental time travel, reward, theory-of-mind, pain, numerosity,
+    self-referenceeffect and speech recognition. In total, 13 tasks with 86 contrasts
+    were added to the dataset and 63new components were included in the cognitive
+    description of the ensuing contrasts. As the datasetbecomes larger, the collection
+    of the corresponding topographies becomes more comprehensive,leading to better
+    brain-atlasing frameworks. This dataset is an open-access facility; raw data andderivatives
+    are publicly available in neuroimaging repositories.Background & SummaryUnderstanding
+    the fundamental principles that govern human cognition requires mapping the brain
+    in terms offunctional segregation of specialized regions. This is achieved by
+    measuring local differences of brain activationrelated to behavior. Functional
+    Magnetic Resonance Imaging (fMRI) has been used for this purpose as an attemptto
+    better understand the neural correlates underlying cognition. However, while there
+    is a rich literature concerningperformance of isolated tasks, little is still
+    known about the overall functional organization of the brain.Meta- and mega-analyses
+    constitute active efforts at providing accumulated knowledge on brain systems,wherein
+    data from different studies are pooled to map regions consistently linked to mental
+    functions1–9 Because1Université Paris-Saclay, Inria, CEA, Palaiseau, 91120, France.
+    2Université Paris-Saclay, CEA, CNRS, BAOBAB,NeuroSpin, 91191, Gif-sur-Yvette,
+    France. 3Cognitive Neuroimaging Unit, INSERM, CEA, Université Paris-Saclay,NeuroSpin
+    center, 91191, Gif/Yvette, France. 4Laboratory of Cognitive Neuroscience, Brain
+    Mind Institute, School ofLife Sciences and Center for Neuroprosthetics, Swiss
+    Federal Institute of Technology (EPFL), Campus Biotech, Geneva,Switzerland. 5Motivation,
+    Brain and Behavior (MBB) team, Institut du Cerveau (ICM), Inserm UMRS 1127, CNS
+    UMR7225, Sorbonne Université, Paris, France. 6Center for Mind/Brain Sciences,
+    University of Trento, I-38068, Rovereto,Italy. 7LaPsyDÉ, UMR CNRS 8240, Université
+    de Paris, Paris, France. 8GIGA-CRC In vivo Imaging, University of Liège,Liège,
+    Belgium. 9Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7) Research
+    Centre Jülich, Jülich,Germany. 10Criteo AI Lab, Paris, France. 11Université Paris-Saclay,
+    CEA, UNIACT, NeuroSpin, 91191 Gif-sur-Yvette,France. 12Collège de France, Université
+    Paris-Sciences-Lettres, Paris, France. 13UMR 1141, NeuroDiderot, Universitéde
+    Paris, Paris, France. ✉e-mail: ana.pinho@inria.frData Descrip torOPENScientific
+    Data | (2020) 7:353 | https://doi.org/10.1038/s41597-020-00670-4 2www.nature.com/scientificdata/
+    www.nature.com/scientificdatadata are impacted by both intra- and inter-subject
+    plus inter-site variability, these approaches still limit the exactdemarcation
+    of functional territories and, consequently, formal generalizations about brain
+    mechanisms. Severallarge-scale brain-imaging datasets are suitable for atlasing,
+    wherein differences can be mitigated across subjectsand protocols together with
+    standardized data-processing routines. Yet, as they have different scopes, notall
+    requirements are met for cognitive mapping. For instance, the Human Connectome
+    Project (HCP)10,11 andCONNECT/Archi12,13 datasets provide large subject samples
+    as they are focused in population analysis across differentmodalities; task-fMRI
+    data combine here 24 and 28 conditions, respectively, which is scarce for functionalatlasing.
+    Another example is the studyforrest dataset14–17, that includes a variety of task
+    data on complex auditoryand visual information, but restricted to naturalistic
+    stimuli. Additionally, one shall note that within-subject variabilityreduces task-fMRI
+    replicability; thus, more data per subject can in fact facilitate reliability
+    of group-levelresults18.To obtain as many cognitive signatures as possible and
+    simultaneously achieve a wide brain coverage at a finescale, extensive functional
+    mapping of individual brains over different psychological domains is necessary.
+    Withinthis context, the Individual Brain Charting (IBC) project pertains to the
+    development of a 1.5mm-resolution,task-fMRI dataset acquired in a fixed environment,
+    on a permanent cohort of 12 participants. Data collectionfrom a broad range of
+    tasks, at high spatial resolution, yields a sharp characterization of the neurocognitive
+    componentscommon to the different tasks. This extension corresponds to the second
+    release of the IBC dataset,meant to increase the number of psychological domains
+    of the first one19. It both aims at a consistent mapping ofelementary spatial
+    components, extracted from all tasks, and a fine characterization of the individual
+    architectureunderlying this topographic information.The first release encompassed
+    a sample of modules ranging from perception to higher-level cognition, e.g.retinotopy,
+    calculation, language and social reasoning10,12,20. The second release refers
+    to tasks predominantlyfocused on higher-level functions, like mental time travel,
+    reward, theory-of-mind, self-reference effect andspeech recognition. Nonetheless,
+    a subset dedicated to lower-level processes is also included, covering pain,action
+    perception and numerosity. These tasks are intended to complement those from the
+    first release, such thata considerable cognitive overlap is attained, while new
+    components are introduced. For instance, componentsconcerning social cognition,
+    already found in ARCHI Standard, ARCHI Social and HCP Social tasks from theprevious
+    release, are now present in tasks about theory-of-mind and self-reference effect.
+    Likewise, componentson incentive salience, already tackled in the HCP Gambling
+    task, are now included in a task battery addressingpositive-incentive value. Yet
+    also, a battery on mental time travel brings in new modules pertaining to timeorientation
+    and cardinal-direction judgment. Data from both releases are organized in 25 tasks
+    –most of themreproduced from other studies– and they amount for 205 contrasts
+    described on the basis of 110 cognitive atoms,extracted from the Cognitive Atlas21.Here,
+    we give an account –focused on the second release– of the experimental procedures
+    and the datasetorganization and show that raw task-fMRI data and their derivatives
+    represent functional activity in directresponse to behavior. Data collection is
+    ongoing and more releases are planned for the next years. Despite beinga long-term
+    project, IBC is not dedicated to longitudinal surveys; acquisitions of the same
+    tasks will not be conductedsystematically.The IBC dataset is an open-access facility
+    devoted to providing high-resolution, functional maps of individualbrains as basis
+    to support investigations in human cognition.MethodsTo avoid ambiguity with MRI-related
+    terms used throughout this manuscript, definitions of such terms follow theBrain-Imaging-Data-Structure
+    (BIDS) Specification version 1.2.122.Complementary information about dataset organization
+    and MRI-acquisition protocols can be found in theIBC documentation available online:
+    https://project.inria.fr/IBC/data/'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: '<div>This dataset contains key characteristics about the data described
+  in the Data Descriptor Individual Brain Charting dataset extension, second release
+  of high-resolution fMRI data for cognitive mapping.</div> <br> <div>Contents: </div>
+  <br> <div> 1. human readable metadata summary table in CSV format </div> <div> 2.
+  machine readable metadata file in JSON format </div> <br> <br> <div><br></div>We
+  present an extension of the Individual Brain Charting dataset –a high spatial-resolution,
+  multitask,functional Magnetic Resonance Imaging dataset, intended to support the
+  investigation on thefunctional principles governing cognition in the human brain.
+  The concomitant data acquisition fromthe same 12 participants, in the same environment,
+  allows to obtain in the long run finer cognitivetopographies, free from inter-subject
+  and inter-site variability. This second release provides more datafrom psychological
+  domains present in the first release, and also yields data featuring new ones. Itincludes
+  tasks on e.g. mental time travel, reward, theory-of-mind, pain, numerosity, self-referenceeffect
+  and speech recognition. In total, 13 tasks with 86 contrasts were added to the dataset
+  and 63new components were included in the cognitive description of the ensuing contrasts.
+  As the datasetbecomes larger, the collection of the corresponding topographies becomes
+  more comprehensive,leading to better brain-atlasing frameworks. This dataset is
+  an open-access facility; raw data andderivatives are publicly available in neuroimaging
+  repositories.Background & SummaryUnderstanding the fundamental principles that govern
+  human cognition requires mapping the brain in terms offunctional segregation of
+  specialized regions. This is achieved by measuring local differences of brain activationrelated
+  to behavior. Functional Magnetic Resonance Imaging (fMRI) has been used for this
+  purpose as an attemptto better understand the neural correlates underlying cognition.
+  However, while there is a rich literature concerningperformance of isolated tasks,
+  little is still known about the overall functional organization of the brain.Meta-
+  and mega-analyses constitute active efforts at providing accumulated knowledge on
+  brain systems,wherein data from different studies are pooled to map regions consistently
+  linked to mental functions1–9 Because1Université Paris-Saclay, Inria, CEA, Palaiseau,
+  91120, France. 2Université Paris-Saclay, CEA, CNRS, BAOBAB,NeuroSpin, 91191, Gif-sur-Yvette,
+  France. 3Cognitive Neuroimaging Unit, INSERM, CEA, Université Paris-Saclay,NeuroSpin
+  center, 91191, Gif/Yvette, France. 4Laboratory of Cognitive Neuroscience, Brain
+  Mind Institute, School ofLife Sciences and Center for Neuroprosthetics, Swiss Federal
+  Institute of Technology (EPFL), Campus Biotech, Geneva,Switzerland. 5Motivation,
+  Brain and Behavior (MBB) team, Institut du Cerveau (ICM), Inserm UMRS 1127, CNS
+  UMR7225, Sorbonne Université, Paris, France. 6Center for Mind/Brain Sciences, University
+  of Trento, I-38068, Rovereto,Italy. 7LaPsyDÉ, UMR CNRS 8240, Université de Paris,
+  Paris, France. 8GIGA-CRC In vivo Imaging, University of Liège,Liège, Belgium. 9Institute
+  of Neuroscience and Medicine, Brain & Behaviour (INM-7) Research Centre Jülich,
+  Jülich,Germany. 10Criteo AI Lab, Paris, France. 11Université Paris-Saclay, CEA,
+  UNIACT, NeuroSpin, 91191 Gif-sur-Yvette,France. 12Collège de France, Université
+  Paris-Sciences-Lettres, Paris, France. 13UMR 1141, NeuroDiderot, Universitéde Paris,
+  Paris, France. ✉e-mail: ana.pinho@inria.frData Descrip torOPENScientific Data |
+  (2020) 7:353 | https://doi.org/10.1038/s41597-020-00670-4 2www.nature.com/scientificdata/
+  www.nature.com/scientificdatadata are impacted by both intra- and inter-subject
+  plus inter-site variability, these approaches still limit the exactdemarcation of
+  functional territories and, consequently, formal generalizations about brain mechanisms.
+  Severallarge-scale brain-imaging datasets are suitable for atlasing, wherein differences
+  can be mitigated across subjectsand protocols together with standardized data-processing
+  routines. Yet, as they have different scopes, notall requirements are met for cognitive
+  mapping. For instance, the Human Connectome Project (HCP)10,11 andCONNECT/Archi12,13
+  datasets provide large subject samples as they are focused in population analysis
+  across differentmodalities; task-fMRI data combine here 24 and 28 conditions, respectively,
+  which is scarce for functionalatlasing. Another example is the studyforrest dataset14–17,
+  that includes a variety of task data on complex auditoryand visual information,
+  but restricted to naturalistic stimuli. Additionally, one shall note that within-subject
+  variabilityreduces task-fMRI replicability; thus, more data per subject can in fact
+  facilitate reliability of group-levelresults18.To obtain as many cognitive signatures
+  as possible and simultaneously achieve a wide brain coverage at a finescale, extensive
+  functional mapping of individual brains over different psychological domains is
+  necessary. Withinthis context, the Individual Brain Charting (IBC) project pertains
+  to the development of a 1.5mm-resolution,task-fMRI dataset acquired in a fixed environment,
+  on a permanent cohort of 12 participants. Data collectionfrom a broad range of tasks,
+  at high spatial resolution, yields a sharp characterization of the neurocognitive
+  componentscommon to the different tasks. This extension corresponds to the second
+  release of the IBC dataset,meant to increase the number of psychological domains
+  of the first one19. It both aims at a consistent mapping ofelementary spatial components,
+  extracted from all tasks, and a fine characterization of the individual architectureunderlying
+  this topographic information.The first release encompassed a sample of modules ranging
+  from perception to higher-level cognition, e.g.retinotopy, calculation, language
+  and social reasoning10,12,20. The second release refers to tasks predominantlyfocused
+  on higher-level functions, like mental time travel, reward, theory-of-mind, self-reference
+  effect andspeech recognition. Nonetheless, a subset dedicated to lower-level processes
+  is also included, covering pain,action perception and numerosity. These tasks are
+  intended to complement those from the first release, such thata considerable cognitive
+  overlap is attained, while new components are introduced. For instance, componentsconcerning
+  social cognition, already found in ARCHI Standard, ARCHI Social and HCP Social tasks
+  from theprevious release, are now present in tasks about theory-of-mind and self-reference
+  effect. Likewise, componentson incentive salience, already tackled in the HCP Gambling
+  task, are now included in a task battery addressingpositive-incentive value. Yet
+  also, a battery on mental time travel brings in new modules pertaining to timeorientation
+  and cardinal-direction judgment. Data from both releases are organized in 25 tasks
+  –most of themreproduced from other studies– and they amount for 205 contrasts described
+  on the basis of 110 cognitive atoms,extracted from the Cognitive Atlas21.Here, we
+  give an account –focused on the second release– of the experimental procedures and
+  the datasetorganization and show that raw task-fMRI data and their derivatives represent
+  functional activity in directresponse to behavior. Data collection is ongoing and
+  more releases are planned for the next years. Despite beinga long-term project,
+  IBC is not dedicated to longitudinal surveys; acquisitions of the same tasks will
+  not be conductedsystematically.The IBC dataset is an open-access facility devoted
+  to providing high-resolution, functional maps of individualbrains as basis to support
+  investigations in human cognition.MethodsTo avoid ambiguity with MRI-related terms
+  used throughout this manuscript, definitions of such terms follow theBrain-Imaging-Data-Structure
+  (BIDS) Specification version 1.2.122.Complementary information about dataset organization
+  and MRI-acquisition protocols can be found in theIBC documentation available online:
+  https://project.inria.fr/IBC/data/'
+generated_by:
+- at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.6084/M9.FIGSHARE.12958181
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/30aaf151-529f-436c-b8db-ccdbe557b597
+schema_type: xyzri:XYZPublication
+title: ' Individual Brain Charting dataset extension, second release of high-resolution
+  fMRI data for cognitive mapping'

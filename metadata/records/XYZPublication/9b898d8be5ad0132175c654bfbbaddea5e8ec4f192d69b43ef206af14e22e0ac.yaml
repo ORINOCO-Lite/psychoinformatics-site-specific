@@ -1,0 +1,36 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/269a3b65-df26-4c0d-a6a9-2c4410750dc8
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Meta-analytic Evidence for Volume Increases in the Medial Temporal Lobe After
+    Electroconvulsive Therapy
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: No abstract available
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: No abstract available
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0006-3223
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.biopsych.2021.03.024
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/f722c05b-6038-44ed-bdc4-085878c9d800
+schema_type: xyzri:XYZPublication
+title: Meta-analytic Evidence for Volume Increases in the Medial Temporal Lobe After
+  Electroconvulsive Therapy

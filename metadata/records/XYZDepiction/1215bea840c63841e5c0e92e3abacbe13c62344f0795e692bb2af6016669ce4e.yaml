@@ -1,0 +1,20 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-06T15:39:06.598606'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+description: An svg of the DataLad Handbook Logo
+display_label: The DataLad Handbook Logo
+distributions:
+- dldi:SHA256E-s64998--6cf70b15107c3fb17589a0d0ae5a6385426bbfb46e5df436babbe9ad157c1f36.svg
+kind: schema:logo
+pid: xyzrins:depictions/5f2edd0e-cad3-4d45-8cc6-3164c08bf5af
+schema_type: xyzri:XYZDepiction
+title: The DataLad Handbook Logo

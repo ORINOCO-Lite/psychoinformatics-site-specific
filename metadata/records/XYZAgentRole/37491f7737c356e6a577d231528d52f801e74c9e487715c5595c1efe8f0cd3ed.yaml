@@ -1,0 +1,5 @@
+description: A person, family, or organization responsible for creating a new device
+  or process
+display_label: Inventor
+pid: marcrel:inv
+schema_type: xyzri:XYZAgentRole

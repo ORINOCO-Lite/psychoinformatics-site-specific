@@ -1,0 +1,54 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Hemispheric Specialization of the Primate Inferior Parietal Lobule
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Hemispheric asymmetries can be seen as one of the evolutionary adaptations
+    that allowed the human brain to muster more complex cognitive processes than other
+    primates. In this vein, the study published by Cheng et al. [1] presents a pivotal
+    investigation of both the regional and connectional asymmetries within the inferior
+    parietal lobule (IPL) in human, chimpanzee, and macaque. By investigating 4 sub-divisions
+    of the IPL across the three species, Cheng and colleagues showed that the macroanatomical
+    and connectional architecture of the IPL became more asymmetric throughout the
+    primate lineage. While macaques show little to no structural asymmetries, chimpanzees
+    display a more asymmetric architecture but with both leftward and rightward asymmetries
+    in various connections. In contrast, the human IPL displayed the highest number
+    of asymmetries among the three species with a clear tendency towards more lateralization.
+    This evolutionary trend towards a more lateralized organization of the IPL may
+    have accompanied an improved command of tool-use, stronger forelimb asymmetries,
+    and the increasing complexity of communicative behavior.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Hemispheric asymmetries can be seen as one of the evolutionary adaptations
+  that allowed the human brain to muster more complex cognitive processes than other
+  primates. In this vein, the study published by Cheng et al. [1] presents a pivotal
+  investigation of both the regional and connectional asymmetries within the inferior
+  parietal lobule (IPL) in human, chimpanzee, and macaque. By investigating 4 sub-divisions
+  of the IPL across the three species, Cheng and colleagues showed that the macroanatomical
+  and connectional architecture of the IPL became more asymmetric throughout the primate
+  lineage. While macaques show little to no structural asymmetries, chimpanzees display
+  a more asymmetric architecture but with both leftward and rightward asymmetries
+  in various connections. In contrast, the human IPL displayed the highest number
+  of asymmetries among the three species with a clear tendency towards more lateralization.
+  This evolutionary trend towards a more lateralized organization of the IPL may have
+  accompanied an improved command of tool-use, stronger forelimb asymmetries, and
+  the increasing complexity of communicative behavior.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1673-7067
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s12264-021-00807-4
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/4784e545-6744-44e7-b9de-51f52a4c67e7
+schema_type: xyzri:XYZPublication
+title: Hemispheric Specialization of the Primate Inferior Parietal Lobule

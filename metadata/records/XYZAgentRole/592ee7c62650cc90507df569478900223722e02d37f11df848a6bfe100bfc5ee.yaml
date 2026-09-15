@@ -1,0 +1,8 @@
+broad_mappings:
+- marcrel:aut
+description: The last of a set of authors associated with a publication or release.
+  There may be more than one senior author in cases where several authors share senior
+  attribution.
+display_label: Senior author
+pid: obo:MS_1002035
+schema_type: xyzri:XYZAgentRole

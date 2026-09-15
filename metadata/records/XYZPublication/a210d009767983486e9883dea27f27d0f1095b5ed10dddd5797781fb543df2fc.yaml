@@ -1,0 +1,32 @@
+about:
+- xyzrins:topics/research-software-engineering
+- xyzrins:topics/research-data-management
+- xyzrins:topics/standards
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-04-01T09:57:04.404378'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002035
+  schema_type: dlthings:Attribution
+- object: orcid:0000-0003-3456-2493
+  roles:
+  - obo:MS_1002034
+  schema_type: dlthings:Attribution
+generated_by:
+- at_location: ISSN:2047-217X
+  at_time: '2015-07-18'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1186/s13742-015-0072-7
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/b2f6fb79-0988-43ab-8787-35dcfa9e3fa2
+schema_type: xyzri:XYZPublication
+title: Four aspects to make science open "by design" and not as an after-thought

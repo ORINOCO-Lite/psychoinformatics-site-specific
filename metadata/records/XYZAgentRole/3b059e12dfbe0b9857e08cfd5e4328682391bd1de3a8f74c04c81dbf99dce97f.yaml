@@ -1,0 +1,4 @@
+description: The place where a resource is published
+display_label: Publication place
+pid: marcrel:pup
+schema_type: xyzri:XYZAgentRole

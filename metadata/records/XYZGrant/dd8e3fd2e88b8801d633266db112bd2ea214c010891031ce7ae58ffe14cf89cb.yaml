@@ -1,0 +1,19 @@
+description: Projekt B06 untersucht die neuralen Mechanismen von fehler- und belohnungs-basiertem
+  motorischen Adaptationslernen von Greifbewegungen im menschlichen Gehirn. Mit Hilfe
+  aufgabenbasierter funktioneller Magnetresonanztomographie (fMRT) und der Analyse
+  effektiver Konnektivität wird die Interaktion kortiko-basalganglien-zerebellärer
+  Netzwerke während motorischer Adaptation mit und ohne monetäre Belohnung erforscht.
+  Der Einschluss von Menschen verschiedenen Alters und die longitudinale Untersuchung
+  von Schlaganfallpatienten ermöglicht uns, den Einfluss von Alterungsprozessen und
+  erhöhter motorischer Plastizität nach einem Schlaganfall auf diese Netzwerkinteraktionen
+  zu untersuchen.
+identifiers:
+- creator: ror:018mejw64
+  notation: '552122525'
+  schema_type: dlthings:Identifier
+part_of:
+- xyzrins:grants/sfb1451
+pid: xyzrins:grants/143b2417-20a6-45d1-8140-dfddceb61749
+schema_type: xyzri:XYZGrant
+short_name: B06
+title: Netzwerkmechanismen der Adaptation motorischer Kontrolle

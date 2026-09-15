@@ -1,0 +1,4 @@
+description: A formalized discussion between two or more people.
+display_label: Interview
+pid: bibo:Interview
+schema_type: xyzri:XYZBibliographicType

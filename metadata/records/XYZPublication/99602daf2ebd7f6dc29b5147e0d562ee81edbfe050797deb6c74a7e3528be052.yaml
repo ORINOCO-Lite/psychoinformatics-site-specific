@@ -1,0 +1,60 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: The dissemination of brain imaging guidelines and recommendations
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Many neuroimaging guidelines and recommendations have been published in the
+    literature to guide fellow researchers to conduct and report research findings
+    in a standardized manner. It was largely unknown if they were cited or read by
+    the scientific community. Analyses were conducted to assess their impact in terms
+    of citations, Twitter posts, and Mendeley reads. Web of Science Core Collection
+    database was accessed to identify relevant publications. The number of their Twitter
+    posts and Mendeley reads were recorded from Altmetric and Mendeley databases respectively.
+    Spearman correlation tests were conducted to evaluate if the citation count had
+    a relationship with these metrics. When all 1786 publications were considered,
+    citation count had a strong positive correlation with Mendeley reads (rho = 0.602,
+    p < 0.001), but a weak negative correlation with Twitter posts (rho = −0.085,
+    p < 0.001). When publications in the 2010 s were specifically considered, citation
+    count had an even stronger positive correlation with Mendeley reads (rho = 0.712,
+    P < 0.001), whereas the correlation with Twitter posts became positive but still
+    weak (rho = 0.072, P = 0.012). Temporal profiles of citation and Mendeley counts
+    showed that these guidelines and recommendations had a relatively stable influence
+    in the field for years after being published.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Many neuroimaging guidelines and recommendations have been published
+  in the literature to guide fellow researchers to conduct and report research findings
+  in a standardized manner. It was largely unknown if they were cited or read by the
+  scientific community. Analyses were conducted to assess their impact in terms of
+  citations, Twitter posts, and Mendeley reads. Web of Science Core Collection database
+  was accessed to identify relevant publications. The number of their Twitter posts
+  and Mendeley reads were recorded from Altmetric and Mendeley databases respectively.
+  Spearman correlation tests were conducted to evaluate if the citation count had
+  a relationship with these metrics. When all 1786 publications were considered, citation
+  count had a strong positive correlation with Mendeley reads (rho = 0.602, p < 0.001),
+  but a weak negative correlation with Twitter posts (rho = −0.085, p < 0.001). When
+  publications in the 2010 s were specifically considered, citation count had an even
+  stronger positive correlation with Mendeley reads (rho = 0.712, P < 0.001), whereas
+  the correlation with Twitter posts became positive but still weak (rho = 0.072,
+  P = 0.012). Temporal profiles of citation and Mendeley counts showed that these
+  guidelines and recommendations had a relatively stable influence in the field for
+  years after being published.
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:2667-2421
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.ibneur.2021.11.003
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/538f7ce3-4907-4a44-8e41-00ef4abf505b
+schema_type: xyzri:XYZPublication
+title: The dissemination of brain imaging guidelines and recommendations

@@ -1,0 +1,29 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-03T11:29:55.489547'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - marcrel:aut
+  - marcrel:cre
+  schema_type: dlthings:Attribution
+description: 'datasalad is a pure-Python library with a collection of utilities for
+  working with data in the vicinity of Git and git-annex. While this is a foundational
+  library from and for the DataLad project, its implementations are standalone, and
+  are meant to be equally well usable outside the DataLad system.
+
+
+  A focus of this library is efficient communication with subprocesses, such as Git
+  or git-annex commands, which read and produce data in some format.'
+generated_by:
+- at_time: '2024-06-14'
+  object: xyzrins:projects/13347b71-134b-40c8-b6e6-1cbc43969080
+  schema_type: dlthings:Generation
+kind: obo:IAO_0000010
+name: datasalad
+pid: xyzrins:instruments/datasalad
+schema_type: xyzri:XYZInstrument

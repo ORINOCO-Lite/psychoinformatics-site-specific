@@ -1,0 +1,38 @@
+about:
+- xyzrins:topics/neuroimaging
+- xyzrins:topics/research-data-management
+- xyzrins:topics/standards
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-04-01T13:37:28.035229'
+attributed_to:
+- object: orcid:0000-0003-3456-2493
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+generated_by:
+- at_location: ISSN:1662-5196
+  at_time: '2019-02-07'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3389/fninf.2019.00001
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/d2ed3524-c8a6-425d-ac00-769fdd54de02
+rules:
+- spdxlic:CC-BY-4.0
+schema_type: xyzri:XYZPublication
+title: 'Everything Matters: The ReproNim Perspective on Reproducible Neuroimaging'

@@ -1,0 +1,14 @@
+attributes:
+- predicate: spdx:isOsiApproved
+  schema_type: dlthings:AttributeSpecification
+  value: obo:NCIT_C68851
+- predicate: spdx:isFsfLibre
+  schema_type: dlthings:AttributeSpecification
+  value: obo:NCIT_C68851
+broad_mappings:
+- dcterms:LicenseDocument
+display_label: Creative Commons Attribution-NonCommercial-ShareAlike 2.0 France
+exact_mappings:
+- https://creativecommons.org/licenses/by-nc-sa/2.0/fr/
+pid: spdxlic:CC-BY-NC-SA-2.0-FR
+schema_type: dlthings:Rule

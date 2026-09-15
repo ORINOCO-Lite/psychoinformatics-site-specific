@@ -1,0 +1,33 @@
+description: "The annual worldwide cost of Alzheimer’s dementia was 777.81 billion\
+  \ Euro in 2015. This number will rise to 7.41 trillion Euro in 2050. Early diagnosis\
+  \ would save up to $7.9 trillion in medical and care costs by 2050 in the US alone.\
+  \ However, the emergent pathology is highly variable across people, necehighly variable\
+  \ across people, necessitating individualized diagnostics and interventions. The\
+  \ VirtualBrainCloud addresses this by bridging the gap between computational neuroscience\
+  \ and subcellular systems biology, integrating both research streams into a unifying\
+  \ computational model that supports personalized diagnostics and treatments in NDD.\
+  \ TheVirtualBrainCloud not only integrates existing software tools, it also merges\
+  \ the efforts of two big EU initiatives, namely The Virtual Brain large scale simulation\
+  \ platform of the EU Flagship Human Brain Project and IMI-EPAD initiative (European\
+  \ prevention of Alzheimer’s dementia consortium). VirtualBrainCloud will develop\
+  \ and validate a decision support system that provides access to high quality multi-disciplinary\
+  \ data for clinical practice. The result will be a cloud-based brain simulation\
+  \ platform to support personalized diagnostics and treatments in NDD. The EU PRACE\
+  \ (Partnership for Advanced Computing in Europe) initiative, will provide the required\
+  \ computing infrastructure. The VirtualBrainCloud will develop robust solutions\
+  \ for legal and ethical matters by interacting with EU projects such as European\
+  \ Open Science Cloud (EOSC), ‘cloud4health’, Alzheimer’s Europe patient organizations\
+  \ and ELIXIR, an organization that manages and safeguards EU research data. Our\
+  \ software developers have already produced highly successful brain simulation and\
+  \ clinical decision support tools. The resulting software will be a cloud based\
+  \ computational modeling system that is tailored to the individual, and bridges\
+  \ multiple scales to identify key mechanisms that predict NDD progression and serves\
+  \ as Precision Decision Support System.\n  European Comission"
+identifiers:
+- creator: ror:00k4n6c32
+  notation: '826421'
+  schema_type: dlthings:Identifier
+pid: xyzrins:grants/4919df79-bb48-443a-b74d-3eb83e466187
+schema_type: xyzri:XYZGrant
+short_name: VirtualBrainCloud
+title: Personalized Recommendations for Neurodegenerative Disease

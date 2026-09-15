@@ -1,0 +1,71 @@
+attributed_to:
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Conscious processing of global and local auditory irregularities causes differentiated
+    heartbeat-evoked responses
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Recent research suggests that brain-heart interactions are associated with
+    perceptual and self-consciousness. In this line, the neural responses to visceral
+    inputs have been hypothesized to play a leading role in shaping our subjective
+    experience. This study aims to investigate whether the contextual processing of
+    auditory irregularities modulates both direct neuronal responses to the auditory
+    stimuli (ERPs) and the neural responses to heartbeats, as measured with heartbeat-evoked
+    responses (HERs). HERs were computed in patients with disorders of consciousness,
+    diagnosed with a minimally conscious state or unresponsive wakefulness syndrome.
+    We tested whether HERs reflect conscious auditory perception, which can potentially
+    provide additional information for the consciousness diagnosis. EEG recordings
+    were taken during the local-global paradigm, which evaluates the capacity of a
+    patient to detect the appearance of auditory irregularities at local (short-term)
+    and global (long-term) levels. The results show that local and global effects
+    produce distinct ERPs and HERs, which can help distinguish between the minimally
+    conscious state and unresponsive wakefulness syndrome patients. Furthermore, we
+    found that ERP and HER responses were not correlated suggesting that independent
+    neuronal mechanisms are behind them. These findings suggest that HER modulations
+    in response to auditory irregularities, especially local irregularities, may be
+    used as a novel neural marker of consciousness and may aid in the bedside diagnosis
+    of disorders of consciousness with a more cost-effective option than neuroimaging
+    methods.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Recent research suggests that brain-heart interactions are associated
+  with perceptual and self-consciousness. In this line, the neural responses to visceral
+  inputs have been hypothesized to play a leading role in shaping our subjective experience.
+  This study aims to investigate whether the contextual processing of auditory irregularities
+  modulates both direct neuronal responses to the auditory stimuli (ERPs) and the
+  neural responses to heartbeats, as measured with heartbeat-evoked responses (HERs).
+  HERs were computed in patients with disorders of consciousness, diagnosed with a
+  minimally conscious state or unresponsive wakefulness syndrome. We tested whether
+  HERs reflect conscious auditory perception, which can potentially provide additional
+  information for the consciousness diagnosis. EEG recordings were taken during the
+  local-global paradigm, which evaluates the capacity of a patient to detect the appearance
+  of auditory irregularities at local (short-term) and global (long-term) levels.
+  The results show that local and global effects produce distinct ERPs and HERs, which
+  can help distinguish between the minimally conscious state and unresponsive wakefulness
+  syndrome patients. Furthermore, we found that ERP and HER responses were not correlated
+  suggesting that independent neuronal mechanisms are behind them. These findings
+  suggest that HER modulations in response to auditory irregularities, especially
+  local irregularities, may be used as a novel neural marker of consciousness and
+  may aid in the bedside diagnosis of disorders of consciousness with a more cost-effective
+  option than neuroimaging methods.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2050-084X
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.7554/eLife.75352
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/d8a50f1a-958c-4466-9e81-ae64756bf2d2
+schema_type: xyzri:XYZPublication
+title: Conscious processing of global and local auditory irregularities causes differentiated
+  heartbeat-evoked responses

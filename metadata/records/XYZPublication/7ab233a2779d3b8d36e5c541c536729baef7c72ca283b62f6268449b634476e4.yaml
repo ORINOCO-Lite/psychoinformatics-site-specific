@@ -1,0 +1,36 @@
+about:
+- xyzrins:topics/neuroimaging
+- xyzrins:topics/predictive-data-analysis
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-04-01T09:57:03.751147'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/reshanne-reeder
+  roles:
+  - obo:MS_1002034
+  schema_type: dlthings:Attribution
+- object: orcid:0000-0001-5840-5658
+  roles:
+  - obo:MS_1002035
+  schema_type: dlthings:Attribution
+generated_by:
+- at_location: ISSN:0010-9452
+  at_time: 2018-11
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.cortex.2018.08.005
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/596baa90-ea06-46aa-8809-a2d06f85d6ff
+schema_type: xyzri:XYZPublication
+title: No evidence for enhanced distractor template representation in early visual
+  cortex

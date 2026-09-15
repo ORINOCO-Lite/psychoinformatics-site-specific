@@ -1,0 +1,72 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Neuro-transcriptomic signatures for mood disorder morbidity and suicide mortality
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Suicidal behaviors are strongly linked with mood disorders, but the specific
+    neurobiological and functional gene-expression correlates for this linkage remain
+    elusive. We performed neuroimaging-guided RNA-sequencing in two studies to test
+    the hypothesis that imaging-localized gray matter volume (GMV) loss in mood disorders,
+    harbors gene-expression changes associated with disease morbidity and related
+    suicide mortality in an independent postmortem cohort. To do so, first, we conducted
+    study 1 using an anatomical likelihood estimation (ALE) MRI meta-analysis including
+    a total of 47 voxel-based morphometry (VBM) publications (i.e. 26 control versus
+    (vs) major depressive disorder (MDD) studies, and 21 control vs bipolar disorder
+    (BD) studies) in 2387 (living) participants. Study 1 meta-analysis identified
+    a selective anterior insula cortex (AIC) GMV loss in mood disorders. We then used
+    this results to guide study 2 postmortem tissue dissection and RNA-Sequencing
+    of 100 independent donor brain samples with a life-time history of MDD (N = 30),
+    BD (N = 37) and control (N = 33). In study 2, exploratory factor-analysis identified
+    a higher-order factor representing number of Axis-1 diagnoses (e.g. substance
+    use disorders/psychosis/anxiety, etc.), referred to here as morbidity and suicide-completion
+    referred to as mortality. Comparisons of case-vs-control, and factor-analysis
+    defined higher-order-factor contrast variables revealed that the imaging-identified
+    AIC GMV loss sub-region harbors differential gene-expression changes in high morbidity-&-mortality
+    versus low morbidity-&-mortality cohorts in immune, inflammasome, and neurodevelopmental
+    pathways. Weighted gene co-expression network analysis further identified co-activated
+    gene modules for psychiatric morbidity and mortality outcomes. These results provide
+    evidence that AIC anatomical signature for mood disorders are possible correlates
+    for gene-expression abnormalities in mood morbidity and suicide mortality.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Suicidal behaviors are strongly linked with mood disorders, but the specific
+  neurobiological and functional gene-expression correlates for this linkage remain
+  elusive. We performed neuroimaging-guided RNA-sequencing in two studies to test
+  the hypothesis that imaging-localized gray matter volume (GMV) loss in mood disorders,
+  harbors gene-expression changes associated with disease morbidity and related suicide
+  mortality in an independent postmortem cohort. To do so, first, we conducted study
+  1 using an anatomical likelihood estimation (ALE) MRI meta-analysis including a
+  total of 47 voxel-based morphometry (VBM) publications (i.e. 26 control versus (vs)
+  major depressive disorder (MDD) studies, and 21 control vs bipolar disorder (BD)
+  studies) in 2387 (living) participants. Study 1 meta-analysis identified a selective
+  anterior insula cortex (AIC) GMV loss in mood disorders. We then used this results
+  to guide study 2 postmortem tissue dissection and RNA-Sequencing of 100 independent
+  donor brain samples with a life-time history of MDD (N = 30), BD (N = 37) and control
+  (N = 33). In study 2, exploratory factor-analysis identified a higher-order factor
+  representing number of Axis-1 diagnoses (e.g. substance use disorders/psychosis/anxiety,
+  etc.), referred to here as morbidity and suicide-completion referred to as mortality.
+  Comparisons of case-vs-control, and factor-analysis defined higher-order-factor
+  contrast variables revealed that the imaging-identified AIC GMV loss sub-region
+  harbors differential gene-expression changes in high morbidity-&-mortality versus
+  low morbidity-&-mortality cohorts in immune, inflammasome, and neurodevelopmental
+  pathways. Weighted gene co-expression network analysis further identified co-activated
+  gene modules for psychiatric morbidity and mortality outcomes. These results provide
+  evidence that AIC anatomical signature for mood disorders are possible correlates
+  for gene-expression abnormalities in mood morbidity and suicide mortality.
+generated_by:
+- at_location: ISSN:0022-3956
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.jpsychires.2020.05.013
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/76868804-b2f0-4174-9b28-06376c221c2b
+schema_type: xyzri:XYZPublication
+title: Neuro-transcriptomic signatures for mood disorder morbidity and suicide mortality

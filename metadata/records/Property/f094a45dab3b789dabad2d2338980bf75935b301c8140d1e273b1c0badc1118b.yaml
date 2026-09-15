@@ -1,0 +1,11 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: s.heunis@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-02-25T12:11:06.100798'
+description: Further information about the subject resource.
+display_label: See also
+pid: rdfs:seeAlso
+schema_type: dlthings:Property

@@ -1,0 +1,58 @@
+attributed_to:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Open research software infrastructure in Neuro-Medicine
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'A virtual talk given at the ZI Mannheim Open Science Symposium on open source
+    software tools in the INM-7 of the research center Jülich, and plans for a recent
+    collaborative project combing them.   Abstract: The Institute of Neuroscience
+    and Medicine: Brain and Behavior (INM-7) at the research center Jülich combines
+    clinical science with open source software development and open science. This
+    talk will highlight central open source software projects of our institute, and
+    their application in larger projects. As one of its developers, I will introduce
+    the data management software DataLad (www.datalad.org) and some of its applications
+    - from data management in consortia to reproducible and privacy-aware data analysis
+    at scale. In addition, I will outline a recently established collaborative platform
+    for digital medicine in North Rhine Westphalia, the ABCD-JU project. Building
+    on our institute''s open source projects for data management, mobile health applications
+    and machine-learning (juaml.github.io/julearn), it aims to establish an integrated,
+    user-friendly, and FAIR infrastructure for digital biomarker collection, storage,
+    and exchange for clinical scientists. Beyond an overview of our tools and projects,
+    this talk aims to spark discussions around synergies and interoperability with
+    projects at the ZI.'
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+description: 'A virtual talk given at the ZI Mannheim Open Science Symposium on open
+  source software tools in the INM-7 of the research center Jülich, and plans for
+  a recent collaborative project combing them.   Abstract: The Institute of Neuroscience
+  and Medicine: Brain and Behavior (INM-7) at the research center Jülich combines
+  clinical science with open source software development and open science. This talk
+  will highlight central open source software projects of our institute, and their
+  application in larger projects. As one of its developers, I will introduce the data
+  management software DataLad (www.datalad.org) and some of its applications - from
+  data management in consortia to reproducible and privacy-aware data analysis at
+  scale. In addition, I will outline a recently established collaborative platform
+  for digital medicine in North Rhine Westphalia, the ABCD-JU project. Building on
+  our institute''s open source projects for data management, mobile health applications
+  and machine-learning (juaml.github.io/julearn), it aims to establish an integrated,
+  user-friendly, and FAIR infrastructure for digital biomarker collection, storage,
+  and exchange for clinical scientists. Beyond an overview of our tools and projects,
+  this talk aims to spark discussions around synergies and interoperability with projects
+  at the ZI.'
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/ZENODO.10149348
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/ee3eb81b-64ab-4556-9ea0-db3f293d6cb3
+schema_type: xyzri:XYZPublication
+title: Open research software infrastructure in Neuro-Medicine

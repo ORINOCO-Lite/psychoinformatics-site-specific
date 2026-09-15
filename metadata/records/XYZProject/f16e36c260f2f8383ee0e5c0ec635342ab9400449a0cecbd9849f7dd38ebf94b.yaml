@@ -1,0 +1,64 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-06-30T06:22:49.179376'
+associated_with:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - marcrel:cre
+  schema_type: dlthings:Association
+- object: xyzrins:persons/stephan-heunis
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Association
+description: 'This project builds self-hostable research information infrastructure:
+  tools to collect, organize, validate, visualize, and serve structured research (meta)data.
+  It centers on a [LinkML schema toolkit](https://concepts.datalad.org) that enables
+  the expression of arbitrary metadata with the ability to align with any number of
+  generic and domain-specific vocabularies. Importantly, the availability of suitable
+  ontologies is *not* a requirement for capturing metadata, and semantic alignment
+  can be a parallel task, focused on high-value assets. From a central schema, such
+  as the [research information demonstrator](https://concepts.datalad.org/s/demo-research-information)
+  both metadata edit browser UIs and REST API can be generated automatically, using
+  [shacl-vue](https://www.psychoinformatics.de/instruments/shacl-vue) and [dump-things](https://www.psychoinformatics.de/instruments/dump-things),
+  respectively. Combined, these tools enable the operation of a "knowledge pool",
+  a collaborative instrument for metadata collection and curation (see the [deployment
+  of the TRR379](https://pool.trr379.de), or that of the [Psychoinformatics group](https://pool.psychoinformatics.de)
+  as examples).
+
+
+  This comprehensive approach to project-related metadata capture, spanning the continuum
+  from research to administrative information, enables the automatic generation of
+  complete project websites. The [TRR379 main website](https://www.trr379.de), and
+  the [Psychoinformatics group website](https://www.psychoinformatics.de) are two
+  examples that are continuously and programatically generated from knowledge pool
+  queries. The ability to support public outreach and science communication with machine-assisted,
+  metadata-driven project self-representations is an incentive to gather comprehensive,
+  and valid metadata that far exceeds the scope of typical research data annotations
+  towards more comprehensive information on their provenance in the context of wider
+  research activities.'
+influenced_by:
+- object: xyzrins:objectives/self-hosted-it
+  roles:
+  - FRAPO:Deliverable
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:objectives/97ded4aa-108d-4b84-8195-d6076dce63ce
+  roles:
+  - FRAPO:Deliverable
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:objectives/87be5fa3-80fb-4221-8406-2ddd40fb1fd1
+  roles:
+  - xyzrins:entity-roles/1160471a-9f8e-4379-85f2-351a2a36ef40
+  schema_type: xyzri:XYZInfluence
+part_of:
+- xyzrins:.
+pid: xyzrins:projects/orinoco
+schema_type: xyzri:XYZProject
+short_name: ORINOCO
+started:
+  at_time: '2023-11-23'
+  schema_type: dlthings:Start
+title: 'Organized Research Information: Ontology-mapping, Curation, Orchestration'

@@ -1,0 +1,29 @@
+attributed_to:
+- object: xyzrins:persons/81b3a1a2-cde7-46c2-8edd-87145adc579e
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+- object: ror:018mejw64
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+description: Dieses Projekt zielt darauf ab, die Entwicklung von Neurotransmittersystemen
+  im menschlichen Gehirn besser zu verstehen – insbesondere bei Kindern und Jugendlichen
+  mit Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS) und Autismus-Spektrum-Störung
+  (ASS). Durch die Kombination nicht-invasiver Bildgebungsverfahren mit Normwertmodellen
+  soll untersucht werden, wie sich typische und atypische Entwicklungsverläufe von
+  Neurotransmittersystemen unterscheiden, um neue Wege für Diagnose und Therapie neuroentwicklungsbedingter
+  Störungen zu eröffnen.
+identifiers:
+- creator: xyzrins:organizations/fzj
+  description: PSP Element Jülich
+  notation: DD000693
+  schema_type: dlthings:Identifier
+- creator: ror:018mejw64
+  notation: '549186835'
+  schema_type: dlthings:Identifier
+pid: xyzrins:grants/bfdf216c-c749-46da-a59e-4da2abad45fc
+schema_type: xyzri:XYZGrant
+short_name: NDDbiomarkers
+title: Linking brain functional trajectories in neurodevelopmental disorders to underlying
+  neurotransmitter systems 

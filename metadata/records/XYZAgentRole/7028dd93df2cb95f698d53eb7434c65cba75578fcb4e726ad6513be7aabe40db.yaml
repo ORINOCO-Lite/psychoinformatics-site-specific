@@ -1,0 +1,6 @@
+description: A person or organization responsible for the submission of an application
+  or who is named as eligible for the results of the processing of the application
+  (e.g., bestowing of rights, reward, title, position)
+display_label: Applicant
+pid: marcrel:app
+schema_type: xyzri:XYZAgentRole

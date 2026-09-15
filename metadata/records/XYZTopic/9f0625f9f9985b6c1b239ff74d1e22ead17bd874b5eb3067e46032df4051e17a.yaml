@@ -1,0 +1,6 @@
+display_label: Research data management (RDM)
+part_of:
+- xyzrins:topics/research
+- xyzrins:topics/data-management
+pid: xyzrins:topics/research-data-management
+schema_type: xyzri:XYZTopic

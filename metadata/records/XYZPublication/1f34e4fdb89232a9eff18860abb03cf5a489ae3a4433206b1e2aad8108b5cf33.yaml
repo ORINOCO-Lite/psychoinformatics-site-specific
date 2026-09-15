@@ -1,0 +1,32 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/0bc70ccb-7eae-4204-b3ea-413669748a65
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Phylogenetic comparative analysis of the cerebello-cerebral system in 34
+    species highlights primate-general expansion of cerebellar crura I-II
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2399-3642
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s42003-023-05553-z
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/396ca74b-3158-4daf-9d13-871fc50fcf66
+schema_type: xyzri:XYZPublication
+title: Phylogenetic comparative analysis of the cerebello-cerebral system in 34 species
+  highlights primate-general expansion of cerebellar crura I-II

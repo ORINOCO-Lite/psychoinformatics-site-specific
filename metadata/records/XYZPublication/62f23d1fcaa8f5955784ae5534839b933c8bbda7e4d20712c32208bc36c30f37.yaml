@@ -1,0 +1,110 @@
+attributed_to:
+- object: xyzrins:persons/c3e4db14-5d1c-4156-bb3e-ffc905751e98
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/f270c789-dd52-4ca6-9ccb-ae7ca3f9250a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/086e45ca-472d-4419-ad35-9082b142c638
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/9fe30b8c-a331-4166-bd1c-f407b6e06ecc
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Distinct convergent brain alterations in sleep disorders and sleep deprivation
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Importance  Sleep disorders have different etiologies yet share some nocturnal
+    and daytime symptoms, suggesting common neurobiological substrates; healthy individuals
+    undergoing experimental sleep deprivation also report analogous daytime symptoms.
+    However, brain similarities and differences between long-term sleep disorders
+    and short-term sleep deprivation are unclear.Objective  To investigate the shared
+    and specific neural correlates across sleep disorders and sleep deprivation.Data
+    Sources  PubMed, Web of Science, Embase, Scopus, and BrainMap were searched up
+    to January 2024 to identify relevant structural and functional neuroimaging articles.Study
+    Selection  Whole-brain neuroimaging articles reporting voxel-based group differences
+    between patients with different sleep disorders and healthy control participants
+    or between total or partial sleep-deprived and well-rested individuals were included.Data
+    Extraction and Synthesis  Significant coordinates of group comparisons, their
+    contrast direction (eg, patients < controls), and imaging modality were extracted.
+    For each article, 2 raters independently evaluated eligibility and extracted data.
+    Subsequently, several meta-analyses were performed with the revised activation
+    likelihood estimation algorithm using P < .05 cluster-level familywise error correction.Main
+    Outcomes and Measures  Transdiagnostic regional brain alterations were identified
+    across sleep disorders and among articles reporting sleep deprivation. Their associated
+    behavioral functions and task-based or task-free connectivity patterns were explored
+    using 2 independent datasets (BrainMap and the enhanced Nathan Kline Institute–Rockland
+    Sample).Results  A total of 231 articles (140 unique experiments, 3380 unique
+    participants) were retrieved. The analysis across sleep disorders (n = 95 experiments)
+    identified the subgenual anterior cingulate cortex (176 voxels, z score = 4.86),
+    associated with reward, reasoning, and gustation, and the amygdala and hippocampus
+    (130 voxels, z score = 4.00), associated with negative emotion processing, memory,
+    and olfaction. Both clusters had positive functional connectivity with the default
+    mode network. The right thalamus (153 voxels, z score = 5.21) emerged as a consistent
+    regional alteration following sleep deprivation (n = 45 experiments). This cluster
+    was associated with thermoregulation, action, and pain perception and showed positive
+    functional connectivity with subcortical and (pre)motor regions. Subanalyses regarding
+    the direction of alterations demonstrated that the subgenual anterior cingulate
+    cortex exhibited decreased activation, connectivity, and/or volume, while the
+    amygdala and hippocampus cluster and the thalamus cluster demonstrated increased
+    activation, connectivity, and/or volume.Conclusions and Relevance  Distinct convergent
+    brain abnormalities were observed between long-term sleep disorders (probably
+    reflecting shared symptoms) and short-term sleep deprivation.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Importance  Sleep disorders have different etiologies yet share some
+  nocturnal and daytime symptoms, suggesting common neurobiological substrates; healthy
+  individuals undergoing experimental sleep deprivation also report analogous daytime
+  symptoms. However, brain similarities and differences between long-term sleep disorders
+  and short-term sleep deprivation are unclear.Objective  To investigate the shared
+  and specific neural correlates across sleep disorders and sleep deprivation.Data
+  Sources  PubMed, Web of Science, Embase, Scopus, and BrainMap were searched up to
+  January 2024 to identify relevant structural and functional neuroimaging articles.Study
+  Selection  Whole-brain neuroimaging articles reporting voxel-based group differences
+  between patients with different sleep disorders and healthy control participants
+  or between total or partial sleep-deprived and well-rested individuals were included.Data
+  Extraction and Synthesis  Significant coordinates of group comparisons, their contrast
+  direction (eg, patients < controls), and imaging modality were extracted. For each
+  article, 2 raters independently evaluated eligibility and extracted data. Subsequently,
+  several meta-analyses were performed with the revised activation likelihood estimation
+  algorithm using P < .05 cluster-level familywise error correction.Main Outcomes
+  and Measures  Transdiagnostic regional brain alterations were identified across
+  sleep disorders and among articles reporting sleep deprivation. Their associated
+  behavioral functions and task-based or task-free connectivity patterns were explored
+  using 2 independent datasets (BrainMap and the enhanced Nathan Kline Institute–Rockland
+  Sample).Results  A total of 231 articles (140 unique experiments, 3380 unique participants)
+  were retrieved. The analysis across sleep disorders (n = 95 experiments) identified
+  the subgenual anterior cingulate cortex (176 voxels, z score = 4.86), associated
+  with reward, reasoning, and gustation, and the amygdala and hippocampus (130 voxels,
+  z score = 4.00), associated with negative emotion processing, memory, and olfaction.
+  Both clusters had positive functional connectivity with the default mode network.
+  The right thalamus (153 voxels, z score = 5.21) emerged as a consistent regional
+  alteration following sleep deprivation (n = 45 experiments). This cluster was associated
+  with thermoregulation, action, and pain perception and showed positive functional
+  connectivity with subcortical and (pre)motor regions. Subanalyses regarding the
+  direction of alterations demonstrated that the subgenual anterior cingulate cortex
+  exhibited decreased activation, connectivity, and/or volume, while the amygdala
+  and hippocampus cluster and the thalamus cluster demonstrated increased activation,
+  connectivity, and/or volume.Conclusions and Relevance  Distinct convergent brain
+  abnormalities were observed between long-term sleep disorders (probably reflecting
+  shared symptoms) and short-term sleep deprivation.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2168-622X
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1001/jamapsychiatry.2025.0488
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/c1286f6e-d126-495a-ab2f-0085076af121
+schema_type: xyzri:XYZPublication
+title: Distinct convergent brain alterations in sleep disorders and sleep deprivation

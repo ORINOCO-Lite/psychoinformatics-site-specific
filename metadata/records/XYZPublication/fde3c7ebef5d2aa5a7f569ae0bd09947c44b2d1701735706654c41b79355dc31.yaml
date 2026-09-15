@@ -1,0 +1,80 @@
+attributed_to:
+- object: xyzrins:persons/bd435998-679a-45d9-b311-5968e77bd776
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b85655e7-64f5-4471-99d4-3c79c92cfb40
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/af38e78f-3ae4-4ccc-bc7a-1d3bee12c601
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c6d47fbc-8b3c-46d1-9558-1f3b94ec9141
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Adolescent maturation of cortical excitation-inhibition balance based on
+    individualized biophysical network modeling
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'The balance of excitation and inhibition is a key functional property of
+    cortical microcircuits which changes through the lifespan. Adolescence is considered
+    a crucial period for the maturation of excitation-inhibition balance. This has
+    been primarily observed in animal studies, yet human in vivo evidence on adolescent
+    maturation of the excitation-inhibition balance at the individual level is limited.
+    Here, we developed an individualized in vivo marker of regional excitation-inhibition
+    balance in human adolescents, estimated using large-scale simulations of biophysical
+    network models fitted to resting-state functional magnetic resonance imaging data
+    from two independent cross-sectional (N = 752) and longitudinal (N = 149) cohorts.
+    We found a widespread relative increase of inhibition in association cortices
+    paralleled by a relative age-related increase of excitation, or lack of change,
+    in sensorimotor areas across both datasets. This developmental pattern co-aligned
+    with multiscale markers of sensorimotor-association differentiation. The spatial
+    pattern of excitation-inhibition development in adolescence was robust to inter-individual
+    variability of structural connectomes and modeling configurations. Notably, we
+    found that alternative simulation-based markers of excitation-inhibition balance
+    show a variable sensitivity to maturational change. Taken together, our study
+    highlights an increase of inhibition during adolescence in association areas using
+    cross sectional and longitudinal data, and provides a robust computational framework
+    to estimate microcircuit maturation in vivo at the individual level.Keywords:
+    Adolescence; Biophysical network modeling; Excitation-inhibition balance; Resting-state
+    functional magnetic resonance imaging.'
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: 'The balance of excitation and inhibition is a key functional property
+  of cortical microcircuits which changes through the lifespan. Adolescence is considered
+  a crucial period for the maturation of excitation-inhibition balance. This has been
+  primarily observed in animal studies, yet human in vivo evidence on adolescent maturation
+  of the excitation-inhibition balance at the individual level is limited. Here, we
+  developed an individualized in vivo marker of regional excitation-inhibition balance
+  in human adolescents, estimated using large-scale simulations of biophysical network
+  models fitted to resting-state functional magnetic resonance imaging data from two
+  independent cross-sectional (N = 752) and longitudinal (N = 149) cohorts. We found
+  a widespread relative increase of inhibition in association cortices paralleled
+  by a relative age-related increase of excitation, or lack of change, in sensorimotor
+  areas across both datasets. This developmental pattern co-aligned with multiscale
+  markers of sensorimotor-association differentiation. The spatial pattern of excitation-inhibition
+  development in adolescence was robust to inter-individual variability of structural
+  connectomes and modeling configurations. Notably, we found that alternative simulation-based
+  markers of excitation-inhibition balance show a variable sensitivity to maturational
+  change. Taken together, our study highlights an increase of inhibition during adolescence
+  in association areas using cross sectional and longitudinal data, and provides a
+  robust computational framework to estimate microcircuit maturation in vivo at the
+  individual level.Keywords: Adolescence; Biophysical network modeling; Excitation-inhibition
+  balance; Resting-state functional magnetic resonance imaging.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2024.06.18.599509
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/3bb04e14-4c12-44b7-9876-deca69121420
+schema_type: xyzri:XYZPublication
+title: Adolescent maturation of cortical excitation-inhibition balance based on individualized
+  biophysical network modeling

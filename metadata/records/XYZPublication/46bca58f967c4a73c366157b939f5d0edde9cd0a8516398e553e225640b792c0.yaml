@@ -1,0 +1,66 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/269a3b65-df26-4c0d-a6a9-2c4410750dc8
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/0e693b94-7ad5-4627-b7c7-fa5884be8c64
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'ENIGMA-Sleep: challenges, opportunities, and the road map'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Neuroimaging and genetics studies have advanced our understanding of the
+    neurobiology of sleep and its disorders. However, individual studies usually have
+    limitations to identifying consistent and reproducible effects, including modest
+    sample sizes, heterogeneous clinical characteristics, and varied methodologies.
+    These issues call for a large-scale multi-center effort in sleep research, in
+    order to increase the number of samples, and harmonize the methods of data collection,
+    preprocessing, and analysis using pre-registered well-established protocols. The
+    Enhancing NeuroImaging Genetics through Meta-Analysis (ENIGMA) consortium provides
+    a powerful collaborative framework for combining datasets across individual sites.
+    Recently, we have launched the ENIGMA-Sleep working group with the collaboration
+    of several institutes from 15 countries to perform large-scale worldwide neuroimaging
+    and genetics studies for better understanding on the neurobiology of impaired
+    sleep quality in population-based healthy individuals, the neural consequences
+    of sleep deprivation, pathophysiology of sleep disorders, as well as neural correlates
+    of sleep disturbances across various neuropsychiatric disorders. In this introductory
+    review, we describe the details of our currently available datasets and our ongoing
+    projects in the ENIGMA-Sleep group, and discuss both the potential challenges
+    and opportunities of a collaborative initiative in sleep medicine.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Neuroimaging and genetics studies have advanced our understanding of
+  the neurobiology of sleep and its disorders. However, individual studies usually
+  have limitations to identifying consistent and reproducible effects, including modest
+  sample sizes, heterogeneous clinical characteristics, and varied methodologies.
+  These issues call for a large-scale multi-center effort in sleep research, in order
+  to increase the number of samples, and harmonize the methods of data collection,
+  preprocessing, and analysis using pre-registered well-established protocols. The
+  Enhancing NeuroImaging Genetics through Meta-Analysis (ENIGMA) consortium provides
+  a powerful collaborative framework for combining datasets across individual sites.
+  Recently, we have launched the ENIGMA-Sleep working group with the collaboration
+  of several institutes from 15 countries to perform large-scale worldwide neuroimaging
+  and genetics studies for better understanding on the neurobiology of impaired sleep
+  quality in population-based healthy individuals, the neural consequences of sleep
+  deprivation, pathophysiology of sleep disorders, as well as neural correlates of
+  sleep disturbances across various neuropsychiatric disorders. In this introductory
+  review, we describe the details of our currently available datasets and our ongoing
+  projects in the ENIGMA-Sleep group, and discuss both the potential challenges and
+  opportunities of a collaborative initiative in sleep medicine.
+generated_by:
+- at_location: ISSN:1365-2869
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1111/jsr.13347
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/f0ce5bb6-4282-4fa6-ab04-1cd00f6d3586
+schema_type: xyzri:XYZPublication
+title: 'ENIGMA-Sleep: challenges, opportunities, and the road map'

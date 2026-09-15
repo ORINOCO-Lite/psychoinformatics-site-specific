@@ -1,0 +1,4 @@
+description: A periodical of scholarly journal Articles.
+display_label: Journal
+pid: bibo:Journal
+schema_type: xyzri:XYZBibliographicType

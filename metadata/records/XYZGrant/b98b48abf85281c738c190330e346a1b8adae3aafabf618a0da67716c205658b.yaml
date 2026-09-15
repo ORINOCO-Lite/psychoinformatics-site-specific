@@ -1,0 +1,31 @@
+about:
+- xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+attributed_to:
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b55ca6ad-784a-42e2-aae2-632272bebf23
+  schema_type: dlthings:Attribution
+- object: ror:018mejw64
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+description: Das Forschungsprojekt zielt darauf ab, die Organisation der Neurochemie
+  im Gehirn von Menschen und Makaken durch die Charakterisierung von Neurotransmitter-Rezeptorsystemen
+  zu untersuchen. Der Fokus liegt auf der Identifizierung potenzieller evolutionärer
+  Trade-offs, die durch eine spezielle Dimensionalitätsreduktionstechnik namens ParTI
+  entdeckt werden sollen. Ziel ist es, Einblicke in neurologische und psychiatrische
+  Störungen zu gewinnen und die Erkenntnisse durch multimodale Bildgebung, Verhaltensdaten
+  und Genexpressionsdaten zu validieren, wobei auch interspezifische Vergleiche zwischen
+  Menschen und Makaken vorgenommen werden, um evolutionäre Unterschiede zu identifizieren.
+identifiers:
+- creator: xyzrins:organizations/fzj
+  description: PSP element FZJ
+  notation: DD000615
+  schema_type: dlthings:Identifier
+- creator: ror:018mejw64
+  notation: PA 3634/4-1
+  schema_type: dlthings:Identifier
+pid: xyzrins:grants/f83f2dce-0de3-4660-8b75-bb4bc3ca6977
+schema_type: xyzri:XYZGrant
+short_name: PETParTI
+title: PETParTI - Evolutionary Analysis of Human Neurochemistry

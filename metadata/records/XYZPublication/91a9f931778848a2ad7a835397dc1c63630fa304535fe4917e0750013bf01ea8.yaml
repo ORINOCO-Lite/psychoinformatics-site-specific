@@ -1,0 +1,25 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Forschungsdatenmanagement in den systemischen Neurowissenschaften: Herausforderungen
+    und Praxislösungen'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Lightning talk on RDM challenges in systems neuroscience at the research
+    data management day 2023 at the HHU Düsseldorf. https://www.fdm.hhu.de/veranstaltungen/tag-der-forschungsdaten-in-nrw-2023
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+description: Lightning talk on RDM challenges in systems neuroscience at the research
+  data management day 2023 at the HHU Düsseldorf. https://www.fdm.hhu.de/veranstaltungen/tag-der-forschungsdaten-in-nrw-2023
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/ZENODO.10122802
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/f81d972c-6c83-4d29-bb14-2b13c084f0d1
+schema_type: xyzri:XYZPublication
+title: 'Forschungsdatenmanagement in den systemischen Neurowissenschaften: Herausforderungen
+  und Praxislösungen'

@@ -1,0 +1,5 @@
+description: something that is printed or published and distributed, esp. a given
+  number of a periodical
+display_label: Issue
+pid: bibo:Issue
+schema_type: xyzri:XYZBibliographicType

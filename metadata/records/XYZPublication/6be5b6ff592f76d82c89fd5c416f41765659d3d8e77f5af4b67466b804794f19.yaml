@@ -1,0 +1,59 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: '“Wanting” versus “needing” related value: An fMRI meta‐analysis'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Consumption and its excesses are sometimes explained by imbalance of need
+    or lack of control over "wanting." "Wanting" assigns value to cues that predict
+    rewards, whereas "needing" assigns value to biologically significant stimuli that
+    one is deprived of. Here we aimed at studying how the brain activation patterns
+    related to value of "wanted" stimuli differs from that of "needed" stimuli using
+    activation likelihood estimation neuroimaging meta-analysis approaches. We used
+    the perception of a cue predicting a reward for "wanting" related value and the
+    perception of food stimuli in a hungry state as a model for "needing" related
+    value. We carried out separate, contrasts, and conjunction meta-analyses to identify
+    differences and similarities between "wanting" and "needing" values. Our overall
+    results for "wanting" related value show consistent activation of the ventral
+    tegmental area, striatum, and pallidum, regions that both activate behavior and
+    direct choice, while for "needing" related value, we found an overall consistent
+    activation of the middle insula and to some extent the caudal-ventral putamen,
+    regions that only direct choice. Our study suggests that wanting has more control
+    on consumption and behavioral activation.Keywords: consumption; fMRI; motivation;
+    needing; wanting.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Consumption and its excesses are sometimes explained by imbalance of
+  need or lack of control over "wanting." "Wanting" assigns value to cues that predict
+  rewards, whereas "needing" assigns value to biologically significant stimuli that
+  one is deprived of. Here we aimed at studying how the brain activation patterns
+  related to value of "wanted" stimuli differs from that of "needed" stimuli using
+  activation likelihood estimation neuroimaging meta-analysis approaches. We used
+  the perception of a cue predicting a reward for "wanting" related value and the
+  perception of food stimuli in a hungry state as a model for "needing" related value.
+  We carried out separate, contrasts, and conjunction meta-analyses to identify differences
+  and similarities between "wanting" and "needing" values. Our overall results for
+  "wanting" related value show consistent activation of the ventral tegmental area,
+  striatum, and pallidum, regions that both activate behavior and direct choice, while
+  for "needing" related value, we found an overall consistent activation of the middle
+  insula and to some extent the caudal-ventral putamen, regions that only direct choice.
+  Our study suggests that wanting has more control on consumption and behavioral activation.Keywords:
+  consumption; fMRI; motivation; needing; wanting.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2162-3279
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/brb3.2713
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/6087d7e9-3322-4b2c-808e-5c970cf5f48d
+schema_type: xyzri:XYZPublication
+title: '“Wanting” versus “needing” related value: An fMRI meta‐analysis'

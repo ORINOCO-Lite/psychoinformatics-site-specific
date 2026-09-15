@@ -1,0 +1,68 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: A Longitudinal Study of White Matter Functional Network in Mild Traumatic
+    Brain Injury
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Some patients after mild traumatic brain injury (mTBI) experience microstructural
+    damages in the long-distance white matter (WM) connections, which disrupts the
+    functional connectome of large-scale brain networks that support cognitive function.
+    Patterns of WM structural damage following mTBI were well documented using diffusion
+    tensor imaging (DTI). However, the functional organization of WM and its association
+    with gray matter functional networks (GM-FNs) and its DTI metrics remain unknown.
+    The present study adopted resting-state functional magnetic resonance imaging
+    to explore WM functional properties in mTBI patients (108 acute patients, 48 chronic
+    patients, 46 healthy controls [HCs]). Eleven large-scale WM functional networks
+    (WM-FNs) were constructed by the k-means clustering algorithm of voxel-wise WM
+    functional connectivity (FC). Compared with HCs, acute mTBI patients observed
+    enhanced FC between inferior fronto-occipital fasciculus (IFOF) WM-FN and primary
+    sensorimotor WM-FNs, and cortical primary sensorimotor GM-FNs. Further, acute
+    mTBI patients showed increased DTI metrics (mean diffusivity, axial diffusivity,
+    and radial diffusivity) in deep WM-FNs and higher-order cognitive WM-FNs. Moreover,
+    mTBI patients demonstrated full recovery of FC and partial recovery of DTI metrics
+    in the chronic stage. Additionally, enhanced FC between IFOF WM-FN and anterior
+    cerebellar GM-FN was correlated with impaired information processing speed. Our
+    findings provide novel evidence for functional and structural alteration of WM-FNs
+    in mTBI patients. Importantly, the convergent damage of the IFOF network might
+    imply its crucial role in our understanding of the pathophysiology mechanism of
+    mTBI patients.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Some patients after mild traumatic brain injury (mTBI) experience microstructural
+  damages in the long-distance white matter (WM) connections, which disrupts the functional
+  connectome of large-scale brain networks that support cognitive function. Patterns
+  of WM structural damage following mTBI were well documented using diffusion tensor
+  imaging (DTI). However, the functional organization of WM and its association with
+  gray matter functional networks (GM-FNs) and its DTI metrics remain unknown. The
+  present study adopted resting-state functional magnetic resonance imaging to explore
+  WM functional properties in mTBI patients (108 acute patients, 48 chronic patients,
+  46 healthy controls [HCs]). Eleven large-scale WM functional networks (WM-FNs) were
+  constructed by the k-means clustering algorithm of voxel-wise WM functional connectivity
+  (FC). Compared with HCs, acute mTBI patients observed enhanced FC between inferior
+  fronto-occipital fasciculus (IFOF) WM-FN and primary sensorimotor WM-FNs, and cortical
+  primary sensorimotor GM-FNs. Further, acute mTBI patients showed increased DTI metrics
+  (mean diffusivity, axial diffusivity, and radial diffusivity) in deep WM-FNs and
+  higher-order cognitive WM-FNs. Moreover, mTBI patients demonstrated full recovery
+  of FC and partial recovery of DTI metrics in the chronic stage. Additionally, enhanced
+  FC between IFOF WM-FN and anterior cerebellar GM-FN was correlated with impaired
+  information processing speed. Our findings provide novel evidence for functional
+  and structural alteration of WM-FNs in mTBI patients. Importantly, the convergent
+  damage of the IFOF network might imply its crucial role in our understanding of
+  the pathophysiology mechanism of mTBI patients.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0897-7151
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1089/neu.2021.0017
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/a3376eb4-dd8a-464a-b686-18de93ff4ba4
+schema_type: xyzri:XYZPublication
+title: A Longitudinal Study of White Matter Functional Network in Mild Traumatic Brain
+  Injury

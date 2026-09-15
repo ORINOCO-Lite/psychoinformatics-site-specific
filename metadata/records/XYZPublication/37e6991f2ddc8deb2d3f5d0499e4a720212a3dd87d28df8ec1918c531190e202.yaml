@@ -1,0 +1,65 @@
+attributed_to:
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Polarization of microbial communities between competitive and cooperative
+    metabolism
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Resource competition and metabolic cross-feeding are among the main drivers
+    of microbial community assembly. Yet the degree to which these two conflicting
+    forces are reflected in the composition of natural communities has not been systematically
+    investigated. Here, we use genome-scale metabolic modelling to assess the potential
+    for resource competition and metabolic cooperation in large co-occurring groups
+    (up to 40 members) across thousands of habitats. Our analysis reveals two distinct
+    community types, which are clustered at opposite ends of a spectrum in a trade-off
+    between competition and cooperation. At one end are highly cooperative communities,
+    characterized by smaller genomes and multiple auxotrophies. At the other end are
+    highly competitive communities, which feature larger genomes and overlapping nutritional
+    requirements, and harbour more genes related to antimicrobial activity. The latter
+    are mainly present in soils, whereas the former are found in both free-living
+    and host-associated habitats. Community-scale flux simulations show that, whereas
+    competitive communities can better resist species invasion but not nutrient shift,
+    cooperative communities are susceptible to species invasion but resilient to nutrient
+    change. We also show, by analysing an additional data set, that colonization by
+    probiotic species is positively associated with the presence of cooperative species
+    in the recipient microbiome. Together, our results highlight the bifurcation between
+    competitive and cooperative metabolism in the assembly of natural communities
+    and its implications for community modulation.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Resource competition and metabolic cross-feeding are among the main drivers
+  of microbial community assembly. Yet the degree to which these two conflicting forces
+  are reflected in the composition of natural communities has not been systematically
+  investigated. Here, we use genome-scale metabolic modelling to assess the potential
+  for resource competition and metabolic cooperation in large co-occurring groups
+  (up to 40 members) across thousands of habitats. Our analysis reveals two distinct
+  community types, which are clustered at opposite ends of a spectrum in a trade-off
+  between competition and cooperation. At one end are highly cooperative communities,
+  characterized by smaller genomes and multiple auxotrophies. At the other end are
+  highly competitive communities, which feature larger genomes and overlapping nutritional
+  requirements, and harbour more genes related to antimicrobial activity. The latter
+  are mainly present in soils, whereas the former are found in both free-living and
+  host-associated habitats. Community-scale flux simulations show that, whereas competitive
+  communities can better resist species invasion but not nutrient shift, cooperative
+  communities are susceptible to species invasion but resilient to nutrient change.
+  We also show, by analysing an additional data set, that colonization by probiotic
+  species is positively associated with the presence of cooperative species in the
+  recipient microbiome. Together, our results highlight the bifurcation between competitive
+  and cooperative metabolism in the assembly of natural communities and its implications
+  for community modulation.
+generated_by:
+- at_location: ISSN:2397-334X
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41559-020-01353-4
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/45b1ce9d-6d40-49d6-8fc5-32b90a152a9b
+schema_type: xyzri:XYZPublication
+title: Polarization of microbial communities between competitive and cooperative metabolism

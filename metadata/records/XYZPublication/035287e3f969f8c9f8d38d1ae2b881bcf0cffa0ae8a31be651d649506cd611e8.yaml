@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/c5630bae-5817-4599-a579-aa4fcadec6e9
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Systematic cross-sectional age-associations in global fMRI signal topography
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The global signal (GS) in resting-state functional MRI (fMRI), known to contain
+    artifacts and non-neuronal physiological signals, also contains important neural
+    information related to individual state and trait characteristics. Here, we show
+    distinct linear and curvilinear relationships between GS topography and age in
+    a cross-sectional sample of individuals (6-85 years old) representing a significant
+    portion of the lifespan. Subcortical brain regions such as the thalamus and putamen
+    show linear associations with the GS across age. The thalamus has stronger contributions
+    to the GS in older-age individuals compared with younger-aged individuals, while
+    the putamen has stronger contributions in younger individuals compared with older
+    individuals. The subcortical nucleus basalis of Meynert shows a u-shaped pattern
+    similar to cortical regions within the lateral frontoparietal network and dorsal
+    attention network, where contributions of the GS are stronger at early and old
+    age, and weaker in middle age. This differentiation between subcortical and cortical
+    brain activity across age supports a dual-layer model of GS composition, where
+    subcortical aspects of the GS are differentiated from cortical aspects of the
+    GS. We find that these subcortical-cortical contributions to the GS depend strongly
+    on age across the lifespan of human development. Our findings demonstrate how
+    neurobiological information within the GS differs across development and highlight
+    the need to carefully consider whether or not to remove this signal when investigating
+    age-related functional differences in the brain.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The global signal (GS) in resting-state functional MRI (fMRI), known
+  to contain artifacts and non-neuronal physiological signals, also contains important
+  neural information related to individual state and trait characteristics. Here,
+  we show distinct linear and curvilinear relationships between GS topography and
+  age in a cross-sectional sample of individuals (6-85 years old) representing a significant
+  portion of the lifespan. Subcortical brain regions such as the thalamus and putamen
+  show linear associations with the GS across age. The thalamus has stronger contributions
+  to the GS in older-age individuals compared with younger-aged individuals, while
+  the putamen has stronger contributions in younger individuals compared with older
+  individuals. The subcortical nucleus basalis of Meynert shows a u-shaped pattern
+  similar to cortical regions within the lateral frontoparietal network and dorsal
+  attention network, where contributions of the GS are stronger at early and old age,
+  and weaker in middle age. This differentiation between subcortical and cortical
+  brain activity across age supports a dual-layer model of GS composition, where subcortical
+  aspects of the GS are differentiated from cortical aspects of the GS. We find that
+  these subcortical-cortical contributions to the GS depend strongly on age across
+  the lifespan of human development. Our findings demonstrate how neurobiological
+  information within the GS differs across development and highlight the need to carefully
+  consider whether or not to remove this signal when investigating age-related functional
+  differences in the brain.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2837-6056
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1162/imag_a_00101
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/ea057a5c-ef7b-49ea-b1ba-4e8d87b5b3af
+schema_type: xyzri:XYZPublication
+title: Systematic cross-sectional age-associations in global fMRI signal topography

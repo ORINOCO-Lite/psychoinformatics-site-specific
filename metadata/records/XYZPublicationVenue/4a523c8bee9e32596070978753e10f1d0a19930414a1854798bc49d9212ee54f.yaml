@@ -1,0 +1,9 @@
+display_note: ISSN:1439-4456
+identifiers:
+- creator: ror:026ytr635
+  notation: 1439-4456
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:1439-4456
+schema_type: xyzri:XYZPublicationVenue
+title: Journal Of Medical Internet Research

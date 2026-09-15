@@ -1,0 +1,61 @@
+attributed_to:
+- object: xyzrins:persons/b85655e7-64f5-4471-99d4-3c79c92cfb40
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c6d47fbc-8b3c-46d1-9558-1f3b94ec9141
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Parcellation-based structural and resting-state functional brain connectomes
+    of a healthy cohort
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Nowadays, connectivity patterns of brain networks are of special interest,
+    as they may reflect communication in the brain at the structural and functional
+    levels. Their extraction, however, is a complex process that requires deep knowledge
+    of magnetic resonance imaging (MRI) data processing methods. Furthermore, there
+    is no consensus as to which parcellation of the brain is most suitable for a given
+    analysis. Therefore, 19 different state-of-the-art cortical parcellations were
+    used in this dataset to reconstruct the region-based empirical structural connectivity
+    (representing the anatomy of axonal tracts) and functional connectivity (representing
+    the temporal correlation between neuronal activity of brain regions) from diffusion-weighted
+    (dwMRI) and resting-state functional magnetic resonance imaging (fMRI) data, respectively.
+    The repository provides individual connectomes for 200 subjects from the Human
+    Connectome Project. The data can be used by members of the neuroimaging community
+    to investigate structural and functional human connectomes, and to extend the
+    investigation to whole-brain models for further analyses of brain structure and
+    function.
+description: Nowadays, connectivity patterns of brain networks are of special interest,
+  as they may reflect communication in the brain at the structural and functional
+  levels. Their extraction, however, is a complex process that requires deep knowledge
+  of magnetic resonance imaging (MRI) data processing methods. Furthermore, there
+  is no consensus as to which parcellation of the brain is most suitable for a given
+  analysis. Therefore, 19 different state-of-the-art cortical parcellations were used
+  in this dataset to reconstruct the region-based empirical structural connectivity
+  (representing the anatomy of axonal tracts) and functional connectivity (representing
+  the temporal correlation between neuronal activity of brain regions) from diffusion-weighted
+  (dwMRI) and resting-state functional magnetic resonance imaging (fMRI) data, respectively.
+  The repository provides individual connectomes for 200 subjects from the Human Connectome
+  Project. The data can be used by members of the neuroimaging community to investigate
+  structural and functional human connectomes, and to extend the investigation to
+  whole-brain models for further analyses of brain structure and function.
+identifiers:
+- notation: 10.25493/81EV-ZVT
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2023-09-30'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/hbp-sga3
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2020-04-01'
+    schema_type: dlthings:Start
+pid: xyzrins:publications/6869cdd7-11c4-41d2-9a8b-ed79fc84d1fe
+schema_type: xyzri:XYZPublication
+title: Parcellation-based structural and resting-state functional brain connectomes
+  of a healthy cohort

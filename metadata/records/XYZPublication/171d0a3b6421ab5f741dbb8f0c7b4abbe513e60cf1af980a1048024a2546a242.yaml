@@ -1,0 +1,79 @@
+attributed_to:
+- object: xyzrins:persons/4bbd6721-42e7-4a31-93cc-8ff0e9814e93
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/535129e4-fc67-4e19-8f5e-0d4a43a4578c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Multivariate associations of motor performance, sleep quality, depressive
+    symptoms, and grey matter volume in younger and mid-to-older adults
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Motor performance (MP) is essential for maintaining functional independence,
+    particularly in later life. However, the relationship between MP and sleep quality,
+    depressive symptoms, and their underlying brain substrates remains obscure. We
+    employed four samples of younger/mid-to-older adults (n = 1,954) from the Human
+    Connectome Project-Young Adult (HCP-YA), HCP-Aging (HCP-A), and enhanced Nathan
+    Kline Institute-Rockland sample (eNKI-RS) to assess the replicability of our findings.
+    Using canonical correlation analyses within a machine learning framework, we investigated
+    the associations of sleep quality, depressive symptoms, and grey matter volume
+    (GMV) with MP. In the combined model of the HCP-YA sample, a canonical variate
+    of better sleep, mild, sub-clinical depressive symptoms, and altered GMV of several
+    cortical (including precentral and fusiform gyrus), thalamus, and cerebellar brain
+    regions was associated with a canonical variate of better MP (r = 0.2, SD = 0.05).
+    This pattern was conceptually replicated in the young eNKI-RS sample (r = 0.25,
+    SD = 0.13). In the HCP-A sample, a variate of better sleep quality, fewer depressive
+    symptoms, and increased GMV was associated with a variate of MP (r = 0.18, SD
+    = 0.1), but these findings did not replicate in the mid-to-older eNKI-RS sample
+    (r = 0, SD = 0.12). Across all samples, variates of increased GMV were associated
+    with variates of better MP, suggesting potential neuroanatomical underpinnings.
+    We observed age-related variations in the multivariate associations between sleep
+    quality, depressive symptoms, and GMV with MP.Keywords: Brain structure; Canonical
+    correlation analysis; Depressive symptoms; Mental health; Motor behavior; Sleep
+    quality.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Motor performance (MP) is essential for maintaining functional independence,
+  particularly in later life. However, the relationship between MP and sleep quality,
+  depressive symptoms, and their underlying brain substrates remains obscure. We employed
+  four samples of younger/mid-to-older adults (n = 1,954) from the Human Connectome
+  Project-Young Adult (HCP-YA), HCP-Aging (HCP-A), and enhanced Nathan Kline Institute-Rockland
+  sample (eNKI-RS) to assess the replicability of our findings. Using canonical correlation
+  analyses within a machine learning framework, we investigated the associations of
+  sleep quality, depressive symptoms, and grey matter volume (GMV) with MP. In the
+  combined model of the HCP-YA sample, a canonical variate of better sleep, mild,
+  sub-clinical depressive symptoms, and altered GMV of several cortical (including
+  precentral and fusiform gyrus), thalamus, and cerebellar brain regions was associated
+  with a canonical variate of better MP (r = 0.2, SD = 0.05). This pattern was conceptually
+  replicated in the young eNKI-RS sample (r = 0.25, SD = 0.13). In the HCP-A sample,
+  a variate of better sleep quality, fewer depressive symptoms, and increased GMV
+  was associated with a variate of MP (r = 0.18, SD = 0.1), but these findings did
+  not replicate in the mid-to-older eNKI-RS sample (r = 0, SD = 0.12). Across all
+  samples, variates of increased GMV were associated with variates of better MP, suggesting
+  potential neuroanatomical underpinnings. We observed age-related variations in the
+  multivariate associations between sleep quality, depressive symptoms, and GMV with
+  MP.Keywords: Brain structure; Canonical correlation analysis; Depressive symptoms;
+  Mental health; Motor behavior; Sleep quality.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2045-2322
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41598-025-34951-y
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/a6c6352e-126b-4bec-a819-3fdfacf62c43
+schema_type: xyzri:XYZPublication
+title: Multivariate associations of motor performance, sleep quality, depressive symptoms,
+  and grey matter volume in younger and mid-to-older adults

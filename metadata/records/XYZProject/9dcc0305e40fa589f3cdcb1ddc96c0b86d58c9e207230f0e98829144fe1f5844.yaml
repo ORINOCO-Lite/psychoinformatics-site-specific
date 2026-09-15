@@ -1,0 +1,51 @@
+associated_with:
+- ended:
+    at_time: '2026-09-30'
+    schema_type: dlthings:End
+  object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+  started:
+    at_time: '2025-02-01'
+    schema_type: dlthings:Start
+description: Our brain structure, in particular grey matter tissue, has been shown
+  to relate to a range of endogenous (such as genetic background), external factors
+  (such as environmental and life style factors like air pollution and diet) and factors
+  resulting from their interaction (such as different biomedical factors like blood
+  pressure). The sum of factors to which a human organism is exposed from in-utero
+  life to late life is referred to as the exposome. Understanding how a range of factors
+  altogether forming the exposome affect regional brain structure, is crucial to prevent
+  and treat neurocognitive alterations in an aging population. In this project, we
+  will use multivariate and machine learning approaches in a large population dataset
+  to identify 1) how the pattern of brain structure relates to the exposome 2) whether
+  the exposome can predict at the individual level a global indicator of brain structural
+  health 3) whether the exposome can predict at the individual level the structure
+  of the hippocampus, a key brain region. This project will hence reveal which brain
+  structural pattern or network relates to the exposome and which biomedical, life
+  style and sociodemographic factors play an important role on predicting individual
+  brain structure. The ability to predict individual structural brain status from
+  individual life style, general health and demographic information would in turn
+  allow the prediction of the effect of a given pathology, such as Alzheimer’s disease,
+  at the individual level for future studies.
+ended:
+  at_time: '2026-09-30'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2026-09-30'
+    schema_type: dlthings:End
+  object: xyzrins:grants/3cb6abb5-a551-4924-a76b-95e6a31f18d3
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2025-02-01'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/d49feecb-beaa-47c8-87d0-8a25819ebfce
+schema_type: xyzri:XYZProject
+short_name: ExpoBrainStruct
+started:
+  at_time: '2025-02-01'
+  schema_type: dlthings:Start
+title: 'The exposome of brain structure: a multivariate view'

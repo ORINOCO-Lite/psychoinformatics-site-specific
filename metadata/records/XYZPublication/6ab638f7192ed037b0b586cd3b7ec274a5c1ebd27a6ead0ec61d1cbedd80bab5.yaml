@@ -1,0 +1,81 @@
+attributed_to:
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Biological brain aging, cognitive-motor decline and vascular risk: a multivariate
+    imaging analysis of 40,579 individuals'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Introduction: Age-related declines in cognitive and motor functions show
+    highly variable trajectories. To better understand the underlying mechanisms,
+    we investigated multivariate associative effects between modifiable vascular risk
+    factors, biological brain aging, cognitive, and motor performance in 40,579 individuals
+    from the population-based UK Biobank and Hamburg City Health Study.Methods: We
+    employed partial least squares correlation analysis (PLS) to model associations
+    between multi-domain cognitive and motor test scores and three distinct MRI-derived
+    markers of biological brain aging: relative brain age (from morphometric brain
+    imaging), white matter hyperintensity load, and peak width of skeletonized mean
+    diffusivity. Furthermore, we conducted mediation analyses to assess if these markers
+    mediate the impact of vascular risk on functional decline.Results: PLS identified
+    a single dominant latent dimension explaining 94.7% of the shared variance between
+    neuroimaging and behavior. This dimension linked higher biological brain aging
+    markers - with relative brain age showing the strongest contribution - to poorer
+    cognitive and motor performance, particularly in executive function and processing
+    speed. Mediation analysis revealed that biological brain aging acts as a partial
+    mediator for the negative effects of blood pressure, glucose, waist-hip ratio,
+    and smoking load on cognitive and motor function. Notably, this mediating effect
+    was not observed for cholesterol levels. These results were consistent across
+    both cohorts.Discussion: Our study illustrates the associative interplay between
+    vascular health, biological brain aging, and cognitive and motor performance,
+    emphasizing the need for preventive strategies to maintain late-life independence
+    in aging populations.Keywords: brain age; cardiovascular risk; cerebral small
+    vessel disease; cognitive function; motor function; neuroimaging; white matter
+    hyperintensities.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Introduction: Age-related declines in cognitive and motor functions
+  show highly variable trajectories. To better understand the underlying mechanisms,
+  we investigated multivariate associative effects between modifiable vascular risk
+  factors, biological brain aging, cognitive, and motor performance in 40,579 individuals
+  from the population-based UK Biobank and Hamburg City Health Study.Methods: We employed
+  partial least squares correlation analysis (PLS) to model associations between multi-domain
+  cognitive and motor test scores and three distinct MRI-derived markers of biological
+  brain aging: relative brain age (from morphometric brain imaging), white matter
+  hyperintensity load, and peak width of skeletonized mean diffusivity. Furthermore,
+  we conducted mediation analyses to assess if these markers mediate the impact of
+  vascular risk on functional decline.Results: PLS identified a single dominant latent
+  dimension explaining 94.7% of the shared variance between neuroimaging and behavior.
+  This dimension linked higher biological brain aging markers - with relative brain
+  age showing the strongest contribution - to poorer cognitive and motor performance,
+  particularly in executive function and processing speed. Mediation analysis revealed
+  that biological brain aging acts as a partial mediator for the negative effects
+  of blood pressure, glucose, waist-hip ratio, and smoking load on cognitive and motor
+  function. Notably, this mediating effect was not observed for cholesterol levels.
+  These results were consistent across both cohorts.Discussion: Our study illustrates
+  the associative interplay between vascular health, biological brain aging, and cognitive
+  and motor performance, emphasizing the need for preventive strategies to maintain
+  late-life independence in aging populations.Keywords: brain age; cardiovascular
+  risk; cerebral small vessel disease; cognitive function; motor function; neuroimaging;
+  white matter hyperintensities.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1663-4365
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3389/fnagi.2026.1789408
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/b1881733-91b9-48b0-b224-bb53515a05e8
+schema_type: xyzri:XYZPublication
+title: 'Biological brain aging, cognitive-motor decline and vascular risk: a multivariate
+  imaging analysis of 40,579 individuals'

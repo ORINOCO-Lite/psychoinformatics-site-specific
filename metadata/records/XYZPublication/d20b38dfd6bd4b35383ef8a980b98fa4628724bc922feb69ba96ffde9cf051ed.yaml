@@ -1,0 +1,67 @@
+attributed_to:
+- object: xyzrins:persons/81b3a1a2-cde7-46c2-8edd-87145adc579e
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/3cf923ff-969d-4224-bb7b-9f319f0b1564
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/62be45d1-b8eb-46a3-a929-31c6fc60a20d
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Neural mechanisms underlying Social Recognition and Theory of Mind in Adolescent
+    Patients with Bulimia Nervosa and Transdiagnostic Comparison with Anorexia Nervosa
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: IntroductionTheory of mind (ToM) is important for social interactions and
+    typical development and has been found to be impaired in patients with anorexia
+    nervosa (AN) and bulimia nervosa (BN). Hypoactivation in frontotemporal brain
+    regions seems to be the underlying neural mechanism in AN while whole-brain analyses
+    in BN are lacking.MethodsWe used the well-validated social recognition task fMRI
+    paradigm to assess ToM in a total of 72 female adolescents (16 BN, 18 AN and 38
+    matched healthy controls [HC]).ResultsCompared to HCBN, patients with BN showed
+    hyperactivity during ToM-activity in the right frontal pole, middle temporal gyrus
+    and left temporal pole and differed fundamentally from hypoactivation in these
+    regions observed in patients with AN before and after short-term weight rehabilitation.
+    Interaction and overlap analyses confirmed that similar regions were affected
+    in opposite directions in both diseases. Hyperactivations in BN in the right middle
+    temporal gyrus and right frontal pole were associated with clinical BN-severity
+    markers binging and purging frequency.DiscussionThe hyperactivation in BN suggest
+    different underlying neural mechanisms for ToM compared to AN. Hyperactivity might
+    correspond to a different but also ineffective cognitive style in patients with
+    BN when approaching social interactions. These important transdiagnostic differences
+    are relevant for future brain-targeted therapeutic approaches.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: IntroductionTheory of mind (ToM) is important for social interactions
+  and typical development and has been found to be impaired in patients with anorexia
+  nervosa (AN) and bulimia nervosa (BN). Hypoactivation in frontotemporal brain regions
+  seems to be the underlying neural mechanism in AN while whole-brain analyses in
+  BN are lacking.MethodsWe used the well-validated social recognition task fMRI paradigm
+  to assess ToM in a total of 72 female adolescents (16 BN, 18 AN and 38 matched healthy
+  controls [HC]).ResultsCompared to HCBN, patients with BN showed hyperactivity during
+  ToM-activity in the right frontal pole, middle temporal gyrus and left temporal
+  pole and differed fundamentally from hypoactivation in these regions observed in
+  patients with AN before and after short-term weight rehabilitation. Interaction
+  and overlap analyses confirmed that similar regions were affected in opposite directions
+  in both diseases. Hyperactivations in BN in the right middle temporal gyrus and
+  right frontal pole were associated with clinical BN-severity markers binging and
+  purging frequency.DiscussionThe hyperactivation in BN suggest different underlying
+  neural mechanisms for ToM compared to AN. Hyperactivity might correspond to a different
+  but also ineffective cognitive style in patients with BN when approaching social
+  interactions. These important transdiagnostic differences are relevant for future
+  brain-targeted therapeutic approaches.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/erv.2911
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/04246896-ea60-464a-b17f-eef76e222718
+schema_type: xyzri:XYZPublication
+title: Neural mechanisms underlying Social Recognition and Theory of Mind in Adolescent
+  Patients with Bulimia Nervosa and Transdiagnostic Comparison with Anorexia Nervosa

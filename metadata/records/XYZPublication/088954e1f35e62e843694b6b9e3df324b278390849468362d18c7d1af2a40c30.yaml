@@ -1,0 +1,27 @@
+attributed_to:
+- object: xyzrins:persons/af38e78f-3ae4-4ccc-bc7a-1d3bee12c601
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Moving towards precision psychiatry: the hard nut of depression'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41392-024-02023-8
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/d5ff0b52-5216-4b44-9c3f-e06222461cea
+schema_type: xyzri:XYZPublication
+title: 'Moving towards precision psychiatry: the hard nut of depression'

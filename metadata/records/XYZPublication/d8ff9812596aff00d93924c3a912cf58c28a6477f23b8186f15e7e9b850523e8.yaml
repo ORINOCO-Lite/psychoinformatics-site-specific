@@ -1,0 +1,45 @@
+about:
+- xyzrins:topics/research-data-management
+- xyzrins:topics/research-software-engineering
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: s.heunis@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-04-22T16:22:40.161212'
+attributed_to:
+- object: xyzrins:persons/stephan-heunis
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michal-szczepanik
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+attributes:
+- description: Workshop host website
+  predicate: rdfs:seeAlso
+  schema_type: dlthings:AttributeSpecification
+  value: https://imprs-mmfd.tuebingen.mpg.de/
+- description: Material sources
+  predicate: rdfs:seeAlso
+  schema_type: dlthings:AttributeSpecification
+  value: https://github.com/psychoinformatics-de/imprs-mmfd-workshop
+description: 'A workshop spanning 2 days teaching the basics of DataLad and reproducible
+  data management. For students at the ‘International Max Planck Research School (IMPRS)
+  for The Mechanisms of Mental Function and Dysfunction’ (MMFD).
+
+
+  Content: Terminal basics, DataLad basics, data publishing, computational reproducibility.
+
+  Details: +- 15 attendees; Day 1 = 14h00-18h00;  Day 2 = 09h00-13h00;'
+generated_by:
+- at_location: ror:03a1kwz48
+  at_time: '2024-06-03'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+kind: bibo:Workshop
+pid: xyzrins:publications/62d15fe4-3f70-42ce-afbf-7849dc16d23a
+schema_type: xyzri:XYZPublication
+title: DataLad workshop for IMPRS-MMFD in Tübingen 2024

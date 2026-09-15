@@ -1,0 +1,6 @@
+description: A person or organization that supervises compliance with the contract
+  and is responsible for the report and controls its distribution. Sometimes referred
+  to as the grantee, or controlling agency
+display_label: Monitor
+pid: marcrel:mon
+schema_type: xyzri:XYZAgentRole

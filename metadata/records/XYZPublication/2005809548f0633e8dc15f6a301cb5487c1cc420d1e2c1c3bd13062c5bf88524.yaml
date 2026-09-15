@@ -1,0 +1,75 @@
+attributed_to:
+- object: xyzrins:persons/c5630bae-5817-4599-a579-aa4fcadec6e9
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Cross-cohort replicability and generalizability of connectivity-based psychometric
+    prediction patterns
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: An increasing number of studies have investigated the relationships between
+    inter-individual variability in brain regions’ connectivity and behavioral phenotypes,
+    making use of large population neuroimaging datasets. However, the replicability
+    of brain-behavior associations identified by these approaches remains an open
+    question. In this study, we examined the cross-dataset replicability of brain-behavior
+    association patterns for fluid cognition and openness predictions using a previously
+    developed region-wise approach, as well as using a standard whole-brain approach.
+    Overall, we found moderate similarity in patterns for fluid cognition predictions
+    across cohorts, especially in the Human Connectome Project Young Adult, Human
+    Connectome Project Aging, and Enhanced Nathan Kline Institute Rockland Sample
+    cohorts, but low similarity in patterns for openness predictions. In addition,
+    we assessed the generalizability of prediction models in cross-dataset predictions,
+    by training the model in one dataset and testing in another. Making use of the
+    region-wise prediction approach, we showed that first, a moderate extent of generalizability
+    could be achieved with fluid cognition prediction, and that, second, a set of
+    common brain regions related to fluid cognition across cohorts could be identified.
+    Nevertheless, the moderate replicability and generalizability could only be achieved
+    in specific contexts. Thus, we argue that replicability and generalizability in
+    connectivity-based prediction remain limited and deserve greater attention in
+    future studies.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: An increasing number of studies have investigated the relationships between
+  inter-individual variability in brain regions’ connectivity and behavioral phenotypes,
+  making use of large population neuroimaging datasets. However, the replicability
+  of brain-behavior associations identified by these approaches remains an open question.
+  In this study, we examined the cross-dataset replicability of brain-behavior association
+  patterns for fluid cognition and openness predictions using a previously developed
+  region-wise approach, as well as using a standard whole-brain approach. Overall,
+  we found moderate similarity in patterns for fluid cognition predictions across
+  cohorts, especially in the Human Connectome Project Young Adult, Human Connectome
+  Project Aging, and Enhanced Nathan Kline Institute Rockland Sample cohorts, but
+  low similarity in patterns for openness predictions. In addition, we assessed the
+  generalizability of prediction models in cross-dataset predictions, by training
+  the model in one dataset and testing in another. Making use of the region-wise prediction
+  approach, we showed that first, a moderate extent of generalizability could be achieved
+  with fluid cognition prediction, and that, second, a set of common brain regions
+  related to fluid cognition across cohorts could be identified. Nevertheless, the
+  moderate replicability and generalizability could only be achieved in specific contexts.
+  Thus, we argue that replicability and generalizability in connectivity-based prediction
+  remain limited and deserve greater attention in future studies.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2022.119569
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/83b1abd3-0c89-402c-b4df-77cc04900fbd
+schema_type: xyzri:XYZPublication
+title: Cross-cohort replicability and generalizability of connectivity-based psychometric
+  prediction patterns

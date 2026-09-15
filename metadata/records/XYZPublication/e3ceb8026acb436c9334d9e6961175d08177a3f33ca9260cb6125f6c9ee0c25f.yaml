@@ -1,0 +1,83 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c6d47fbc-8b3c-46d1-9558-1f3b94ec9141
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Towards an efficient validation of dynamical whole-brain models
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Simulating the resting-state brain dynamics via mathematical whole-brain
+    models requires an optimal selection of parameters, which determine the model’s
+    capability to replicate empirical data. Since the parameter optimization via a
+    grid search (GS) becomes unfeasible for high-dimensional models, we evaluate several
+    alternative approaches to maximize the correspondence between simulated and empirical
+    functional connectivity. A dense GS serves as a benchmark to assess the performance
+    of four optimization schemes: Nelder-Mead Algorithm (NMA), Particle Swarm Optimization
+    (PSO), Covariance Matrix Adaptation Evolution Strategy (CMAES) and Bayesian Optimization
+    (BO). To compare them, we employ an ensemble of coupled phase oscillators built
+    upon individual empirical structural connectivity of 105 healthy subjects. We
+    determine optimal model parameters from two- and three-dimensional parameter spaces
+    and show that the overall fitting quality of the tested methods can compete with
+    the GS. There are, however, marked differences in the required computational resources
+    and stability properties, which we also investigate before proposing CMAES and
+    BO as efficient alternatives to a high-dimensional GS. For the three-dimensional
+    case, these methods generated similar results as the GS, but within less than
+    6% of the computation time. Our results contribute to an efficient validation
+    of models for personalized simulations of brain dynamics.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Simulating the resting-state brain dynamics via mathematical whole-brain
+  models requires an optimal selection of parameters, which determine the model’s
+  capability to replicate empirical data. Since the parameter optimization via a grid
+  search (GS) becomes unfeasible for high-dimensional models, we evaluate several
+  alternative approaches to maximize the correspondence between simulated and empirical
+  functional connectivity. A dense GS serves as a benchmark to assess the performance
+  of four optimization schemes: Nelder-Mead Algorithm (NMA), Particle Swarm Optimization
+  (PSO), Covariance Matrix Adaptation Evolution Strategy (CMAES) and Bayesian Optimization
+  (BO). To compare them, we employ an ensemble of coupled phase oscillators built
+  upon individual empirical structural connectivity of 105 healthy subjects. We determine
+  optimal model parameters from two- and three-dimensional parameter spaces and show
+  that the overall fitting quality of the tested methods can compete with the GS.
+  There are, however, marked differences in the required computational resources and
+  stability properties, which we also investigate before proposing CMAES and BO as
+  efficient alternatives to a high-dimensional GS. For the three-dimensional case,
+  these methods generated similar results as the GS, but within less than 6% of the
+  computation time. Our results contribute to an efficient validation of models for
+  personalized simulations of brain dynamics.'
+generated_by:
+- at_location: ISSN:2045-2322
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41598-022-07860-7
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2023-09-30'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/hbp-sga3
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2020-04-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2023-05-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/4919df79-bb48-443a-b74d-3eb83e466187
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2018-12-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/39bba703-97c3-407c-8f2e-e3f53ed078ad
+schema_type: xyzri:XYZPublication
+title: Towards an efficient validation of dynamical whole-brain models

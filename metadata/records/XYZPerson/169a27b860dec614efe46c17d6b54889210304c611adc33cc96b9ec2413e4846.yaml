@@ -1,0 +1,24 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-06-29T14:47:29.897404'
+delegated_by:
+- object: xyzrins:organizations/fzj
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+description: 'Lead of the Biomarker Development group at the Institute of Neuroscience
+  and Medicine: Brain and Behavior (INM-7), Research Centre Jülich.
+
+  '
+family_name: Dukart
+given_name: Jürgen
+honorific_name_prefix: Prof. Dr.
+identifiers:
+- notation: 0000-0003-0492-5644
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+schema_type: xyzri:XYZPerson

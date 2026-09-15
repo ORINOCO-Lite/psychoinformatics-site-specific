@@ -1,0 +1,17 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-20T13:35:10.681749'
+description: 'A display poster, typically containing text with illustrative figures
+  and/or tables, usually reporting research results or proposing hypotheses, submitted
+  for acceptance to and/or presented at a conference, seminar, symposium, workshop
+  or similar event.
+
+
+  '
+display_label: Conference Poster
+pid: fabio:ConferencePoster
+schema_type: xyzri:XYZBibliographicType

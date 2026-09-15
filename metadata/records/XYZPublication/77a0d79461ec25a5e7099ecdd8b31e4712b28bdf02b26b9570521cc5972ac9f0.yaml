@@ -1,0 +1,58 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Neurostructural traces of early life adversities: A meta-analysis exploring
+    age- and adversity-specific effects'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Early life adversities (ELAs) are associated with an increased risk of psychopathology,
+    with studies suggesting a relation to structural brain alterations. Given the
+    recently growing evidence of ELA effects on brain structure, an updated summary
+    is highly warranted. Therefore, anatomical likelihood estimation was used to conduct
+    a coordinate-based meta-analysis of gray matter volume (GMV) alterations associated
+    with ELAs, including sub-analyses for different age groups and maltreatment as
+    specific ELA-type. The analyses uncovered a convergence of pooled ELA-effects
+    on GMV in the right hippocampus and amygdala and the left inferior frontal gyrus,
+    age-specific effects for the right amygdala and hippocampus in children and adolescents,
+    and maltreatment-specific effects for the right perigenual anterior cingulate
+    cortex in adults. These results reveal a possible underlying commonality in the
+    impact of adversity and also point to specific age and maltreatment effects. They
+    suggest neural markers of ELAs in regions involved in socio-emotional functioning
+    and stress regulation, with the potential to be used as targets for interventions
+    designed to buffer or reverse harmful ELA-effects.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Early life adversities (ELAs) are associated with an increased risk of
+  psychopathology, with studies suggesting a relation to structural brain alterations.
+  Given the recently growing evidence of ELA effects on brain structure, an updated
+  summary is highly warranted. Therefore, anatomical likelihood estimation was used
+  to conduct a coordinate-based meta-analysis of gray matter volume (GMV) alterations
+  associated with ELAs, including sub-analyses for different age groups and maltreatment
+  as specific ELA-type. The analyses uncovered a convergence of pooled ELA-effects
+  on GMV in the right hippocampus and amygdala and the left inferior frontal gyrus,
+  age-specific effects for the right amygdala and hippocampus in children and adolescents,
+  and maltreatment-specific effects for the right perigenual anterior cingulate cortex
+  in adults. These results reveal a possible underlying commonality in the impact
+  of adversity and also point to specific age and maltreatment effects. They suggest
+  neural markers of ELAs in regions involved in socio-emotional functioning and stress
+  regulation, with the potential to be used as targets for interventions designed
+  to buffer or reverse harmful ELA-effects.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0149-7634
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2022.104589
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/78eeed5a-e6b1-4993-89d3-fd5df8aca711
+schema_type: xyzri:XYZPublication
+title: 'Neurostructural traces of early life adversities: A meta-analysis exploring
+  age- and adversity-specific effects'

@@ -1,0 +1,5 @@
+description: A performer contributing to a resource by reading or speaking in order
+  to give an account of an act, occurrence, course of events, etc
+display_label: Narrator
+pid: marcrel:nrt
+schema_type: xyzri:XYZAgentRole

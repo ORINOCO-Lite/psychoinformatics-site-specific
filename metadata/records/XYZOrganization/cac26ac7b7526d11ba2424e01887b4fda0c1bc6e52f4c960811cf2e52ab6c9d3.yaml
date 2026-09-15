@@ -1,0 +1,10 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-03T07:31:51.070731'
+name: Aston University
+pid: ror:05j0ve876
+schema_type: xyzri:XYZOrganization

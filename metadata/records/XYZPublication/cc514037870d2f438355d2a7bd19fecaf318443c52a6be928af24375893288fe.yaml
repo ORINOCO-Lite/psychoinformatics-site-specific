@@ -1,0 +1,79 @@
+attributed_to:
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/9fe30b8c-a331-4166-bd1c-f407b6e06ecc
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Disentangling Brain-Psychopathology Associations: A Systematic Evaluation
+    of Transdiagnostic Bifactor Models'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Understanding the neurobiological basis of mental health disorders remains
+    a central goal in psychiatry. However, identifying robust brain-psychopathology
+    associations with neuroimaging has proven difficult, in part due to substantial
+    heterogeneity within and comorbidity between diagnostic categories. Transdiagnostic
+    bifactor models aim to characterise this structure by separating shared from unique
+    symptom variance, yielding more reliable and potentially more accurate latent
+    dimensions of psychopathology. However, the extent to which these behavioural
+    models improve brain-psychopathology associations remains largely uncharacterised.
+    Using two large developmental cohorts, we compared 11 previously published bifactor
+    models applied to the Child Behaviour Checklist (CBCL) to traditional CBCL summary
+    scores. For both symptom-scoring approaches, we systematically evaluated their
+    reliability and multivariate associations with whole-brain structure (MRI) and
+    function (resting-state fMRI). We found no consistent evidence that bifactor-derived
+    factor scores strengthened reliability or brain-psychopathology associations,
+    relative to summary scores. Whole-brain predictive models revealed broadly distributed
+    neural signatures that were highly similar between corresponding factor and summary
+    score constructs, with general factors and total problems approaching numerical
+    equivalence. Nevertheless, factor scores displayed more distinct neural signatures
+    between general, internalising, and externalising dimensions than did summary
+    scores. Together, these findings suggest that existing CBCL bifactor models of
+    psychopathology do not systematically strengthen the predictive utility of psychiatric
+    neuroimaging, possibly reflecting fundamental limits on the proportion of CBCL
+    symptom variance captured by brain features. While bifactor models may aid in
+    separating neural correlates across constructs, improving phenotypic assessment
+    depth, rather than alternative phenotypic modelling, may provide more tangible
+    improvements to association strength moving forward.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Understanding the neurobiological basis of mental health disorders remains
+  a central goal in psychiatry. However, identifying robust brain-psychopathology
+  associations with neuroimaging has proven difficult, in part due to substantial
+  heterogeneity within and comorbidity between diagnostic categories. Transdiagnostic
+  bifactor models aim to characterise this structure by separating shared from unique
+  symptom variance, yielding more reliable and potentially more accurate latent dimensions
+  of psychopathology. However, the extent to which these behavioural models improve
+  brain-psychopathology associations remains largely uncharacterised. Using two large
+  developmental cohorts, we compared 11 previously published bifactor models applied
+  to the Child Behaviour Checklist (CBCL) to traditional CBCL summary scores. For
+  both symptom-scoring approaches, we systematically evaluated their reliability and
+  multivariate associations with whole-brain structure (MRI) and function (resting-state
+  fMRI). We found no consistent evidence that bifactor-derived factor scores strengthened
+  reliability or brain-psychopathology associations, relative to summary scores. Whole-brain
+  predictive models revealed broadly distributed neural signatures that were highly
+  similar between corresponding factor and summary score constructs, with general
+  factors and total problems approaching numerical equivalence. Nevertheless, factor
+  scores displayed more distinct neural signatures between general, internalising,
+  and externalising dimensions than did summary scores. Together, these findings suggest
+  that existing CBCL bifactor models of psychopathology do not systematically strengthen
+  the predictive utility of psychiatric neuroimaging, possibly reflecting fundamental
+  limits on the proportion of CBCL symptom variance captured by brain features. While
+  bifactor models may aid in separating neural correlates across constructs, improving
+  phenotypic assessment depth, rather than alternative phenotypic modelling, may provide
+  more tangible improvements to association strength moving forward.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.64898/2025.12.21.695029
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/fc4d27ad-7741-47ad-b804-e17bf4d96c9a
+schema_type: xyzri:XYZPublication
+title: 'Disentangling Brain-Psychopathology Associations: A Systematic Evaluation
+  of Transdiagnostic Bifactor Models'

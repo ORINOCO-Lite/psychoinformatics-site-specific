@@ -1,0 +1,69 @@
+attributed_to:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Indirect evidence for altered dopaminergic neurotransmission in very premature‐born
+    adults
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: While animal models indicate altered brain dopaminergic neurotransmission
+    after premature birth, corresponding evidence in humans is scarce due to missing
+    molecular imaging studies. To overcome this limitation, we studied dopaminergic
+    neurotransmission changes in human prematurity indirectly by evaluating the spatial
+    co-localization of regional alterations in blood oxygenation fluctuations with
+    the distribution of adult dopaminergic neurotransmission. The study cohort comprised
+    99 very premature-born (<32 weeks of gestation and/or birth weight below 1500 g)
+    and 107 full-term born young adults, being assessed by resting-state functional
+    MRI (rs-fMRI) and IQ testing. Normative molecular imaging dopamine neurotransmission
+    maps were derived from independent healthy control groups. We computed the co-localization
+    of local (rs-fMRI) activity alterations in premature-born adults with respect
+    to term-born individuals to different measures of dopaminergic neurotransmission.
+    We performed selectivity analyses regarding other neuromodulatory systems and
+    MRI measures. In addition, we tested if the strength of the co-localization is
+    related to perinatal measures and IQ. We found selectively altered co-localization
+    of rs-fMRI activity in the premature-born cohort with dopamine-2/3-receptor availability
+    in premature-born adults. Alterations were specific for the dopaminergic system
+    but not for the used MRI measure. The strength of the co-localization was negatively
+    correlated with IQ. In line with animal studies, our findings support the notion
+    of altered dopaminergic neurotransmission in prematurity which is associated with
+    cognitive performance.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: While animal models indicate altered brain dopaminergic neurotransmission
+  after premature birth, corresponding evidence in humans is scarce due to missing
+  molecular imaging studies. To overcome this limitation, we studied dopaminergic
+  neurotransmission changes in human prematurity indirectly by evaluating the spatial
+  co-localization of regional alterations in blood oxygenation fluctuations with the
+  distribution of adult dopaminergic neurotransmission. The study cohort comprised
+  99 very premature-born (<32 weeks of gestation and/or birth weight below 1500 g)
+  and 107 full-term born young adults, being assessed by resting-state functional
+  MRI (rs-fMRI) and IQ testing. Normative molecular imaging dopamine neurotransmission
+  maps were derived from independent healthy control groups. We computed the co-localization
+  of local (rs-fMRI) activity alterations in premature-born adults with respect to
+  term-born individuals to different measures of dopaminergic neurotransmission. We
+  performed selectivity analyses regarding other neuromodulatory systems and MRI measures.
+  In addition, we tested if the strength of the co-localization is related to perinatal
+  measures and IQ. We found selectively altered co-localization of rs-fMRI activity
+  in the premature-born cohort with dopamine-2/3-receptor availability in premature-born
+  adults. Alterations were specific for the dopaminergic system but not for the used
+  MRI measure. The strength of the co-localization was negatively correlated with
+  IQ. In line with animal studies, our findings support the notion of altered dopaminergic
+  neurotransmission in prematurity which is associated with cognitive performance.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1065-9471
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/hbm.26451
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/20134d66-f15a-4ec4-830a-0989767f6cd1
+schema_type: xyzri:XYZPublication
+title: Indirect evidence for altered dopaminergic neurotransmission in very premature‐born
+  adults

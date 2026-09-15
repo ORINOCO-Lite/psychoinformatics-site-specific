@@ -1,0 +1,79 @@
+attributed_to:
+- object: xyzrins:persons/4bbd6721-42e7-4a31-93cc-8ff0e9814e93
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Lack of Structural Brain Alterations associated with Insomnia: Findings
+    from the ENIGMA-Sleep working group'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Existing neuroimaging studies have reported divergent structural alterations
+    in insomnia. Here, we performed a large-scale coordinated meta-analysis by pooling
+    structural brain measures from 1,085 subjects with and without insomnia symptoms
+    across three international ENIGMA-Sleep cohorts. The influence of insomnia on
+    MRI-based brain morphometry using an insomnia brain score was assessed. We collected
+    case-control data from two sites, as well as population-based data from another
+    site. Within each cohort, we used an ordinary least-squares linear regression
+    to investigate the link between the individual regional cortical thickness and
+    subcortical volumes and the presence of insomnia symptoms. Then, we performed
+    a fixed-effects meta-analysis across cohorts based on the first-level results.
+    For the insomnia brain score, weighted logistic ridge regression was performed
+    on one sample, which separated patients with insomnia disorder from controls to
+    train a model based on the segmentation measurements. Afterward, the insomnia
+    brain scores were validated using the other two samples. The model was used to
+    predict the log-odds of the subjects with insomnia given individual insomnia-related
+    brain atrophy. After adjusting for multiple comparisons, we did not detect any
+    significant associations between insomnia symptoms and cortical or subcortical
+    volumes, nor could we identify a global insomnia-related brain atrophy pattern.
+    The current study found inconsistent brain morphology differences between individuals
+    with and without insomnia across three independent cohorts. Further large-scale
+    cross-sectional and longitudinal studies using both structural and functional
+    neuroimaging data are warranted to decipher the pathophysiology of insomnia at
+    the brain level.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Existing neuroimaging studies have reported divergent structural alterations
+  in insomnia. Here, we performed a large-scale coordinated meta-analysis by pooling
+  structural brain measures from 1,085 subjects with and without insomnia symptoms
+  across three international ENIGMA-Sleep cohorts. The influence of insomnia on MRI-based
+  brain morphometry using an insomnia brain score was assessed. We collected case-control
+  data from two sites, as well as population-based data from another site. Within
+  each cohort, we used an ordinary least-squares linear regression to investigate
+  the link between the individual regional cortical thickness and subcortical volumes
+  and the presence of insomnia symptoms. Then, we performed a fixed-effects meta-analysis
+  across cohorts based on the first-level results. For the insomnia brain score, weighted
+  logistic ridge regression was performed on one sample, which separated patients
+  with insomnia disorder from controls to train a model based on the segmentation
+  measurements. Afterward, the insomnia brain scores were validated using the other
+  two samples. The model was used to predict the log-odds of the subjects with insomnia
+  given individual insomnia-related brain atrophy. After adjusting for multiple comparisons,
+  we did not detect any significant associations between insomnia symptoms and cortical
+  or subcortical volumes, nor could we identify a global insomnia-related brain atrophy
+  pattern. The current study found inconsistent brain morphology differences between
+  individuals with and without insomnia across three independent cohorts. Further
+  large-scale cross-sectional and longitudinal studies using both structural and functional
+  neuroimaging data are warranted to decipher the pathophysiology of insomnia at the
+  brain level.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.21203/rs.3.rs-2203610/v1
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/ec0d9137-465c-486f-b68f-d0fca4532129
+schema_type: xyzri:XYZPublication
+title: 'Lack of Structural Brain Alterations associated with Insomnia: Findings from
+  the ENIGMA-Sleep working group'

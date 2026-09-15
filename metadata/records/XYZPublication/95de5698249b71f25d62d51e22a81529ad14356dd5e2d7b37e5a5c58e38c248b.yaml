@@ -1,0 +1,67 @@
+attributed_to:
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c6d47fbc-8b3c-46d1-9558-1f3b94ec9141
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Whole-brain dynamical modeling for classification of Parkinson’s disease
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Simulated whole-brain connectomes demonstrate an enhanced inter-individual
+    variability depending on data processing and modeling approach. By considering
+    the human brain connectome as an individualized attribute, we investigate how
+    empirical and simulated whole-brain connectome-derived features can be utilized
+    to classify patients with Parkinson’s disease against healthy controls in light
+    of varying data processing and model validation. To this end, we applied simulated
+    blood oxygenation level-dependent signals derived by a whole-brain dynamical model
+    simulating electrical signals of neuronal populations to reveal differences between
+    patients and controls. In addition to the widely used model validation via fitting
+    the dynamical model to empirical neuroimaging data, we invented a model validation
+    against behavioral data, such as subject classes, which we refer to as behavioral
+    model fitting and show that it can be beneficial for Parkinsonian patient classification.
+    Furthermore, the results of machine-learning reported in this study also demonstrated
+    that performance of the patient classification can be improved when the empirical
+    data are complemented by the simulation results. We also showed that temporal
+    filtering of blood oxygenation level-dependent signals influences the prediction
+    results, where the filtering in the low-frequency band is advisable for Parkinsonian
+    patient classification. In addition, composing the feature space of empirical
+    and simulated data from multiple brain parcellation schemes provided complementary
+    features that improve prediction performance. Based on our findings, we suggest
+    including the simulation results with empirical data is effective for inter-individual
+    research and its clinical application.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Simulated whole-brain connectomes demonstrate an enhanced inter-individual
+  variability depending on data processing and modeling approach. By considering the
+  human brain connectome as an individualized attribute, we investigate how empirical
+  and simulated whole-brain connectome-derived features can be utilized to classify
+  patients with Parkinson’s disease against healthy controls in light of varying data
+  processing and model validation. To this end, we applied simulated blood oxygenation
+  level-dependent signals derived by a whole-brain dynamical model simulating electrical
+  signals of neuronal populations to reveal differences between patients and controls.
+  In addition to the widely used model validation via fitting the dynamical model
+  to empirical neuroimaging data, we invented a model validation against behavioral
+  data, such as subject classes, which we refer to as behavioral model fitting and
+  show that it can be beneficial for Parkinsonian patient classification. Furthermore,
+  the results of machine-learning reported in this study also demonstrated that performance
+  of the patient classification can be improved when the empirical data are complemented
+  by the simulation results. We also showed that temporal filtering of blood oxygenation
+  level-dependent signals influences the prediction results, where the filtering in
+  the low-frequency band is advisable for Parkinsonian patient classification. In
+  addition, composing the feature space of empirical and simulated data from multiple
+  brain parcellation schemes provided complementary features that improve prediction
+  performance. Based on our findings, we suggest including the simulation results
+  with empirical data is effective for inter-individual research and its clinical
+  application.
+identifiers:
+- notation: 10.1101/2022.06.08.495360
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/993b07be-99f0-41b2-96f0-31ce940e2d32
+schema_type: xyzri:XYZPublication
+title: Whole-brain dynamical modeling for classification of Parkinson’s disease

@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Structural and functional neuroimaging of late-life depression: a coordinate-based
+    meta-analysis'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Several neuroimaging studies have investigated localized aberrations in brain
+    structure, function or connectivity in late-life depression, but the ensuing results
+    are equivocal and often conflicting. Here, we provide a quantitative consolidation
+    of neuroimaging in late-life depression using coordinate-based meta-analysis by
+    searching multiple databases up to March 2020. Our search revealed 3252 unique
+    records, among which we identified 32 eligible whole-brain neuroimaging publications
+    comparing 674 patients with 568 controls. The peak coordinates of group comparisons
+    between the patients and the controls were extracted and then analyzed using activation
+    likelihood estimation method. Our sufficiently powered analysis on all the experiments,
+    and more homogenous subsections of the data (patients > controls, controls > patients,
+    and functional imaging experiments) revealed no significant convergent regional
+    abnormality in late-life depression. This inconsistency might be due to clinical
+    and biological heterogeneity of LLD, as well as experimental (e.g., choice of
+    tasks, image modalities) and analytic flexibility (e.g., preprocessing and analytic
+    parameters), and distributed patterns of neural abnormalities. Our findings highlight
+    the importance of clinical/biological heterogeneity of late-life depression, in
+    addition to the need for more reproducible research by using pre-registered and
+    standardized protocols on more homogenous populations to identify potential consistent
+    brain abnormalities in late-life depression.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Several neuroimaging studies have investigated localized aberrations
+  in brain structure, function or connectivity in late-life depression, but the ensuing
+  results are equivocal and often conflicting. Here, we provide a quantitative consolidation
+  of neuroimaging in late-life depression using coordinate-based meta-analysis by
+  searching multiple databases up to March 2020. Our search revealed 3252 unique records,
+  among which we identified 32 eligible whole-brain neuroimaging publications comparing
+  674 patients with 568 controls. The peak coordinates of group comparisons between
+  the patients and the controls were extracted and then analyzed using activation
+  likelihood estimation method. Our sufficiently powered analysis on all the experiments,
+  and more homogenous subsections of the data (patients > controls, controls > patients,
+  and functional imaging experiments) revealed no significant convergent regional
+  abnormality in late-life depression. This inconsistency might be due to clinical
+  and biological heterogeneity of LLD, as well as experimental (e.g., choice of tasks,
+  image modalities) and analytic flexibility (e.g., preprocessing and analytic parameters),
+  and distributed patterns of neural abnormalities. Our findings highlight the importance
+  of clinical/biological heterogeneity of late-life depression, in addition to the
+  need for more reproducible research by using pre-registered and standardized protocols
+  on more homogenous populations to identify potential consistent brain abnormalities
+  in late-life depression.
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:1931-7557
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s11682-021-00494-9
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/b4fb9e9f-96c4-402d-a6fa-ebc2878ee86d
+schema_type: xyzri:XYZPublication
+title: 'Structural and functional neuroimaging of late-life depression: a coordinate-based
+  meta-analysis'

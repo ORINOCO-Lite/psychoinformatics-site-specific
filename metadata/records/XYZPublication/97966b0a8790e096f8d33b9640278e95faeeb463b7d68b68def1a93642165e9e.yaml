@@ -1,0 +1,80 @@
+attributed_to:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/8f836375-520c-43d7-afb6-29abea72c0ab
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Multimodal gradients unify local and global cortical organization
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Functional specialization of brain areas and subregions, as well as their
+    integration into large-scale networks, are key principles in neuroscience. Consolidating
+    both local and global perspectives on cortical organization, however, remains
+    challenging. Here, we present an approach to integrate inter- and intra-areal
+    similarities of microstructure, structural connectivity, and functional interactions.
+    Using high-field in-vivo 7 tesla (7 T) Magnetic Resonance Imaging (MRI) data and
+    a probabilistic post-mortem atlas of cortical cytoarchitecture, we derive multimodal
+    gradients that capture cortex-wide organization. Inter-areal similarities follow
+    a canonical sensory-fugal gradient, linking cortical integration with functional
+    diversity across tasks. However, intra-areal heterogeneity does not follow this
+    pattern, with greater variability in association cortices. Findings are replicated
+    in an independent 7 T dataset and a 100-subject 3 tesla (3 T) cohort. These results
+    highlight a robust coupling between local arealization and global cortical motifs,
+    advancing our understanding of how specialization and integration shape human
+    brain function.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Functional specialization of brain areas and subregions, as well as their
+  integration into large-scale networks, are key principles in neuroscience. Consolidating
+  both local and global perspectives on cortical organization, however, remains challenging.
+  Here, we present an approach to integrate inter- and intra-areal similarities of
+  microstructure, structural connectivity, and functional interactions. Using high-field
+  in-vivo 7 tesla (7 T) Magnetic Resonance Imaging (MRI) data and a probabilistic
+  post-mortem atlas of cortical cytoarchitecture, we derive multimodal gradients that
+  capture cortex-wide organization. Inter-areal similarities follow a canonical sensory-fugal
+  gradient, linking cortical integration with functional diversity across tasks. However,
+  intra-areal heterogeneity does not follow this pattern, with greater variability
+  in association cortices. Findings are replicated in an independent 7 T dataset and
+  a 100-subject 3 tesla (3 T) cohort. These results highlight a robust coupling between
+  local arealization and global cortical motifs, advancing our understanding of how
+  specialization and integration shape human brain function.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2041-1723
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41467-025-59177-4
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2025-03-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/391de57c-8040-4cf7-a515-a6791b9a0c89
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2020-04-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2026-12-01'
+    schema_type: dlthings:End
+  object: xyzrins:grants/ebrains-2.0
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2024-01-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/87fd1ce4-f9ef-4d81-918f-2779d9fd2e25
+schema_type: xyzri:XYZPublication
+title: Multimodal gradients unify local and global cortical organization

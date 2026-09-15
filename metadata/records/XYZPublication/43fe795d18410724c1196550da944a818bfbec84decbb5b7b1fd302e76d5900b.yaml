@@ -1,0 +1,72 @@
+attributed_to:
+- object: xyzrins:persons/269a3b65-df26-4c0d-a6a9-2c4410750dc8
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Embodying Time in the Brain: A Multi-Dimensional Neuroimaging Meta-Analysis
+    of 95 Duration Processing Studies'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Time is an omnipresent aspect of almost everything we experience internally
+    or in the external world. The experience of time occurs through such an extensive
+    set of contextual factors that, after decades of research, a unified understanding
+    of its neural substrates is still elusive. In this study, following the recent
+    best-practice guidelines, we conducted a coordinate-based meta-analysis of 95
+    carefully-selected neuroimaging papers of duration processing. We categorized
+    the included papers into 14 classes of temporal features according to six categorical
+    dimensions. Then, using the activation likelihood estimation (ALE) technique we
+    investigated the convergent activation patterns of each class with a cluster-level
+    family-wise error correction at p < 0.05. The regions most consistently activated
+    across the various timing contexts were the pre-SMA and bilateral insula, consistent
+    with an embodied theory of timing in which abstract representations of duration
+    are rooted in sensorimotor and interoceptive experience, respectively. Moreover,
+    class-specific patterns of activation could be roughly divided according to whether
+    participants were timing auditory sequential stimuli, which additionally activated
+    the dorsal striatum and SMA-proper, or visual single interval stimuli, which additionally
+    activated the right middle frontal and inferior parietal cortices. We conclude
+    that temporal cognition is so entangled with our everyday experience that timing
+    stereotypically common combinations of stimulus characteristics reactivates the
+    sensorimotor systems with which they were first experienced.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Time is an omnipresent aspect of almost everything we experience internally
+  or in the external world. The experience of time occurs through such an extensive
+  set of contextual factors that, after decades of research, a unified understanding
+  of its neural substrates is still elusive. In this study, following the recent best-practice
+  guidelines, we conducted a coordinate-based meta-analysis of 95 carefully-selected
+  neuroimaging papers of duration processing. We categorized the included papers into
+  14 classes of temporal features according to six categorical dimensions. Then, using
+  the activation likelihood estimation (ALE) technique we investigated the convergent
+  activation patterns of each class with a cluster-level family-wise error correction
+  at p < 0.05. The regions most consistently activated across the various timing contexts
+  were the pre-SMA and bilateral insula, consistent with an embodied theory of timing
+  in which abstract representations of duration are rooted in sensorimotor and interoceptive
+  experience, respectively. Moreover, class-specific patterns of activation could
+  be roughly divided according to whether participants were timing auditory sequential
+  stimuli, which additionally activated the dorsal striatum and SMA-proper, or visual
+  single interval stimuli, which additionally activated the right middle frontal and
+  inferior parietal cortices. We conclude that temporal cognition is so entangled
+  with our everyday experience that timing stereotypically common combinations of
+  stimulus characteristics reactivates the sensorimotor systems with which they were
+  first experienced.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1040-7308
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s11065-023-09588-1
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/5255422e-755d-4441-a9a3-dde22eda55e2
+schema_type: xyzri:XYZPublication
+title: 'Embodying Time in the Brain: A Multi-Dimensional Neuroimaging Meta-Analysis
+  of 95 Duration Processing Studies'

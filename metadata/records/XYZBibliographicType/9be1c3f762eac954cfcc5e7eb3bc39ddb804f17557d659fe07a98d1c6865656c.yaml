@@ -1,0 +1,5 @@
+description: A written or printed communication addressed to a person or organization
+  and usually transmitted by mail.
+display_label: Letter
+pid: bibo:Letter
+schema_type: xyzri:XYZBibliographicType

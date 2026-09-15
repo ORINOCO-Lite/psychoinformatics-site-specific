@@ -1,0 +1,56 @@
+attributed_to:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Multimodal precision MRI of the individual human brain at ultra-high fields
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Multimodal neuroimaging, in particular magnetic resonance imaging (MRI),
+    allows for non-invasive examination of human brain structure and function across
+    multiple scales. Precision neuroimaging builds upon this foundation, enabling
+    the mapping of brain structure, function, and connectivity patterns with high
+    fidelity in single individuals. Highfield MRI, operating at magnetic field strengths
+    of 7 Tesla (T) or higher, increases signal-to-noise ratio and opens up possibilities
+    for gains spatial resolution. Here, we share a multimodal Precision Neuroimaging
+    and Connectomics (PNI) 7 T MRI dataset. Ten healthy individuals underwent a comprehensive
+    MRI protocol, including T1 relaxometry, magnetization transfer imaging, T2*-weighted
+    imaging, diffusion MRI, and multi-state functional MRI paradigms, aggregated across
+    three imaging sessions. Alongside anonymized raw MRI data, we release cortex-wide
+    connectomes from different modalities across multiple parcellation scales, and
+    supply “gradients” that compactly characterize spatial patterning of cortical
+    organization. Our precision MRI dataset will advance our understanding of structure-function
+    relationships in the individual human brain and is publicly available via the
+    Open Science Framework.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Multimodal neuroimaging, in particular magnetic resonance imaging (MRI),
+  allows for non-invasive examination of human brain structure and function across
+  multiple scales. Precision neuroimaging builds upon this foundation, enabling the
+  mapping of brain structure, function, and connectivity patterns with high fidelity
+  in single individuals. Highfield MRI, operating at magnetic field strengths of 7
+  Tesla (T) or higher, increases signal-to-noise ratio and opens up possibilities
+  for gains spatial resolution. Here, we share a multimodal Precision Neuroimaging
+  and Connectomics (PNI) 7 T MRI dataset. Ten healthy individuals underwent a comprehensive
+  MRI protocol, including T1 relaxometry, magnetization transfer imaging, T2*-weighted
+  imaging, diffusion MRI, and multi-state functional MRI paradigms, aggregated across
+  three imaging sessions. Alongside anonymized raw MRI data, we release cortex-wide
+  connectomes from different modalities across multiple parcellation scales, and supply
+  “gradients” that compactly characterize spatial patterning of cortical organization.
+  Our precision MRI dataset will advance our understanding of structure-function relationships
+  in the individual human brain and is publicly available via the Open Science Framework.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41597-025-04863-7
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/066f2457-545b-4720-bd5e-1ad858c1fb12
+schema_type: xyzri:XYZPublication
+title: Multimodal precision MRI of the individual human brain at ultra-high fields

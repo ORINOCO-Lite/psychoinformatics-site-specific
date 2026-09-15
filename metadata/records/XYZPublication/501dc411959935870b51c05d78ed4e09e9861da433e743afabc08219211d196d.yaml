@@ -1,0 +1,72 @@
+attributed_to:
+- object: xyzrins:persons/11bba584-d08e-47f2-b3d4-980c5472dca3
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c7dc0cbf-c8b0-4406-a20d-a393127a498d
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Predicting executive functioning from brain networks: modality specificity
+    and age effects'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Healthy aging is associated with structural and functional network changes
+    in the brain, which have been linked to deterioration in executive functioning
+    (EF), while their neural implementation at the individual level remains unclear.
+    As the biomarker potential of individual resting-state functional connectivity
+    (RSFC) patterns has been questioned, we investigated to what degree individual
+    EF abilities can be predicted from the gray-matter volume (GMV), regional homogeneity,
+    fractional amplitude of low-frequency fluctuations (fALFF), and RSFC within EF-related,
+    perceptuo-motor, and whole-brain networks in young and old adults. We examined
+    whether the differences in out-of-sample prediction accuracy were modality-specific
+    and depended on age or task-demand levels. Both uni- and multivariate analysis
+    frameworks revealed overall low prediction accuracies and moderate-to-weak brain–behavior
+    associations (R2 < 0.07, r < 0.28), further challenging the idea of finding meaningful
+    markers for individual EF performance with the metrics used. Regional GMV, well
+    linked to overall atrophy, carried the strongest information about individual
+    EF differences in older adults, whereas fALFF, measuring functional variability,
+    did so for younger adults. Our study calls for future research analyzing more
+    global properties of the brain, different task-states and applying adaptive behavioral
+    testing to result in sensitive predictors for young and older adults, respectively.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Healthy aging is associated with structural and functional network changes
+  in the brain, which have been linked to deterioration in executive functioning (EF),
+  while their neural implementation at the individual level remains unclear. As the
+  biomarker potential of individual resting-state functional connectivity (RSFC) patterns
+  has been questioned, we investigated to what degree individual EF abilities can
+  be predicted from the gray-matter volume (GMV), regional homogeneity, fractional
+  amplitude of low-frequency fluctuations (fALFF), and RSFC within EF-related, perceptuo-motor,
+  and whole-brain networks in young and old adults. We examined whether the differences
+  in out-of-sample prediction accuracy were modality-specific and depended on age
+  or task-demand levels. Both uni- and multivariate analysis frameworks revealed overall
+  low prediction accuracies and moderate-to-weak brain–behavior associations (R2 < 0.07,
+  r < 0.28), further challenging the idea of finding meaningful markers for individual
+  EF performance with the metrics used. Regional GMV, well linked to overall atrophy,
+  carried the strongest information about individual EF differences in older adults,
+  whereas fALFF, measuring functional variability, did so for younger adults. Our
+  study calls for future research analyzing more global properties of the brain, different
+  task-states and applying adaptive behavioral testing to result in sensitive predictors
+  for young and older adults, respectively.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1047-3211
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/cercor/bhad338
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/dd68bf51-3422-49bd-aa7c-0420c1f2f5c7
+schema_type: xyzri:XYZPublication
+title: 'Predicting executive functioning from brain networks: modality specificity
+  and age effects'

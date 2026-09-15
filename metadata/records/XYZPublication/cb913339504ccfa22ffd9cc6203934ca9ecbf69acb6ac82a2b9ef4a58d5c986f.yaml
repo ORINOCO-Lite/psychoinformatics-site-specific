@@ -1,0 +1,64 @@
+attributed_to:
+- object: xyzrins:persons/39e91aa8-3e7e-4e72-9977-ae6941e9e142
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b1340c22-8c5d-4983-84ed-36d950c130cc
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/15a9b2f2-d2a0-47f1-aaa6-ca8d4ed541b0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'What predicts individual brain health?: a machine learning study spanning
+    the exposome'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Promoting brain health is vital for well-being and reducing healthcare burdens.
+    Individual brain health asmeasured with the Brain Age Gap (BAG) - the difference
+    between chronological and predicted brain age-relates to many factors. However,
+    an holistic view, integrating the range of factors an individual brain isexposed
+    to, is missing for understanding how the exposome shapes brain health. After computing
+    BAGas an indicator of individual grey matter (GM) health, we predicted it using
+    machine learning based on261 exposome variables (spanning biomedical, environmental,
+    lifestyle, socio-affective, and early lifedomains) in UK Biobank participants.
+    Exposome data can predict GM health with factors pertaining tocardiovascular and
+    bone health, along with alcohol and smoking, nutrition and diabetes showing greatercontribution
+    to the prediction. In such domains, life period and duration of exposure appeared
+    crucial.This calls for early prevention in cardiovascular and metabolic health
+    to promote life-long brain health.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Promoting brain health is vital for well-being and reducing healthcare
+  burdens. Individual brain health asmeasured with the Brain Age Gap (BAG) - the difference
+  between chronological and predicted brain age-relates to many factors. However,
+  an holistic view, integrating the range of factors an individual brain isexposed
+  to, is missing for understanding how the exposome shapes brain health. After computing
+  BAGas an indicator of individual grey matter (GM) health, we predicted it using
+  machine learning based on261 exposome variables (spanning biomedical, environmental,
+  lifestyle, socio-affective, and early lifedomains) in UK Biobank participants. Exposome
+  data can predict GM health with factors pertaining tocardiovascular and bone health,
+  along with alcohol and smoking, nutrition and diabetes showing greatercontribution
+  to the prediction. In such domains, life period and duration of exposure appeared
+  crucial.This calls for early prevention in cardiovascular and metabolic health to
+  promote life-long brain health.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.21203/rs.3.rs-6410523/v1
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/b3cbe4a5-82a8-49be-a939-d337d4c95e2a
+schema_type: xyzri:XYZPublication
+title: 'What predicts individual brain health?: a machine learning study spanning
+  the exposome'

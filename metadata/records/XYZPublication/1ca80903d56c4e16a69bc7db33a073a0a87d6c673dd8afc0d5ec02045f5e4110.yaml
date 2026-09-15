@@ -1,0 +1,66 @@
+attributed_to:
+- object: xyzrins:persons/9667ad1d-d904-4eea-9d86-7af45f176cb4
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/269a3b65-df26-4c0d-a6a9-2c4410750dc8
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Convergent regional brain abnormalities in behavioral variant frontotemporal
+    dementia: A neuroimaging meta‐analysis of 73 studies'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: IntroductionNumerous studies have reported brain alterations in behavioral
+    variant frontotemporal dementia (bvFTD). However, they pointed to inconsistent
+    findings.MethodsWe used a meta-analytic approach to identify the convergent structural
+    and functional brain abnormalities in bvFTD. Following current best-practice neuroimaging
+    meta-analysis guidelines, we searched PubMed and Embase databases and performed
+    reference tracking. Then, the coordinates of group comparisons between bvFTD and
+    controls from 73 studies were extracted and tested for convergence using activation
+    likelihood estimation.ResultsWe identified convergent abnormalities in the anterior
+    cingulate cortices, anterior insula, amygdala, paracingulate, striatum, and hippocampus.
+    Task-based and resting-state functional connectivity pointed to the networks that
+    are connected to the obtained consistent regions. Functional decoding analyses
+    suggested associated dysfunction of emotional processing, interoception, reward
+    processing, higher-order cognitive functions, and olfactory and gustatory perceptions
+    in bvFTD.DiscussionOur findings highlighted the key role of the salience network
+    and subcortical regions in the pathophysiology of bvFTD.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: IntroductionNumerous studies have reported brain alterations in behavioral
+  variant frontotemporal dementia (bvFTD). However, they pointed to inconsistent findings.MethodsWe
+  used a meta-analytic approach to identify the convergent structural and functional
+  brain abnormalities in bvFTD. Following current best-practice neuroimaging meta-analysis
+  guidelines, we searched PubMed and Embase databases and performed reference tracking.
+  Then, the coordinates of group comparisons between bvFTD and controls from 73 studies
+  were extracted and tested for convergence using activation likelihood estimation.ResultsWe
+  identified convergent abnormalities in the anterior cingulate cortices, anterior
+  insula, amygdala, paracingulate, striatum, and hippocampus. Task-based and resting-state
+  functional connectivity pointed to the networks that are connected to the obtained
+  consistent regions. Functional decoding analyses suggested associated dysfunction
+  of emotional processing, interoception, reward processing, higher-order cognitive
+  functions, and olfactory and gustatory perceptions in bvFTD.DiscussionOur findings
+  highlighted the key role of the salience network and subcortical regions in the
+  pathophysiology of bvFTD.
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:2352-8729
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/dad2.12318
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/0a4892a3-0e71-4f83-bb9b-fa7ef8e75b06
+schema_type: xyzri:XYZPublication
+title: 'Convergent regional brain abnormalities in behavioral variant frontotemporal
+  dementia: A neuroimaging meta‐analysis of 73 studies'

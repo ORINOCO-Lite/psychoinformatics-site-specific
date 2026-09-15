@@ -1,0 +1,54 @@
+version: 1
+record_prefix: 'xyzrins:'
+identity:
+  title: Psychoinformatics
+  description: Research in this lab focuses on the interface of computer and information
+    sciences, neuroscience, and psychology.
+  base_url: https://www-draft.psychoinformatics.de/
+navigation:
+- name: People
+  page_ref: persons
+  weight: 10
+  icon: account-group
+- name: Objectives
+  page_ref: objectives
+  weight: 20
+  icon: bullseye-arrow
+- name: Projects
+  page_ref: projects
+  weight: 25
+  icon: human-dolly
+- name: Publications
+  page_ref: publications
+  weight: 30
+  icon: cast-education
+- name: Outputs
+  identifier: outputs
+  weight: 32
+  icon: export
+- name: Datasets
+  page_ref: datasets
+  parent: outputs
+  weight: 34
+  icon: mdi-database-outline
+- name: Instruments
+  page_ref: instruments
+  parent: outputs
+  weight: 36
+  icon: mdi-microscope
+- name: Topics
+  page_ref: topics
+  weight: 38
+  icon: pound-box-outline
+- name: Collaboration hub
+  url: https://hub.psychoinformatics.de
+  weight: 40
+  icon: forgejo-aneksajo
+  target: _blank
+footer_navigation:
+- name: Contact and location
+  page_ref: contact
+presentation:
+  color_scheme: fire
+  default_appearance: light
+  header_layout: hybrid

@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Heart failure decouples the precuneus in interaction with social cognition
+    and executive functions
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Aging increases the risk to develop Alzheimer's disease. Cardiovascular diseases
+    might accelerate this process. Our study aimed at investigating the impact of
+    heart failure on brain connectivity using functional magnetic resonance imaging
+    at resting state. Here we show brain connectivity alterations related to heart
+    failure and cognitive performance. Heart failure decreases brain connectivity
+    in the precuneus. Precuneus dysconnectivity was associated with biomarkers of
+    heart failure-left ventricular ejection fraction and N-terminal prohormone of
+    brain natriuretic peptide-and cognitive performance, predominantly executive function.
+    Meta-analytical data-mining approaches-conducted in the BrainMap and Neurosynth
+    databases-revealed that social and executive cognitive functions are mainly associated
+    with those neural networks. Remarkably, the precuneus, as identified in our study
+    in a mid-life cohort, represents one central functional hub affected by Alzheimer's
+    disease. A long-term follow-up investigation in our cohort after approximately
+    nine years revealed more severe cognitive impairment in the group with heart failure
+    than controls, where social cognition was the cognitive domain mainly affected,
+    and not memory such as in Alzheimer's disease. In sum, our results indicate consistently
+    an association between heart failure and decoupling of the precuneus from other
+    brain regions being associated with social and executive functions. Further longitudinal
+    studies are warranted elucidating etiopathological mechanisms.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Aging increases the risk to develop Alzheimer's disease. Cardiovascular
+  diseases might accelerate this process. Our study aimed at investigating the impact
+  of heart failure on brain connectivity using functional magnetic resonance imaging
+  at resting state. Here we show brain connectivity alterations related to heart failure
+  and cognitive performance. Heart failure decreases brain connectivity in the precuneus.
+  Precuneus dysconnectivity was associated with biomarkers of heart failure-left ventricular
+  ejection fraction and N-terminal prohormone of brain natriuretic peptide-and cognitive
+  performance, predominantly executive function. Meta-analytical data-mining approaches-conducted
+  in the BrainMap and Neurosynth databases-revealed that social and executive cognitive
+  functions are mainly associated with those neural networks. Remarkably, the precuneus,
+  as identified in our study in a mid-life cohort, represents one central functional
+  hub affected by Alzheimer's disease. A long-term follow-up investigation in our
+  cohort after approximately nine years revealed more severe cognitive impairment
+  in the group with heart failure than controls, where social cognition was the cognitive
+  domain mainly affected, and not memory such as in Alzheimer's disease. In sum, our
+  results indicate consistently an association between heart failure and decoupling
+  of the precuneus from other brain regions being associated with social and executive
+  functions. Further longitudinal studies are warranted elucidating etiopathological
+  mechanisms.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2045-2322
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41598-023-28338-0
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/e79c4f66-19b7-4cda-a8b0-b2d40e383991
+schema_type: xyzri:XYZPublication
+title: Heart failure decouples the precuneus in interaction with social cognition
+  and executive functions

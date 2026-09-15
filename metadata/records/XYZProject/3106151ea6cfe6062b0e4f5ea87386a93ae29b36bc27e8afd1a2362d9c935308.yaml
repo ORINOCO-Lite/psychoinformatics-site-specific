@@ -1,0 +1,35 @@
+associated_with:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+description: The NEUROCAST project creates a reference framework for brain development
+  that accounts for diverse brain maturation pathways. It will examine how biological
+  factors as well as environmental conditions and formative life experiences influence
+  individual developmental trajectories. This also involves investigating which patterns
+  are associated with mental resilience or an increased risk of developing mental
+  health conditions. A primary goal is to develop a predictive method that estimates
+  the likely future development of the brain in a single examination. NEUROCAST aims
+  to improve the assessment of risks and disease progression, and enable more personalized
+  treatment based on individual developmental trajectories.
+ended:
+  at_time: '2032-01-31'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2032-01-31'
+    schema_type: dlthings:End
+  object: xyzrins:grants/f8d972a5-3ac0-45c8-8211-4a1d3cd4d96c
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2027-02-01'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/e6bca269-1fdc-48c0-9d3a-3d87567e3343
+schema_type: xyzri:XYZProject
+short_name: NEUROCAST
+started:
+  at_time: '2027-02-01'
+  schema_type: dlthings:Start
+title: Neurodevelopmental forecasting of mental illness in adolescence

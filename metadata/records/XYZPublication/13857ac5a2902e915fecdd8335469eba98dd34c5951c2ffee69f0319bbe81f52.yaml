@@ -1,0 +1,81 @@
+attributed_to:
+- object: xyzrins:persons/d87e2f94-6057-4663-965b-f435379e3d06
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/9fe30b8c-a331-4166-bd1c-f407b6e06ecc
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Unveiling the Multifaceted Networks of the Left DLPFC for Precision TMS Targeting
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'The left dorsolateral prefrontal cortex (lDLPFC) is the standard target
+    for transcranial magnetic stimulation (TMS) to ameliorate treatment-resistant
+    depression (TRD), yet non-response rates remain high. TMS efficacy has been linked
+    to the stimulation site’s functional connectivity, particularly its anti-correlation
+    with the subgenual cingulate cortex (SGC). While this pragmatic strategy has demonstrated
+    clinical utility, it offers limited insight into how the lDLPFC’s network interactions
+    contribute to site-dependent variability in treatment response. Here, we used
+    connectivity-based parcellation within an lDLPFC region encompassing common TMS
+    targets and adjacent areas to delineate functional subdivisions and characterize
+    their connectivity to large-scale networks and behavioral associations. Our results
+    revealed a hierarchical organization: a coarse two-pole antagonism between anterior-central
+    and superior-posterior subregions and a finer nine-cluster architecture exposing
+    lDLPFC’s heterogeneity along anterior-posterior and ventral-dorsal axes. Anterior-central
+    areas were strongly anti-correlated with SGC and default-mode network, positively
+    connected with salience, dorsal attention, and control networks, and associated
+    with cognitive control. In contrast, superior-posterior subregions displayed the
+    inverse pattern, while ventral clusters engaged somatomotor and visual networks,
+    and language-related processes. Central and superior-anterior clusters showed
+    differentiated profiles, including associations with inhibition, social cognition,
+    and perceptual functions. To aid clinical translation, we derived an lDLPFC likelihood
+    map integrating granularities, highlighting anterior-central lDLPFC as the strongest
+    TMS candidate considering the relevance of its connectivity and behavioral profiles
+    to depression, while indicating that neighboring subregions have distinct functions.
+    These findings underscore the lDLPFC’s hierarchical and heterogeneous organization
+    and provide a network-informed reference for developing individualized, symptom-specific
+    TMS interventions.'
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: 'The left dorsolateral prefrontal cortex (lDLPFC) is the standard target
+  for transcranial magnetic stimulation (TMS) to ameliorate treatment-resistant depression
+  (TRD), yet non-response rates remain high. TMS efficacy has been linked to the stimulation
+  site’s functional connectivity, particularly its anti-correlation with the subgenual
+  cingulate cortex (SGC). While this pragmatic strategy has demonstrated clinical
+  utility, it offers limited insight into how the lDLPFC’s network interactions contribute
+  to site-dependent variability in treatment response. Here, we used connectivity-based
+  parcellation within an lDLPFC region encompassing common TMS targets and adjacent
+  areas to delineate functional subdivisions and characterize their connectivity to
+  large-scale networks and behavioral associations. Our results revealed a hierarchical
+  organization: a coarse two-pole antagonism between anterior-central and superior-posterior
+  subregions and a finer nine-cluster architecture exposing lDLPFC’s heterogeneity
+  along anterior-posterior and ventral-dorsal axes. Anterior-central areas were strongly
+  anti-correlated with SGC and default-mode network, positively connected with salience,
+  dorsal attention, and control networks, and associated with cognitive control. In
+  contrast, superior-posterior subregions displayed the inverse pattern, while ventral
+  clusters engaged somatomotor and visual networks, and language-related processes.
+  Central and superior-anterior clusters showed differentiated profiles, including
+  associations with inhibition, social cognition, and perceptual functions. To aid
+  clinical translation, we derived an lDLPFC likelihood map integrating granularities,
+  highlighting anterior-central lDLPFC as the strongest TMS candidate considering
+  the relevance of its connectivity and behavioral profiles to depression, while indicating
+  that neighboring subregions have distinct functions. These findings underscore the
+  lDLPFC’s hierarchical and heterogeneous organization and provide a network-informed
+  reference for developing individualized, symptom-specific TMS interventions.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2025.11.19.689337
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/860628d6-d764-4d0e-8cd6-1ddf4d5d062a
+schema_type: xyzri:XYZPublication
+title: Unveiling the Multifaceted Networks of the Left DLPFC for Precision TMS Targeting

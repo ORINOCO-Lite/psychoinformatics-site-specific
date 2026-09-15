@@ -1,0 +1,62 @@
+attributed_to:
+- object: xyzrins:persons/a80bd7da-9e14-4dd7-a0c8-708c5280b32a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Intracortical microstructure profiling: a cross-modal method for indexing
+    cortical lamination'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Intracortical microstructure profiling represents a powerful, scalable approach
+    for investigating the laminar organisation of the human cortex on both in-vivo
+    and post-mortem datasets. Building upon a long tradition of histological analysis,
+    this method leverages surface-based intracortical sampling to generate profiles
+    of tissue properties across cortical depths. The present work outlines a standardised
+    workflow for intracortical microstructural profiling, newly packaged as the open-source
+    toolbox “CortPro” (https://github.com/caseypaquola/cortpro). Here, we explore
+    the utility of central moments as descriptors of profile shape. Using these measures,
+    we quantify (i) the extent to which in-vivo MRI can capture laminar differentiation,
+    (ii) the test-retest reliability of profiles, and (iii) their replicability across
+    sites and studies. Our results demonstrate that intracortical profiles are remarkably
+    robust and effectively mitigate bias-field related limitations of non-quantitative
+    MRI. As applications of microstructure-sensitive imaging expand across development,
+    aging, and disease, microstructure profiling provides a principled means of linking
+    microstructural neuroanatomy with systems-level brain organisation.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Intracortical microstructure profiling represents a powerful, scalable
+  approach for investigating the laminar organisation of the human cortex on both
+  in-vivo and post-mortem datasets. Building upon a long tradition of histological
+  analysis, this method leverages surface-based intracortical sampling to generate
+  profiles of tissue properties across cortical depths. The present work outlines
+  a standardised workflow for intracortical microstructural profiling, newly packaged
+  as the open-source toolbox “CortPro” (https://github.com/caseypaquola/cortpro).
+  Here, we explore the utility of central moments as descriptors of profile shape.
+  Using these measures, we quantify (i) the extent to which in-vivo MRI can capture
+  laminar differentiation, (ii) the test-retest reliability of profiles, and (iii)
+  their replicability across sites and studies. Our results demonstrate that intracortical
+  profiles are remarkably robust and effectively mitigate bias-field related limitations
+  of non-quantitative MRI. As applications of microstructure-sensitive imaging expand
+  across development, aging, and disease, microstructure profiling provides a principled
+  means of linking microstructural neuroanatomy with systems-level brain organisation.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2837-6056
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1162/IMAG.a.1212
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/12f93b7a-561a-4ea4-864a-efdb3e7d3081
+schema_type: xyzri:XYZPublication
+title: 'Intracortical microstructure profiling: a cross-modal method for indexing
+  cortical lamination'

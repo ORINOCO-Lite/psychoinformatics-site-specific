@@ -1,0 +1,61 @@
+attributed_to:
+- object: xyzrins:persons/60feb346-954c-4625-93d6-1b8bd1ca0dfa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Ethical Implications of e-Health Applications in Early Preventive Healthcare
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: As a means of preventive medicine early detection and prevention examinations
+    can identify and treat possible health disorders or abnormalities from an early
+    age onwards. However, pediatric examinations are often widely spaced, and thus
+    only snapshots of the children's and adolescents' developments are obtained. With
+    e-health applications parents and adolescents could record developmental parameters
+    much more frequently and regularly and transmit data directly for ongoing evaluation.
+    AI technologies could be used to search for new and previously unknown patterns.
+    Although e-health applications could improve preventive healthcare, there are
+    serious concerns about the unlimited use of big data in medicine. Such concerns
+    range from general skepticism about big data in medicine to specific challenges
+    and risks in certain medical areas. In this paper, we will focus on preventive
+    health care in pediatrics and explore ethical implications of e-health applications.
+    Specifically, we will address opportunities and risks of app-based data collection
+    and AI-based data evaluation for complementing established early detection and
+    prevention examinations. To this end, we will explore the principle of the best
+    interest of the child. Furthermore, we shall argue that difficult trade-offs need
+    to be made between group benefit on the one hand and individual autonomy and privacy
+    on the other.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: As a means of preventive medicine early detection and prevention examinations
+  can identify and treat possible health disorders or abnormalities from an early
+  age onwards. However, pediatric examinations are often widely spaced, and thus only
+  snapshots of the children's and adolescents' developments are obtained. With e-health
+  applications parents and adolescents could record developmental parameters much
+  more frequently and regularly and transmit data directly for ongoing evaluation.
+  AI technologies could be used to search for new and previously unknown patterns.
+  Although e-health applications could improve preventive healthcare, there are serious
+  concerns about the unlimited use of big data in medicine. Such concerns range from
+  general skepticism about big data in medicine to specific challenges and risks in
+  certain medical areas. In this paper, we will focus on preventive health care in
+  pediatrics and explore ethical implications of e-health applications. Specifically,
+  we will address opportunities and risks of app-based data collection and AI-based
+  data evaluation for complementing established early detection and prevention examinations.
+  To this end, we will explore the principle of the best interest of the child. Furthermore,
+  we shall argue that difficult trade-offs need to be made between group benefit on
+  the one hand and individual autonomy and privacy on the other.
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:1664-8021
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3389/fgene.2022.902631
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/37035b56-c508-426d-9c95-512850687c32
+schema_type: xyzri:XYZPublication
+title: Ethical Implications of e-Health Applications in Early Preventive Healthcare

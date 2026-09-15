@@ -1,0 +1,5 @@
+description: An instance or a session in which testimony and arguments are presented,
+  esp. before an official, as a judge in a lawsuit.
+display_label: Hearing
+pid: bibo:Hearing
+schema_type: xyzri:XYZBibliographicType

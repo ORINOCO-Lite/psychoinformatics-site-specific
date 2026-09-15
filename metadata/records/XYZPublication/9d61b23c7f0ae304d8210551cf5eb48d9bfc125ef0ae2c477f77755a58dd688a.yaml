@@ -1,0 +1,74 @@
+attributed_to:
+- object: xyzrins:persons/11bba584-d08e-47f2-b3d4-980c5472dca3
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/91325970-a275-4cb9-ad49-568d705b798c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Predicting executive functioning from functional brain connectivity: network
+    specificity and age effects'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Healthy aging is associated with altered executive functioning (EF). Earlier
+    studies found age-related differences in EF performance to be partially accounted
+    for by changes in resting-state functional connectivity (RSFC) within brain networks
+    associated with EF. However, it remains unclear which role RSFC in EF-associated
+    networks plays as a marker for individual differences in EF performance. Here,
+    we investigated to what degree individual abilities across 3 different EF tasks
+    can be predicted from RSFC within EF-related, perceptuo-motor, whole-brain, and
+    random networks separately in young and old adults. Specifically, we were interested
+    if (i) young and old adults differ in predictability depending on network or EF
+    demand level (high vs. low), (ii) an EF-related network outperforms EF-unspecific
+    networks when predicting EF abilities, and (iii) this pattern changes with demand
+    level. Both our uni- and multivariate analysis frameworks analyzing interactions
+    between age × demand level × networks revealed overall low prediction accuracies
+    and a general lack of specificity regarding neurobiological networks for predicting
+    EF abilities. This questions the idea of finding markers for individual EF performance
+    in RSFC patterns and calls for future research replicating the current approach
+    in different task states, brain modalities, different, larger samples, and with
+    more comprehensive behavioral measures.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Healthy aging is associated with altered executive functioning (EF).
+  Earlier studies found age-related differences in EF performance to be partially
+  accounted for by changes in resting-state functional connectivity (RSFC) within
+  brain networks associated with EF. However, it remains unclear which role RSFC in
+  EF-associated networks plays as a marker for individual differences in EF performance.
+  Here, we investigated to what degree individual abilities across 3 different EF
+  tasks can be predicted from RSFC within EF-related, perceptuo-motor, whole-brain,
+  and random networks separately in young and old adults. Specifically, we were interested
+  if (i) young and old adults differ in predictability depending on network or EF
+  demand level (high vs. low), (ii) an EF-related network outperforms EF-unspecific
+  networks when predicting EF abilities, and (iii) this pattern changes with demand
+  level. Both our uni- and multivariate analysis frameworks analyzing interactions
+  between age × demand level × networks revealed overall low prediction accuracies
+  and a general lack of specificity regarding neurobiological networks for predicting
+  EF abilities. This questions the idea of finding markers for individual EF performance
+  in RSFC patterns and calls for future research replicating the current approach
+  in different task states, brain modalities, different, larger samples, and with
+  more comprehensive behavioral measures.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1047-3211
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/cercor/bhac520
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/d8c0ccbd-9c3f-4153-9ee4-3b1e5ce87547
+schema_type: xyzri:XYZPublication
+title: 'Predicting executive functioning from functional brain connectivity: network
+  specificity and age effects'

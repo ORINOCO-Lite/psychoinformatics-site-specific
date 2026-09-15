@@ -1,0 +1,89 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Shared and Specific Neural Correlates of Attention Deficit Hyperactivity
+    Disorder and Autism Spectrum Disorder: A Meta-Analysis of 243 Task-Based Functional
+    MRI Studies'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Objective:To investigate shared and specific neural correlates of cognitive
+    functions in attention deficit hyperactivity disorder (ADHD) and autism spectrum
+    disorder (ASD), the authors performed a comprehensive meta-analysis and considered
+    a balanced set of neuropsychological tasks across the two disorders.Methods:A
+    broad set of electronic databases was searched up to December 4, 2022, for task-based
+    functional MRI studies investigating differences between individuals with ADHD
+    or ASD and typically developing control subjects. Spatial coordinates of brain
+    loci differing significantly between case and control subjects were extracted.
+    To avoid potential diagnosis-driven selection bias of cognitive tasks, the tasks
+    were grouped according to the Research Domain Criteria framework, and stratified
+    sampling was used to match cognitive component profiles. Activation likelihood
+    estimation was used for the meta-analysis.Results:After screening 20,756 potentially
+    relevant references, a meta-analysis of 243 studies was performed, which included
+    3,084 participants with ADHD (676 females), 2,654 participants with ASD (292 females),
+    and 6,795 control subjects (1,909 females). ASD and ADHD showed shared greater
+    activations in the lingual and rectal gyri and shared lower activations in regions
+    including the middle frontal gyrus, the parahippocampal gyrus, and the insula.
+    By contrast, there were ASD-specific greater and lower activations in regions
+    including the left middle temporal gyrus and the left middle frontal gyrus, respectively,
+    and ADHD-specific greater and lower activations in the amygdala and the global
+    pallidus, respectively.Conclusions:Although ASD and ADHD showed both shared and
+    disorder-specific standardized neural activations, disorder-specific activations
+    were more prominent than shared ones. Functional brain differences between ADHD
+    and ASD are more likely to reflect diagnosis-related pathophysiology than bias
+    from the selection of specific neuropsychological tasks.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Objective:To investigate shared and specific neural correlates of cognitive
+  functions in attention deficit hyperactivity disorder (ADHD) and autism spectrum
+  disorder (ASD), the authors performed a comprehensive meta-analysis and considered
+  a balanced set of neuropsychological tasks across the two disorders.Methods:A broad
+  set of electronic databases was searched up to December 4, 2022, for task-based
+  functional MRI studies investigating differences between individuals with ADHD or
+  ASD and typically developing control subjects. Spatial coordinates of brain loci
+  differing significantly between case and control subjects were extracted. To avoid
+  potential diagnosis-driven selection bias of cognitive tasks, the tasks were grouped
+  according to the Research Domain Criteria framework, and stratified sampling was
+  used to match cognitive component profiles. Activation likelihood estimation was
+  used for the meta-analysis.Results:After screening 20,756 potentially relevant references,
+  a meta-analysis of 243 studies was performed, which included 3,084 participants
+  with ADHD (676 females), 2,654 participants with ASD (292 females), and 6,795 control
+  subjects (1,909 females). ASD and ADHD showed shared greater activations in the
+  lingual and rectal gyri and shared lower activations in regions including the middle
+  frontal gyrus, the parahippocampal gyrus, and the insula. By contrast, there were
+  ASD-specific greater and lower activations in regions including the left middle
+  temporal gyrus and the left middle frontal gyrus, respectively, and ADHD-specific
+  greater and lower activations in the amygdala and the global pallidus, respectively.Conclusions:Although
+  ASD and ADHD showed both shared and disorder-specific standardized neural activations,
+  disorder-specific activations were more prominent than shared ones. Functional brain
+  differences between ADHD and ASD are more likely to reflect diagnosis-related pathophysiology
+  than bias from the selection of specific neuropsychological tasks.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0002-953X
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1176/appi.ajp.20230270
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2028-12-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/sfb1451
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8b0f600e-e782-44a9-b32d-29b127231800
+schema_type: xyzri:XYZPublication
+title: 'Shared and Specific Neural Correlates of Attention Deficit Hyperactivity Disorder
+  and Autism Spectrum Disorder: A Meta-Analysis of 243 Task-Based Functional MRI Studies'

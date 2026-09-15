@@ -1,0 +1,5 @@
+description: A person or organization responsible for managing databases or other
+  data sources
+display_label: Data manager
+pid: marcrel:dtm
+schema_type: xyzri:XYZAgentRole

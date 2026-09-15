@@ -1,0 +1,19 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Moral gestalten. Zur Bezugnahme auf natürliche Tatsachen in der Ethik
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:Chapter
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.30965/9783969752470_008
+  schema_type: dlthings:DOI
+kind: bibo:Chapter
+pid: xyzrins:publications/caba0251-256b-45ab-ab7e-3589efa5e356
+schema_type: xyzri:XYZPublication
+title: Moral gestalten. Zur Bezugnahme auf natürliche Tatsachen in der Ethik

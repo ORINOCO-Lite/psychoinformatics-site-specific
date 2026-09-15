@@ -1,0 +1,81 @@
+attributed_to:
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Predictive modeling of significance thresholding in activation likelihood
+    estimation meta-analysis
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Activation Likelihood Estimation (ALE) employs voxel- or cluster-level family-wise
+    error (vFWE or cFWE) correction or threshold-free cluster enhancement (TFCE) to
+    counter false positives due to multiple comparisons. These corrections utilize
+    Monte-Carlo simulations to approximate a null distribution of spatial convergence,
+    which allows for the determination of a corrected significance threshold. The
+    simulations may take many hours depending on the dataset and the hardware used
+    to run the computations. In this study, we aimed to replace the time-consuming
+    Monte-Carlo simulation procedure with an instantaneous machine-learning prediction
+    based on features of the meta-analysis dataset. These features were created from
+    the number of experiments in the dataset, the number of subjects per experiment,
+    and the number of foci reported per experiment. We simulated 68,100 training datasets,
+    containing between 10 and 150 experiments and computed the vFWE, cFWE, and TFCE
+    significance thresholds. We then used this data to train one XGBoost regression
+    model for each thresholding technique. Lastly, we validated the performance of
+    the three models using 11 independent real-life datasets (21 contrasts) from previously
+    published ALE meta-analyses. The vFWE model reached near-perfect prediction levels
+    (R² = 0.996), while the TFCE and cFWE models achieved very good prediction accuracies
+    of R² = 0.951 and R² = 0.938, respectively. This means that, on average, the difference
+    between predicted and standard (monte-carlo based) cFWE thresholds was less than
+    two voxels. Given that our model predicts significance thresholds in ALE meta-analyses
+    with very high accuracy, we advocate our efficient prediction approach as a replacement
+    for the currently used Monte-Carlo simulations in future ALE analyses. This will
+    save hours of computation time and reduce energy consumption. Furthermore, the
+    reduced compute time allows for easier implementation of multi-analysis set-ups
+    like leave-one-out sensitivity analysis or subsampling.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Activation Likelihood Estimation (ALE) employs voxel- or cluster-level
+  family-wise error (vFWE or cFWE) correction or threshold-free cluster enhancement
+  (TFCE) to counter false positives due to multiple comparisons. These corrections
+  utilize Monte-Carlo simulations to approximate a null distribution of spatial convergence,
+  which allows for the determination of a corrected significance threshold. The simulations
+  may take many hours depending on the dataset and the hardware used to run the computations.
+  In this study, we aimed to replace the time-consuming Monte-Carlo simulation procedure
+  with an instantaneous machine-learning prediction based on features of the meta-analysis
+  dataset. These features were created from the number of experiments in the dataset,
+  the number of subjects per experiment, and the number of foci reported per experiment.
+  We simulated 68,100 training datasets, containing between 10 and 150 experiments
+  and computed the vFWE, cFWE, and TFCE significance thresholds. We then used this
+  data to train one XGBoost regression model for each thresholding technique. Lastly,
+  we validated the performance of the three models using 11 independent real-life
+  datasets (21 contrasts) from previously published ALE meta-analyses. The vFWE model
+  reached near-perfect prediction levels (R² = 0.996), while the TFCE and cFWE models
+  achieved very good prediction accuracies of R² = 0.951 and R² = 0.938, respectively.
+  This means that, on average, the difference between predicted and standard (monte-carlo
+  based) cFWE thresholds was less than two voxels. Given that our model predicts significance
+  thresholds in ALE meta-analyses with very high accuracy, we advocate our efficient
+  prediction approach as a replacement for the currently used Monte-Carlo simulations
+  in future ALE analyses. This will save hours of computation time and reduce energy
+  consumption. Furthermore, the reduced compute time allows for easier implementation
+  of multi-analysis set-ups like leave-one-out sensitivity analysis or subsampling.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2837-6056
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1162/imag_a_00423
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/e2c3d99a-6d5a-4eff-95e7-09b39be81448
+schema_type: xyzri:XYZPublication
+title: Predictive modeling of significance thresholding in activation likelihood estimation
+  meta-analysis

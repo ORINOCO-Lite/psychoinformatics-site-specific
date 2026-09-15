@@ -1,0 +1,63 @@
+attributed_to:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Multimodal Precision Neuroimaging of the Individual Human Brain at Ultra-high
+    fields
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Multimodal neuroimaging allows for non-invasive examination of human brain
+    structure and function across multiple scales. Precision neuroimaging builds upon
+    this foundation, enabling the mapping of brain structure, function, and connectivity
+    patterns with high fidelity in single individuals. Ultra-high field (UHF) neuroimaging,
+    operating at magnetic field strengths of 7 Tesla or higher, increases signal-to-noise
+    ratio and offers even higher spatial resolution. Here, we provide a multimodal
+    Precision Neuroimaging and Connectomics (PNI) dataset, utilizing UHF 7T magnetic
+    resonance imaging (MRI). Ten healthy individuals underwent a comprehensive MRI
+    protocol, including T1 relaxometry, magnetization transfer imaging, T2*-weighted
+    imaging, diffusion MRI, and multi-state functional MRI paradigms, aggregated across
+    three imaging sessions. Alongside anonymized raw imaging data, we release cortex-wide
+    connectomes from different modalities across multiple parcellation scales, and
+    supply “gradients” that compactly characterize spatial patterning of cortical
+    organization. Our precision imaging dataset will advance our understanding of
+    structure-function relationships in the individual human brain and is publicly
+    available via the Open Science Framework (https://osf.io/mhq3f/) and the Canadian
+    Open Neuroscience Platform data portal (https://portal.conp.ca).
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Multimodal neuroimaging allows for non-invasive examination of human
+  brain structure and function across multiple scales. Precision neuroimaging builds
+  upon this foundation, enabling the mapping of brain structure, function, and connectivity
+  patterns with high fidelity in single individuals. Ultra-high field (UHF) neuroimaging,
+  operating at magnetic field strengths of 7 Tesla or higher, increases signal-to-noise
+  ratio and offers even higher spatial resolution. Here, we provide a multimodal Precision
+  Neuroimaging and Connectomics (PNI) dataset, utilizing UHF 7T magnetic resonance
+  imaging (MRI). Ten healthy individuals underwent a comprehensive MRI protocol, including
+  T1 relaxometry, magnetization transfer imaging, T2*-weighted imaging, diffusion
+  MRI, and multi-state functional MRI paradigms, aggregated across three imaging sessions.
+  Alongside anonymized raw imaging data, we release cortex-wide connectomes from different
+  modalities across multiple parcellation scales, and supply “gradients” that compactly
+  characterize spatial patterning of cortical organization. Our precision imaging
+  dataset will advance our understanding of structure-function relationships in the
+  individual human brain and is publicly available via the Open Science Framework
+  (https://osf.io/mhq3f/) and the Canadian Open Neuroscience Platform data portal
+  (https://portal.conp.ca).
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2024.06.17.596303
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/f02e7c0e-9088-4527-960b-547e4cac26fa
+schema_type: xyzri:XYZPublication
+title: Multimodal Precision Neuroimaging of the Individual Human Brain at Ultra-high
+  fields

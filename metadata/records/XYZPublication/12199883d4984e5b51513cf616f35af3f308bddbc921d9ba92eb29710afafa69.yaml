@@ -1,0 +1,71 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Evidence From Imaging Resilience Genetics for a Protective Mechanism Against
+    Schizophrenia in the Ventral Visual Pathway
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: IntroductionIlluminating neurobiological mechanisms underlying the protective
+    effect of recently discovered common genetic resilience variants for schizophrenia
+    is crucial for more effective prevention efforts. Current models implicate adaptive
+    neuroplastic changes in the visual system and their pro-cognitive effects as a
+    schizophrenia resilience mechanism. We investigated whether common genetic resilience
+    variants might affect brain structure in similar neural circuits.MethodUsing structural
+    magnetic resonance imaging, we measured the impact of an established schizophrenia
+    polygenic resilience score (PRSResilience) on cortical volume, thickness, and
+    surface area in 101 healthy subjects and in a replication sample of 33 224 healthy
+    subjects (UK Biobank).FindingWe observed a significant positive whole-brain correlation
+    between PRSResilience and cortical volume in the right fusiform gyrus (FFG) (r
+    = 0.35; P = .0004). Post-hoc analyses in this cluster revealed an impact of PRSResilience
+    on cortical surface area. The replication sample showed a positive correlation
+    between PRSResilience and global cortical volume and surface area in the left
+    FFG.ConclusionOur findings represent the first evidence of a neurobiological correlate
+    of a genetic resilience factor for schizophrenia. They support the view that schizophrenia
+    resilience emerges from strengthening neural circuits in the ventral visual pathway
+    and an increased capacity for the disambiguation of social and nonsocial visual
+    information. This may aid psychosocial functioning, ameliorate the detrimental
+    effects of subtle perceptual and cognitive disturbances in at-risk individuals,
+    and facilitate coping with the cognitive and psychosocial consequences of stressors.
+    Our results thus provide a novel link between visual cognition, the vulnerability-stress
+    concept, and schizophrenia resilience models.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: IntroductionIlluminating neurobiological mechanisms underlying the protective
+  effect of recently discovered common genetic resilience variants for schizophrenia
+  is crucial for more effective prevention efforts. Current models implicate adaptive
+  neuroplastic changes in the visual system and their pro-cognitive effects as a schizophrenia
+  resilience mechanism. We investigated whether common genetic resilience variants
+  might affect brain structure in similar neural circuits.MethodUsing structural magnetic
+  resonance imaging, we measured the impact of an established schizophrenia polygenic
+  resilience score (PRSResilience) on cortical volume, thickness, and surface area
+  in 101 healthy subjects and in a replication sample of 33 224 healthy subjects (UK
+  Biobank).FindingWe observed a significant positive whole-brain correlation between
+  PRSResilience and cortical volume in the right fusiform gyrus (FFG) (r = 0.35; P
+  = .0004). Post-hoc analyses in this cluster revealed an impact of PRSResilience
+  on cortical surface area. The replication sample showed a positive correlation between
+  PRSResilience and global cortical volume and surface area in the left FFG.ConclusionOur
+  findings represent the first evidence of a neurobiological correlate of a genetic
+  resilience factor for schizophrenia. They support the view that schizophrenia resilience
+  emerges from strengthening neural circuits in the ventral visual pathway and an
+  increased capacity for the disambiguation of social and nonsocial visual information.
+  This may aid psychosocial functioning, ameliorate the detrimental effects of subtle
+  perceptual and cognitive disturbances in at-risk individuals, and facilitate coping
+  with the cognitive and psychosocial consequences of stressors. Our results thus
+  provide a novel link between visual cognition, the vulnerability-stress concept,
+  and schizophrenia resilience models.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0586-7614
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/schbul/sbab151
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/3998299d-3554-4f86-a586-86b4d47f9528
+schema_type: xyzri:XYZPublication
+title: Evidence From Imaging Resilience Genetics for a Protective Mechanism Against
+  Schizophrenia in the Ventral Visual Pathway

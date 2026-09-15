@@ -1,0 +1,62 @@
+attributed_to:
+- object: xyzrins:persons/e83f7e43-be81-49eb-a1b7-901ed46ef53f
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Heritability of gray matter volume and asymmetry in chimpanzees (Pan troglodytes)
+    and their association to cognitive abilities and tool use
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Genetic studies have increasingly identified key mechanisms that underlie
+    individual and phylogenetic variation in behavioral and brain phenotypes. Here,
+    we used quantitative genetics to estimate heritability in whole brain and region-specific
+    variation in gray matter in a sample of captive chimpanzees. We included the contributions
+    of sex and age to individual variation in gray matter as well as their association
+    with cognition and motor functions and found small to moderate heritability in
+    average gray matter volume in the majority of brain regions. By contrast, weaker
+    estimates of heritability were found when considering asymmetries in gray matter
+    across brain regions. Age was inversely associated with gray matter volume for
+    the frontal lobe and the basal forebrain after accounting for sex and relatedness
+    of the chimpanzees. Chimpanzees that had higher cognition scores were found to
+    have greater leftward asymmetries in the regions comprising the frontal lobe and
+    basal forebrain component. Further, chimpanzees with better performance on a tool
+    use task had higher gray matter volumes in the frontal and basal forebrain regions.
+    However, no genetic associations were found between tool use performance or cognition
+    and the average frontal or basal forebrain gray matter volumes or asymmetry.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Genetic studies have increasingly identified key mechanisms that underlie
+  individual and phylogenetic variation in behavioral and brain phenotypes. Here,
+  we used quantitative genetics to estimate heritability in whole brain and region-specific
+  variation in gray matter in a sample of captive chimpanzees. We included the contributions
+  of sex and age to individual variation in gray matter as well as their association
+  with cognition and motor functions and found small to moderate heritability in average
+  gray matter volume in the majority of brain regions. By contrast, weaker estimates
+  of heritability were found when considering asymmetries in gray matter across brain
+  regions. Age was inversely associated with gray matter volume for the frontal lobe
+  and the basal forebrain after accounting for sex and relatedness of the chimpanzees.
+  Chimpanzees that had higher cognition scores were found to have greater leftward
+  asymmetries in the regions comprising the frontal lobe and basal forebrain component.
+  Further, chimpanzees with better performance on a tool use task had higher gray
+  matter volumes in the frontal and basal forebrain regions. However, no genetic associations
+  were found between tool use performance or cognition and the average frontal or
+  basal forebrain gray matter volumes or asymmetry.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1863-2653
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00429-025-03061-w
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/17da2c59-f9c1-4e73-a965-2dc281666bc2
+schema_type: xyzri:XYZPublication
+title: Heritability of gray matter volume and asymmetry in chimpanzees (Pan troglodytes)
+  and their association to cognitive abilities and tool use

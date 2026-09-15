@@ -1,0 +1,5 @@
+description: A person, family, or organization responsible for creating a design for
+  an object
+display_label: Designer
+pid: marcrel:dsr
+schema_type: xyzri:XYZAgentRole

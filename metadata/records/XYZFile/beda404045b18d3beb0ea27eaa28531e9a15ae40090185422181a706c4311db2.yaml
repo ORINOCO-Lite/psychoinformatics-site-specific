@@ -1,0 +1,11 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-06-13T14:43:50.874718'
+byte_size: 818908
+media_type: ''
+pid: dldi:SHA256E-s818908--55bf4fd460567ea7b9279cd52dd0f24f64cf5a2879f892f3bf6d901fca4efb40.tsv.gz
+schema_type: xyzri:XYZFile

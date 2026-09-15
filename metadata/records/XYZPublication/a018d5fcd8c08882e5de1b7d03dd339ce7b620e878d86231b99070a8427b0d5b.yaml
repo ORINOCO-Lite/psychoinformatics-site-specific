@@ -1,0 +1,89 @@
+attributed_to:
+- object: xyzrins:persons/b86edddd-1b83-43dd-b863-e724cebfef1d
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c643dc9e-7b8a-4a32-aa1b-6f371c82880a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/8f836375-520c-43d7-afb6-29abea72c0ab
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/969235eb-06f6-4eb4-857c-1681a660220a
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Genetic factors influencing a neurobiological substrate for psychiatric disorders
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: A retrospective meta-analysis of magnetic resonance imaging voxel-based morphometry
+    studies proposed that reduced gray matter volumes in the dorsal anterior cingulate
+    and the left and right anterior insular cortex-areas that constitute hub nodes
+    of the salience network-represent a common substrate for major psychiatric disorders.
+    Here, we investigated the hypothesis that the common substrate serves as an intermediate
+    phenotype to detect genetic risk variants relevant for psychiatric disease. To
+    this end, after a data reduction step, we conducted genome-wide association studies
+    of a combined common substrate measure in four population-based cohorts (n = 2271),
+    followed by meta-analysis and replication in a fifth cohort (n = 865). After correction
+    for covariates, the heritability of the common substrate was estimated at 0.50
+    (standard error 0.18). The top single-nucleotide polymorphism (SNP) rs17076061
+    was associated with the common substrate at genome-wide significance and replicated,
+    explaining 1.2% of the common substrate variance. This SNP mapped to a locus on
+    chromosome 5q35.2 harboring genes involved in neuronal development and regeneration.
+    In follow-up analyses, rs17076061 was not robustly associated with psychiatric
+    disease, and no overlap was found between the broader genetic architecture of
+    the common substrate and genetic risk for major depressive disorder, bipolar disorder,
+    or schizophrenia. In conclusion, our study identified that common genetic variation
+    indeed influences the common substrate, but that these variants do not directly
+    translate to increased disease risk. Future studies should investigate gene-by-environment
+    interactions and employ functional imaging to understand how salience network
+    structure translates to psychiatric disorder risk.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: A retrospective meta-analysis of magnetic resonance imaging voxel-based
+  morphometry studies proposed that reduced gray matter volumes in the dorsal anterior
+  cingulate and the left and right anterior insular cortex-areas that constitute hub
+  nodes of the salience network-represent a common substrate for major psychiatric
+  disorders. Here, we investigated the hypothesis that the common substrate serves
+  as an intermediate phenotype to detect genetic risk variants relevant for psychiatric
+  disease. To this end, after a data reduction step, we conducted genome-wide association
+  studies of a combined common substrate measure in four population-based cohorts
+  (n = 2271), followed by meta-analysis and replication in a fifth cohort (n = 865).
+  After correction for covariates, the heritability of the common substrate was estimated
+  at 0.50 (standard error 0.18). The top single-nucleotide polymorphism (SNP) rs17076061
+  was associated with the common substrate at genome-wide significance and replicated,
+  explaining 1.2% of the common substrate variance. This SNP mapped to a locus on
+  chromosome 5q35.2 harboring genes involved in neuronal development and regeneration.
+  In follow-up analyses, rs17076061 was not robustly associated with psychiatric disease,
+  and no overlap was found between the broader genetic architecture of the common
+  substrate and genetic risk for major depressive disorder, bipolar disorder, or schizophrenia.
+  In conclusion, our study identified that common genetic variation indeed influences
+  the common substrate, but that these variants do not directly translate to increased
+  disease risk. Future studies should investigate gene-by-environment interactions
+  and employ functional imaging to understand how salience network structure translates
+  to psychiatric disorder risk.
+generated_by:
+- at_location: ISSN:2158-3188
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41398-021-01317-7
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2027-12-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/2b40e9ef-d9d2-42f8-a502-2e6efa86a1f7
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/7cefee22-d3f5-49da-9009-8feb79412bd1
+schema_type: xyzri:XYZPublication
+title: Genetic factors influencing a neurobiological substrate for psychiatric disorders

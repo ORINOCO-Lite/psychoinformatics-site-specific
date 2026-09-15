@@ -1,0 +1,4 @@
+description: A bill enacted into law.
+display_label: Statute
+pid: bibo:Statute
+schema_type: xyzri:XYZBibliographicType

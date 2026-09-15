@@ -1,0 +1,52 @@
+attributed_to:
+- object: xyzrins:persons/3efc5cfa-a10c-4c65-9bcf-36ad37d9b7e0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/6dd61910-c158-400e-aefc-6f1cd75215e0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/535129e4-fc67-4e19-8f5e-0d4a43a4578c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: The Link between Brain age and Alzheimer’s Disease development using different
+    neuroimaging modalities
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Brain age (BA) provides a proxy of general brain health through the prediction
+    of chronological age (CA) from neuroimaging data of healthy individuals. During
+    aging, the adult brain undergoes changes both on the morphological and metabolic
+    level. Here, we compare the link between BA predicted from morphology (structural
+    MRI) or metabolism (18F-FDG-PET) and cognitive function, as well as pathophysiological
+    measures of Alzheimer’s disease (AD) in cognitively normal individuals (CN) and
+    patients with mild cognitive impairment (MCI).
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Brain age (BA) provides a proxy of general brain health through the prediction
+  of chronological age (CA) from neuroimaging data of healthy individuals. During
+  aging, the adult brain undergoes changes both on the morphological and metabolic
+  level. Here, we compare the link between BA predicted from morphology (structural
+  MRI) or metabolism (18F-FDG-PET) and cognitive function, as well as pathophysiological
+  measures of Alzheimer’s disease (AD) in cognitively normal individuals (CN) and
+  patients with mild cognitive impairment (MCI).
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:1552-5260
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/alz.065384
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/c6c6d484-84f1-43d7-8f41-0c3af1ff8c29
+schema_type: xyzri:XYZPublication
+title: The Link between Brain age and Alzheimer’s Disease development using different
+  neuroimaging modalities

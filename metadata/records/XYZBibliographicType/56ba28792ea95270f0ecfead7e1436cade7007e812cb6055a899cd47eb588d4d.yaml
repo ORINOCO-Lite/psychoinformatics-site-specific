@@ -1,0 +1,5 @@
+description: A written communication addressed to a person or organization and transmitted
+  electronically.
+display_label: EMail
+pid: bibo:Email
+schema_type: xyzri:XYZBibliographicType

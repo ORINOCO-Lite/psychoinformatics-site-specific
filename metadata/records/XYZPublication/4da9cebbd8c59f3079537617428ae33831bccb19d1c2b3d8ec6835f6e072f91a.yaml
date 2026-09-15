@@ -1,0 +1,62 @@
+attributed_to:
+- object: xyzrins:persons/b85655e7-64f5-4471-99d4-3c79c92cfb40
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c6d47fbc-8b3c-46d1-9558-1f3b94ec9141
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Parcellation-based resting-state blood-oxygen-level-dependent (BOLD) signals
+    of a healthy cohort (v1.0)
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Resting-state functional connectivity (FC) is frequently used to predict
+    behavioral, clinical and demographic subject traits. This type of brain connectome
+    can be derived from blood-oxygen-level-dependent (BOLD) signals that reflect the
+    activation of individual brain regions parcellated according to a given brain
+    atlas. Deriving FC from BOLD signals typically involves the estimation of the
+    amount of synchronized coactivations between the BOLD time series of different
+    brain regions. However, several measures of synchronization exist and which one
+    of these metrics is suited best may deviate from study to study. In parallel,
+    the appropriate selection of the brain parcellation is nowadays also still an
+    open issue. This dataset hence comprises the region-based BOLD signals extracted
+    from the resting-state functional magnetic resonance imaging (fMRI) data of 200
+    healthy subjects included in the Human Connectome Project. The time series were
+    extracted for 20 different state-of-the-art parcellations. The neuroimaging community
+    may use the data of this repository to study, for example, how different measures
+    of synchronization affect the resting-state FC under various parcellation conditions.
+description: Resting-state functional connectivity (FC) is frequently used to predict
+  behavioral, clinical and demographic subject traits. This type of brain connectome
+  can be derived from blood-oxygen-level-dependent (BOLD) signals that reflect the
+  activation of individual brain regions parcellated according to a given brain atlas.
+  Deriving FC from BOLD signals typically involves the estimation of the amount of
+  synchronized coactivations between the BOLD time series of different brain regions.
+  However, several measures of synchronization exist and which one of these metrics
+  is suited best may deviate from study to study. In parallel, the appropriate selection
+  of the brain parcellation is nowadays also still an open issue. This dataset hence
+  comprises the region-based BOLD signals extracted from the resting-state functional
+  magnetic resonance imaging (fMRI) data of 200 healthy subjects included in the Human
+  Connectome Project. The time series were extracted for 20 different state-of-the-art
+  parcellations. The neuroimaging community may use the data of this repository to
+  study, for example, how different measures of synchronization affect the resting-state
+  FC under various parcellation conditions.
+identifiers:
+- notation: 10.25493/F9DP-WCQ
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2023-09-30'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/hbp-sga3
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2020-04-01'
+    schema_type: dlthings:Start
+pid: xyzrins:publications/2d3ba5cc-e480-408b-9aaa-6916e77f02b0
+schema_type: xyzri:XYZPublication
+title: Parcellation-based resting-state blood-oxygen-level-dependent (BOLD) signals
+  of a healthy cohort (v1.0)

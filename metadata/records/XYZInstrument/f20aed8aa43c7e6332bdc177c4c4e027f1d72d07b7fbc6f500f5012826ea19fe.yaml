@@ -1,0 +1,17 @@
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcat:downloadUrl
+  schema_type: dlthings:AttributeSpecification
+  value: https://hub.psychoinformatics.de/orinoco/things-enrichment-tools/src/branch/main/tools/scrape-juser.py
+description: A CI-automated script that periodically scrapes the Juser publication
+  data base and adds relevant publications as XYZPublication records (research information
+  scheme compliant)
+generated_by:
+- object: xyzrins:projects/orinoco
+  schema_type: dlthings:Generation
+kind: obo:IAO_0000010
+name: Juser scraping script
+pid: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+schema_type: xyzri:XYZInstrument

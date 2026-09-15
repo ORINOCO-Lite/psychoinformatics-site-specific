@@ -1,0 +1,29 @@
+about:
+- xyzrins:topics/naturalistic-neuroimaging
+- xyzrins:topics/research-data
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-05-18T13:05:01.901709'
+attributed_to:
+- object: xyzrins:persons/christian-haeusler
+  roles:
+  - obo:MS_1002034
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002035
+  schema_type: dlthings:Attribution
+generated_by:
+- at_location: ISSN:2046-1402
+  at_time: '2016-09-08'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/7a8f5c76-b891-4d99-a460-de928523f093
+schema_type: xyzri:XYZPublication
+title: An annotation of cuts, depicted locations, and temporal progression in the
+  motion picture "Forrest Gump"

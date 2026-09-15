@@ -1,0 +1,49 @@
+attributed_to:
+- object: xyzrins:persons/c643dc9e-7b8a-4a32-aa1b-6f371c82880a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/13246f09-6c77-45ca-a638-0f27589e3ba0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/5836e9aa-bcd6-493d-bc7c-8f866c8ab2a7
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/8f836375-520c-43d7-afb6-29abea72c0ab
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Probabilistic cytoarchitectonic map of Area 6d1 (PreCG) (v4.1)
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: This dataset contains the distinct architectonic Area 6d1 (PreG) in the individual,
+    single subject template of the MNI Colin 27 as well as the MNI ICBM 152 2009c
+    nonlinear asymmetric reference space. As part of the JuBrain cytoarchitectonic
+    atlas, the area was identified using cytoarchitectonic analysis on cell-body-stained
+    histological sections of 10 human postmortem brains obtained from the body donor
+    program of the University of Düsseldorf. The results of the cytoarchitectonic
+    analysis were then mapped to both reference spaces, where each voxel was assigned
+    the probability to belong to Area 6d1 (PreG). The probability map of Area 6d1
+    (PreG) are provided in the NifTi format for each brain reference space and hemisphere.
+    The JuBrain atlas relies on a modular, flexible and adaptive framework containing
+    workflows to create the probabilistic brain maps for these structures. Note that
+    methodological improvements and integration of new brain structures may lead to
+    small deviations in earlier released datasets.
+description: This dataset contains the distinct architectonic Area 6d1 (PreG) in the
+  individual, single subject template of the MNI Colin 27 as well as the MNI ICBM
+  152 2009c nonlinear asymmetric reference space. As part of the JuBrain cytoarchitectonic
+  atlas, the area was identified using cytoarchitectonic analysis on cell-body-stained
+  histological sections of 10 human postmortem brains obtained from the body donor
+  program of the University of Düsseldorf. The results of the cytoarchitectonic analysis
+  were then mapped to both reference spaces, where each voxel was assigned the probability
+  to belong to Area 6d1 (PreG). The probability map of Area 6d1 (PreG) are provided
+  in the NifTi format for each brain reference space and hemisphere. The JuBrain atlas
+  relies on a modular, flexible and adaptive framework containing workflows to create
+  the probabilistic brain maps for these structures. Note that methodological improvements
+  and integration of new brain structures may lead to small deviations in earlier
+  released datasets.
+identifiers:
+- notation: 10.25493/4WSQ-8FM
+  schema_type: dlthings:DOI
+pid: xyzrins:publications/e2a03a26-64c1-413f-9266-2347945ac18f
+schema_type: xyzri:XYZPublication
+title: Probabilistic cytoarchitectonic map of Area 6d1 (PreCG) (v4.1)

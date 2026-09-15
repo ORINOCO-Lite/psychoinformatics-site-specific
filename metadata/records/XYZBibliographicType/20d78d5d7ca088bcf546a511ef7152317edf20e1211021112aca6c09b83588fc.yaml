@@ -1,0 +1,5 @@
+description: 'A document describing a standard: a specification organized through
+  a standards body.'
+display_label: Standard
+pid: bibo:Standard
+schema_type: xyzri:XYZBibliographicType

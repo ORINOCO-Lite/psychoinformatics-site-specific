@@ -1,0 +1,28 @@
+attributed_to:
+- object: xyzrins:persons/3efc5cfa-a10c-4c65-9bcf-36ad37d9b7e0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'FastGPR: Divide-and-Conquer Technique in Neuroimaging Data Shortens Training
+    Time and Improves Accuracy'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1109/ISBI56570.2024.10635167
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/a5006c5e-3e1f-49f1-aefa-15e14cec67dc
+schema_type: xyzri:XYZPublication
+title: 'FastGPR: Divide-and-Conquer Technique in Neuroimaging Data Shortens Training
+  Time and Improves Accuracy'

@@ -1,0 +1,54 @@
+attributed_to:
+- object: xyzrins:persons/3764fca4-0337-4395-a553-9be5d479df80
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Merely virtual virtue? The empathy machine hypothesis and the promise of
+    virtual reality
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Virtual reality (VR) induces a radical psychological reorientation. Yet descriptions
+    of this reorientation are often steeped in theoretically misleading metaphors.
+    We offer a more measured account, grounded in both philosophy and cognitive psychology,
+    and use it to assess the claim that VR promotes moral learning by simulating another’s
+    perspective. This hypothesis depends on the assumption that avatar use produces
+    experiences sufficiently similar to those of others to enable empathic growth.
+    We reject that assumption and offer two arguments against it. Empathy relevant
+    to moral learning requires interpretive effort and contextual understanding, not
+    just a shift in perspective. And VR’s open-ended, user-driven structure tends
+    to reinforce prior assumptions rather than unsettle them. Still, avatar use may
+    have a different effect on moral learning, which we call self-fragmentation. By
+    loosening the boundaries of the self, VR may expand the range of people one is
+    disposed to empathize with.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Virtual reality (VR) induces a radical psychological reorientation. Yet
+  descriptions of this reorientation are often steeped in theoretically misleading
+  metaphors. We offer a more measured account, grounded in both philosophy and cognitive
+  psychology, and use it to assess the claim that VR promotes moral learning by simulating
+  another’s perspective. This hypothesis depends on the assumption that avatar use
+  produces experiences sufficiently similar to those of others to enable empathic
+  growth. We reject that assumption and offer two arguments against it. Empathy relevant
+  to moral learning requires interpretive effort and contextual understanding, not
+  just a shift in perspective. And VR’s open-ended, user-driven structure tends to
+  reinforce prior assumptions rather than unsettle them. Still, avatar use may have
+  a different effect on moral learning, which we call self-fragmentation. By loosening
+  the boundaries of the self, VR may expand the range of people one is disposed to
+  empathize with.
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:0951-5089
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1080/09515089.2025.2549085
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/26071b43-845a-4d8c-881f-ab1cfc06bfde
+schema_type: xyzri:XYZPublication
+title: Merely virtual virtue? The empathy machine hypothesis and the promise of virtual
+  reality

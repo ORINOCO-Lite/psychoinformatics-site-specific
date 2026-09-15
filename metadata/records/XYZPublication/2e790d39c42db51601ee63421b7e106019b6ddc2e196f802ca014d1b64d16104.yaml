@@ -1,0 +1,76 @@
+about:
+- xyzrins:topics/neuroimaging
+- xyzrins:topics/predictive-data-analysis
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-04-01T09:57:04.315339'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/falko-kaule
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: orcid:0000-0001-5840-5658
+  roles:
+  - obo:MS_1002035
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Individual face- and house-related eye movement patterns distinctively activate
+    FFA and PPA
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: We investigated if the fusiform face area (FFA) and the parahippocampal place
+    area (PPA)contain a representation offixation sequences that are typically used
+    when looking at faces orhouses. Here, we instructed observers to follow a dot
+    presented on a uniform background.The dot’s movements represented gaze paths acquired
+    separately from observers looking atface or house pictures. Even when gaze dispersion
+    differences were controlled, face- andhouse-associated gaze patterns could be
+    discriminated by fMRI multivariate pattern analysisin FFA and PPA, more so for
+    the current observer’s own gazes than for another observer’sgaze. The discrimination
+    of the observer’s own gaze patterns was not observed in early visualareas (V1–V4)
+    or superior parietal lobule and frontal eyefields. Thesefindings indicate a linkbetween
+    perception and action—the complex gaze patterns that are used to explore facesand
+    houses—in the FFA and PPA.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: We investigated if the fusiform face area (FFA) and the parahippocampal
+  place area (PPA) contain a representation of fixation sequences that are typically
+  used when looking at faces or houses. Here, we instructed observers to follow a
+  dot presented on a uniform background. The dot’s movements represented gaze paths
+  acquired separately from observers looking at face or house pictures. Even when
+  gaze dispersion differences were controlled, face- and house-associated gaze patterns
+  could be discriminated by fMRI multivariate pattern analysis in FFA and PPA, more
+  so for the current observer’s own gazes than for another observer’s gaze. The discrimination
+  of the observer’s own gaze patterns was not observed in early visual areas (V1 –
+  V4) or superior parietal lobule and frontal eye fields. These findings indicate
+  a link between perception and action—the complex gaze patterns that are used to
+  explore faces and houses—in the FFA and PPA.
+generated_by:
+- at_location: ISSN:2041-1723
+  at_time: '2019-12-04'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+- at_location: ISSN:2041-1723
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41467-019-13541-3
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8d618838-29d3-48d2-ba87-ca1cf0835b96
+rules:
+- spdxlic:CC-BY-4.0
+schema_type: xyzri:XYZPublication
+title: Individual face and house-related eye movement patterns distinctively activate
+  FFA and PPA in the absence of faces and houses.

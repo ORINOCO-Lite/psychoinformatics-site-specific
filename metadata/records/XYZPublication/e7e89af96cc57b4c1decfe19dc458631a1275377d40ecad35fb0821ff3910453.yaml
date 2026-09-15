@@ -1,0 +1,28 @@
+attributed_to:
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Developing a novel tool to assess the ability to self-administer medication
+    – A systematic evaluation of patients’ video recordings in the ABLYMED study
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2296-858X
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3389/fmed.2023.1040528
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/1a62baf6-3adc-425a-90bf-0354bfdf106f
+schema_type: xyzri:XYZPublication
+title: Developing a novel tool to assess the ability to self-administer medication
+  – A systematic evaluation of patients’ video recordings in the ABLYMED study

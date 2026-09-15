@@ -1,0 +1,71 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Transcription Factor Motifs Associated with Anterior Insula Gene Expression
+    Underlying Mood Disorder Phenotypes
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Mood disorders represent a major cause of morbidity and mortality worldwide
+    but the brain-related molecular pathophysiology in mood disorders remains largely
+    undefined. Because the anterior insula is reduced in volume in patients with mood
+    disorders, RNA was extracted from the anterior insula postmortem anterior insula
+    of mood disorder samples and compared with unaffected controls for RNA-sequencing
+    identification of differentially expressed genes (DEGs) in (a) bipolar disorder
+    (BD; n = 37) versus (vs.) controls (n = 33), and (b) major depressive disorder
+    (MDD n = 30) vs. controls, and (c) low vs. high axis I comorbidity (a measure
+    of cumulative psychiatric disease burden). Given the regulatory role of transcription
+    factors (TFs) in gene expression via specific-DNA-binding domains (motifs), we
+    used JASPAR TF binding database to identify TF-motifs. We found that DEGs in BD
+    vs. controls, MDD vs. controls, and high vs. low axis I comorbidity were associated
+    with TF-motifs that are known to regulate expression of toll-like receptor genes,
+    cellular homeostatic-control genes, and genes involved in embryonic, cellular/organ,
+    and brain development. Robust imaging-guided transcriptomics by using meta-analytic
+    imaging results to guide independent postmortem dissection for RNA-sequencing
+    was applied by targeting the gray matter volume reduction in the anterior insula
+    in mood disorders, to guide independent postmortem identification of TF motifs
+    regulating DEG. Our findings of TF-motifs that regulate the expression of immune,
+    cellular homeostatic-control, and developmental genes provide novel information
+    about the hierarchical relationship between gene regulatory networks, the TFs
+    that control them, and proximate underlying neuroanatomical phenotypes in mood
+    disorders.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Mood disorders represent a major cause of morbidity and mortality worldwide
+  but the brain-related molecular pathophysiology in mood disorders remains largely
+  undefined. Because the anterior insula is reduced in volume in patients with mood
+  disorders, RNA was extracted from the anterior insula postmortem anterior insula
+  of mood disorder samples and compared with unaffected controls for RNA-sequencing
+  identification of differentially expressed genes (DEGs) in (a) bipolar disorder
+  (BD; n = 37) versus (vs.) controls (n = 33), and (b) major depressive disorder (MDD
+  n = 30) vs. controls, and (c) low vs. high axis I comorbidity (a measure of cumulative
+  psychiatric disease burden). Given the regulatory role of transcription factors
+  (TFs) in gene expression via specific-DNA-binding domains (motifs), we used JASPAR
+  TF binding database to identify TF-motifs. We found that DEGs in BD vs. controls,
+  MDD vs. controls, and high vs. low axis I comorbidity were associated with TF-motifs
+  that are known to regulate expression of toll-like receptor genes, cellular homeostatic-control
+  genes, and genes involved in embryonic, cellular/organ, and brain development. Robust
+  imaging-guided transcriptomics by using meta-analytic imaging results to guide independent
+  postmortem dissection for RNA-sequencing was applied by targeting the gray matter
+  volume reduction in the anterior insula in mood disorders, to guide independent
+  postmortem identification of TF motifs regulating DEG. Our findings of TF-motifs
+  that regulate the expression of immune, cellular homeostatic-control, and developmental
+  genes provide novel information about the hierarchical relationship between gene
+  regulatory networks, the TFs that control them, and proximate underlying neuroanatomical
+  phenotypes in mood disorders.
+generated_by:
+- at_location: ISSN:0893-7648
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s12035-020-02195-8
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/6dc332c5-d685-4172-9f54-bc612826b8b1
+schema_type: xyzri:XYZPublication
+title: Transcription Factor Motifs Associated with Anterior Insula Gene Expression
+  Underlying Mood Disorder Phenotypes

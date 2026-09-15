@@ -1,0 +1,6 @@
+broad_mappings:
+- marcrel:aut
+description: One of a set of authors associated with a publication or release.
+display_label: Co-author
+pid: obo:MS_1002036
+schema_type: xyzri:XYZAgentRole

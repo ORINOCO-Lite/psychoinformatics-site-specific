@@ -1,0 +1,4 @@
+description: A small reference book, especially one giving instructions.
+display_label: Manual
+pid: bibo:Manual
+schema_type: xyzri:XYZBibliographicType

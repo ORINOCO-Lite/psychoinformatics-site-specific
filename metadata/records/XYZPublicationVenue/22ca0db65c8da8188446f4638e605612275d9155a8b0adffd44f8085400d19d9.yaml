@@ -1,0 +1,9 @@
+display_note: ISSN:0035-9254
+identifiers:
+- creator: ror:026ytr635
+  notation: 0035-9254
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:0035-9254
+schema_type: xyzri:XYZPublicationVenue
+title: Journal Of The Royal Statistical Society / C

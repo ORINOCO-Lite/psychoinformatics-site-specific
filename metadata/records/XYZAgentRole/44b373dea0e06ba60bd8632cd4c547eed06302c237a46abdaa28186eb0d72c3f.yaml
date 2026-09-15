@@ -1,0 +1,5 @@
+description: A person or organization relevant to a resource, who enters into a contract
+  with another person or organization to perform a specific
+display_label: Contractor
+pid: marcrel:ctr
+schema_type: xyzri:XYZAgentRole

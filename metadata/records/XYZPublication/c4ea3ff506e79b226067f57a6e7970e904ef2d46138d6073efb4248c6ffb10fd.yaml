@@ -1,0 +1,125 @@
+attributed_to:
+- object: xyzrins:persons/6ae68288-73ec-491b-a25f-75bbf9783e70
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Aberrant computational mechanisms of social learning and decision-making
+    in schizophrenia and borderline personality disorder
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Psychiatric disorders are ubiquitously characterized by debilitating social
+    impairments. These difficulties are thought to emerge from aberrant social inference.
+    In order to elucidate the underlying computational mechanisms, patients diagnosed
+    with major depressive disorder (N = 29), schizophrenia (N = 31), and borderline
+    personality disorder (N = 31) as well as healthy controls (N = 34) performed a
+    probabilistic reward learning task in which participants could learn from social
+    and non-social information. Patients with schizophrenia and borderline personality
+    disorder performed more poorly on the task than healthy controls and patients
+    with major depressive disorder. Broken down by domain, borderline personality
+    disorder patients performed better in the social compared to the non-social domain.
+    In contrast, controls and major depressive disorder patients showed the opposite
+    pattern and schizophrenia patients showed no difference between domains. In effect,
+    borderline personality disorder patients gave up a possible overall performance
+    advantage by concentrating their learning in the social at the expense of the
+    non-social domain. We used computational modeling to assess learning and decision-making
+    parameters estimated for each participant from their behavior. This enabled additional
+    insights into the underlying learning and decision-making mechanisms. Patients
+    with borderline personality disorder showed slower learning from social and non-social
+    information and an exaggerated sensitivity to changes in environmental volatility,
+    both in the non-social and the social domain, but more so in the latter. Regarding
+    decision-making the modeling revealed that compared to controls and major depression
+    patients, patients with borderline personality disorder and schizophrenia showed
+    a stronger reliance on social relative to non-social information when making choices.
+    Depressed patients did not differ significantly from controls in this respect.
+    Overall, our results are consistent with the notion of a general interpersonal
+    hypersensitivity in borderline personality disorder and schizophrenia based on
+    a shared computational mechanism characterized by an over-reliance on beliefs
+    about others in making decisions and by an exaggerated need to make sense of others
+    during learning specifically in borderline personality disorder.Author summaryPeople
+    suffering from psychiatric disorders frequently experience difficulties in social
+    interaction, such as an impaired ability to use social signals to build representations
+    of others and use these to guide behavior. Compuational models of learning and
+    decision-making enable the characterization of individual patterns in learning
+    and decision-making mechanisms that may be disorder-specific or disorder-general.
+    We employed this approach to investigate the behavior of healthy participants
+    and patients diagnosed with depression, schizophrenia, and borderline personality
+    disorder while they performed a probabilistic reward learning task which included
+    a social component. Patients with schizophrenia and borderline personality disorder
+    performed more poorly on the task than controls and depressed patients. In addition,
+    patients with borderline personality disorder concentrated their learning efforts
+    more on the social compared to the non-social information. Computational modeling
+    additionally revealed that borderline personality disorder patients showed a reduced
+    flexibility in the weighting of newly obtained social and non-social information
+    when learning about their predictive value. Instead, we found exaggerated learning
+    of the volatility of social and non-social information. Additionally, we found
+    a pattern shared between patients with borderline personality disorder and schizophrenia
+    who both showed an over-reliance on predictions about social information during
+    decision-making. Our modeling therefore provides a computational account of the
+    exaggerated need to make sense of and rely on one’s interpretation of others’
+    behavior, which is prominent
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Psychiatric disorders are ubiquitously characterized by debilitating
+  social impairments. These difficulties are thought to emerge from aberrant social
+  inference. In order to elucidate the underlying computational mechanisms, patients
+  diagnosed with major depressive disorder (N = 29), schizophrenia (N = 31), and borderline
+  personality disorder (N = 31) as well as healthy controls (N = 34) performed a probabilistic
+  reward learning task in which participants could learn from social and non-social
+  information. Patients with schizophrenia and borderline personality disorder performed
+  more poorly on the task than healthy controls and patients with major depressive
+  disorder. Broken down by domain, borderline personality disorder patients performed
+  better in the social compared to the non-social domain. In contrast, controls and
+  major depressive disorder patients showed the opposite pattern and schizophrenia
+  patients showed no difference between domains. In effect, borderline personality
+  disorder patients gave up a possible overall performance advantage by concentrating
+  their learning in the social at the expense of the non-social domain. We used computational
+  modeling to assess learning and decision-making parameters estimated for each participant
+  from their behavior. This enabled additional insights into the underlying learning
+  and decision-making mechanisms. Patients with borderline personality disorder showed
+  slower learning from social and non-social information and an exaggerated sensitivity
+  to changes in environmental volatility, both in the non-social and the social domain,
+  but more so in the latter. Regarding decision-making the modeling revealed that
+  compared to controls and major depression patients, patients with borderline personality
+  disorder and schizophrenia showed a stronger reliance on social relative to non-social
+  information when making choices. Depressed patients did not differ significantly
+  from controls in this respect. Overall, our results are consistent with the notion
+  of a general interpersonal hypersensitivity in borderline personality disorder and
+  schizophrenia based on a shared computational mechanism characterized by an over-reliance
+  on beliefs about others in making decisions and by an exaggerated need to make sense
+  of others during learning specifically in borderline personality disorder.Author
+  summaryPeople suffering from psychiatric disorders frequently experience difficulties
+  in social interaction, such as an impaired ability to use social signals to build
+  representations of others and use these to guide behavior. Compuational models of
+  learning and decision-making enable the characterization of individual patterns
+  in learning and decision-making mechanisms that may be disorder-specific or disorder-general.
+  We employed this approach to investigate the behavior of healthy participants and
+  patients diagnosed with depression, schizophrenia, and borderline personality disorder
+  while they performed a probabilistic reward learning task which included a social
+  component. Patients with schizophrenia and borderline personality disorder performed
+  more poorly on the task than controls and depressed patients. In addition, patients
+  with borderline personality disorder concentrated their learning efforts more on
+  the social compared to the non-social information. Computational modeling additionally
+  revealed that borderline personality disorder patients showed a reduced flexibility
+  in the weighting of newly obtained social and non-social information when learning
+  about their predictive value. Instead, we found exaggerated learning of the volatility
+  of social and non-social information. Additionally, we found a pattern shared between
+  patients with borderline personality disorder and schizophrenia who both showed
+  an over-reliance on predictions about social information during decision-making.
+  Our modeling therefore provides a computational account of the exaggerated need
+  to make sense of and rely on one’s interpretation of others’ behavior, which is
+  prominent
+generated_by:
+- at_location: ISSN:1553-734X
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1371/journal.pcbi.1008162
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/9cf6f906-1e8c-4dfc-8170-a9c508bd4e88
+schema_type: xyzri:XYZPublication
+title: Aberrant computational mechanisms of social learning and decision-making in
+  schizophrenia and borderline personality disorder

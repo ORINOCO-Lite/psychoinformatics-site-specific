@@ -1,0 +1,4 @@
+description: A document describing a specification.
+display_label: Specification
+pid: bibo:Specification
+schema_type: xyzri:XYZBibliographicType

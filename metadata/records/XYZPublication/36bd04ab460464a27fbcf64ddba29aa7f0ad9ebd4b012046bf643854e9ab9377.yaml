@@ -1,0 +1,46 @@
+attributed_to:
+- object: xyzrins:persons/32b961f5-689a-478b-946c-c9b009951e74
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/60feb346-954c-4625-93d6-1b8bd1ca0dfa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Künstliche Intelligenz in der Behandlung von Diabetes bei minderjährigen
+    Patienten – Ethische Aspekte
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: In diesem Kapitel befassen wir uns mit Kindern, die an Diabetes erkrankt
+    sind, und der Rolle, die künstliche Intelligenz (KI) auf deren Weg als Patienten
+    spielen kann. Als Ethiker nutzen wir diesen Fall, um die wichtigsten ethischen
+    Fragen zu untersuchen, die sich aus dem Einsatz medizinischer künstlicher Intelligenz
+    zur Unterstützung der Diagnose und Behandlung von Diabetes ergeben. Die Einführung
+    von KI in die Pädiatrie ist bereits im Gange und lässt sich nicht mehr aufhalten.
+    Wir zeigen auf, welche die wichtigsten ethischen Kriterien sind, die beachtet
+    werden sollten, und kommen zu dem Schluss, dass die Anwendung von KI-Technologien
+    in der Pädiatrie wahrscheinlich sehr positive Auswirkungen haben wird, wenn die
+    Anforderungen der Moral erfüllt werden.
+characterized_by:
+- object: bibo:Chapter
+  predicate: dcterms:type
+description: In diesem Kapitel befassen wir uns mit Kindern, die an Diabetes erkrankt
+  sind, und der Rolle, die künstliche Intelligenz (KI) auf deren Weg als Patienten
+  spielen kann. Als Ethiker nutzen wir diesen Fall, um die wichtigsten ethischen Fragen
+  zu untersuchen, die sich aus dem Einsatz medizinischer künstlicher Intelligenz zur
+  Unterstützung der Diagnose und Behandlung von Diabetes ergeben. Die Einführung von
+  KI in die Pädiatrie ist bereits im Gange und lässt sich nicht mehr aufhalten. Wir
+  zeigen auf, welche die wichtigsten ethischen Kriterien sind, die beachtet werden
+  sollten, und kommen zu dem Schluss, dass die Anwendung von KI-Technologien in der
+  Pädiatrie wahrscheinlich sehr positive Auswirkungen haben wird, wenn die Anforderungen
+  der Moral erfüllt werden.
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/978-3-658-48573-3_28
+  schema_type: dlthings:DOI
+kind: bibo:Chapter
+pid: xyzrins:publications/9ee2715d-0050-4393-9b22-0dafe22fa613
+schema_type: xyzri:XYZPublication
+title: Künstliche Intelligenz in der Behandlung von Diabetes bei minderjährigen Patienten
+  – Ethische Aspekte

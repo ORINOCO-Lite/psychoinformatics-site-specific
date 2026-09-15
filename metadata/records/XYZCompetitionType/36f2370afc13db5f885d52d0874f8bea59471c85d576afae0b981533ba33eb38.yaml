@@ -1,0 +1,7 @@
+broad_mappings:
+- xyzrins:competition-types/4e49ac7d-d6da-4131-806b-6425491e26fd
+description: Funding provided by the Initiative and Networking Fund of Helmholtz for
+  projects relating to artificial intelligence.
+display_label: Helmholtz AI Project Fund
+pid: xyzrins:competition-types/aa7241a1-a418-48a9-96e3-42d2a33dc3da
+schema_type: xyzri:XYZCompetitionType

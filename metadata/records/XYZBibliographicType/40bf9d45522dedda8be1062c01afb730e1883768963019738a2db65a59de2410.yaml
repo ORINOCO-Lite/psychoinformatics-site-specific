@@ -1,0 +1,4 @@
+description: The status of the publication of a document.
+display_label: Document Status
+pid: bibo:DocumentStatus
+schema_type: xyzri:XYZBibliographicType

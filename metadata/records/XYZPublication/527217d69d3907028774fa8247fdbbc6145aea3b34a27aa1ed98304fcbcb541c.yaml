@@ -1,0 +1,62 @@
+attributed_to:
+- object: xyzrins:persons/c5630bae-5817-4599-a579-aa4fcadec6e9
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Control theory illustrates the energy efficiency in the dynamic reconfiguration
+    of functional connectivity
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'The brain''s functional connectivity fluctuates over time instead of remaining
+    steady in a stationary mode even during the resting state. This fluctuation establishes
+    the dynamical functional connectivity that transitions in a non-random order between
+    multiple modes. Yet it remains unexplored how the transition facilitates the entire
+    brain network as a dynamical system and what utility this mechanism for dynamic
+    reconfiguration can bring over the widely used graph theoretical measurements.
+    To address these questions, we propose to conduct an energetic analysis of functional
+    brain networks using resting-state fMRI and behavioral measurements from the Human
+    Connectome Project. Through comparing the state transition energy under distinct
+    adjacent matrices, we justify that dynamic functional connectivity leads to 60%
+    less energy cost to support the resting state dynamics than static connectivity
+    when driving the transition through default mode network. Moreover, we demonstrate
+    that combining graph theoretical measurements and our energy-based control measurements
+    as the feature vector can provide complementary prediction power for the behavioral
+    scores (Combination vs. Control: t = 9.41, p = 1.64e-13; Combination vs. Graph:
+    t = 4.92, p = 3.81e-6). Our approach integrates statistical inference and dynamical
+    system inspection towards understanding brain networks.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'The brain''s functional connectivity fluctuates over time instead of
+  remaining steady in a stationary mode even during the resting state. This fluctuation
+  establishes the dynamical functional connectivity that transitions in a non-random
+  order between multiple modes. Yet it remains unexplored how the transition facilitates
+  the entire brain network as a dynamical system and what utility this mechanism for
+  dynamic reconfiguration can bring over the widely used graph theoretical measurements.
+  To address these questions, we propose to conduct an energetic analysis of functional
+  brain networks using resting-state fMRI and behavioral measurements from the Human
+  Connectome Project. Through comparing the state transition energy under distinct
+  adjacent matrices, we justify that dynamic functional connectivity leads to 60%
+  less energy cost to support the resting state dynamics than static connectivity
+  when driving the transition through default mode network. Moreover, we demonstrate
+  that combining graph theoretical measurements and our energy-based control measurements
+  as the feature vector can provide complementary prediction power for the behavioral
+  scores (Combination vs. Control: t = 9.41, p = 1.64e-13; Combination vs. Graph:
+  t = 4.92, p = 3.81e-6). Our approach integrates statistical inference and dynamical
+  system inspection towards understanding brain networks.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2399-3642
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s42003-022-03196-0
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/6db7b8fe-3eb9-4427-87a0-262b916d6b9f
+schema_type: xyzri:XYZPublication
+title: Control theory illustrates the energy efficiency in the dynamic reconfiguration
+  of functional connectivity

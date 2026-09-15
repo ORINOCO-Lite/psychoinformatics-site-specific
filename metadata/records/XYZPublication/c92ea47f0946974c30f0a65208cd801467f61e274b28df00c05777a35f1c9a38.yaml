@@ -1,0 +1,52 @@
+about:
+- xyzrins:topics/distributed-systems
+- xyzrins:topics/education
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.szczepanik@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-25T17:07:39.716066'
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+description: 'A talk given at the Max Planck IMPRS in Leipzig, Germany:  https://imprs-coni.mpg.de/events/42858/34550
+
+
+  Abstract:
+
+
+  To funders, society, and aspiring early career researchers, open science is a strict
+  necessity in research conduct - and with good reason. But when you’re buried in
+  the everyday workload in science, inches away from a last-minute deadline, or within
+  a rather traditional research environment, open science can feel like an additional
+  burden stacked on top of a large existing todo list.
+
+
+  This talk focuses on open science from the perspective of open source research software,
+  which at times may feel particularly cumbersome: Why open tools rather than the
+  integrated analysis suite there is a license for anyway? Why script, when there’s
+  a point and click interface? Why publish my code, or even maintain it, when others
+  may use it to publish faster without any benefit to me?
+
+
+  In this talk, I’ll argue for the concrete benefits of these decisions, and explore
+  how open practices and their byproducts empower researchers to take control over
+  their outputs, ensure sustainability, and contribute to digital sovereignty – both
+  for the individual scientist and science and society at large. '
+generated_by:
+- at_time: '2025-10-02'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/zenodo.17249651
+  schema_type: dlthings:DOI
+kind: fabio:Presentation
+pid: xyzrins:publications/c6aa11d9-caf4-48db-8f7c-27d511ae9e67
+rules:
+- spdxlic:CC-BY-4.0
+schema_type: xyzri:XYZPublication
+title: Software Competence, Self-Sufficiency, and Sovereignty through Open Science

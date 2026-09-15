@@ -1,0 +1,66 @@
+attributed_to:
+- object: xyzrins:persons/michal-szczepanik
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Rats respond to aversive emotional arousal of human handlers with the activation
+    of the basolateral and central amygdala
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Reading danger signals may save an animal’s life, and learning about threats
+    from others allows avoiding first-hand aversive and often fatal experiences. Fear
+    expressed by other individuals, including those belonging to other species, may
+    indicate the presence of a threat in the environment and is an important social
+    cue. Humans and other animals respond to conspecifics’ fear with increased activity
+    of the amygdala, the brain structure crucial for detecting threats and mounting
+    an appropriate response to them. It is unclear, however, whether the cross-species
+    transmission of threat information involves similar mechanisms, e.g., whether
+    animals respond to the aversively induced emotional arousal of humans with activation
+    of fear-processing circuits in the brain. Here, we report that when rats interact
+    with a human caregiver who had recently undergone fear conditioning, they show
+    risk assessment behavior and enhanced amygdala activation. The amygdala response
+    involves its two major parts, the basolateral and central, which detect a threat
+    and orchestrate defensive responses. Further, we show that humans who learn about
+    a threat by observing another aversively aroused human, similar to rats, activate
+    the basolateral and centromedial parts of the amygdala. Our results demonstrate
+    that rats detect the emotional arousal of recently aversively stimulated caregivers
+    and suggest that cross-species social transmission of threat information may involve
+    similar neural circuits in the amygdala as the within-species transmission.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Reading danger signals may save an animal’s life, and learning about
+  threats from others allows avoiding first-hand aversive and often fatal experiences.
+  Fear expressed by other individuals, including those belonging to other species,
+  may indicate the presence of a threat in the environment and is an important social
+  cue. Humans and other animals respond to conspecifics’ fear with increased activity
+  of the amygdala, the brain structure crucial for detecting threats and mounting
+  an appropriate response to them. It is unclear, however, whether the cross-species
+  transmission of threat information involves similar mechanisms, e.g., whether animals
+  respond to the aversively induced emotional arousal of humans with activation of
+  fear-processing circuits in the brain. Here, we report that when rats interact with
+  a human caregiver who had recently undergone fear conditioning, they show risk assessment
+  behavior and enhanced amygdala activation. The amygdala response involves its two
+  major parts, the basolateral and central, which detect a threat and orchestrate
+  defensive responses. Further, we show that humans who learn about a threat by observing
+  another aversively aroused human, similar to rats, activate the basolateral and
+  centromedial parts of the amygdala. Our results demonstrate that rats detect the
+  emotional arousal of recently aversively stimulated caregivers and suggest that
+  cross-species social transmission of threat information may involve similar neural
+  circuits in the amygdala as the within-species transmission.
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:0027-8424
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1073/pnas.2302655120
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/7cbe5ca1-4570-4a03-bafb-d3c2a2831de4
+schema_type: xyzri:XYZPublication
+title: Rats respond to aversive emotional arousal of human handlers with the activation
+  of the basolateral and central amygdala

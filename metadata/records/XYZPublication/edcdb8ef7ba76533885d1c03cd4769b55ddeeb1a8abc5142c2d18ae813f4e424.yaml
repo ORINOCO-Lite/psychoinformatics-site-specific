@@ -1,0 +1,95 @@
+attributed_to:
+- object: xyzrins:persons/c3e4db14-5d1c-4156-bb3e-ffc905751e98
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/4bbd6721-42e7-4a31-93cc-8ff0e9814e93
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/a645a6d0-96df-472b-9505-b67299896ad8
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b1340c22-8c5d-4983-84ed-36d950c130cc
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Socioeconomic and lifestyle factors predict the association between sleep
+    health and depression
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Objective: Sleep health and depression are interconnected multidimensional
+    constructs, yet their shared determinants remain obscure. Understanding the role
+    of socioeconomic/lifestyle factors in predicting sleep-related depression (SRD)
+    is critical for preventive strategies. This study aimed to identify the key socioeconomic/lifestyle
+    predictors of SRD in the general population and patients with clinical depression.Methods:
+    To characterize SRD, we performed regularized canonical correlation analysis between
+    sleep and depression to identify latent phenotypes of SRD in a general population
+    subsample (GP1; n□=□87,405) from the UK Biobank. Subsequently, machine-learning
+    predictive models were developed in GP1 to predict SRD using socioeconomic/lifestyle
+    factors. The best-performing predictive model was subsequently validated in GP2
+    at both baseline and follow-up (GP2; n□=□5,187), and in clinical depression (n□=□7,454)
+    to assess its generalizability. Complementary analyses were conducted to assess
+    other latent phenotypes (i.e., depression-related sleep, non-SRD, non-depression-related
+    sleep, overall sleep health, and overall depression).Results: A robust multivariate
+    association was identified between sleep and depression in GP1 (canonical r =
+    0.42, P FDR < 0.001). Socioeconomic/lifestyle factors moderately predicted SRD
+    (r = 0.25; 95% CI: [0.24, 0.25]; R² = 0.06; 95% CI: [0.06, 0.06]; rMSE = 1.08;
+    95% CI: [1.08, 1.09]). The top predictors were less frequency of confiding in
+    others, more sedentary television viewing, less vigorous physical activity, and
+    passive smoking exposure. Out-of-sample validation of the predictive model showed
+    similar patterns in GP2 at baseline, at follow-up, and in clinical depression
+    subsamples. Similarly, less frequency of confiding in others and greater sedentary
+    television viewing were the main predictors of other depression-related profiles,
+    whereas more alcohol consumption frequency, less walking frequency, and less time
+    spent outdoors in winter predicted poor sleep-related profiles.Conclusions: Our
+    generalizable predictive model identifies critical modifiable predictors of the
+    association between sleep health and depression that could serve as potential
+    targets for personalized interventions.'
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: 'Objective: Sleep health and depression are interconnected multidimensional
+  constructs, yet their shared determinants remain obscure. Understanding the role
+  of socioeconomic/lifestyle factors in predicting sleep-related depression (SRD)
+  is critical for preventive strategies. This study aimed to identify the key socioeconomic/lifestyle
+  predictors of SRD in the general population and patients with clinical depression.Methods:
+  To characterize SRD, we performed regularized canonical correlation analysis between
+  sleep and depression to identify latent phenotypes of SRD in a general population
+  subsample (GP1; n□=□87,405) from the UK Biobank. Subsequently, machine-learning
+  predictive models were developed in GP1 to predict SRD using socioeconomic/lifestyle
+  factors. The best-performing predictive model was subsequently validated in GP2
+  at both baseline and follow-up (GP2; n□=□5,187), and in clinical depression (n□=□7,454)
+  to assess its generalizability. Complementary analyses were conducted to assess
+  other latent phenotypes (i.e., depression-related sleep, non-SRD, non-depression-related
+  sleep, overall sleep health, and overall depression).Results: A robust multivariate
+  association was identified between sleep and depression in GP1 (canonical r = 0.42,
+  P FDR < 0.001). Socioeconomic/lifestyle factors moderately predicted SRD (r = 0.25;
+  95% CI: [0.24, 0.25]; R² = 0.06; 95% CI: [0.06, 0.06]; rMSE = 1.08; 95% CI: [1.08,
+  1.09]). The top predictors were less frequency of confiding in others, more sedentary
+  television viewing, less vigorous physical activity, and passive smoking exposure.
+  Out-of-sample validation of the predictive model showed similar patterns in GP2
+  at baseline, at follow-up, and in clinical depression subsamples. Similarly, less
+  frequency of confiding in others and greater sedentary television viewing were the
+  main predictors of other depression-related profiles, whereas more alcohol consumption
+  frequency, less walking frequency, and less time spent outdoors in winter predicted
+  poor sleep-related profiles.Conclusions: Our generalizable predictive model identifies
+  critical modifiable predictors of the association between sleep health and depression
+  that could serve as potential targets for personalized interventions.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.64898/2026.06.26.26356679
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/7bb2d30a-3f0f-422d-8f5d-2fee4ad4f7ef
+schema_type: xyzri:XYZPublication
+title: Socioeconomic and lifestyle factors predict the association between sleep health
+  and depression

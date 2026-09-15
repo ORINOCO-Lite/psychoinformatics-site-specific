@@ -1,0 +1,39 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Varieties of Decision-Making
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Starting with a broad use of the term, this chapter examines different types
+    of decision-making and agents. A typology is proposed that can help to avoid confusion
+    and promote understanding, especially in discussions between different scientific
+    disciplines. The typology includes reporting/non-reporting agents, fully/partially
+    transparent agents, and observer-/self-transparent agents. However, the most profound
+    distinction turns out to be between non-discursive and discursive agents. This
+    is mainly because discursivity and responsibility are closely linked. Discursive
+    agents therefore have a special position: they must decide how they deal with
+    other types of agents and what they use them for and how they use them in their
+    own decision-making. So far, only humans can be considered as discursive agents.'
+characterized_by:
+- object: bibo:Chapter
+  predicate: dcterms:type
+description: 'Starting with a broad use of the term, this chapter examines different
+  types of decision-making and agents. A typology is proposed that can help to avoid
+  confusion and promote understanding, especially in discussions between different
+  scientific disciplines. The typology includes reporting/non-reporting agents, fully/partially
+  transparent agents, and observer-/self-transparent agents. However, the most profound
+  distinction turns out to be between non-discursive and discursive agents. This is
+  mainly because discursivity and responsibility are closely linked. Discursive agents
+  therefore have a special position: they must decide how they deal with other types
+  of agents and what they use them for and how they use them in their own decision-making.
+  So far, only humans can be considered as discursive agents.'
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/978-3-032-00880-0_1
+  schema_type: dlthings:DOI
+kind: bibo:Chapter
+pid: xyzrins:publications/5f25f5a0-2701-46a5-9bef-6343532eaa65
+schema_type: xyzri:XYZPublication
+title: Varieties of Decision-Making

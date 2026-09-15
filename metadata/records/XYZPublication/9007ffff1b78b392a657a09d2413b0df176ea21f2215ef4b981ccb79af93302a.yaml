@@ -1,0 +1,63 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Expectable Outcome Deontology – A New Theory of Life’s Meaning
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The question of what constitutes a meaningful life has recently regained
+    attentionafter being largely neglected in the 20th century. A new debate in ethics,
+    knownas the debate on meaning in life, has emerged around this question. In this
+    article,I propose a new normative theory of meaningfulness, which I label as ExpectableOutcome
+    Deontology (EOD), to contribute to this debate. EOD is an axiologicaltheory that
+    evaluates lives based on the idea that a person’s life is meaningful to theextent
+    that they perform intrinsically meaningful actions. An intrinsically meaning-ful
+    action, moreover, is an action that possess meaningfulness – as it is sometimesput
+    – “in itself”, “for its own sake” or “in its own right”.1 While the theory is
+    deon-tological at its core, I contend that intrinsically meaningful actions are
+    those thatmost likely bring about specific outcomes, typically those that promote
+    the good, thetrue, and the beautiful. Thus, although the theory is not driven
+    or motivated by con-sequentialist considerations, it very much accomodates such
+    demands too. I arguethat EOD is, with suitable clarifications, the correct theory
+    of meaningfulness.To support the argument for EOD, I proceed in four steps. First,
+    I clarify the cen-tral terms and premises I adopt in EOD. Second, I explain how
+    the theory fits intothe ongoing debate on meaningfulness and what makes it promising
+    compared toother theories. Thirdly, I present the key components of the theory
+    that address thechallenges encountered by some traditional theories. Finally,
+    I respond to severalnovel objections, thereby bolstering the rationale of EOD.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The question of what constitutes a meaningful life has recently regained
+  attentionafter being largely neglected in the 20th century. A new debate in ethics,
+  knownas the debate on meaning in life, has emerged around this question. In this
+  article,I propose a new normative theory of meaningfulness, which I label as ExpectableOutcome
+  Deontology (EOD), to contribute to this debate. EOD is an axiologicaltheory that
+  evaluates lives based on the idea that a person’s life is meaningful to theextent
+  that they perform intrinsically meaningful actions. An intrinsically meaning-ful
+  action, moreover, is an action that possess meaningfulness – as it is sometimesput
+  – “in itself”, “for its own sake” or “in its own right”.1 While the theory is deon-tological
+  at its core, I contend that intrinsically meaningful actions are those thatmost
+  likely bring about specific outcomes, typically those that promote the good, thetrue,
+  and the beautiful. Thus, although the theory is not driven or motivated by con-sequentialist
+  considerations, it very much accomodates such demands too. I arguethat EOD is, with
+  suitable clarifications, the correct theory of meaningfulness.To support the argument
+  for EOD, I proceed in four steps. First, I clarify the cen-tral terms and premises
+  I adopt in EOD. Second, I explain how the theory fits intothe ongoing debate on
+  meaningfulness and what makes it promising compared toother theories. Thirdly, I
+  present the key components of the theory that address thechallenges encountered
+  by some traditional theories. Finally, I respond to severalnovel objections, thereby
+  bolstering the rationale of EOD.
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:0022-5363
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s10790-024-10006-9
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/e03a4729-b41b-4a81-ae40-1d003917e0cb
+schema_type: xyzri:XYZPublication
+title: Expectable Outcome Deontology – A New Theory of Life’s Meaning

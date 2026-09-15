@@ -1,0 +1,37 @@
+about:
+- xyzrins:topics/education
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-23T15:15:31.060153'
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/e8812fde-fa3f-4a12-94af-25ffc9894615
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+attributes:
+- description: YouTube playlist of the workshop recordings
+  predicate: rdfs:seeAlso
+  schema_type: dlthings:AttributeSpecification
+  value: https://www.youtube.com/watch?v=fL3DWzSWFL8&list=PLEQHbPfpVqU5sSVrlwxkP0vpoOpgogg5j
+description: A full-day workshop on DataLad on Nov 18th 2020, conducted virtually
+  for the Max Planck Institute for Human Development Berlin. Part of a ReproNim fellowship
+  training.
+generated_by:
+- at_location: ror:02pp7px91
+  at_time: '2020-11-18'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+kind: bibo:Workshop
+pid: xyzrins:publications/65e8093f-259a-4aff-a2b2-b1010a4a0445
+rules:
+- spdxlic:CC-BY-4.0
+schema_type: xyzri:XYZPublication
+title: Data Management Workshop with DataLad

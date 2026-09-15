@@ -1,0 +1,91 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b8dacbc9-f4bb-42bf-997d-f2d73f7b0d23
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/5836e9aa-bcd6-493d-bc7c-8f866c8ab2a7
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/13246f09-6c77-45ca-a638-0f27589e3ba0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c643dc9e-7b8a-4a32-aa1b-6f371c82880a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/8f836375-520c-43d7-afb6-29abea72c0ab
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Cytoarchitectonic mapping of the human frontal operculum – new correlates
+    for a variety of brain functions
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'The human frontal operculum (FOp) is a brain region that covers parts of
+    the ventral frontal cortex next to the insula. Functional imaging studies showed
+    activations in this region in tasks related to language, somatosensory, and cognitive
+    functions. While the precise cytoarchitectonic areas that correlate to these processes
+    have not yet been revealed, earlier receptorarchitectonic analysis resulted in
+    a detailed parcellation of the FOp.We complemented this analysis by a cytoarchitectonic
+    study of a sample of ten postmortem brains and mapped the posterior FOp in serial,
+    cell-body stained histological sections using image analysis and multivariate
+    statistics. Three new areas were identified: Op5 represents the most posterior
+    area, followed by Op6 and the most anterior region Op7. Areas Op5-Op7 approach
+    the insula, up to the circular sulcus. Area 44 of Broca’s region, the most ventral
+    part of premotor area 6, and parts of the parietal operculum are dorso-laterally
+    adjacent to Op5-Op7. The areas did not show any interhemispheric or sex differences.
+    Three-dimensional probability maps and a maximum probability map were generated
+    in stereotaxic space, and then used, in a first proof-of-concept-study, for functional
+    decoding and analysis of structural and functional connectivity.Functional decoding
+    revealed different profiles of cytoarchitectonically identified Op5-Op7. While
+    left Op6 was active in music cognition, right Op5 was involved in chewing/swallowing
+    and sexual processing. Both areas showed activation during the exercise of isometric
+    force in muscles. An involvement in the coordination of flexion/extension could
+    be shown for the right Op6. Meta-analytic connectivity modeling revealed various
+    functional connections of the FOp areas within motor and somatosensory networks,
+    with the most evident connection with the music/language network for Op6 left.
+    The new cytoarchitectonic maps are part of Julich Brain, and publicly available
+    to serve as a basis for future analyses of structural-functional relationships
+    in this region.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'The human frontal operculum (FOp) is a brain region that covers parts
+  of the ventral frontal cortex next to the insula. Functional imaging studies showed
+  activations in this region in tasks related to language, somatosensory, and cognitive
+  functions. While the precise cytoarchitectonic areas that correlate to these processes
+  have not yet been revealed, earlier receptorarchitectonic analysis resulted in a
+  detailed parcellation of the FOp.We complemented this analysis by a cytoarchitectonic
+  study of a sample of ten postmortem brains and mapped the posterior FOp in serial,
+  cell-body stained histological sections using image analysis and multivariate statistics.
+  Three new areas were identified: Op5 represents the most posterior area, followed
+  by Op6 and the most anterior region Op7. Areas Op5-Op7 approach the insula, up to
+  the circular sulcus. Area 44 of Broca’s region, the most ventral part of premotor
+  area 6, and parts of the parietal operculum are dorso-laterally adjacent to Op5-Op7.
+  The areas did not show any interhemispheric or sex differences. Three-dimensional
+  probability maps and a maximum probability map were generated in stereotaxic space,
+  and then used, in a first proof-of-concept-study, for functional decoding and analysis
+  of structural and functional connectivity.Functional decoding revealed different
+  profiles of cytoarchitectonically identified Op5-Op7. While left Op6 was active
+  in music cognition, right Op5 was involved in chewing/swallowing and sexual processing.
+  Both areas showed activation during the exercise of isometric force in muscles.
+  An involvement in the coordination of flexion/extension could be shown for the right
+  Op6. Meta-analytic connectivity modeling revealed various functional connections
+  of the FOp areas within motor and somatosensory networks, with the most evident
+  connection with the music/language network for Op6 left. The new cytoarchitectonic
+  maps are part of Julich Brain, and publicly available to serve as a basis for future
+  analyses of structural-functional relationships in this region.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1662-5161
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3389/fnhum.2023.1087026
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/3f524d1a-093c-440c-91e2-f07aaf69591d
+schema_type: xyzri:XYZPublication
+title: Cytoarchitectonic mapping of the human frontal operculum – new correlates for
+  a variety of brain functions

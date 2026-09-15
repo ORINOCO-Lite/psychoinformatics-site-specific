@@ -1,0 +1,74 @@
+attributed_to:
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Machine learning to diagnose, classify and predict phenoconversion in isolated
+    REM sleep behavior disorder
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Rapid eye movement (REM) sleep behaviour disorder (RBD), particularly its
+    idiopathic/isolated form (iRBD), is a prodromal marker for α-synucleinopathies,
+    including Parkinson''s disease, dementia with Lewy bodies and multiple system
+    atrophy. Machine learning (ML) offers opportunities to improve diagnosis and risk
+    stratification in this high-risk group. We conducted a systematic review of PubMed,
+    Embase (Ovid) and Medline (Ovid) from 2014 to September 2025, following PRISMA
+    guidelines. From 335 records identified, 202 remained after duplicate removal
+    and 75 studies on adult humans with clinically diagnosed RBD or iRBD that applied
+    and validated an ML model were included. Fifty-eight studies addressed diagnosis,
+    four studied RBD phenotypes, and thirteen evaluated prediction of phenoconversion
+    to overt α-synucleinopathy. Across diagnostic studies, reported accuracies ranged
+    from ∼63% to ∼99.7%, with median values around 90%, using polysomnography, EEG,
+    neuroimaging, molecular and behavioural markers. Phenoconversion models (often
+    using dopaminergic imaging or multimodal features) achieved AUCs up to ∼0.94,
+    but frequently relied on small, single-centre cohorts with heterogeneous definitions
+    of phenoconversion and limited external validation. A wide variety of ML algorithms
+    was used (n ~ 30), most commonly support vector machines, random forests and logistic
+    regression. Overall, ML approaches show promise for scalable diagnosis and risk
+    stratification in iRBD, but progress is constrained by methodological bias, inconsistent
+    endpoints, data imbalance and a lack of explainable, externally validated models.
+    We outline methodological priorities to make future ML tools clinically interpretable
+    and translatable.Keywords: Dementia with Lewy bodies; Machine learning; Multiple
+    system atrophy; Parkinson''s disease; REM sleep behaviour disorder; α-synucleinopathies.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Rapid eye movement (REM) sleep behaviour disorder (RBD), particularly
+  its idiopathic/isolated form (iRBD), is a prodromal marker for α-synucleinopathies,
+  including Parkinson''s disease, dementia with Lewy bodies and multiple system atrophy.
+  Machine learning (ML) offers opportunities to improve diagnosis and risk stratification
+  in this high-risk group. We conducted a systematic review of PubMed, Embase (Ovid)
+  and Medline (Ovid) from 2014 to September 2025, following PRISMA guidelines. From
+  335 records identified, 202 remained after duplicate removal and 75 studies on adult
+  humans with clinically diagnosed RBD or iRBD that applied and validated an ML model
+  were included. Fifty-eight studies addressed diagnosis, four studied RBD phenotypes,
+  and thirteen evaluated prediction of phenoconversion to overt α-synucleinopathy.
+  Across diagnostic studies, reported accuracies ranged from ∼63% to ∼99.7%, with
+  median values around 90%, using polysomnography, EEG, neuroimaging, molecular and
+  behavioural markers. Phenoconversion models (often using dopaminergic imaging or
+  multimodal features) achieved AUCs up to ∼0.94, but frequently relied on small,
+  single-centre cohorts with heterogeneous definitions of phenoconversion and limited
+  external validation. A wide variety of ML algorithms was used (n ~ 30), most commonly
+  support vector machines, random forests and logistic regression. Overall, ML approaches
+  show promise for scalable diagnosis and risk stratification in iRBD, but progress
+  is constrained by methodological bias, inconsistent endpoints, data imbalance and
+  a lack of explainable, externally validated models. We outline methodological priorities
+  to make future ML tools clinically interpretable and translatable.Keywords: Dementia
+  with Lewy bodies; Machine learning; Multiple system atrophy; Parkinson''s disease;
+  REM sleep behaviour disorder; α-synucleinopathies.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1087-0792
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.smrv.2026.102298
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/12af71af-2821-4ea0-9e4a-4d30cdca9550
+schema_type: xyzri:XYZPublication
+title: Machine learning to diagnose, classify and predict phenoconversion in isolated
+  REM sleep behavior disorder

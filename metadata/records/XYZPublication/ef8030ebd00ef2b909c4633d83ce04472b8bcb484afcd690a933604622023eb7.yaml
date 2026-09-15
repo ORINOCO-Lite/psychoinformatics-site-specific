@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Thalamic altered spontaneous activity and connectivity in obstructive sleep
+    apnea syndrome
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Background and PurposeObstructive sleep apnea (OSA) syndrome is a sleep disorder
+    characterized by excessive snoring, repetitive apneas, and nocturnal arousals,
+    that leads to fragmented sleep and intermittent nocturnal hypoxemia. Morphometric
+    and functional brain alterations in cortical and subcortical structures have been
+    documented in these patients via magnetic resonance imaging (MRI), even if correlational
+    data between the alterations in the brain and cognitive and clinical indexes are
+    still not reported.MethodsWe examined the impact of OSA on brain spontaneous activity
+    by measuring the fractional amplitude of low-frequency fluctuations (fALFF) in
+    resting-state functional MRI data of 20 drug-naïve patients with OSA syndrome
+    and 20 healthy controls matched for age, gender, and body mass index.ResultsPatients
+    showed a pattern of significantly abnormal subcortical functional activity as
+    compared to controls, with increased activity selectively involving the thalami,
+    specifically their intrinsic nuclei connected to somatosensory and motor-premotor
+    cortical regions. Using these nuclei as seed regions, the subsequent functional
+    connectivity analysis highlighted an increase in patients’ thalamocortical connectivity
+    at rest. Additionally, the correlation between fALFF and polysomnographic data
+    revealed a possible link between OSA severity and fALFF of regions belonging to
+    the central autonomic network.ConclusionsOur results suggest a hyperactivation
+    in thalamic diurnal activity in patients with OSA syndrome, which we interpret
+    as a possible consequence of increased thalamocortical circuitry activation during
+    nighttime due to repeated arousals.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Background and PurposeObstructive sleep apnea (OSA) syndrome is a sleep
+  disorder characterized by excessive snoring, repetitive apneas, and nocturnal arousals,
+  that leads to fragmented sleep and intermittent nocturnal hypoxemia. Morphometric
+  and functional brain alterations in cortical and subcortical structures have been
+  documented in these patients via magnetic resonance imaging (MRI), even if correlational
+  data between the alterations in the brain and cognitive and clinical indexes are
+  still not reported.MethodsWe examined the impact of OSA on brain spontaneous activity
+  by measuring the fractional amplitude of low-frequency fluctuations (fALFF) in resting-state
+  functional MRI data of 20 drug-naïve patients with OSA syndrome and 20 healthy controls
+  matched for age, gender, and body mass index.ResultsPatients showed a pattern of
+  significantly abnormal subcortical functional activity as compared to controls,
+  with increased activity selectively involving the thalami, specifically their intrinsic
+  nuclei connected to somatosensory and motor-premotor cortical regions. Using these
+  nuclei as seed regions, the subsequent functional connectivity analysis highlighted
+  an increase in patients’ thalamocortical connectivity at rest. Additionally, the
+  correlation between fALFF and polysomnographic data revealed a possible link between
+  OSA severity and fALFF of regions belonging to the central autonomic network.ConclusionsOur
+  results suggest a hyperactivation in thalamic diurnal activity in patients with
+  OSA syndrome, which we interpret as a possible consequence of increased thalamocortical
+  circuitry activation during nighttime due to repeated arousals.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1111/jon.12952
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/11b40413-e320-42f0-a65c-8b764bd6b048
+schema_type: xyzri:XYZPublication
+title: Thalamic altered spontaneous activity and connectivity in obstructive sleep
+  apnea syndrome

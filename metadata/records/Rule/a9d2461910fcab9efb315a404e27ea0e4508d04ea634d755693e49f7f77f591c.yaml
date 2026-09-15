@@ -1,0 +1,8 @@
+broad_mappings:
+- ODRL:Duty
+description: This data use modifier indicates that the requestor must provide documentation
+  of local IRB/ERB approval.
+display_label: 'Duty: ethics approval required'
+pid: obo:DUO_0000021
+schema_type: dlthings:Rule
+title: ethics approval required

@@ -1,0 +1,30 @@
+about:
+- xyzrins:topics/education
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-31T16:01:33.722784'
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+description: A 1.5 hour hybrid DataLad workshop at the BigBrainWorkshop in Berlin,
+  Germany, October 27th 2025
+generated_by:
+- at_time: '2025-10-27'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/abcd-j
+  schema_type: dlthings:Generation
+kind: bibo:Workshop
+pid: xyzrins:publications/9fa8db8b-d278-45bf-a449-2a7d56a9d47e
+schema_type: xyzri:XYZPublication
+title: 'DataLad: An Introduction'

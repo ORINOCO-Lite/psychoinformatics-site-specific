@@ -1,0 +1,56 @@
+attributed_to:
+- object: xyzrins:persons/659e2c63-bcaa-4348-bf2c-2d6176dfad96
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: PHENOTYPIC AND GENETIC CORRELATION BETWEEN SLEEP, BEHAVIOR, AND MACROSCALE
+    CORTICAL GREY MATTER
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Humans need about 7 to 9 hours of sleep per night. Sleep habits are heritable,
+    associated with brain function and structure, and intrinsically related to well-being,
+    mental and physical health. This raises the question whether associations between
+    sleep, mental and physical health can be attributed to a shared macroscale neurobiology.Combining
+    neuroimaging and behavioral genetic approaches in two independent large-scale
+    datasets (n=1887) we demonstrate phenotypic and genetic correspondence between
+    sleep, intelligence, and BMI. Sleep was associated with local thickness variation
+    in frontal, temporal, and occipital cortices. Using a comprehensive multivariate
+    approach, we identified two robust latent components highlighting the interdigitation
+    of sleep, intelligence, BMI, and depression and their shared relation to regions
+    in unimodal and heteromodal association cortices. Latent relationships were heritable
+    and driven by shared additive genetic factors. These observations provide a system-level
+    perspective on the interrelation of sleep, mental, and physical conditions, anchored
+    in grey-matter neuroanatomy.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Humans need about 7 to 9 hours of sleep per night. Sleep habits are heritable,
+  associated with brain function and structure, and intrinsically related to well-being,
+  mental and physical health. This raises the question whether associations between
+  sleep, mental and physical health can be attributed to a shared macroscale neurobiology.Combining
+  neuroimaging and behavioral genetic approaches in two independent large-scale datasets
+  (n=1887) we demonstrate phenotypic and genetic correspondence between sleep, intelligence,
+  and BMI. Sleep was associated with local thickness variation in frontal, temporal,
+  and occipital cortices. Using a comprehensive multivariate approach, we identified
+  two robust latent components highlighting the interdigitation of sleep, intelligence,
+  BMI, and depression and their shared relation to regions in unimodal and heteromodal
+  association cortices. Latent relationships were heritable and driven by shared additive
+  genetic factors. These observations provide a system-level perspective on the interrelation
+  of sleep, mental, and physical conditions, anchored in grey-matter neuroanatomy.
+identifiers:
+- notation: 10.1101/772681
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/dfc98806-e803-4b92-b9c2-91b674ebe6bb
+schema_type: xyzri:XYZPublication
+title: PHENOTYPIC AND GENETIC CORRELATION BETWEEN SLEEP, BEHAVIOR, AND MACROSCALE
+  CORTICAL GREY MATTER

@@ -1,0 +1,178 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-06-29T12:58:15.402862'
+associated_with:
+- object: xyzrins:persons/tosca-heunis
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+- attributes:
+  - predicate: foaf:homepage
+    schema_type: dlthings:AttributeSpecification
+    value: https://abcd-j.de/contributors/adina-wagner/
+  identifiers:
+  - creator: xyzrins:projects/abcd-j
+    notation: https://abcd-j.de/contributors/adina-wagner/
+    schema_type: dlthings:Identifier
+  object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+- attributes:
+  - predicate: foaf:homepage
+    schema_type: dlthings:AttributeSpecification
+    value: https://abcd-j.de/contributors/simon-eickhoff/
+  identifiers:
+  - creator: xyzrins:projects/abcd-j
+    notation: https://abcd-j.de/contributors/simon-eickhoff/
+    schema_type: dlthings:Identifier
+  object: xyzrins:persons/simon-eickhoff
+  roles:
+  - marcrel:led
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+- attributes:
+  - predicate: foaf:homepage
+    schema_type: dlthings:AttributeSpecification
+    value: https://abcd-j.de/contributors/stephan-heunis/
+  identifiers:
+  - creator: xyzrins:projects/abcd-j
+    notation: https://abcd-j.de/contributors/stephan-heunis/
+    schema_type: dlthings:Identifier
+  object: xyzrins:persons/stephan-heunis
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+- attributes:
+  - predicate: foaf:homepage
+    schema_type: dlthings:AttributeSpecification
+    value: https://abcd-j.de/contributors/jenna-swarthout-goddard/
+  identifiers:
+  - creator: xyzrins:projects/abcd-j
+    notation: https://abcd-j.de/contributors/jenna-swarthout-goddard/
+    schema_type: dlthings:Identifier
+  object: xyzrins:persons/jenna-swarthout-goddard
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+- attributes:
+  - predicate: foaf:homepage
+    schema_type: dlthings:AttributeSpecification
+    value: https://abcd-j.de/contributors/michael-hanke/
+  identifiers:
+  - creator: xyzrins:projects/abcd-j
+    notation: https://abcd-j.de/contributors/michael-hanke/
+    schema_type: dlthings:Identifier
+  object: xyzrins:persons/michael-hanke
+  roles:
+  - marcrel:rth
+  schema_type: dlthings:Association
+- attributes:
+  - predicate: foaf:homepage
+    schema_type: dlthings:AttributeSpecification
+    value: https://abcd-j.de/sites/fzj/
+  description: '[Forschungszentrum Jülich](https://www.fz-juelich.de/en) (FZJ) is
+    a German national research institution that pursues interdisciplinary research
+    in the fields of energy, information, and bioeconomy. It operates a broad range
+    of research infrastructures like supercomputers, an atmospheric simulation chamber,
+    electron microscopes, a particle accelerator, cleanrooms for nanotechnology, among
+    other things. As a member of the [Helmholtz Association](https://www.helmholtz.de/en)
+    with roughly 6,800 employees in ten institutes and 80 subinstitutes, Jülich is
+    one of the largest research institutions in Europe.'
+  identifiers:
+  - creator: xyzrins:projects/abcd-j
+    notation: https://abcd-j.de/sites/fzj/
+    schema_type: dlthings:Identifier
+  object: xyzrins:organizations/fzj
+  roles:
+  - marcrel:sht
+  schema_type: dlthings:Association
+attributes:
+- predicate: vcard:Email
+  schema_type: dlthings:AttributeSpecification
+  value: abcdj@lists.fz-juelich.de
+- predicate: foaf:homepage
+  schema_type: dlthings:AttributeSpecification
+  value: https://abcd-j.de/
+depiction:
+- xyzrins:depictions/logo_abcd-j
+description: The ABCD-J platform provides an integrated collection and analysis environment
+  for digital biomarkers & mobile health in North Rhine-Westphalia. The overarching
+  goal of ABCD-J is to elevate existing technical solutions for research practice
+  adoption. To this end, we develop interoperable technologies JTrack (https://jtrack.readthedocs.io),
+  DataLad (https://www.datalad.org, and julearn (https://juaml.github.io/julearn/main/index.html)
+  for data collection, data management and machine learning-based data analysis. From
+  the social perspective, the ABCD-J project aims to promote and facilitate collaboration
+  between multiple research centers, while from the technical perspective the project
+  will accelerate research through homogenization of workflows and processes, with
+  particular emphasis on digital biomarker development.
+ended:
+  at_time: '2027-04-30'
+  schema_type: dlthings:End
+influenced_by:
+- object: xyzrins:objectives/self-hosted-it
+  roles:
+  - FRAPO:Deliverable
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:objectives/87be5fa3-80fb-4221-8406-2ddd40fb1fd1
+  roles:
+  - xyzrins:entity-roles/1160471a-9f8e-4379-85f2-351a2a36ef40
+  schema_type: xyzri:XYZInfluence
+- ended:
+    at_time: '2027-04-30'
+    schema_type: dlthings:End
+  object: xyzrins:grants/mkw-abcd-j
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2023-05-01'
+    schema_type: dlthings:Start
+- object: xyzrins:objectives/97ded4aa-108d-4b84-8195-d6076dce63ce
+  roles:
+  - FRAPO:Deliverable
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:objectives/99a7e9fe-f8d8-46b8-aa97-44571b0eb3ba
+  roles:
+  - xyzrins:entity-roles/1160471a-9f8e-4379-85f2-351a2a36ef40
+  schema_type: xyzri:XYZInfluence
+informed_by:
+- attributes:
+  - predicate: foaf:homepage
+    schema_type: dlthings:AttributeSpecification
+    value: https://abcd-j.de/software/datalad/
+  description: DataLad is a free and open source software for data version control
+    and provenance tracking. DataLad tracks files, agnostic of data formats or sizes,
+    and provides transport logistics to distribute and retrieve these data - if needed,
+    using encryption and credentials. Therefore, it is an ideal tool to manage and
+    publish your own data, or to obtain others shared data. While DataLad does not
+    store data, it integrates with various storage services, from local hardware to
+    university infrastructure to commercial cloud provider. In addition, it provides
+    utilities for linking datasets, associating them with software containers, and
+    running computationally reproducible data analyses. By capturing structured provenance
+    records, DataLad allows to easily rerun and reproducible results.
+  identifiers:
+  - creator: xyzrins:projects/abcd-j
+    notation: https://abcd-j.de/software/datalad/
+    schema_type: dlthings:Identifier
+  object: xyzrins:projects/datalad
+  roles:
+  - obo:IAO_0000010
+  schema_type: xyzri:XYZCommunication
+- object: xyzrins:projects/orinoco
+  roles:
+  - obo:IAO_0000010
+  schema_type: xyzri:XYZCommunication
+part_of:
+- xyzrins:.
+pid: xyzrins:projects/abcd-j
+schema_type: xyzri:XYZProject
+short_name: ABCD-J
+started:
+  at_time: '2023-05-01'
+  schema_type: dlthings:Start
+title: Accessing Behavior for Clinical Data and Joint Usage

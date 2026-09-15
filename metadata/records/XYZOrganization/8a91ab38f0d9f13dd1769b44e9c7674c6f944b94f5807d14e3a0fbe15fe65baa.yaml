@@ -1,0 +1,15 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2025-12-10T13:26:11.735481'
+identifiers:
+- creator: https://ror.org
+  notation: 00ggpsq73
+  schema_type: dlthings:Identifier
+name: Otto-von-Guericke University Magdeburg
+pid: xyzrins:organizations/ovgu
+schema_type: xyzri:XYZOrganization
+short_name: OvGU

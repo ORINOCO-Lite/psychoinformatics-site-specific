@@ -1,0 +1,9 @@
+display_note: ISSN:1697-2600
+identifiers:
+- creator: ror:026ytr635
+  notation: 1697-2600
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:1697-2600
+schema_type: xyzri:XYZPublicationVenue
+title: International Journal Of Clinical And Health Psychology

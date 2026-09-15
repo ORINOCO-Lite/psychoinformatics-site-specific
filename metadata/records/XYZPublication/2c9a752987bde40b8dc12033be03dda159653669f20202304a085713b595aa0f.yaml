@@ -1,0 +1,24 @@
+attributed_to:
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Cardiac responses to auditory irregularities reveal hierarchical information
+    processing during sleep
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2024.09.24.614090
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/9cb5e5f3-59c9-484d-bf1f-5a80e416cc96
+schema_type: xyzri:XYZPublication
+title: Cardiac responses to auditory irregularities reveal hierarchical information
+  processing during sleep

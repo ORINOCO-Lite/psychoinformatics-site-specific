@@ -1,0 +1,59 @@
+about:
+- xyzrins:topics/free-and-open-culture
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-04-01T09:57:02.858781'
+attributed_to:
+- object: xyzrins:persons/christian-moench
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michal-szczepanik
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/benjamin-poldrack
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/alex-waite
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/laura-waite
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: orcid:0000-0003-3456-2493
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/leonardo-muller-rodriguez
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+description: ''
+generated_by:
+- at_location: ISSN:2957-3963
+  at_time: '2024-03-18'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.52294/001c.92760
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/15a94498-814e-4314-9ff7-b032a94d1f8c
+schema_type: xyzri:XYZPublication
+title: Proceedings of the OHBM Brainhack 2022

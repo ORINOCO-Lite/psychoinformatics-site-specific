@@ -1,0 +1,57 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Hammer or Measuring Tape? Artificial Intelligence and Justice in Healthcare
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Artificial intelligence (AI) is a powerful tool for several healthcare tasks.
+    AI tools are suited to optimize predictive models in medicine. Ethical debates
+    about AI’s extension of the predictive power of medical models suggest a need
+    to adapt core principles of medical ethics. This article demonstrates that a popular
+    interpretation of the principle of justice in healthcare needs amendment given
+    the effect of AI on decision-making. The procedural approach to justice, exemplified
+    with Norman Daniels and James Sabin’s accountability for reasonableness conception,
+    needs amendment because, as research into algorithmic fairness shows, it is insufficiently
+    sensitive to differential effects of seemingly just principles on different groups
+    of people. The same line of research generates methods to quantify differential
+    effects and make them amenable for correction. Thus, what is needed to improve
+    the principle of justice is a combination of procedures for selecting just criteria
+    and principles and the use of algorithmic tools to measure the real impact these
+    criteria and principles have. In this article, the author shows that algorithmic
+    tools do not merely raise issues of justice but can also be used in their mitigation
+    by informing us about the real effects certain distributional principles and criteria
+    would create.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Artificial intelligence (AI) is a powerful tool for several healthcare
+  tasks. AI tools are suited to optimize predictive models in medicine. Ethical debates
+  about AI’s extension of the predictive power of medical models suggest a need to
+  adapt core principles of medical ethics. This article demonstrates that a popular
+  interpretation of the principle of justice in healthcare needs amendment given the
+  effect of AI on decision-making. The procedural approach to justice, exemplified
+  with Norman Daniels and James Sabin’s accountability for reasonableness conception,
+  needs amendment because, as research into algorithmic fairness shows, it is insufficiently
+  sensitive to differential effects of seemingly just principles on different groups
+  of people. The same line of research generates methods to quantify differential
+  effects and make them amenable for correction. Thus, what is needed to improve the
+  principle of justice is a combination of procedures for selecting just criteria
+  and principles and the use of algorithmic tools to measure the real impact these
+  criteria and principles have. In this article, the author shows that algorithmic
+  tools do not merely raise issues of justice but can also be used in their mitigation
+  by informing us about the real effects certain distributional principles and criteria
+  would create.
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:0963-1801
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1017/S0963180123000257
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/844da514-07a8-44f4-a0bd-303b4a98d5f6
+schema_type: xyzri:XYZPublication
+title: Hammer or Measuring Tape? Artificial Intelligence and Justice in Healthcare

@@ -1,0 +1,28 @@
+attributed_to:
+- object: ror:04pz7b180
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+description: Das Verbundprojekt I-CHECK-HEART entwickelt eine KI-gestützte App zur
+  kardio-onkologischen Nachsorge von Krebspatient:innen, die mit Immuncheckpoint-Inhibitoren
+  behandelt werden. Ziel ist es, kardiovaskuläre Nebenwirkungen frühzeitig zu erkennen
+  und das individuelle Risiko mithilfe eines datenbasierten Risikoscores besser einzuschätzen.
+  Dafür werden Smartwatch-, Sensor-, Fragebogen- sowie klinische und Labor­daten kombiniert
+  und mittels maschinellen Lernens ausgewertet. Der resultierende Risikoscore wird
+  in einem verständlichen Ampelsystem dargestellt, in die elektronische Patientenakte
+  integriert und steuert eine risikoadaptierte Nachsorge. Gleichzeitig stärkt die
+  App die Gesundheitskompetenz, das Selbstmanagement und die Lebensqualität der Patient:innen
+  und entlastet das Gesundheitssystem durch effizientere Nachsorgeprozesse.
+identifiers:
+- creator: xyzrins:organizations/fzj
+  description: PSP Element Jülich
+  notation: D.B.002773
+  schema_type: dlthings:Identifier
+- creator: ror:04pz7b180
+  notation: 16SV9601
+  schema_type: dlthings:Identifier
+pid: xyzrins:grants/9b9d37cb-30fa-4e8c-9308-0afa4a4a2a50
+schema_type: xyzri:XYZGrant
+short_name: I-CHECK-HEART
+title: 'I-CHECK-HEART: Immuncheckpoint-Inhibitor assoziierte kardio-onkologische Nachsorge
+  durch Künstliche-Intelligenz-gestützte Technologien'

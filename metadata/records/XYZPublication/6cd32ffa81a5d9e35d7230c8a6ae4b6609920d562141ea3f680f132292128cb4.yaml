@@ -1,0 +1,60 @@
+attributed_to:
+- object: xyzrins:persons/6ae68288-73ec-491b-a25f-75bbf9783e70
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Clinical Neuroscience Meets Second-Person Neuropsychiatry
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Disturbances of social and affective processes are at the core of psychiatric
+    disorders. Together with genetic predisposing factors, deprivation of social contact
+    and dysfunctional relationships during development are some of the most important
+    contributors to psychiatric disorders over the lifetime, while some developmental
+    disorders manifest as aberrant social behavior early in life. That the cause of
+    mental illness is rooted in the brain was long held as a truism, yet finding the
+    causes for and neurobiological correlates of these conditions in the brain has
+    proven and continues to be difficult (Venkatasubramanian G, Keshavan MS, Ann Neurosci
+    23:3–5. https://doi.org/10.1159/000443549, 2016). In clinical practice, psychiatric
+    disorders are diagnosed based on categorical manuals, such as the DSM and ICD,
+    which form a useful guide for clinical diagnosis and interventions. Yet, understanding
+    the specific neural mechanisms leading to or characterizing distinct psychiatric
+    conditions through this categorical approach has been slow (see, for example,
+    Lynch CJ, Gunning FM, Liston C, Biol Psychiatry 88:83–94. https://doi.org/10.1016/j.biopsych.2020.01.012,
+    2020). Findings in the brain often do not seem to lend support to common mechanisms
+    for the defined disorder categories. This is not particularly surprising because,
+    in these diagnostic manuals, multiple combinations of symptoms can often lead
+    to the same diagnosis, which is reflected in highly variable phenotypes of psychiatric
+    disorders.
+characterized_by:
+- object: bibo:Chapter
+  predicate: dcterms:type
+description: Disturbances of social and affective processes are at the core of psychiatric
+  disorders. Together with genetic predisposing factors, deprivation of social contact
+  and dysfunctional relationships during development are some of the most important
+  contributors to psychiatric disorders over the lifetime, while some developmental
+  disorders manifest as aberrant social behavior early in life. That the cause of
+  mental illness is rooted in the brain was long held as a truism, yet finding the
+  causes for and neurobiological correlates of these conditions in the brain has proven
+  and continues to be difficult (Venkatasubramanian G, Keshavan MS, Ann Neurosci 23:3–5.
+  https://doi.org/10.1159/000443549, 2016). In clinical practice, psychiatric disorders
+  are diagnosed based on categorical manuals, such as the DSM and ICD, which form
+  a useful guide for clinical diagnosis and interventions. Yet, understanding the
+  specific neural mechanisms leading to or characterizing distinct psychiatric conditions
+  through this categorical approach has been slow (see, for example, Lynch CJ, Gunning
+  FM, Liston C, Biol Psychiatry 88:83–94. https://doi.org/10.1016/j.biopsych.2020.01.012,
+  2020). Findings in the brain often do not seem to lend support to common mechanisms
+  for the defined disorder categories. This is not particularly surprising because,
+  in these diagnostic manuals, multiple combinations of symptoms can often lead to
+  the same diagnosis, which is reflected in highly variable phenotypes of psychiatric
+  disorders.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/978-3-031-08651-9_11
+  schema_type: dlthings:DOI
+kind: bibo:Chapter
+pid: xyzrins:publications/71572293-e916-4eb6-b930-ad2031eb3e24
+schema_type: xyzri:XYZPublication
+title: Clinical Neuroscience Meets Second-Person Neuropsychiatry

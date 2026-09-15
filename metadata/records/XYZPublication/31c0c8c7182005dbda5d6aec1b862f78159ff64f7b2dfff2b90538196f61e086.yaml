@@ -1,0 +1,48 @@
+attributed_to:
+- object: xyzrins:persons/01dc361b-4bf7-4c57-ba6d-78cd174dab34
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Real world evidence for altered communication patterns in individuals with
+    autism spectrum disorder
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Adults with autism spectrum disorder (ASD) may compensate for their social
+    difficulties by resorting to more sequential forms of communication. Here, we
+    study communication preferences in individuals with ASD and neurotypical controls
+    by monitoring smartphone-based communication for verbal, written, and mixed app
+    categories over a period of four months. We find ASD participants to prefer written
+    over verbal communication, underscoring the importance of considering these preferences
+    to facilitate social integration.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Adults with autism spectrum disorder (ASD) may compensate for their social
+  difficulties by resorting to more sequential forms of communication. Here, we study
+  communication preferences in individuals with ASD and neurotypical controls by monitoring
+  smartphone-based communication for verbal, written, and mixed app categories over
+  a period of four months. We find ASD participants to prefer written over verbal
+  communication, underscoring the importance of considering these preferences to facilitate
+  social integration.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2398-6352
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41746-025-01545-x
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/3a0e912c-df87-4665-82be-152ef83d37c0
+schema_type: xyzri:XYZPublication
+title: Real world evidence for altered communication patterns in individuals with
+  autism spectrum disorder

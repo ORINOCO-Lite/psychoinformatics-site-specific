@@ -1,0 +1,27 @@
+application_deadline: '2027-01-09'
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: DAAD-Language and Practice in the PR China
+- predicate: dcterms:description
+  schema_type: dlthings:AttributeSpecification
+  value: 'Funding Opportunities  Career Status: Bachelor, Master, Doctoral Researchers,
+    Postdocs, Experienced Scientists  Mobility: Outgoing  Deadline: January 2027  Information
+    Funding Organization: DAAD- China<https://go.fzj.de/DAAD-Language-Practice-China>  Information
+    FZJ: Daad-Language and Practice in China<https://www.fz-juelich.de/en/research/research-fields/young-scientists/funding-calendar/funding-opportunities/daad_language_practice_china>
+    (Funding Calendar)  FZJ Contact: Aikanysh Bazarova (W), email: a.bazarova@fz-juelich.de<mailto:a.bazarova@fz-juelich.de>  '
+- predicate: dcterms:date
+  schema_type: dlthings:AttributeSpecification
+  value: '2027-01-09'
+characterized_by:
+- object: xyzrins:competition-types/4e49ac7d-d6da-4131-806b-6425491e26fd
+  predicate: dcterms:type
+description: 'Funding Opportunities  Career Status: Bachelor, Master, Doctoral Researchers,
+  Postdocs, Experienced Scientists  Mobility: Outgoing  Deadline: January 2027  Information
+  Funding Organization: DAAD- China<https://go.fzj.de/DAAD-Language-Practice-China>  Information
+  FZJ: Daad-Language and Practice in China<https://www.fz-juelich.de/en/research/research-fields/young-scientists/funding-calendar/funding-opportunities/daad_language_practice_china>
+  (Funding Calendar)  FZJ Contact: Aikanysh Bazarova (W), email: a.bazarova@fz-juelich.de<mailto:a.bazarova@fz-juelich.de>  '
+kind: xyzrins:competition-types/4e49ac7d-d6da-4131-806b-6425491e26fd
+pid: xyzrins:competition/040000008200E00074C5B7101A82E008000000001EE25A76BA9CDB010000000000000000100000001273BF41A464684288836776D7917533
+schema_type: xyzri:XYZCompetition
+title: DAAD-Language and Practice in the PR China

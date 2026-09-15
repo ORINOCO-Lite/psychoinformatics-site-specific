@@ -1,0 +1,86 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Multi-center brain age prediction via dual-modality fusion convolutional
+    network
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Accurate prediction of brain age is crucial for identifying deviations between
+    typical individual brain development trajectories and neuropsychiatric disease
+    progression. Although current research has made progress, the effective application
+    of brain age prediction models to multi-center datasets, particularly those with
+    small-sample sizes, remains a significant challenge that is yet to be addressed.
+    To this end, we propose a multi-center data correction method, which employs a
+    domain adaptation correction strategy with Wasserstein distance of optimal transport,
+    along with maximum mean discrepancy to improve the generalizability of brain-age
+    prediction models on small-sample datasets. Additionally, most of the existing
+    brain age models based on neuroimage identify the task of predicting brain age
+    as a regression or classification problem, which may affect the accuracy of the
+    prediction. Therefore, we propose a brain dual-modality fused convolutional neural
+    network model (BrainDCN) for brain age prediction, and optimize this model by
+    introducing a joint loss function of mean absolute error and cross-entropy, which
+    identifies the prediction of brain age as both a regression and classification
+    task. Furthermore, to highlight age-related features, we construct weighting matrices
+    and vectors from a single-center training set and apply them to multi-center datasets
+    to weight important features. We validate the BrainDCN model on the CamCAN dataset
+    and achieve the lowest average absolute error compared to state-of-the-art models,
+    demonstrating its superiority. Notably, the joint loss function and weighted features
+    can further improve the prediction accuracy. More importantly, our proposed multi-center
+    correction method is tested on four neuroimaging datasets and achieves the lowest
+    average absolute error compared to widely used correction methods, highlighting
+    the superior performance of the method in cross-center data integration and analysis.
+    Furthermore, the application to multi-center schizophrenia data shows a mean accelerated
+    aging compared to normal controls. Thus, this research establishes a pivotal methodological
+    foundation for multi-center brain age prediction studies, exhibiting considerable
+    applicability in clinical contexts, which are predominantly characterized by small-sample
+    datasets.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Accurate prediction of brain age is crucial for identifying deviations
+  between typical individual brain development trajectories and neuropsychiatric disease
+  progression. Although current research has made progress, the effective application
+  of brain age prediction models to multi-center datasets, particularly those with
+  small-sample sizes, remains a significant challenge that is yet to be addressed.
+  To this end, we propose a multi-center data correction method, which employs a domain
+  adaptation correction strategy with Wasserstein distance of optimal transport, along
+  with maximum mean discrepancy to improve the generalizability of brain-age prediction
+  models on small-sample datasets. Additionally, most of the existing brain age models
+  based on neuroimage identify the task of predicting brain age as a regression or
+  classification problem, which may affect the accuracy of the prediction. Therefore,
+  we propose a brain dual-modality fused convolutional neural network model (BrainDCN)
+  for brain age prediction, and optimize this model by introducing a joint loss function
+  of mean absolute error and cross-entropy, which identifies the prediction of brain
+  age as both a regression and classification task. Furthermore, to highlight age-related
+  features, we construct weighting matrices and vectors from a single-center training
+  set and apply them to multi-center datasets to weight important features. We validate
+  the BrainDCN model on the CamCAN dataset and achieve the lowest average absolute
+  error compared to state-of-the-art models, demonstrating its superiority. Notably,
+  the joint loss function and weighted features can further improve the prediction
+  accuracy. More importantly, our proposed multi-center correction method is tested
+  on four neuroimaging datasets and achieves the lowest average absolute error compared
+  to widely used correction methods, highlighting the superior performance of the
+  method in cross-center data integration and analysis. Furthermore, the application
+  to multi-center schizophrenia data shows a mean accelerated aging compared to normal
+  controls. Thus, this research establishes a pivotal methodological foundation for
+  multi-center brain age prediction studies, exhibiting considerable applicability
+  in clinical contexts, which are predominantly characterized by small-sample datasets.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1361-8415
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.media.2025.103455
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8b588382-e685-4b8d-9c6d-3a813a44152f
+schema_type: xyzri:XYZPublication
+title: Multi-center brain age prediction via dual-modality fusion convolutional network

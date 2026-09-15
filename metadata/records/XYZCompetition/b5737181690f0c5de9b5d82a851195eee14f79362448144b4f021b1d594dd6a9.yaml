@@ -1,0 +1,25 @@
+application_deadline: '2026-10-01'
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Gerhard Ertl Young Investigator Award
+- predicate: dcterms:description
+  schema_type: dlthings:AttributeSpecification
+  value: 'Prizes/ Awards  Career Status: Postdocs  Mobility: Staying  Deadline: October
+    2026  Information Funding Organization: Gerhard Ertl Young Investigator<https://www.fhi.mpg.de/gerhard-ertl-yia>  Information
+    FZJ: Gerhard Ertl Young Investigator Award<https://www.fz-juelich.de/en/research/research-fields/young-scientists/funding-calendar/prizes-awards/gehard_ertl_young_investigator_award>
+    (Funding Calendar)  FZJ Contact: Dr. Katharina Klein, email: k.klein@fz-juelich.de<mailto:k.klein@fz-juelich.de>  '
+- predicate: dcterms:date
+  schema_type: dlthings:AttributeSpecification
+  value: '2026-10-01'
+characterized_by:
+- object: xyzrins:competition-types/16e38ddd-6323-4fc7-abad-398609bf8541
+  predicate: dcterms:type
+description: 'Prizes/ Awards  Career Status: Postdocs  Mobility: Staying  Deadline:
+  October 2026  Information Funding Organization: Gerhard Ertl Young Investigator<https://www.fhi.mpg.de/gerhard-ertl-yia>  Information
+  FZJ: Gerhard Ertl Young Investigator Award<https://www.fz-juelich.de/en/research/research-fields/young-scientists/funding-calendar/prizes-awards/gehard_ertl_young_investigator_award>
+  (Funding Calendar)  FZJ Contact: Dr. Katharina Klein, email: k.klein@fz-juelich.de<mailto:k.klein@fz-juelich.de>  '
+kind: xyzrins:competition-types/16e38ddd-6323-4fc7-abad-398609bf8541
+pid: xyzrins:competition/040000008200E00074C5B7101A82E0080000000010368204434EDC01000000000000000010000000EFE67DF8012BC445ACD92C5917782870
+schema_type: xyzri:XYZCompetition
+title: Gerhard Ertl Young Investigator Award

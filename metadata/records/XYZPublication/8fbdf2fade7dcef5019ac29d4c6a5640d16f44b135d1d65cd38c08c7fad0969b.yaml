@@ -1,0 +1,77 @@
+attributed_to:
+- object: xyzrins:persons/benjamin-poldrack
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/adina-wagner
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/christian-moench
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/laura-waite
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/christian-haeusler
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/aa9f1ad5-4793-47e7-9eeb-913bcde97df7
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'DataLad: distributed system for joint management of code, data, and their
+    relationship'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: DataLad is a Python-based tool for the joint management of code, data, and
+    their relationship,built on top of a versatile system for data logistics (git-annex)
+    and the most popular distributedversion control system (Git). It adapts principles
+    of open-source software development anddistribution to address the technical challenges
+    of data management, data sharing, and digitalprovenance collection across the
+    life cycle of digital objects. DataLad aims to make datamanagement as easy as
+    managing code. It streamlines procedures to consume, publish, andupdate data,
+    for data of any size or type, and to link them as precisely versioned, lightweightdependencies.
+    DataLad helps to make science more reproducible and FAIR (Wilkinson et al.,2016).
+    It can capture complete and actionable process provenance of data transformations
+    toenable automatic re-computation. The DataLad project (datalad.org) delivers
+    a completelyopen, pioneering platform for flexible decentralized research data
+    management (RDM) (Hanke,Pestilli, et al., 2021).  It features a Python and a command-line
+    interface, an extensiblearchitecture, and does not depend on any centralized services
+    but facilitates interoperabilitywith a plurality of existing tools and services.
+    In order to maximize its utility and target audience, DataLad is available for
+    all major operating systems, and can be integrated intoestablished workflows and
+    environments with minimal friction.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: DataLad is a Python-based tool for the joint management of code, data,
+  and their relationship,built on top of a versatile system for data logistics (git-annex)
+  and the most popular distributedversion control system (Git). It adapts principles
+  of open-source software development anddistribution to address the technical challenges
+  of data management, data sharing, and digitalprovenance collection across the life
+  cycle of digital objects. DataLad aims to make datamanagement as easy as managing
+  code. It streamlines procedures to consume, publish, andupdate data, for data of
+  any size or type, and to link them as precisely versioned, lightweightdependencies.
+  DataLad helps to make science more reproducible and FAIR (Wilkinson et al.,2016).
+  It can capture complete and actionable process provenance of data transformations
+  toenable automatic re-computation. The DataLad project (datalad.org) delivers a
+  completelyopen, pioneering platform for flexible decentralized research data management
+  (RDM) (Hanke,Pestilli, et al., 2021).  It features a Python and a command-line interface,
+  an extensiblearchitecture, and does not depend on any centralized services but facilitates
+  interoperabilitywith a plurality of existing tools and services. In order to maximize
+  its utility and target audience, DataLad is available for all major operating systems,
+  and can be integrated intoestablished workflows and environments with minimal friction.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:2475-9066
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.21105/joss.03262
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/271f4f61-c7c3-436d-9393-326046319dde
+schema_type: xyzri:XYZPublication
+title: 'DataLad: distributed system for joint management of code, data, and their
+  relationship'

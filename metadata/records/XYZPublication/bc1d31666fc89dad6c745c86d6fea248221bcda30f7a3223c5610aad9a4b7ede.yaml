@@ -1,0 +1,59 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Processing of visual and non-visual naturalistic spatial information in the
+    'parahippocampal place area'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The "parahippocampal place area" (PPA) in the human ventral visual stream
+    exhibits increased hemodynamic activity correlated with the perception of landscape
+    photos compared to faces or objects. Here, we investigate the perception of scene-related,
+    spatial information embedded in two naturalistic stimuli. The same 14 participants
+    were watching a Hollywood movie and listening to its audio-description as part
+    of the open-data resource studyforrest.org. We model hemodynamic activity based
+    on annotations of selected stimulus features, and compare results to a block-design
+    visual localizer. On a group level, increased activation correlating with visual
+    spatial information occurring in the movie is overlapping with a traditionally
+    localized PPA. Activation correlating with semantic spatial information occurring
+    in the audio-description is more restricted to the anterior PPA. On an individual
+    level, we find significant bilateral activity in the PPA of nine individuals and
+    unilateral activity in one individual. Results suggest that activation in the
+    PPA generalizes to spatial information embedded in a movie and an auditory narrative,
+    and may call for considering a functional subdivision of the PPA.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The "parahippocampal place area" (PPA) in the human ventral visual stream
+  exhibits increased hemodynamic activity correlated with the perception of landscape
+  photos compared to faces or objects. Here, we investigate the perception of scene-related,
+  spatial information embedded in two naturalistic stimuli. The same 14 participants
+  were watching a Hollywood movie and listening to its audio-description as part of
+  the open-data resource studyforrest.org. We model hemodynamic activity based on
+  annotations of selected stimulus features, and compare results to a block-design
+  visual localizer. On a group level, increased activation correlating with visual
+  spatial information occurring in the movie is overlapping with a traditionally localized
+  PPA. Activation correlating with semantic spatial information occurring in the audio-description
+  is more restricted to the anterior PPA. On an individual level, we find significant
+  bilateral activity in the PPA of nine individuals and unilateral activity in one
+  individual. Results suggest that activation in the PPA generalizes to spatial information
+  embedded in a movie and an auditory narrative, and may call for considering a functional
+  subdivision of the PPA.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41597-022-01250-4
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/b7f068c8-ee51-47c4-8978-759bb5b26adc
+schema_type: xyzri:XYZPublication
+title: Processing of visual and non-visual naturalistic spatial information in the
+  'parahippocampal place area'

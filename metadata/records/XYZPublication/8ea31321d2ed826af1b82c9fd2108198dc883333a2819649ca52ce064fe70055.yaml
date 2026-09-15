@@ -1,0 +1,78 @@
+attributed_to:
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Content–state dimensions characterize different types of neuronal markers
+    of consciousness
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Identifying the neuronal markers of consciousness is key to supporting the
+    different scientific theories of consciousness. Neuronal markers of consciousness
+    can be defined to reflect either the brain signatures underlying specific conscious
+    content or those supporting different states of consciousness, two aspects traditionally
+    studied separately. In this paper, we introduce a framework to characterize markers
+    according to their dynamics in both the “state” and “content” dimensions. The
+    2D space is defined by the marker’s capacity to distinguish the conscious states
+    from non-conscious states (on the x-axis) and the content (e.g. perceived versus
+    unperceived or different levels of cognitive processing on the y-axis). According
+    to the sign of the x- and y-axis, markers are separated into four quadrants in
+    terms of how they distinguish the state and content dimensions. We implement the
+    framework using three types of electroencephalography markers: markers of connectivity,
+    markers of complexity, and spectral summaries. The neuronal markers of state are
+    represented by the level of consciousness in (i) healthy participants during a
+    nap and (ii) patients with disorders of consciousness. On the other hand, the
+    neuronal markers of content are represented by (i) the conscious content in healthy
+    participants’ perception task using a visual awareness paradigm and (ii) conscious
+    processing of hierarchical regularities using an auditory local–global paradigm.
+    In both cases, we see separate clusters of markers with correlated and anticorrelated
+    dynamics, shedding light on the complex relationship between the state and content
+    of consciousness and emphasizing the importance of considering them simultaneously.
+    This work presents an innovative framework for studying consciousness by examining
+    neuronal markers in a 2D space, providing a valuable resource for future research,
+    with potential applications using diverse experimental paradigms, neural recording
+    techniques, and modeling investigations.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Identifying the neuronal markers of consciousness is key to supporting
+  the different scientific theories of consciousness. Neuronal markers of consciousness
+  can be defined to reflect either the brain signatures underlying specific conscious
+  content or those supporting different states of consciousness, two aspects traditionally
+  studied separately. In this paper, we introduce a framework to characterize markers
+  according to their dynamics in both the “state” and “content” dimensions. The 2D
+  space is defined by the marker’s capacity to distinguish the conscious states from
+  non-conscious states (on the x-axis) and the content (e.g. perceived versus unperceived
+  or different levels of cognitive processing on the y-axis). According to the sign
+  of the x- and y-axis, markers are separated into four quadrants in terms of how
+  they distinguish the state and content dimensions. We implement the framework using
+  three types of electroencephalography markers: markers of connectivity, markers
+  of complexity, and spectral summaries. The neuronal markers of state are represented
+  by the level of consciousness in (i) healthy participants during a nap and (ii)
+  patients with disorders of consciousness. On the other hand, the neuronal markers
+  of content are represented by (i) the conscious content in healthy participants’
+  perception task using a visual awareness paradigm and (ii) conscious processing
+  of hierarchical regularities using an auditory local–global paradigm. In both cases,
+  we see separate clusters of markers with correlated and anticorrelated dynamics,
+  shedding light on the complex relationship between the state and content of consciousness
+  and emphasizing the importance of considering them simultaneously. This work presents
+  an innovative framework for studying consciousness by examining neuronal markers
+  in a 2D space, providing a valuable resource for future research, with potential
+  applications using diverse experimental paradigms, neural recording techniques,
+  and modeling investigations.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2057-2107
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/nc/niae027
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/490f649d-101b-4fd9-9dd4-0986dbe4fa4f
+schema_type: xyzri:XYZPublication
+title: Content–state dimensions characterize different types of neuronal markers of
+  consciousness

@@ -1,0 +1,9 @@
+display_note: ISSN:0301-0511
+identifiers:
+- creator: ror:026ytr635
+  notation: 0301-0511
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:0301-0511
+schema_type: xyzri:XYZPublicationVenue
+title: Biological Psychology

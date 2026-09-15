@@ -1,0 +1,4 @@
+description: A written argument submitted to a court.
+display_label: Brief
+pid: bibo:Brief
+schema_type: xyzri:XYZBibliographicType

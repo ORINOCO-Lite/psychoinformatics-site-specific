@@ -1,0 +1,72 @@
+attributed_to:
+- object: xyzrins:persons/91cb3ecc-1778-47b5-bce4-efc570225b9e
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/924c0245-6ca4-468e-9291-a0e312ce3c49
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Pitfalls in using ML to predict cognitive function performance
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Machine learning analyses are widely used for predicting cognitive abilities,
+    yet there are pitfalls that need to be considered during their implementation
+    and interpretation of the results. Hence, the present study aimed at drawing attention
+    to the risks of erroneous conclusions incurred by confounding variables illustrated
+    by a case example predicting executive function performance by prosodic features.
+    Healthy participants (n = 231) performed speech tasks and EF tests. From 264 prosodic
+    features, we predicted EF performance using 66 variables, controlling for confounding
+    effects of age, sex, and education. A reasonable model fit was apparently achieved
+    for EF variables of the Trail Making Test. However, in-depth analyses revealed
+    indications of confound leakage, leading to inflated prediction accuracies, due
+    to a strong relationship between confounds and targets. These findings highlight
+    the need to control confounding variables in ML pipelines and caution against
+    potential pitfalls in ML predictions.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Machine learning analyses are widely used for predicting cognitive abilities,
+  yet there are pitfalls that need to be considered during their implementation and
+  interpretation of the results. Hence, the present study aimed at drawing attention
+  to the risks of erroneous conclusions incurred by confounding variables illustrated
+  by a case example predicting executive function performance by prosodic features.
+  Healthy participants (n = 231) performed speech tasks and EF tests. From 264 prosodic
+  features, we predicted EF performance using 66 variables, controlling for confounding
+  effects of age, sex, and education. A reasonable model fit was apparently achieved
+  for EF variables of the Trail Making Test. However, in-depth analyses revealed indications
+  of confound leakage, leading to inflated prediction accuracies, due to a strong
+  relationship between confounds and targets. These findings highlight the need to
+  control confounding variables in ML pipelines and caution against potential pitfalls
+  in ML predictions.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.21203/rs.3.rs-4745684/v1
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2027-12-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/2b40e9ef-d9d2-42f8-a502-2e6efa86a1f7
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+kind: bibo:Manuscript
+pid: xyzrins:publications/cc388bd3-6dc1-428a-a85a-c008b935d827
+schema_type: xyzri:XYZPublication
+title: Pitfalls in using ML to predict cognitive function performance

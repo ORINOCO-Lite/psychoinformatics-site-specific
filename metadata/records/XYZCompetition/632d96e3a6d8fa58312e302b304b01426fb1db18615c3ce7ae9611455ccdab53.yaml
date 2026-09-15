@@ -1,0 +1,25 @@
+application_deadline: '2026-10-01'
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Leopoldina Prize for Junior Scientists
+- predicate: dcterms:description
+  schema_type: dlthings:AttributeSpecification
+  value: 'Prizes/ Awards  Career Status: Postdocs  Mobility: Staying  Next Call: October
+    2025  Information Funding Organization: Leopoldina<https://go.fzj.de/Leopoldina-junior-scientists>  Information
+    FZJ: Leopoldina Prize<https://www.fz-juelich.de/en/research/research-fields/young-scientists/funding-calendar/prizes-awards/leopoldina_junior_scientistis>
+    (Funding Calendar)  FZJ Contact: Dr. Katharina Klein, email: k.klein@fz-juelich.de<mailto:k.klein@fz-juelich.de>  '
+- predicate: dcterms:date
+  schema_type: dlthings:AttributeSpecification
+  value: '2026-10-01'
+characterized_by:
+- object: xyzrins:competition-types/16e38ddd-6323-4fc7-abad-398609bf8541
+  predicate: dcterms:type
+description: 'Prizes/ Awards  Career Status: Postdocs  Mobility: Staying  Next Call:
+  October 2025  Information Funding Organization: Leopoldina<https://go.fzj.de/Leopoldina-junior-scientists>  Information
+  FZJ: Leopoldina Prize<https://www.fz-juelich.de/en/research/research-fields/young-scientists/funding-calendar/prizes-awards/leopoldina_junior_scientistis>
+  (Funding Calendar)  FZJ Contact: Dr. Katharina Klein, email: k.klein@fz-juelich.de<mailto:k.klein@fz-juelich.de>  '
+kind: xyzrins:competition-types/16e38ddd-6323-4fc7-abad-398609bf8541
+pid: xyzrins:competition/040000008200E00074C5B7101A82E008000000002A8B91B8CC9CDB01000000000000000010000000E372EF764B78AA4F80981D963BBACC41
+schema_type: xyzri:XYZCompetition
+title: Leopoldina Prize for Junior Scientists

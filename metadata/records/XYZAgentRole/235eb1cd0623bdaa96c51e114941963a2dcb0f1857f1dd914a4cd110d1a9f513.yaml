@@ -1,0 +1,5 @@
+description: A person, family, or organization sponsoring some aspect of a resource,
+  e.g., funding research, sponsoring an event
+display_label: Sponsor
+pid: marcrel:spn
+schema_type: xyzri:XYZAgentRole

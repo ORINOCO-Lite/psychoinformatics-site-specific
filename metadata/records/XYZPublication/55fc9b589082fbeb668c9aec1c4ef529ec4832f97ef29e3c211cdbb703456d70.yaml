@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/9fe30b8c-a331-4166-bd1c-f407b6e06ecc
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'The Effects of Childhood Adversity: Two Specific Neural Patterns'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Childhood adversity (CA) is associated with an elevated risk of psychopathology
+    across the lifespan and altered brain functions are thought to play an important
+    role in linking CA to mental vulnerability. Previous research has proposed that
+    CA generally influences emotion processing and particularly affects reward processing
+    and cognitive control, yet convergent evidence for CA-related neural and functional
+    networks underlying these processes remains to be fully understood. To investigate
+    the impact of CA on functional brain activations, the present study performed
+    Activation Likelihood Estimation (ALE) analyses across neuroimaging studies involving
+    three task domains: emotion processing, cognitive control, and reward processing.
+    ALE results revealed two significant CA-related convergences of activation in
+    the left amygdala and insula. To better understand and characterize the functions
+    of these clusters, we applied the Meta-Analytic Connectivity Modeling (MACM) approach
+    to identify co-activation maps, and the functional decoding approach to reveal
+    cluster-related psychological concepts. Results demonstrated two distinct neural
+    and functional networks in CA: an amygdala-centered emotion processing network
+    and an insula-centered somatomotor processing network. These specific neural patterns
+    might indicate the effect of CA on multiple neural and functional networks engaged
+    in sensory-motor and emotion processing functions. Our results provide insights
+    into the neurobiological embedding associated with CA.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Childhood adversity (CA) is associated with an elevated risk of psychopathology
+  across the lifespan and altered brain functions are thought to play an important
+  role in linking CA to mental vulnerability. Previous research has proposed that
+  CA generally influences emotion processing and particularly affects reward processing
+  and cognitive control, yet convergent evidence for CA-related neural and functional
+  networks underlying these processes remains to be fully understood. To investigate
+  the impact of CA on functional brain activations, the present study performed Activation
+  Likelihood Estimation (ALE) analyses across neuroimaging studies involving three
+  task domains: emotion processing, cognitive control, and reward processing. ALE
+  results revealed two significant CA-related convergences of activation in the left
+  amygdala and insula. To better understand and characterize the functions of these
+  clusters, we applied the Meta-Analytic Connectivity Modeling (MACM) approach to
+  identify co-activation maps, and the functional decoding approach to reveal cluster-related
+  psychological concepts. Results demonstrated two distinct neural and functional
+  networks in CA: an amygdala-centered emotion processing network and an insula-centered
+  somatomotor processing network. These specific neural patterns might indicate the
+  effect of CA on multiple neural and functional networks engaged in sensory-motor
+  and emotion processing functions. Our results provide insights into the neurobiological
+  embedding associated with CA.'
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0149-7634
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2025.106176
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/c011911b-751f-49dc-928c-761d257b970e
+schema_type: xyzri:XYZPublication
+title: 'The Effects of Childhood Adversity: Two Specific Neural Patterns'

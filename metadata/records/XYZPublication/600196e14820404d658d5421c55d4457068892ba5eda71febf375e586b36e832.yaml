@@ -1,0 +1,54 @@
+attributed_to:
+- object: xyzrins:persons/969235eb-06f6-4eb4-857c-1681a660220a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/659e2c63-bcaa-4348-bf2c-2d6176dfad96
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b86edddd-1b83-43dd-b863-e724cebfef1d
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Genetic architecture of subcortical brain structures in 38,851 individuals
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Subcortical brain structures are integral to motion, consciousness, emotions
+    and learning. We identified common genetic variation related to the volumes of
+    the nucleus accumbens, amygdala, brainstem, caudate nucleus, globus pallidus,
+    putamen and thalamus, using genome-wide association analyses in almost 40,000
+    individuals from CHARGE, ENIGMA and UK Biobank. We show that variability in subcortical
+    volumes is heritable, and identify 48 significantly associated loci (40 novel
+    at the time of analysis). Annotation of these loci by utilizing gene expression,
+    methylation and neuropathological data identified 199 genes putatively implicated
+    in neurodevelopment, synaptic signaling, axonal transport, apoptosis, inflammation/infection
+    and susceptibility to neurological disorders. This set of genes is significantly
+    enriched for Drosophila orthologs associated with neurodevelopmental phenotypes,
+    suggesting evolutionarily conserved mechanisms. Our findings uncover novel biology
+    and potential drug targets underlying brain development and disease.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Subcortical brain structures are integral to motion, consciousness, emotions
+  and learning. We identified common genetic variation related to the volumes of the
+  nucleus accumbens, amygdala, brainstem, caudate nucleus, globus pallidus, putamen
+  and thalamus, using genome-wide association analyses in almost 40,000 individuals
+  from CHARGE, ENIGMA and UK Biobank. We show that variability in subcortical volumes
+  is heritable, and identify 48 significantly associated loci (40 novel at the time
+  of analysis). Annotation of these loci by utilizing gene expression, methylation
+  and neuropathological data identified 199 genes putatively implicated in neurodevelopment,
+  synaptic signaling, axonal transport, apoptosis, inflammation/infection and susceptibility
+  to neurological disorders. This set of genes is significantly enriched for Drosophila
+  orthologs associated with neurodevelopmental phenotypes, suggesting evolutionarily
+  conserved mechanisms. Our findings uncover novel biology and potential drug targets
+  underlying brain development and disease.
+generated_by:
+- at_location: ISSN:1061-4036
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41588-019-0511-y
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/cd4782df-5d79-4a91-9d7d-cfac9c48a1a2
+schema_type: xyzri:XYZPublication
+title: Genetic architecture of subcortical brain structures in 38,851 individuals

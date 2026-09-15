@@ -1,0 +1,36 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Charting the neural circuits disruption in inhibitory control and its subcomponents
+    across psychiatric disorders: A neuroimaging meta-analysis'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Inhibitory control, comprising cognitive inhibition and response inhibition,
+    showed consistent deficits among several major psychiatric disorders. We aim to
+    identify the trans-diagnostic convergence of neuroimaging abnormalities underlying
+    inhibitory control across psychiatric disorders.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Inhibitory control, comprising cognitive inhibition and response inhibition,
+  showed consistent deficits among several major psychiatric disorders. We aim to
+  identify the trans-diagnostic convergence of neuroimaging abnormalities underlying
+  inhibitory control across psychiatric disorders.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0278-5846
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.pnpbp.2022.110618
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/4be278ef-06ae-4686-85db-8060f23e6fee
+schema_type: xyzri:XYZPublication
+title: 'Charting the neural circuits disruption in inhibitory control and its subcomponents
+  across psychiatric disorders: A neuroimaging meta-analysis'

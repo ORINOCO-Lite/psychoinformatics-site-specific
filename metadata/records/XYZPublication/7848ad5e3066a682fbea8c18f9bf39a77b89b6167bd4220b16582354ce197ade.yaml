@@ -1,0 +1,79 @@
+attributed_to:
+- object: xyzrins:persons/6ae68288-73ec-491b-a25f-75bbf9783e70
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Using personalised brain stimulation to modulate social cognition in adults
+    with autism-spectrum-disorder: protocol for a randomised single-blind rTMS study'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: BackgroundAutism spectrum disorder (ASD) is a neurodevelopmental disorder
+    characterized by impairments of social interaction and communication as well as
+    repetitive, stereotyped behaviour. Previous research indicates that ASD without
+    intellectual impairment is associated with underactivity and reduced functional
+    connectivity of the brain’s mentalizing pathway, to which the right temporo-parietal
+    junction (rTPJ) serves as an important entry point and hub. In this study, we
+    aim to utilize functional magnetic resonance imaging (fMRI) to localize activation
+    maxima in the rTPJ and other regions involved in social cognition to generate
+    individualized targets for neuro-navigated, intermittent theta burst stimulation
+    (iTBS) in order to modulate brain activity in a region centrally engaged in social
+    information processing.MethodsIn this single-blind, randomized, between-subject
+    neuroimaging-guided brain stimulation study we plan to recruit 52 participants
+    with prediagnosed ASD and 52 controls without ASD aged between 18 and 65 years.
+    Participants will be classified into two groups and will randomly receive one
+    session of either verum- or sham-iTBS. Effects will be assessed by using well-established
+    experimental tasks that interrogate social behaviour, but also use computational
+    modelling to investigate brain stimulation effects at this level.DiscussionThis
+    study aims to use personalized, non-invasive brain stimulation to alter social
+    information processing in adults with and without high-functioning ASD, which
+    has not been studied before with a similar protocol or a sample size of this magnitude.
+    By doing so in combination with behavioural and computational tasks, this study
+    has the potential to provide new mechanistic insights into the workings of the
+    social brain.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: BackgroundAutism spectrum disorder (ASD) is a neurodevelopmental disorder
+  characterized by impairments of social interaction and communication as well as
+  repetitive, stereotyped behaviour. Previous research indicates that ASD without
+  intellectual impairment is associated with underactivity and reduced functional
+  connectivity of the brain’s mentalizing pathway, to which the right temporo-parietal
+  junction (rTPJ) serves as an important entry point and hub. In this study, we aim
+  to utilize functional magnetic resonance imaging (fMRI) to localize activation maxima
+  in the rTPJ and other regions involved in social cognition to generate individualized
+  targets for neuro-navigated, intermittent theta burst stimulation (iTBS) in order
+  to modulate brain activity in a region centrally engaged in social information processing.MethodsIn
+  this single-blind, randomized, between-subject neuroimaging-guided brain stimulation
+  study we plan to recruit 52 participants with prediagnosed ASD and 52 controls without
+  ASD aged between 18 and 65 years. Participants will be classified into two groups
+  and will randomly receive one session of either verum- or sham-iTBS. Effects will
+  be assessed by using well-established experimental tasks that interrogate social
+  behaviour, but also use computational modelling to investigate brain stimulation
+  effects at this level.DiscussionThis study aims to use personalized, non-invasive
+  brain stimulation to alter social information processing in adults with and without
+  high-functioning ASD, which has not been studied before with a similar protocol
+  or a sample size of this magnitude. By doing so in combination with behavioural
+  and computational tasks, this study has the potential to provide new mechanistic
+  insights into the workings of the social brain.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1471-244X
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1186/s12888-025-06719-1
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/87c1cfdc-31be-44b0-9976-93cf71e07669
+schema_type: xyzri:XYZPublication
+title: 'Using personalised brain stimulation to modulate social cognition in adults
+  with autism-spectrum-disorder: protocol for a randomised single-blind rTMS study'

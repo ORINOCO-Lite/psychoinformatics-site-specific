@@ -1,0 +1,43 @@
+about:
+- xyzrins:topics/neuroimaging
+- xyzrins:topics/predictive-data-analysis
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-04-01T09:57:03.603948'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002035
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/moritz-boos
+  roles:
+  - obo:MS_1002034
+  schema_type: dlthings:Attribution
+description: In neuroimaging, voxel-wise encoding models are a popular tool to predict
+  brain activity elicited by a stimulus. To evaluate the accuracy of these predictions
+  across multiple voxels, one can choose between multiple quality metrics. However,
+  each quality metric requires specifying auxiliary parameters such as the number
+  and selection criteria of voxels, whose influence on model validation is unknown.
+  In this study, we systematically vary these parameters and observe their effects
+  on three common quality metrics of voxel-wise encoding models in two open datasets
+  of 3- and 7-Tesla BOLD fMRI activity elicited by musical stimuli. We show that such
+  auxiliary parameters not only exert substantial influence on model validation, but
+  also differ in how they affect each quality metric. Finally, we give several recommendations
+  for validating voxel-wise encoding models that may limit variability due to different
+  numbers of voxels, voxel selection criteria, and magnetic field strengths.
+generated_by:
+- at_time: '2020-04-08'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2020.04.07.029397
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/15f6113f-8ef6-403c-9618-0b35dc436866
+schema_type: xyzri:XYZPublication
+title: The role of auxiliary parameters in evaluating voxel-wise encoding models for
+  3T and 7T BOLD fMRI data

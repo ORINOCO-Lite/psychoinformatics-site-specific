@@ -1,0 +1,14 @@
+attributed_to:
+- object: ror:018mejw64
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+identifiers:
+- creator: ror:018mejw64
+  notation: '552339449'
+  schema_type: dlthings:Identifier
+pid: xyzrins:grants/a8b5c3b6-e00f-484f-b494-afa09df6557b
+schema_type: xyzri:XYZGrant
+short_name: Charting the neural architecture of emotion processing
+title: 'From recognition to regulation: Combining meta-analytic priors with machine
+  learning for decoding affective brain–behavior relationships in health and disease'

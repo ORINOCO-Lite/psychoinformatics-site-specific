@@ -1,0 +1,27 @@
+associated_with:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+description: Casey's Emmy Noether Research Group.
+ended:
+  at_time: '2027-09-30'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2027-09-30'
+    schema_type: dlthings:End
+  object: xyzrins:grants/003e63be-a64b-4d72-a912-392b40710a48
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2024-10-01'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/ffdd065b-4b91-4dc6-9641-5d8b294c3105
+schema_type: xyzri:XYZProject
+started:
+  at_time: '2024-10-01'
+  schema_type: dlthings:Start
+title: 'Microstructural development of the brain: Towards understanding the origins
+  of higher-order cognition'

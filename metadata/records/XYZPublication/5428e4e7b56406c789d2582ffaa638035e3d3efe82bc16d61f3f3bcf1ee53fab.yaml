@@ -1,0 +1,55 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/659e2c63-bcaa-4348-bf2c-2d6176dfad96
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Shaping Brain Structure: Genetic and Phylogenetic Axes of Macro Scale Organization
+    of Cortical Thickness'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The topology of the cerebral cortex has been proposed to provide an important
+    source of constraint for the organization of cognition. In a sample of twins (n
+    = 1113), we determined structural covariance of thickness to be organized along
+    both a posterior-to-anterior and an inferior-to-superior axis. Both organizational
+    axes were present when investigating the genetic correlation of cortical thickness,
+    suggesting a strong genetic component in humans, and had a comparable organization
+    in macaques, demonstrating they are phylogenetically conserved in primates. In
+    both species, the inferior-superior dimension of cortical organization aligned
+    with the predictions of dual-origin theory, and in humans, we found that the posterior-to-anterior
+    axis related to a functional topography describing a continuum of functions from
+    basic processes involved in perception and action to more abstract features of
+    human cognition. Together, our study provides important insights into how functional
+    and evolutionary patterns converge at the level of macroscale cortical structural
+    organization.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The topology of the cerebral cortex has been proposed to provide an important
+  source of constraint for the organization of cognition. In a sample of twins (n
+  = 1113), we determined structural covariance of thickness to be organized along
+  both a posterior-to-anterior and an inferior-to-superior axis. Both organizational
+  axes were present when investigating the genetic correlation of cortical thickness,
+  suggesting a strong genetic component in humans, and had a comparable organization
+  in macaques, demonstrating they are phylogenetically conserved in primates. In both
+  species, the inferior-superior dimension of cortical organization aligned with the
+  predictions of dual-origin theory, and in humans, we found that the posterior-to-anterior
+  axis related to a functional topography describing a continuum of functions from
+  basic processes involved in perception and action to more abstract features of human
+  cognition. Together, our study provides important insights into how functional and
+  evolutionary patterns converge at the level of macroscale cortical structural organization.
+generated_by:
+- at_location: ISSN:2375-2548
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1126/sciadv.abb3417
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/13be050c-7c56-449d-af7c-6e39fcfe7b8d
+schema_type: xyzri:XYZPublication
+title: 'Shaping Brain Structure: Genetic and Phylogenetic Axes of Macro Scale Organization
+  of Cortical Thickness'

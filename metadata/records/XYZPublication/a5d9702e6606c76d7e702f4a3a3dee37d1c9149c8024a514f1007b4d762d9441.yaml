@@ -1,0 +1,64 @@
+attributed_to:
+- object: xyzrins:persons/15a9b2f2-d2a0-47f1-aaa6-ca8d4ed541b0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Neural processing of iterated prisoner’s dilemma outcomes indicates next-round
+    choice and speed to reciprocate cooperation
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'The iterated prisoner''s dilemma (iPD) game is a well established model
+    for testing how people cooperate, yet the neural processes that unfold after its
+    distinct outcomes have been only partly described. Recent theoretical models emphasize
+    the ubiquity of intuitive cooperation, raising questions on both neural and behavioral
+    timelines involved. We studied the outcome/feedback stage of iPD rounds with electroencephalography
+    (EEG) methods. Results showed that neural signals associated to this stage also
+    relate to future choice in an outcome-dependent manner: (i) after zero-gain ‘sucker’s
+    payoffs’ (unreciprocated cooperation), a participant’s decision thereafter relates
+    to changes to the feedback-related negativity (FRN); (ii) after one-sided non-cooperation
+    (participant wins at co-player’s expense), by the P3; (iii) after mutual cooperation,
+    by late frontal delta-band modulations. Critically, faster choices to reciprocate
+    co-player cooperation were predicted, on a single-trial basis, by P3 and frontal
+    delta modulations at the immediately preceding trial. Delta band signaling is
+    considered in relation to homeostatic regulation processing in the literature.
+    The findings relate the early outcome/feedback stage to subsequent decisional
+    processes in the iPD, providing a first neural account of the brief timelines
+    implied in heuristic modes of cooperation.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'The iterated prisoner''s dilemma (iPD) game is a well established model
+  for testing how people cooperate, yet the neural processes that unfold after its
+  distinct outcomes have been only partly described. Recent theoretical models emphasize
+  the ubiquity of intuitive cooperation, raising questions on both neural and behavioral
+  timelines involved. We studied the outcome/feedback stage of iPD rounds with electroencephalography
+  (EEG) methods. Results showed that neural signals associated to this stage also
+  relate to future choice in an outcome-dependent manner: (i) after zero-gain ‘sucker’s
+  payoffs’ (unreciprocated cooperation), a participant’s decision thereafter relates
+  to changes to the feedback-related negativity (FRN); (ii) after one-sided non-cooperation
+  (participant wins at co-player’s expense), by the P3; (iii) after mutual cooperation,
+  by late frontal delta-band modulations. Critically, faster choices to reciprocate
+  co-player cooperation were predicted, on a single-trial basis, by P3 and frontal
+  delta modulations at the immediately preceding trial. Delta band signaling is considered
+  in relation to homeostatic regulation processing in the literature. The findings
+  relate the early outcome/feedback stage to subsequent decisional processes in the
+  iPD, providing a first neural account of the brief timelines implied in heuristic
+  modes of cooperation.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:1747-0919
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1080/17470919.2020.1859410
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/76574ae0-1fa1-443a-ab2a-d707fcb8cce2
+schema_type: xyzri:XYZPublication
+title: Neural processing of iterated prisoner’s dilemma outcomes indicates next-round
+  choice and speed to reciprocate cooperation

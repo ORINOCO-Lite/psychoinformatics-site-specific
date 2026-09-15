@@ -1,0 +1,16 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-03T09:18:38.586772'
+delegated_by:
+- object: xyzrins:organizations/fzj
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+family_name: Geiger
+given_name: Anna
+pid: xyzrins:persons/6e723d2e-fce7-46ec-b01f-3357839a2646
+schema_type: xyzri:XYZPerson

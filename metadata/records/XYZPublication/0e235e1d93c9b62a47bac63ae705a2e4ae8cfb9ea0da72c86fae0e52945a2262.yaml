@@ -1,0 +1,58 @@
+attributed_to:
+- object: xyzrins:persons/15a9b2f2-d2a0-47f1-aaa6-ca8d4ed541b0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/06b9a2d5-b71d-4fd3-8f19-966c53adf8d4
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/6ae68288-73ec-491b-a25f-75bbf9783e70
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Overview of leakage scenarios in supervised machine learning
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Machine learning (ML) provides powerful tools for predictive modeling. ML’s
+    popularity stems from the promise of sample-level prediction with applications
+    across a variety of fields from physics and marketing to healthcare. However,
+    if not properly implemented and evaluated, ML pipelines may contain leakage typically
+    resulting in overoptimistic performance estimates and failure to generalize to
+    new data. This can have severe negative financial and societal implications. Our
+    aim is to expand understanding associated with causes leading to leakage when
+    designing, implementing, and evaluating ML pipelines. Illustrated by concrete
+    examples, we provide a comprehensive overview and discussion of various types
+    of leakage that may arise in ML pipelines.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Machine learning (ML) provides powerful tools for predictive modeling.
+  ML’s popularity stems from the promise of sample-level prediction with applications
+  across a variety of fields from physics and marketing to healthcare. However, if
+  not properly implemented and evaluated, ML pipelines may contain leakage typically
+  resulting in overoptimistic performance estimates and failure to generalize to new
+  data. This can have severe negative financial and societal implications. Our aim
+  is to expand understanding associated with causes leading to leakage when designing,
+  implementing, and evaluating ML pipelines. Illustrated by concrete examples, we
+  provide a comprehensive overview and discussion of various types of leakage that
+  may arise in ML pipelines.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:2196-1115
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1186/s40537-025-01193-8
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/7f4ed265-ed76-4457-ac81-da986859f631
+schema_type: xyzri:XYZPublication
+title: Overview of leakage scenarios in supervised machine learning

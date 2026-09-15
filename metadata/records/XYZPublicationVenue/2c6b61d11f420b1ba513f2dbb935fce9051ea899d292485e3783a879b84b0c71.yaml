@@ -1,0 +1,9 @@
+display_note: ISSN:0367-0031
+identifiers:
+- creator: ror:026ytr635
+  notation: 0367-0031
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:0367-0031
+schema_type: xyzri:XYZPublicationVenue
+title: Deutsche Zeitschrift für die Gesamte Gerichtliche Medizin

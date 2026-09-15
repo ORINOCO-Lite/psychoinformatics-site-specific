@@ -1,0 +1,4 @@
+description: A person or organization for whom another person or organization is acting
+display_label: Client
+pid: marcrel:cli
+schema_type: xyzri:XYZAgentRole

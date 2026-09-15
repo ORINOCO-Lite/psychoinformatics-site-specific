@@ -1,0 +1,64 @@
+attributed_to:
+- object: xyzrins:persons/3cf923ff-969d-4224-bb7b-9f319f0b1564
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/81b3a1a2-cde7-46c2-8edd-87145adc579e
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: The roles of impulsivity, comorbid ADHD, and borderline personality disorder
+    in patients with bulimia nervosa
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: BackgroundBulimia nervosa (BN) is a serious mental illness with impulsivity
+    as a cardinal symptom. Impulsivity contributes to various other, often comorbid,
+    mental disorders, such as attention deficit/hyperactivity disorder (ADHD) and
+    borderline personality disorder (BPD). The aim of this study was to explore comorbidities
+    of BN with ADHD and BPD as well as the contribution of impulsivity as an underlying
+    trait linking these disorders.MethodsHundred and fifteen females with BN and 98
+    healthy matched controls (HC) (age range between 16 and 48 years) were assessed
+    regarding adult and childhood-ADHD, personality disorders and impulsivity.ResultsPatients
+    with BN were more impulsive (p < 0.001) and more often fulfilled criteria of childhood/adulthood
+    ADHD (p < 0.001) than HC, and criteria of BPD than expected in the general population.
+    Childhood-ADHD (p = 0.009) and BPD (p = 0.017) both were significant positive
+    predictors for impulsivity scores found in patients with BN.ConclusionComorbidity
+    with ADHD and BPD often is prevalent in BN and associated with an increase in
+    impulsivity, the latter being a relevant transdiagnostic trait. It might be beneficial
+    to explore impulsivity as well as comorbidities in the clinical care of patients
+    with BN.Level of evidence IIIEvidence obtained from well-designed cohort or case–control
+    analytic studies.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: BackgroundBulimia nervosa (BN) is a serious mental illness with impulsivity
+  as a cardinal symptom. Impulsivity contributes to various other, often comorbid,
+  mental disorders, such as attention deficit/hyperactivity disorder (ADHD) and borderline
+  personality disorder (BPD). The aim of this study was to explore comorbidities of
+  BN with ADHD and BPD as well as the contribution of impulsivity as an underlying
+  trait linking these disorders.MethodsHundred and fifteen females with BN and 98
+  healthy matched controls (HC) (age range between 16 and 48 years) were assessed
+  regarding adult and childhood-ADHD, personality disorders and impulsivity.ResultsPatients
+  with BN were more impulsive (p < 0.001) and more often fulfilled criteria of childhood/adulthood
+  ADHD (p < 0.001) than HC, and criteria of BPD than expected in the general population.
+  Childhood-ADHD (p = 0.009) and BPD (p = 0.017) both were significant positive predictors
+  for impulsivity scores found in patients with BN.ConclusionComorbidity with ADHD
+  and BPD often is prevalent in BN and associated with an increase in impulsivity,
+  the latter being a relevant transdiagnostic trait. It might be beneficial to explore
+  impulsivity as well as comorbidities in the clinical care of patients with BN.Level
+  of evidence IIIEvidence obtained from well-designed cohort or case–control analytic
+  studies.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1124-4909
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s40519-025-01713-8
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/68cfc7e5-189e-41d7-8cc1-90097002cca7
+schema_type: xyzri:XYZPublication
+title: The roles of impulsivity, comorbid ADHD, and borderline personality disorder
+  in patients with bulimia nervosa

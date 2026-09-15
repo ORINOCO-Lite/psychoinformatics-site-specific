@@ -1,0 +1,56 @@
+about:
+- xyzrins:topics/naturalistic-stimulation
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-05-26T10:50:14.256494'
+attributed_to:
+- object: xyzrins:persons/christian-haeusler
+  roles:
+  - marcrel:cre
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/christian-haeusler
+  roles:
+  - marcrel:cre
+  schema_type: dlthings:Attribution
+attributes:
+- description: Source repository of the paper about the Studyforrest speech annotations
+  predicate: rdfs:seeAlso
+  schema_type: dlthings:AttributeSpecification
+  value: https://hub.psychoinformatics.de/studyforrest/studyforrest-paper-speechannotation
+- predicate: CiTO:isDescribedBy
+  schema_type: dlthings:AttributeSpecification
+  value: https://zenodo.org/records/4382143
+- predicate: dcat:downloadUrl
+  schema_type: dlthings:AttributeSpecification
+  value: https://zenodo.org/records/4382143/files/studyforrest-speechannotation.tar.gz?download=1
+- predicate: dcat:downloadUrl
+  schema_type: dlthings:AttributeSpecification
+  value: https://zenodo.org/records/4382143/files/studyforrest-speechannotation.tar.gz?download=1
+- predicate: CiTO:isDescribedBy
+  schema_type: dlthings:AttributeSpecification
+  value: https://zenodo.org/records/4382143
+- description: Source repository of the paper about the Studyforrest speech annotations
+  predicate: rdfs:seeAlso
+  schema_type: dlthings:AttributeSpecification
+  value: https://hub.psychoinformatics.de/studyforrest/studyforrest-paper-speechannotation
+characterized_by:
+- object: xyzrins:publications/0cac730a-7fa1-429d-82ca-0a98ba32f156
+  predicate: CiTO:isDescribedBy
+- object: xyzrins:publications/0cac730a-7fa1-429d-82ca-0a98ba32f156
+  predicate: CiTO:isDescribedBy
+description: The exact timing of each of the more than 2,500 spoken sentences, 16,000
+  words (including 202 non-speech vocalizations), 66,000 phonemes, and their corresponding
+  speaker. Additionally, every word is associated with a grammatical category, and
+  its syntactic dependencies are defined.
+display_label: 'Studyforrest: Speech Annotations'
+part_of:
+- xyzrins:datasets/studyforrest
+pid: xyzrins:datasets/7bc5fde2-a4c8-4ece-92fe-f071b1cd299b
+rules:
+- spdxlic:CC-BY-4.0
+schema_type: xyzri:XYZDataset
+title: studyforrest-data-speechannotation

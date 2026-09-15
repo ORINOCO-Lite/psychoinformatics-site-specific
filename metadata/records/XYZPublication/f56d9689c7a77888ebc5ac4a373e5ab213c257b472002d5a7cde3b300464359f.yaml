@@ -1,0 +1,83 @@
+attributed_to:
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d25533c9-aef7-428e-a9e9-f2cbc5acf3a1
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Linking cerebellar functional gradients to transdiagnostic behavioral dimensions
+    of psychopathology
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'High co-morbidity and substantial overlap across psychiatric disorders encourage
+    a transition in psychiatry research from categorical to dimensional approaches
+    that integrate neuroscience and psychopathology. Converging evidence suggests
+    that the cerebellum is involved in a wide range of cognitive functions and mental
+    disorders. An important question thus centers on the extent to which cerebellar
+    function can be linked to transdiagnostic dimensions of psychopathology. To address
+    this question, we used a multivariate data-driven statistical technique (partial
+    least squares) to identify latent dimensions linking human cerebellar connectome
+    as assessed by functional MRI to a large set of clinical, cognitive, and trait
+    measures across 198 participants, including healthy controls (n = 92) as well
+    as patients diagnosed with attention-deficit/hyperactivity disorder (n = 35),
+    bipolar disorder (n = 36), and schizophrenia (n = 35). Macroscale spatial gradients
+    of connectivity at voxel level were used to characterize cerebellar connectome
+    properties, which provide a low-dimensional representation of cerebellar connectivity,
+    i.e., a sensorimotor-supramodal hierarchical organization. This multivariate analysis
+    revealed significant correlated patterns of cerebellar connectivity gradients
+    and behavioral measures that could be represented into four latent dimensions:
+    general psychopathology, impulsivity and mood, internalizing symptoms and executive
+    dysfunction. Each dimension was associated with a unique spatial pattern of cerebellar
+    connectivity gradients across all participants. Multiple control analyses and
+    10-fold cross-validation confirmed the robustness and generalizability of the
+    yielded four dimensions. These findings highlight the relevance of cerebellar
+    connectivity as a necessity for the study and classification of transdiagnostic
+    dimensions of psychopathology and call on researcher to pay more attention to
+    the role of cerebellum in the dimensions of psychopathology, not just within the
+    cerebral cortex.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'High co-morbidity and substantial overlap across psychiatric disorders
+  encourage a transition in psychiatry research from categorical to dimensional approaches
+  that integrate neuroscience and psychopathology. Converging evidence suggests that
+  the cerebellum is involved in a wide range of cognitive functions and mental disorders.
+  An important question thus centers on the extent to which cerebellar function can
+  be linked to transdiagnostic dimensions of psychopathology. To address this question,
+  we used a multivariate data-driven statistical technique (partial least squares)
+  to identify latent dimensions linking human cerebellar connectome as assessed by
+  functional MRI to a large set of clinical, cognitive, and trait measures across
+  198 participants, including healthy controls (n = 92) as well as patients diagnosed
+  with attention-deficit/hyperactivity disorder (n = 35), bipolar disorder (n = 36),
+  and schizophrenia (n = 35). Macroscale spatial gradients of connectivity at voxel
+  level were used to characterize cerebellar connectome properties, which provide
+  a low-dimensional representation of cerebellar connectivity, i.e., a sensorimotor-supramodal
+  hierarchical organization. This multivariate analysis revealed significant correlated
+  patterns of cerebellar connectivity gradients and behavioral measures that could
+  be represented into four latent dimensions: general psychopathology, impulsivity
+  and mood, internalizing symptoms and executive dysfunction. Each dimension was associated
+  with a unique spatial pattern of cerebellar connectivity gradients across all participants.
+  Multiple control analyses and 10-fold cross-validation confirmed the robustness
+  and generalizability of the yielded four dimensions. These findings highlight the
+  relevance of cerebellar connectivity as a necessity for the study and classification
+  of transdiagnostic dimensions of psychopathology and call on researcher to pay more
+  attention to the role of cerebellum in the dimensions of psychopathology, not just
+  within the cerebral cortex.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2213-1582
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.nicl.2022.103176
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8bdd482a-7688-4b1b-bb6e-ff82c4fe3e98
+schema_type: xyzri:XYZPublication
+title: Linking cerebellar functional gradients to transdiagnostic behavioral dimensions
+  of psychopathology

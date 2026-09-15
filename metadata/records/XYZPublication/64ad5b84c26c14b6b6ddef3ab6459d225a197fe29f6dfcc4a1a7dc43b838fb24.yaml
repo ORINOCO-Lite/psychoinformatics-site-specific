@@ -1,0 +1,65 @@
+attributed_to:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Connectivity alterations in autism reflect functional idiosyncrasy
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Autism spectrum disorder (ASD) is commonly understood as an alteration of
+    brain networks, yet case-control analyses against typically-developing controls
+    (TD) have yielded inconsistent results. Here, we devised a novel approach to profile
+    the inter-individual variability in functional network organization and tested
+    whether such idiosyncrasy contributes to connectivity alterations in ASD. Studying
+    a multi-centric dataset with 157 ASD and 172 TD, we obtained robust evidence for
+    increased idiosyncrasy in ASD relative to TD in default mode, somatomotor and
+    attention networks, but also reduced idiosyncrasy in lateral temporal cortices.
+    Idiosyncrasy increased with age and significantly correlated with symptom severity
+    in ASD. Furthermore, while patterns of functional idiosyncrasy were not correlated
+    with ASD-related cortical thickness alterations, they co-localized with the expression
+    patterns of ASD risk genes. Notably, we could demonstrate that patterns of atypical
+    idiosyncrasy in ASD closely overlapped with connectivity alterations that are
+    measurable with conventional case-control designs and may, thus, be a principal
+    driver of inconsistency in the autism connectomics literature. These findings
+    support important interactions between inter-individual heterogeneity in autism
+    and functional signatures. Our findings provide novel biomarkers to study atypical
+    brain development and may consolidate prior research findings on the variable
+    nature of connectome level anomalies in autism.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Autism spectrum disorder (ASD) is commonly understood as an alteration
+  of brain networks, yet case-control analyses against typically-developing controls
+  (TD) have yielded inconsistent results. Here, we devised a novel approach to profile
+  the inter-individual variability in functional network organization and tested whether
+  such idiosyncrasy contributes to connectivity alterations in ASD. Studying a multi-centric
+  dataset with 157 ASD and 172 TD, we obtained robust evidence for increased idiosyncrasy
+  in ASD relative to TD in default mode, somatomotor and attention networks, but also
+  reduced idiosyncrasy in lateral temporal cortices. Idiosyncrasy increased with age
+  and significantly correlated with symptom severity in ASD. Furthermore, while patterns
+  of functional idiosyncrasy were not correlated with ASD-related cortical thickness
+  alterations, they co-localized with the expression patterns of ASD risk genes. Notably,
+  we could demonstrate that patterns of atypical idiosyncrasy in ASD closely overlapped
+  with connectivity alterations that are measurable with conventional case-control
+  designs and may, thus, be a principal driver of inconsistency in the autism connectomics
+  literature. These findings support important interactions between inter-individual
+  heterogeneity in autism and functional signatures. Our findings provide novel biomarkers
+  to study atypical brain development and may consolidate prior research findings
+  on the variable nature of connectome level anomalies in autism.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2399-3642
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s42003-021-02572-6
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/48d5aa18-fc17-42ca-ae51-6b26b9846078
+schema_type: xyzri:XYZPublication
+title: Connectivity alterations in autism reflect functional idiosyncrasy

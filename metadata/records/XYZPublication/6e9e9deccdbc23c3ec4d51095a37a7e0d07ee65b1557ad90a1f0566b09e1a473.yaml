@@ -1,0 +1,41 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Ethische Aspekte des Einsatzes von künstlicher Intelligenz in der Medizin
+    - Ethical aspects of the use of artificial intelligence in medicine
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: BackgroundApplications of artificial intelligence (AI) are now widely used
+    in medicine and are becoming increasingly more important.ObjectiveSome of the
+    ethical challenges associated with the use of AI applications in medicine are
+    highlighted.Material and methodsAgainst the backdrop of established ethical principles,
+    several recent studies are cited and discussed from an ethical perspective.ConclusionThe
+    AI is a disruptive technology that offers great benefits but also entails certain
+    risks. Medical ethics provide principles that can be used to identify risks and
+    develop strategies for the responsible implementation of AI applications.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: BackgroundApplications of artificial intelligence (AI) are now widely
+  used in medicine and are becoming increasingly more important.ObjectiveSome of the
+  ethical challenges associated with the use of AI applications in medicine are highlighted.Material
+  and methodsAgainst the backdrop of established ethical principles, several recent
+  studies are cited and discussed from an ethical perspective.ConclusionThe AI is
+  a disruptive technology that offers great benefits but also entails certain risks.
+  Medical ethics provide principles that can be used to identify risks and develop
+  strategies for the responsible implementation of AI applications.
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:0948-7034
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00772-025-01294-x
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/fc7d5115-fae0-4125-9ff3-a21ec6f6e4e5
+schema_type: xyzri:XYZPublication
+title: Ethische Aspekte des Einsatzes von künstlicher Intelligenz in der Medizin -
+  Ethical aspects of the use of artificial intelligence in medicine

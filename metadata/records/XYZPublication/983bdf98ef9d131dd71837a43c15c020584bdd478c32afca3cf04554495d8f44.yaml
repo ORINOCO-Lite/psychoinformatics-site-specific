@@ -1,0 +1,61 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Better the devil you know than the devil you don''t: Neural processing of
+    risk and ambiguity'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Risk and ambiguity are inherent in virtually all human decision-making.
+    Risk refers to a situation in which we know the precise probability of potential
+    outcomes of each option, whereas ambiguity refers to a situation in which outcome
+    probabilities are not known. A large body of research has shown that individuals
+    prefer known risks to ambiguity, a phenomenon known as ambiguity aversion. One
+    heated debate concerns whether risky and ambiguous decisions rely on the same
+    or distinct neural circuits. In the current meta-analyses, we integrated the results
+    of neuroimaging research on decision-making under risk (n = 69) and ambiguity
+    (n = 31). Our results showed that both processing of risk and ambiguity showed
+    convergence in anterior insula, indicating a key role of anterior insula in encoding
+    uncertainty. Risk additionally engaged dorsomedial prefrontal cortex (dmPFC) and
+    ventral striatum, whereas ambiguity specifically recruited the dorsolateral prefrontal
+    cortex (dlPFC), inferior parietal lobe (IPL) and right anterior insula. Our findings
+    demonstrate overlapping and distinct neural substrates underlying different types
+    of uncertainty, guiding future neuroimaging research on risk-taking and ambiguity
+    aversion.Keywords: ALE; Ambiguity; Meta-analysis; Neuroimaging; Reward; Risk;
+    Uncertainty.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Risk and ambiguity are inherent in virtually all human decision-making.
+  Risk refers to a situation in which we know the precise probability of potential
+  outcomes of each option, whereas ambiguity refers to a situation in which outcome
+  probabilities are not known. A large body of research has shown that individuals
+  prefer known risks to ambiguity, a phenomenon known as ambiguity aversion. One heated
+  debate concerns whether risky and ambiguous decisions rely on the same or distinct
+  neural circuits. In the current meta-analyses, we integrated the results of neuroimaging
+  research on decision-making under risk (n = 69) and ambiguity (n = 31). Our results
+  showed that both processing of risk and ambiguity showed convergence in anterior
+  insula, indicating a key role of anterior insula in encoding uncertainty. Risk additionally
+  engaged dorsomedial prefrontal cortex (dmPFC) and ventral striatum, whereas ambiguity
+  specifically recruited the dorsolateral prefrontal cortex (dlPFC), inferior parietal
+  lobe (IPL) and right anterior insula. Our findings demonstrate overlapping and distinct
+  neural substrates underlying different types of uncertainty, guiding future neuroimaging
+  research on risk-taking and ambiguity aversion.Keywords: ALE; Ambiguity; Meta-analysis;
+  Neuroimaging; Reward; Risk; Uncertainty.'
+generated_by:
+- at_location: ISSN:1053-8119
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2021.118109
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/62e0c735-798a-44c6-87c9-525074d994a2
+schema_type: xyzri:XYZPublication
+title: 'Better the devil you know than the devil you don''t: Neural processing of
+  risk and ambiguity'

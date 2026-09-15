@@ -1,0 +1,71 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/9667ad1d-d904-4eea-9d86-7af45f176cb4
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Bias-accounting meta-analyses overcome cerebellar neglect to refine the cerebellar
+    behavioral topography
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The cerebellum plays important roles in motor, cognitive, and emotional behaviors.
+    Previous cerebellar coordinate-based meta-analyses and mappings have attributed
+    different behaviors to cerebellar subareas, but an accurate behavioral topography
+    is lacking. Here, we show overrepresentation of superior activation foci, which
+    may be exacerbated by historical cerebellar neglect. Unequal foci distributions
+    render the null hypothesis of standard activation likelihood estimation unsuitable.
+    Our new method, cerebellum-specific activation-likelihood estimation (C-SALE),
+    finds behavioral convergence beyond baseline activation rates. It does this by
+    testing experimental foci versus null models sampled from a data-driven, biased
+    probability distribution of finding foci at any cerebellar location. Cerebellar
+    mappings were made across five BrainMap task domains and thirty-five subdomains,
+    illustrating improved specificity of the new method. Twelve of forty (sub)domains
+    reached convergence in specific cerebellar subregions, supporting dual motor representations
+    and placing cognition in posterior-lateral regions. Repeated subsampling revealed
+    that whereas action, language and working memory were relatively stable, other
+    behaviors produced unstable meta-analytic maps. Lastly, meta-analytic connectivity
+    modeling in the same debiased framework was used to reveal coactivation networks
+    of cerebellar behavioral clusters. In sum, we created a new method for cerebellar
+    meta-analysis that accounts for data biases and can be flexibly adapted to any
+    part of the brain. Our findings provide a refined understanding of cerebellar
+    involvement in human behaviors, highlighting regions for future investigation
+    in both basic and clinical applications.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: The cerebellum plays important roles in motor, cognitive, and emotional
+  behaviors. Previous cerebellar coordinate-based meta-analyses and mappings have
+  attributed different behaviors to cerebellar subareas, but an accurate behavioral
+  topography is lacking. Here, we show overrepresentation of superior activation foci,
+  which may be exacerbated by historical cerebellar neglect. Unequal foci distributions
+  render the null hypothesis of standard activation likelihood estimation unsuitable.
+  Our new method, cerebellum-specific activation-likelihood estimation (C-SALE), finds
+  behavioral convergence beyond baseline activation rates. It does this by testing
+  experimental foci versus null models sampled from a data-driven, biased probability
+  distribution of finding foci at any cerebellar location. Cerebellar mappings were
+  made across five BrainMap task domains and thirty-five subdomains, illustrating
+  improved specificity of the new method. Twelve of forty (sub)domains reached convergence
+  in specific cerebellar subregions, supporting dual motor representations and placing
+  cognition in posterior-lateral regions. Repeated subsampling revealed that whereas
+  action, language and working memory were relatively stable, other behaviors produced
+  unstable meta-analytic maps. Lastly, meta-analytic connectivity modeling in the
+  same debiased framework was used to reveal coactivation networks of cerebellar behavioral
+  clusters. In sum, we created a new method for cerebellar meta-analysis that accounts
+  for data biases and can be flexibly adapted to any part of the brain. Our findings
+  provide a refined understanding of cerebellar involvement in human behaviors, highlighting
+  regions for future investigation in both basic and clinical applications.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2024.10.31.621398
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/95090ca5-aea5-4986-97f2-c9539ffa00d6
+schema_type: xyzri:XYZPublication
+title: Bias-accounting meta-analyses overcome cerebellar neglect to refine the cerebellar
+  behavioral topography

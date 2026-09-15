@@ -1,0 +1,51 @@
+associated_with:
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  roles:
+  - marcrel:led
+  schema_type: dlthings:Association
+- object: xyzrins:persons/9fe30b8c-a331-4166-bd1c-f407b6e06ecc
+  roles:
+  - marcrel:app
+  schema_type: dlthings:Association
+description: 'Human emotion processing is a broad concept that encompasses different
+  aspects of affective processes and behavior like emotion perception, explicit identification,
+  experience, regulation and expression. While these subdomains of emotion processing
+  are assumed to be subserved by common (emotion-general) as well as different (aspect-specific)
+  brain regions, comprehensive systematic comparisons are lacking. Besides individual
+  differences in the normal spectrum, severe changes of emotional functioning and
+  impairments of emotion processing are observed in various psychiatric diseases including
+  schizophrenia and depression. However, given the heterogeneity of results in patients,
+  these diseases might not be associated with a generalized dysfunction in emotion-related
+  brain networks but rather with dysfunctions that are specific to different aspects
+  of emotion processing. The main objective of the planned project is to delineate
+  those brain networks that are robustly and specifically associated with the different
+  subdomains of emotion processing and to test how functional connectivity patterns
+  of the resulting networks predict different aspects of individual emotion processing
+  in healthy adults as well as to classify patients with schizophrenia or depression
+  and predict their symptom severity. To this end, we will first identify brain networks
+  subserving the fundamental aspects of emotion processing by means of coordinate-based
+  meta-analyses. In a second step, the networks identified will be used as spatial
+  priors for investigating affective brain–behavior relationships in healthy adults
+  and clinical populations using machine learning. '
+ended:
+  at_time: '2028-08-31'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2028-08-31'
+    schema_type: dlthings:End
+  object: xyzrins:grants/a8b5c3b6-e00f-484f-b494-afa09df6557b
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2025-09-01'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/64ead563-c4df-4361-b468-32590cffac53
+schema_type: xyzri:XYZProject
+short_name: Charting the neural architecture of emotion processing
+started:
+  at_time: '2025-09-01'
+  schema_type: dlthings:Start
+title: 'From recognition to regulation: Combining meta-analytic priors with machine
+  learning for decoding affective brain–behavior relationships in health and disease'

@@ -1,0 +1,4 @@
+description: A collection of Documents or Collections
+display_label: Collection
+pid: bibo:Collection
+schema_type: xyzri:XYZBibliographicType

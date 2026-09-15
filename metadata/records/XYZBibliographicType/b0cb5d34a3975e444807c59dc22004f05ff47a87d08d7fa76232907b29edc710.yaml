@@ -1,0 +1,4 @@
+description: A meeting for consultation or discussion.
+display_label: Conference
+pid: bibo:Conference
+schema_type: xyzri:XYZBibliographicType

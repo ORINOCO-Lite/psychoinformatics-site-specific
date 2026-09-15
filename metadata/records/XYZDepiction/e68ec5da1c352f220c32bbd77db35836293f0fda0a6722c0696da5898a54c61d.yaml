@@ -1,0 +1,14 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-06-19T13:10:56.801838'
+description: 'Photo showing a projection screen in the main auditorium of OHBM 2026
+  in Bordeaux saying "1621 Lab in a box: A build-your-own-open-lab software toolkit" '
+distributions:
+- dldi:SHA256E-s310462--e190ec982e8852336fc17135c8a1097d51816d1797c571293d5929ef12805a6e.jpeg
+pid: xyzrins:depictions/a05e90e0-7577-4949-b2d2-e3304f52d832
+schema_type: xyzri:XYZDepiction
+title: Announcement of the OHBM2026 People's choice award

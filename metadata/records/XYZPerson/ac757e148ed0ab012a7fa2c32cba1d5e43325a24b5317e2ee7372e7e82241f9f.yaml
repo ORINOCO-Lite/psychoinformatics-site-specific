@@ -1,0 +1,20 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-06-29T13:16:27.401963'
+delegated_by:
+- object: ror:006k2kk72
+  schema_type: dlthings:Delegation
+description: 'Professor and Director of the Department of Neurology.
+
+  '
+family_name: Meuth
+given_name: Sven
+identifiers:
+- notation: 0000-0003-2571-3501
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/03cd9825-f9e4-43c4-baaf-1f077cdaf897
+schema_type: xyzri:XYZPerson

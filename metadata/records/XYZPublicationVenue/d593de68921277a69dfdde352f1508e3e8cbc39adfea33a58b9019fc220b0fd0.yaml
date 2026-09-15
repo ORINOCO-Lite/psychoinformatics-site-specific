@@ -1,0 +1,9 @@
+display_note: ISSN:0003-990X
+identifiers:
+- creator: ror:026ytr635
+  notation: 0003-990X
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:0003-990X
+schema_type: xyzri:XYZPublicationVenue
+title: Archives of general psychiatry

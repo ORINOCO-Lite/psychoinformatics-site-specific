@@ -1,0 +1,5 @@
+description: A person or organization who was either the writer or recipient of a
+  letter or other communication
+display_label: Correspondent
+pid: marcrel:crp
+schema_type: xyzri:XYZAgentRole

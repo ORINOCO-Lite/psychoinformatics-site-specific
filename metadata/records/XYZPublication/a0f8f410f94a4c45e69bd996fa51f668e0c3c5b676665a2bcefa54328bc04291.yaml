@@ -1,0 +1,58 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: On the Spatial Distribution of Temporal Complexity in Resting State and Task
+    Functional MRI
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Measuring the temporal complexity of functional MRI (fMRI) time series is
+    one approach to assess how brain activity changes over time. In fact, hemodynamic
+    response of the brain is known to exhibit critical behaviour at the edge between
+    order and disorder. In this study, we aimed to revisit the spatial distribution
+    of temporal complexity in resting state and task fMRI of 100 unrelated subjects
+    from the Human Connectome Project (HCP). First, we compared two common choices
+    of complexity measures, i.e., Hurst exponent and multiscale entropy, and observed
+    a high spatial similarity between them. Second, we considered four tasks in the
+    HCP dataset (Language, Motor, Social, and Working Memory) and found high task-specific
+    complexity, even when the task design was regressed out. For the significance
+    thresholding of brain complexity maps, we used a statistical framework based on
+    graph signal processing that incorporates the structural connectome to develop
+    the null distributions of fMRI complexity. The results suggest that the frontoparietal,
+    dorsal attention, visual, and default mode networks represent stronger complex
+    behaviour than the rest of the brain, irrespective of the task engagement. In
+    sum, the findings support the hypothesis of fMRI temporal complexity as a marker
+    of cognition
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Measuring the temporal complexity of functional MRI (fMRI) time series
+  is one approach to assess how brain activity changes over time. In fact, hemodynamic
+  response of the brain is known to exhibit critical behaviour at the edge between
+  order and disorder. In this study, we aimed to revisit the spatial distribution
+  of temporal complexity in resting state and task fMRI of 100 unrelated subjects
+  from the Human Connectome Project (HCP). First, we compared two common choices of
+  complexity measures, i.e., Hurst exponent and multiscale entropy, and observed a
+  high spatial similarity between them. Second, we considered four tasks in the HCP
+  dataset (Language, Motor, Social, and Working Memory) and found high task-specific
+  complexity, even when the task design was regressed out. For the significance thresholding
+  of brain complexity maps, we used a statistical framework based on graph signal
+  processing that incorporates the structural connectome to develop the null distributions
+  of fMRI complexity. The results suggest that the frontoparietal, dorsal attention,
+  visual, and default mode networks represent stronger complex behaviour than the
+  rest of the brain, irrespective of the task engagement. In sum, the findings support
+  the hypothesis of fMRI temporal complexity as a marker of cognition
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:1099-4300
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3390/e24081148
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/d662411f-cb8a-41aa-b137-f7799359355e
+schema_type: xyzri:XYZPublication
+title: On the Spatial Distribution of Temporal Complexity in Resting State and Task
+  Functional MRI

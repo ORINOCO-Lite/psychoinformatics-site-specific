@@ -1,0 +1,77 @@
+attributed_to:
+- object: xyzrins:persons/39e91aa8-3e7e-4e72-9977-ae6941e9e142
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Altered brain dynamic in major depressive disorder: state and trait features'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Temporal neural synchrony disruption can be linked to a variety of symptoms
+    of major depressive disorder (MDD), including mood rigidity and the inability
+    to break the cycle of negative emotion or attention biases. This might imply that
+    altered dynamic neural synchrony may play a role in the persistence and exacerbation
+    of MDD symptoms. Our study aimed to investigate the changes in whole-brain dynamic
+    patterns of the brain functional connectivity and activity related to depression
+    using the hidden Markov model (HMM) on resting-state functional magnetic resonance
+    imaging (rs-fMRI) data. We compared the patterns of brain functional dynamics
+    in a large sample of 314 patients with MDD (65.9% female; age (mean ± standard
+    deviation): 35.9 ± 13.4) and 498 healthy controls (59.4% female; age: 34.0 ± 12.8).
+    The HMM model was used to explain variations in rs-fMRI functional connectivity
+    and averaged functional activity across the whole-brain by using a set of six
+    unique recurring states. This study compared the proportion of time spent in each
+    state and the average duration of visits to each state to assess stability between
+    different groups. Compared to healthy controls, patients with MDD showed significantly
+    higher proportional time spent and temporal stability in a state characterized
+    by weak functional connectivity within and between all brain networks and relatively
+    strong averaged functional activity of regions located in the somatosensory motor
+    (SMN), salience (SN), and dorsal attention (DAN) networks. Both proportional time
+    spent and temporal stability of this brain state was significantly associated
+    with depression severity. Healthy controls, in contrast to the MDD group, showed
+    proportional time spent and temporal stability in a state with relatively strong
+    functional connectivity within and between all brain networks but weak averaged
+    functional activity across the whole brain. These findings suggest that disrupted
+    brain functional synchrony across time is present in MDD and associated with current
+    depression severity.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Temporal neural synchrony disruption can be linked to a variety of symptoms
+  of major depressive disorder (MDD), including mood rigidity and the inability to
+  break the cycle of negative emotion or attention biases. This might imply that altered
+  dynamic neural synchrony may play a role in the persistence and exacerbation of
+  MDD symptoms. Our study aimed to investigate the changes in whole-brain dynamic
+  patterns of the brain functional connectivity and activity related to depression
+  using the hidden Markov model (HMM) on resting-state functional magnetic resonance
+  imaging (rs-fMRI) data. We compared the patterns of brain functional dynamics in
+  a large sample of 314 patients with MDD (65.9% female; age (mean ± standard deviation):
+  35.9 ± 13.4) and 498 healthy controls (59.4% female; age: 34.0 ± 12.8). The HMM
+  model was used to explain variations in rs-fMRI functional connectivity and averaged
+  functional activity across the whole-brain by using a set of six unique recurring
+  states. This study compared the proportion of time spent in each state and the average
+  duration of visits to each state to assess stability between different groups. Compared
+  to healthy controls, patients with MDD showed significantly higher proportional
+  time spent and temporal stability in a state characterized by weak functional connectivity
+  within and between all brain networks and relatively strong averaged functional
+  activity of regions located in the somatosensory motor (SMN), salience (SN), and
+  dorsal attention (DAN) networks. Both proportional time spent and temporal stability
+  of this brain state was significantly associated with depression severity. Healthy
+  controls, in contrast to the MDD group, showed proportional time spent and temporal
+  stability in a state with relatively strong functional connectivity within and between
+  all brain networks but weak averaged functional activity across the whole brain.
+  These findings suggest that disrupted brain functional synchrony across time is
+  present in MDD and associated with current depression severity.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2158-3188
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41398-023-02540-0
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/552b3baf-01db-432d-902d-464ced38597c
+schema_type: xyzri:XYZPublication
+title: 'Altered brain dynamic in major depressive disorder: state and trait features'

@@ -1,0 +1,4 @@
+description: An associated logo.
+display_label: Logo
+pid: schema:logo
+schema_type: xyzri:XYZDepictionType

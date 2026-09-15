@@ -1,0 +1,55 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Quantitative analysis of different respiratory specimens on two automated
+    test systems for detection of SARS-CoV-2 RNA
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Molecular testing of SARS-CoV-2 RNA is essential during the pandemic. Here,
+    we compared the results of different respiratory specimens including anterior
+    nasal swabs, pharyngeal swabs, saliva swabs, and gargle lavage samples to nasopharyngeal
+    swabs on two automated SARS-CoV-2 test systems. Samples were collected and tested
+    simultaneously from a total of 36 hospitalized symptomatic COVID-19 patients.
+    Detection and quantification of SARS-CoV-2 was performed on cobas®6800 (Roche)
+    and NeuMoDx™ (Qiagen) systems. Both assays showed reliable detection and quantification
+    of SARS-CoV-2 RNA, with nasopharyngeal swabs showing the highest sensitivity.
+    SARS-CoV-2 RNA concentrations in other respiratory specimens were lower (mean
+    2.5 log10 copies/ml) or even undetectable in up to 20%. These data clearly indicate
+    that not all respiratory materials are equally suitable for the management of
+    hospitalized patients, especially, in the late phase of COVID-19, when the viral
+    phase subsides and inflammation becomes the predominant factor, making detection
+    of even lower viral loads increasingly important.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Molecular testing of SARS-CoV-2 RNA is essential during the pandemic.
+  Here, we compared the results of different respiratory specimens including anterior
+  nasal swabs, pharyngeal swabs, saliva swabs, and gargle lavage samples to nasopharyngeal
+  swabs on two automated SARS-CoV-2 test systems. Samples were collected and tested
+  simultaneously from a total of 36 hospitalized symptomatic COVID-19 patients. Detection
+  and quantification of SARS-CoV-2 was performed on cobas®6800 (Roche) and NeuMoDx™
+  (Qiagen) systems. Both assays showed reliable detection and quantification of SARS-CoV-2
+  RNA, with nasopharyngeal swabs showing the highest sensitivity. SARS-CoV-2 RNA concentrations
+  in other respiratory specimens were lower (mean 2.5 log10 copies/ml) or even undetectable
+  in up to 20%. These data clearly indicate that not all respiratory materials are
+  equally suitable for the management of hospitalized patients, especially, in the
+  late phase of COVID-19, when the viral phase subsides and inflammation becomes the
+  predominant factor, making detection of even lower viral loads increasingly important.
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:0732-8893
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.diagmicrobio.2022.115800
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/9dc62e3f-4e7d-474f-adec-94644ee7cc74
+schema_type: xyzri:XYZPublication
+title: Quantitative analysis of different respiratory specimens on two automated test
+  systems for detection of SARS-CoV-2 RNA

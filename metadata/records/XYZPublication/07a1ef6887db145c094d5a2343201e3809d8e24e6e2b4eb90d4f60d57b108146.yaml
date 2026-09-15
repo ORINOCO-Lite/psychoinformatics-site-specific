@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/9fe30b8c-a331-4166-bd1c-f407b6e06ecc
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d4e23096-f9d8-47e0-bb48-a25ba181f202
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Testosterone and the Amygdala’s Functional Connectivity in Women and Men
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The amygdala contains androgen receptors and is involved in various affective
+    and social functions. An interaction between testosterone and the amygdala’s functioning
+    is likely. We investigated the amygdala’s resting-state functional connectivity
+    (rsFC) network in association with testosterone in 94 healthy young adult women
+    and men (final data available for analysis from 42 women and 39 men). Across the
+    whole sample, testosterone was positively associated with the rsFC between the
+    right amygdala and the right middle occipital gyrus, and it further predicted
+    lower agreeableness scores. Significant sex differences appeared for testosterone
+    and the functional connectivity between the right amygdala and the right superior
+    frontal gyrus (SFG), showing higher testosterone levels with lower connectivity
+    in women. Sex further predicted the openness and agreeableness scores. Our results
+    show that testosterone modulates the rsFC between brain areas involved in affective
+    processing and executive functions. The data indicate that the cognitive control
+    of the amygdala via the frontal cortex is dependent on the testosterone levels
+    in a sex-specific manner. Testosterone seems to express sex-specific patterns
+    (1) in networks processing affect and cognition, and (2) in the frontal down-regulation
+    of the amygdala. The sex-specific coupling between the amygdala and the frontal
+    cortex in interaction with the hormone levels may drive sex-specific differences
+    in a variety of behavioral phenomena that are further associated with psychiatric
+    illnesses that show sex-specific prevalence rates.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The amygdala contains androgen receptors and is involved in various affective
+  and social functions. An interaction between testosterone and the amygdala’s functioning
+  is likely. We investigated the amygdala’s resting-state functional connectivity
+  (rsFC) network in association with testosterone in 94 healthy young adult women
+  and men (final data available for analysis from 42 women and 39 men). Across the
+  whole sample, testosterone was positively associated with the rsFC between the right
+  amygdala and the right middle occipital gyrus, and it further predicted lower agreeableness
+  scores. Significant sex differences appeared for testosterone and the functional
+  connectivity between the right amygdala and the right superior frontal gyrus (SFG),
+  showing higher testosterone levels with lower connectivity in women. Sex further
+  predicted the openness and agreeableness scores. Our results show that testosterone
+  modulates the rsFC between brain areas involved in affective processing and executive
+  functions. The data indicate that the cognitive control of the amygdala via the
+  frontal cortex is dependent on the testosterone levels in a sex-specific manner.
+  Testosterone seems to express sex-specific patterns (1) in networks processing affect
+  and cognition, and (2) in the frontal down-regulation of the amygdala. The sex-specific
+  coupling between the amygdala and the frontal cortex in interaction with the hormone
+  levels may drive sex-specific differences in a variety of behavioral phenomena that
+  are further associated with psychiatric illnesses that show sex-specific prevalence
+  rates.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2077-0383
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3390/jcm12206501
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/d7dd6319-eb89-48cb-bcff-1882488c07dd
+schema_type: xyzri:XYZPublication
+title: Testosterone and the Amygdala’s Functional Connectivity in Women and Men

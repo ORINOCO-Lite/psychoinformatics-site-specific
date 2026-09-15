@@ -1,0 +1,66 @@
+attributed_to:
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/adina-wagner
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/28409388-114d-48eb-a705-d5d05fd943ce
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/514e7bf9-2e99-4fdb-888e-0420eaad10f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/620c597b-9218-46c0-a01e-314d0aebded4
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Proceedings of the OHBM Brainhack 2021
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The global pandemic presented new challenges and op-portunities for organizing
+    conferences, and OHBM 2021was no exception. The OHBM Brainhack is an event thatoccurs
+    just prior to the OHBM meeting, typically in-per-son, where scientists of all
+    levels of expertise and interestgather to work and learn together for a few days
+    in a col-laborative hacking-style environment on projects of com-mon interest
+    (1). Building off the success of the OHBM2020 Hackathon (2), the 2021 Open Science
+    SpecialInterest Group came together online to organize a largecoordinated Brainhack
+    event that would take place overthe course of 4 days. The OHBM 2021 Brainhack
+    eventwas organized along two guiding principles, providinga highly inclusive collaborative
+    environment for inter-action between scientists across disciplines and levelsof
+    expertise to push forward important projects thatneed support, also known as the
+    “Hack-Track” of theBrainhack. The second aim of the OHBM Brainhack is toempower
+    scientists to improve the quality of their sci-entific endeavors by providing
+    high-quality hands-ontraining on best practices in open-science approaches.This
+    is best exemplified by the training events providedby the “Train-Track” at the
+    OHBM 2021 Brainhack. Here,we briefly explain both of these elements of the OHBM2021
+    Brainhack, before continuing on to the Brainhackproceedings.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The global pandemic presented new challenges and op-portunities for organizing
+  conferences, and OHBM 2021was no exception. The OHBM Brainhack is an event thatoccurs
+  just prior to the OHBM meeting, typically in-per-son, where scientists of all levels
+  of expertise and interestgather to work and learn together for a few days in a col-laborative
+  hacking-style environment on projects of com-mon interest (1). Building off the
+  success of the OHBM2020 Hackathon (2), the 2021 Open Science SpecialInterest Group
+  came together online to organize a largecoordinated Brainhack event that would take
+  place overthe course of 4 days. The OHBM 2021 Brainhack eventwas organized along
+  two guiding principles, providinga highly inclusive collaborative environment for
+  inter-action between scientists across disciplines and levelsof expertise to push
+  forward important projects thatneed support, also known as the “Hack-Track” of theBrainhack.
+  The second aim of the OHBM Brainhack is toempower scientists to improve the quality
+  of their sci-entific endeavors by providing high-quality hands-ontraining on best
+  practices in open-science approaches.This is best exemplified by the training events
+  providedby the “Train-Track” at the OHBM 2021 Brainhack. Here,we briefly explain
+  both of these elements of the OHBM2021 Brainhack, before continuing on to the Brainhackproceedings.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.52294/258801b4-a9a9-4d30-a468-c43646391211
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/66f93342-0e8b-4dfe-9278-246734e15707
+schema_type: xyzri:XYZPublication
+title: Proceedings of the OHBM Brainhack 2021

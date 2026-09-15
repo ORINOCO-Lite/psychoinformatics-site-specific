@@ -1,0 +1,75 @@
+attributed_to:
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Fatigue performance and failure load of minimally-invasive occlusal veneers
+    made of lithium disilicate and composition-gradient multilayered zirconia: An
+    in vitro study'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Purpose: To investigate the effect of ceramic material (lithium disilicate,
+    LDS vs. composition-gradient multilayered zirco-nia [4Y-PSZ and 5-PSZ], Z) and
+    ceramic layer thickness (0.5 mm, 1.0 mm, and 1.5 mm) on fatigue performance and
+    failureload of occlusal veneers on molars.Methods: Seventy-two CAD-CAM-fabricated
+    occlusal veneer restorations (IPS e.max CAD; IPS e.max ZirCAD Prime Es-thetic,
+    Ivoclar Vivadent) were divided into six groups (n=12, LDS-1.5, LDS-1.0, LDS-0.5;
+    Z-1.5, Z-1.0, Z-0.5). Restorations wereadhesively cemented (Variolink Esthetic
+    DC, Ivoclar Vivadent) to dentin-analogue composite dies (Z100, 3M ESPE) andexposed
+    to thermomechanical fatigue (1.2 million cycles, 49 N, 1.6 Hz, 5-55° C). Single-load-to-failure
+    was tested with auniversal testing machine. Data were analyzed using ANOVA with
+    Tukey post-hoc tests and t-tests (P < 0.05).Results: The overall success rate
+    across all materials and layer thicknesses was 91.7%. Half of the specimens of
+    group Z-0.5revealed cracks after chewing simulation. Occlusal veneers fabricated
+    from LDS withstood significantly higher failure loadsthan gradient multilayered
+    zirconia veneers in all tested thicknesses. The mean failure load values led to
+    the followingranking: 3194 N (LDS-0.5)>2683 N (LDS-1.0)>2338 N (LDS-1.5)>1744
+    N (Z-1.5)>1310 N (Z-0.5)>1198 N (Z-1.0).Conclusions: Ultrathin LDS occlusal veneers
+    outperformed thin and standard thick counterparts, as well as gradientmultilayered
+    zirconia veneers at all thickness levels. Ultrathin gradient multilayered zirconia
+    occlusal veneers were proneto cracks during thermomechanical fatigue. Individual
+    mechanical properties need to be considered when aligning therestoration within
+    the multilayered zirconia blank.Keywords: Ceramics, Occlusal veneer, Ceramic thickness,
+    Fatigue, Computer-aided design'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Purpose: To investigate the effect of ceramic material (lithium disilicate,
+  LDS vs. composition-gradient multilayered zirco-nia [4Y-PSZ and 5-PSZ], Z) and ceramic
+  layer thickness (0.5 mm, 1.0 mm, and 1.5 mm) on fatigue performance and failureload
+  of occlusal veneers on molars.Methods: Seventy-two CAD-CAM-fabricated occlusal veneer
+  restorations (IPS e.max CAD; IPS e.max ZirCAD Prime Es-thetic, Ivoclar Vivadent)
+  were divided into six groups (n=12, LDS-1.5, LDS-1.0, LDS-0.5; Z-1.5, Z-1.0, Z-0.5).
+  Restorations wereadhesively cemented (Variolink Esthetic DC, Ivoclar Vivadent) to
+  dentin-analogue composite dies (Z100, 3M ESPE) andexposed to thermomechanical fatigue
+  (1.2 million cycles, 49 N, 1.6 Hz, 5-55° C). Single-load-to-failure was tested with
+  auniversal testing machine. Data were analyzed using ANOVA with Tukey post-hoc tests
+  and t-tests (P < 0.05).Results: The overall success rate across all materials and
+  layer thicknesses was 91.7%. Half of the specimens of group Z-0.5revealed cracks
+  after chewing simulation. Occlusal veneers fabricated from LDS withstood significantly
+  higher failure loadsthan gradient multilayered zirconia veneers in all tested thicknesses.
+  The mean failure load values led to the followingranking: 3194 N (LDS-0.5)>2683
+  N (LDS-1.0)>2338 N (LDS-1.5)>1744 N (Z-1.5)>1310 N (Z-0.5)>1198 N (Z-1.0).Conclusions:
+  Ultrathin LDS occlusal veneers outperformed thin and standard thick counterparts,
+  as well as gradientmultilayered zirconia veneers at all thickness levels. Ultrathin
+  gradient multilayered zirconia occlusal veneers were proneto cracks during thermomechanical
+  fatigue. Individual mechanical properties need to be considered when aligning therestoration
+  within the multilayered zirconia blank.Keywords: Ceramics, Occlusal veneer, Ceramic
+  thickness, Fatigue, Computer-aided design'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1883-9207
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.2186/jpr.JPR_D_25_00068
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/727deb01-1ad3-496c-86fa-247280013e7c
+schema_type: xyzri:XYZPublication
+title: 'Fatigue performance and failure load of minimally-invasive occlusal veneers
+  made of lithium disilicate and composition-gradient multilayered zirconia: An in
+  vitro study'

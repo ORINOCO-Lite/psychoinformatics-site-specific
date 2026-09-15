@@ -1,0 +1,88 @@
+attributed_to:
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c3e4db14-5d1c-4156-bb3e-ffc905751e98
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/11bba584-d08e-47f2-b3d4-980c5472dca3
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/9fe30b8c-a331-4166-bd1c-f407b6e06ecc
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Charting the brain networks of impulsivity: Meta-analytic synthesis, functional
+    connectivity modelling and neurotransmitter associations'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Impulsivity is a multidimensional construct that plays a crucial role in
+    human behaviour and is believed to be a transdiagnostic marker of several psychiatric
+    disorders. However, given its multifaceted nature, investigations of its neural
+    correlates are challenging and systematic comparisons across dimensions are lacking.
+    In this study, we used a comprehensive multi-modal approach to investigate the
+    functional network organisation of two dimensions in which impulsivity manifests:
+    decision-making and response inhibition. ALE meta-analyses of task-based fMRI
+    studies within each dimension identified two distinct and non-overlapping functional
+    systems. One located in the default-mode network, associated with value-based
+    judgments and goal-directed decision-making, and the other distributed across
+    higher-order networks associated with cognitive control. Resting-state functional
+    connectivity revealed the two systems were organised into four specialised communities
+    of default-mode, cingulo-insular, frontoparietal, and temporal regions. Finally,
+    given the widespread use of neurotransmitter-acting medication to treat conditions
+    with impulsive symptoms, we investigated the association between this organisation
+    and neurochemistry and found that integration across communities was associated
+    with PET-derived serotonin receptor density. Our findings reinforce insights from
+    previous behavioural research and provide substantial evidence for the multidimensional
+    nature of impulsivity on the neural level. This highlights the necessity for a
+    comprehensive dimensional ontology on all levels of investigation to address impulsivity
+    in a transdiagnostic manner.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Impulsivity is a multidimensional construct that plays a crucial role
+  in human behaviour and is believed to be a transdiagnostic marker of several psychiatric
+  disorders. However, given its multifaceted nature, investigations of its neural
+  correlates are challenging and systematic comparisons across dimensions are lacking.
+  In this study, we used a comprehensive multi-modal approach to investigate the functional
+  network organisation of two dimensions in which impulsivity manifests: decision-making
+  and response inhibition. ALE meta-analyses of task-based fMRI studies within each
+  dimension identified two distinct and non-overlapping functional systems. One located
+  in the default-mode network, associated with value-based judgments and goal-directed
+  decision-making, and the other distributed across higher-order networks associated
+  with cognitive control. Resting-state functional connectivity revealed the two systems
+  were organised into four specialised communities of default-mode, cingulo-insular,
+  frontoparietal, and temporal regions. Finally, given the widespread use of neurotransmitter-acting
+  medication to treat conditions with impulsive symptoms, we investigated the association
+  between this organisation and neurochemistry and found that integration across communities
+  was associated with PET-derived serotonin receptor density. Our findings reinforce
+  insights from previous behavioural research and provide substantial evidence for
+  the multidimensional nature of impulsivity on the neural level. This highlights
+  the necessity for a comprehensive dimensional ontology on all levels of investigation
+  to address impulsivity in a transdiagnostic manner.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2837-6056
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1162/imag_a_00295
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2027-12-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/2b40e9ef-d9d2-42f8-a502-2e6efa86a1f7
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/651e1ca5-abf6-4231-a8d0-80465ec0bf87
+schema_type: xyzri:XYZPublication
+title: 'Charting the brain networks of impulsivity: Meta-analytic synthesis, functional
+  connectivity modelling and neurotransmitter associations'

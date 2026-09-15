@@ -1,0 +1,10 @@
+ended:
+  at_time: '2030-09-30'
+  schema_type: dlthings:End
+pid: xyzrins:projects/61abc49f-60e6-4a32-998b-2182d3dac0e6
+schema_type: xyzri:XYZProject
+short_name: TRR460
+started:
+  at_time: '2026-10-01'
+  schema_type: dlthings:Start
+title: Dynamics of immune, glial and neuronal network interaction

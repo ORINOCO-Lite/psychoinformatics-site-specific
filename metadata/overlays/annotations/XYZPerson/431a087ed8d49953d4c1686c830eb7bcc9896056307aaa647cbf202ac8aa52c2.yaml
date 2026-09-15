@@ -1,0 +1,6 @@
+assertions:
+- assertion_sha256: sha256:c63a2ea5ff27eb1f511d4a72bb88a395ce763d39bd24624b9d8fc4141f493646
+  path: /identifiers
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/https://juser.fz-juelich.de/record/834191
+record: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0

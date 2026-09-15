@@ -1,0 +1,60 @@
+attributed_to:
+- object: xyzrins:persons/00048673-3f23-4992-b529-ad4865ec8697
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b09f6fc4-2574-47c0-b51f-047d0431f7d3
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/40ff0861-a57a-446e-8cf4-5c702923a622
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'NFDI-Neuro: building a community for neuroscience research data management
+    in Germany'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Increasing complexity and volume of research data pose increasing challenges
+    for scientists to manage their data efficiently. At the same time, availability
+    and reuse of research data are becoming more and more important in modern science.
+    The German government has established an initiative to develop research data management
+    (RDM) and to increase accessibility and reusability of research data at the national
+    level, the Nationale Forschungsdateninfrastruktur (NFDI). The NFDI Neuroscience
+    (NFDI-Neuro) consortium aims to represent the neuroscience community in this initiative.
+    Here, we review the needs and challenges in RDM faced by researchers as well as
+    existing and emerging solutions and benefits, and how the NFDI in general and
+    NFDI-Neuro specifically can support a process for making these solutions better
+    available to researchers. To ensure development of sustainable research data management
+    practices, both technical solutions and engagement of the scientific community
+    are essential. NFDI-Neuro is therefore focusing on community building just as
+    much as on improving the accessibility of technical solutions.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Increasing complexity and volume of research data pose increasing challenges
+  for scientists to manage their data efficiently. At the same time, availability
+  and reuse of research data are becoming more and more important in modern science.
+  The German government has established an initiative to develop research data management
+  (RDM) and to increase accessibility and reusability of research data at the national
+  level, the Nationale Forschungsdateninfrastruktur (NFDI). The NFDI Neuroscience
+  (NFDI-Neuro) consortium aims to represent the neuroscience community in this initiative.
+  Here, we review the needs and challenges in RDM faced by researchers as well as
+  existing and emerging solutions and benefits, and how the NFDI in general and NFDI-Neuro
+  specifically can support a process for making these solutions better available to
+  researchers. To ensure development of sustainable research data management practices,
+  both technical solutions and engagement of the scientific community are essential.
+  NFDI-Neuro is therefore focusing on community building just as much as on improving
+  the accessibility of technical solutions.
+generated_by:
+- at_location: ISSN:0947-0875
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1515/nf-2020-0036
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/6c142df6-ec8d-42b3-91ee-c8079c0c458e
+schema_type: xyzri:XYZPublication
+title: 'NFDI-Neuro: building a community for neuroscience research data management
+  in Germany'

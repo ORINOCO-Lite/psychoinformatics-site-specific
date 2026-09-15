@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/924c0245-6ca4-468e-9291-a0e312ce3c49
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/81b3a1a2-cde7-46c2-8edd-87145adc579e
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Comprehensive verbal fluency features predict executive function performance
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Semantic verbal fluency (sVF) tasks are commonly used in clinical diagnostic
+    batteries as well as in a research context. When performing sVF tasks to assess
+    executive functions (EFs) the sum of correctly produced words is the main measure.
+    Although previous research indicates potentially better insights into EF performance
+    by the use of finer grained sVF information, this has not yet been objectively
+    evaluated. To investigate the potential of employing a finer grained sVF feature
+    set to predict EF performance, healthy monolingual German speaking participants
+    (n = 230) were tested with a comprehensive EF test battery and sVF tasks, from
+    which features including sum scores, error types, speech breaks and semantic relatedness
+    were extracted. A machine learning method was applied to predict EF scores from
+    sVF features in previously unseen subjects. To investigate the predictive power
+    of the advanced sVF feature set, we compared it to the commonly used sum score
+    analysis. Results revealed that 8 / 14 EF tests were predicted significantly using
+    the comprehensive sVF feature set, which outperformed sum scores particularly
+    in predicting cognitive flexibility and inhibitory processes. These findings highlight
+    the predictive potential of a comprehensive evaluation of sVF tasks which might
+    be used as diagnostic screening of EFs.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Semantic verbal fluency (sVF) tasks are commonly used in clinical diagnostic
+  batteries as well as in a research context. When performing sVF tasks to assess
+  executive functions (EFs) the sum of correctly produced words is the main measure.
+  Although previous research indicates potentially better insights into EF performance
+  by the use of finer grained sVF information, this has not yet been objectively evaluated.
+  To investigate the potential of employing a finer grained sVF feature set to predict
+  EF performance, healthy monolingual German speaking participants (n = 230) were
+  tested with a comprehensive EF test battery and sVF tasks, from which features including
+  sum scores, error types, speech breaks and semantic relatedness were extracted.
+  A machine learning method was applied to predict EF scores from sVF features in
+  previously unseen subjects. To investigate the predictive power of the advanced
+  sVF feature set, we compared it to the commonly used sum score analysis. Results
+  revealed that 8 / 14 EF tests were predicted significantly using the comprehensive
+  sVF feature set, which outperformed sum scores particularly in predicting cognitive
+  flexibility and inhibitory processes. These findings highlight the predictive potential
+  of a comprehensive evaluation of sVF tasks which might be used as diagnostic screening
+  of EFs.
+generated_by:
+- at_location: ISSN:2045-2322
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41598-021-85981-1
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/b88ae31a-74b3-4ec5-8c44-7105f3ecb013
+schema_type: xyzri:XYZPublication
+title: Comprehensive verbal fluency features predict executive function performance

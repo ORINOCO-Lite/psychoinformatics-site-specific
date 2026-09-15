@@ -1,0 +1,16 @@
+attributed_to:
+- object: ror:04pz7b180
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+description: Joint project between Cooperation Partners University Mannheim, Forschungszentrum
+  Jülich, University Hamburg, University Tübingen, funded by the BMFTR
+identifiers:
+- creator: ror:04pz7b180
+  notation: 16INS201A
+  schema_type: dlthings:Identifier
+pid: xyzrins:grants/0f483ab1-6024-4e60-8f95-8f334355747c
+schema_type: xyzri:XYZGrant
+short_name: ExoEnhance
+title: 'Verbundprojekt: Biomechanisches Enhancement und seine gesellschaftliche Einbettung
+  – ExoEnhance'

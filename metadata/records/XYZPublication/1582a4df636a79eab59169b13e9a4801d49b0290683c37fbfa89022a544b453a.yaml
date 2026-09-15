@@ -1,0 +1,74 @@
+attributed_to:
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/535129e4-fc67-4e19-8f5e-0d4a43a4578c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Longitudinal trimodal imaging of midbrain-associated network degeneration
+    in Parkinson’s disease
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The prevailing network perspective of Parkinson's disease (PD) emerges not
+    least from the ascending neuropathology traceable in histological studies. However,
+    whether longitudinal in vivo correlates of network degeneration in PD can be observed
+    remains unresolved. Here, we applied a trimodal imaging protocol combining 18F-fluorodeoxyglucose
+    (FDG)- and 18F-fluoro-L-Dopa- (FDOPA)-PET with resting-state functional MRI to
+    assess longitudinal changes in midbrain metabolism, striatal dopamine depletion
+    and striatocortical dysconnectivity in 17 well-characterized PD patients. Whole-brain
+    (un)paired-t-tests with focus on midbrain or striatum were performed between visits
+    and in relation to 14 healthy controls (HC) in PET modalities. Resulting clusters
+    of FDOPA-PET comparisons provided volumes for seed-based functional connectivity
+    (FC) analyses between visits and in relation to HC. FDG metabolism in the left
+    midbrain decreased compared to baseline along with caudatal FDOPA-uptake. This
+    caudate cluster exhibited a longitudinal FC decrease to sensorimotor and frontal
+    areas. Compared to healthy subjects, dopamine-depleted putamina indicated stronger
+    decline in striatocortical FC at follow-up with respect to baseline. Increasing
+    nigrostriatal deficits and striatocortical decoupling were associated with deterioration
+    in motor scores between visits in repeated-measures correlations. In summary,
+    our results demonstrate the feasibility of in-vivo tracking of progressive network
+    degeneration using a multimodal imaging approach. Specifically, our data suggest
+    advancing striatal and widespread striatocortical dysfunction via an anterior-posterior
+    gradient originating from a hypometabolic midbrain cluster within a well-characterized
+    and only mild to moderately affected PD cohort during a relatively short period.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The prevailing network perspective of Parkinson's disease (PD) emerges
+  not least from the ascending neuropathology traceable in histological studies. However,
+  whether longitudinal in vivo correlates of network degeneration in PD can be observed
+  remains unresolved. Here, we applied a trimodal imaging protocol combining 18F-fluorodeoxyglucose
+  (FDG)- and 18F-fluoro-L-Dopa- (FDOPA)-PET with resting-state functional MRI to assess
+  longitudinal changes in midbrain metabolism, striatal dopamine depletion and striatocortical
+  dysconnectivity in 17 well-characterized PD patients. Whole-brain (un)paired-t-tests
+  with focus on midbrain or striatum were performed between visits and in relation
+  to 14 healthy controls (HC) in PET modalities. Resulting clusters of FDOPA-PET comparisons
+  provided volumes for seed-based functional connectivity (FC) analyses between visits
+  and in relation to HC. FDG metabolism in the left midbrain decreased compared to
+  baseline along with caudatal FDOPA-uptake. This caudate cluster exhibited a longitudinal
+  FC decrease to sensorimotor and frontal areas. Compared to healthy subjects, dopamine-depleted
+  putamina indicated stronger decline in striatocortical FC at follow-up with respect
+  to baseline. Increasing nigrostriatal deficits and striatocortical decoupling were
+  associated with deterioration in motor scores between visits in repeated-measures
+  correlations. In summary, our results demonstrate the feasibility of in-vivo tracking
+  of progressive network degeneration using a multimodal imaging approach. Specifically,
+  our data suggest advancing striatal and widespread striatocortical dysfunction via
+  an anterior-posterior gradient originating from a hypometabolic midbrain cluster
+  within a well-characterized and only mild to moderately affected PD cohort during
+  a relatively short period.
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:2373-8057
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41531-022-00341-8
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/bec5d951-6615-4c25-92cf-db6118f35775
+schema_type: xyzri:XYZPublication
+title: Longitudinal trimodal imaging of midbrain-associated network degeneration in
+  Parkinson’s disease

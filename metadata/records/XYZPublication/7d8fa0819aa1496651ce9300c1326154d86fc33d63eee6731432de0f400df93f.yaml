@@ -1,0 +1,76 @@
+attributed_to:
+- object: xyzrins:persons/91cb3ecc-1778-47b5-bce4-efc570225b9e
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/06b9a2d5-b71d-4fd3-8f19-966c53adf8d4
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Sex classification from functional brain connectivity: Generalization to
+    multiple datasets'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Machine learning (ML) approaches are increasingly being applied to neuroimaging
+    data. Studies in neuroscience typically have to rely on a limited set of training
+    data which may impair the generalizability of ML models. However, it is still
+    unclear which kind of training sample is best suited to optimize generalization
+    performance. In the present study, we systematically investigated the generalization
+    performance of sex classification models trained on the parcelwise connectivity
+    profile of either single samples or compound samples of two different sizes. Generalization
+    performance was quantified in terms of mean across-sample classification accuracy
+    and spatial consistency of accurately classifying parcels. Our results indicate
+    that the generalization performance of parcelwise classifiers (pwCs) trained on
+    single dataset samples is dependent on the specific test samples. Certain datasets
+    seem to "match" in the sense that classifiers trained on a sample from one dataset
+    achieved a high accuracy when tested on the respected other one and vice versa.
+    The pwCs trained on the compound samples demonstrated overall highest generalization
+    performance for all test samples, including one derived from a dataset not included
+    in building the training samples. Thus, our results indicate that both a large
+    sample size and a heterogeneous data composition of a training sample have a central
+    role in achieving generalizable results.Keywords: big data; generalizability;
+    machine learning; neuroimaging; resting‐state functional connectivity; sex classification.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Machine learning (ML) approaches are increasingly being applied to neuroimaging
+  data. Studies in neuroscience typically have to rely on a limited set of training
+  data which may impair the generalizability of ML models. However, it is still unclear
+  which kind of training sample is best suited to optimize generalization performance.
+  In the present study, we systematically investigated the generalization performance
+  of sex classification models trained on the parcelwise connectivity profile of either
+  single samples or compound samples of two different sizes. Generalization performance
+  was quantified in terms of mean across-sample classification accuracy and spatial
+  consistency of accurately classifying parcels. Our results indicate that the generalization
+  performance of parcelwise classifiers (pwCs) trained on single dataset samples is
+  dependent on the specific test samples. Certain datasets seem to "match" in the
+  sense that classifiers trained on a sample from one dataset achieved a high accuracy
+  when tested on the respected other one and vice versa. The pwCs trained on the compound
+  samples demonstrated overall highest generalization performance for all test samples,
+  including one derived from a dataset not included in building the training samples.
+  Thus, our results indicate that both a large sample size and a heterogeneous data
+  composition of a training sample have a central role in achieving generalizable
+  results.Keywords: big data; generalizability; machine learning; neuroimaging; resting‐state
+  functional connectivity; sex classification.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1065-9471
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/hbm.26683
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/109b7622-a46f-4f67-9c4c-6bc8013c32c9
+schema_type: xyzri:XYZPublication
+title: 'Sex classification from functional brain connectivity: Generalization to multiple
+  datasets'

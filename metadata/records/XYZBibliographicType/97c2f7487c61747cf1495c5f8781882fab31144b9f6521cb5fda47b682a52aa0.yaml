@@ -1,0 +1,6 @@
+description: A document (noun) is a bounded physical representation of body of information
+  designed with the capacity (and usually intent) to communicate. A document may manifest
+  symbolic, diagrammatic or sensory-representational information.
+display_label: Document
+pid: bibo:Document
+schema_type: xyzri:XYZBibliographicType

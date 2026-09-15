@@ -1,0 +1,49 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Discrimination in the age of artificial intelligence
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'In this paper, I examine whether the use of artificial intelligence (AI)
+    and automated decision-making (ADM) aggravates issues of discrimination as has
+    been argued by several authors. For this purpose, I first take up the lively philosophical
+    debate on discrimination and present my own definition of the concept. Equipped
+    with this account, I subsequently review some of the recent literature on the
+    use AI/ADM and discrimination. I explain how my account of discrimination helps
+    to understand that the general claim in view of the aggravation of discrimination
+    is unwarranted. Finally, I argue that the use of AI/ADM can, in fact, increase
+    issues of discrimination, but in a different way than most critics assume: it
+    is due to its epistemic opacity that AI/ADM threatens to undermine our moral deliberation
+    which is essential for reaching a common understanding of what should count as
+    discrimination. As a consequence, it turns out that algorithms may actually help
+    to detect hidden forms of discrimination.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'In this paper, I examine whether the use of artificial intelligence
+  (AI) and automated decision-making (ADM) aggravates issues of discrimination as
+  has been argued by several authors. For this purpose, I first take up the lively
+  philosophical debate on discrimination and present my own definition of the concept.
+  Equipped with this account, I subsequently review some of the recent literature
+  on the use AI/ADM and discrimination. I explain how my account of discrimination
+  helps to understand that the general claim in view of the aggravation of discrimination
+  is unwarranted. Finally, I argue that the use of AI/ADM can, in fact, increase issues
+  of discrimination, but in a different way than most critics assume: it is due to
+  its epistemic opacity that AI/ADM threatens to undermine our moral deliberation
+  which is essential for reaching a common understanding of what should count as discrimination.
+  As a consequence, it turns out that algorithms may actually help to detect hidden
+  forms of discrimination.'
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:0951-5666
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00146-021-01192-2
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/88a50240-c07a-443f-8ae0-fd20a889cc63
+schema_type: xyzri:XYZPublication
+title: Discrimination in the age of artificial intelligence

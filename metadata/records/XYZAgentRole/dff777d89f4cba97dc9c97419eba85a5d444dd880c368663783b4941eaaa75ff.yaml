@@ -1,0 +1,4 @@
+description: A organization granting an academic degree
+display_label: Degree granting institution
+pid: marcrel:dgg
+schema_type: xyzri:XYZAgentRole

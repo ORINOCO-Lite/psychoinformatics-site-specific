@@ -1,0 +1,60 @@
+attributed_to:
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'The emotional component of insomnia disorder: A focus on emotion regulation
+    and affect dynamics in relation to sleep quality and insomnia'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Theoretical models of insomnia disorder recognise an emotional component
+    in the main-tenance of the disorder. Nonetheless, the field of emotions is vast
+    and different pro-cesses are involved in psychological well-being. The present
+    narrative review focusseson emotion regulation and affect dynamics, synthesising
+    some of the most recent andrelevant evidence on emotions in relationto the quality
+    of sleep and to insomnia disor-der. The literature underlines the close association
+    between impaired sleep quality anddifficulties in regulating emotions. Impairedsleep
+    quality is also associated with reducedpositive affect and increased negative
+    affect,but little evidence supports a bi-directionalassociation between affective
+    states and sleep. Affect variability in relation to sleep hasbeen less investigated.
+    Initial evidence suggests that high variability in positive affect hasa negative
+    impact on sleep. Neurobiological and behavioural evidence indicates thatinsomnia
+    disorder is associated with emotion dysregulation, negative affect, and a dis-tinct
+    daily profile of affective states. Moreresearch is needed on the affective experi-ence
+    of patients with insomnia disorder, adopting multiple sampling of affect across
+    theday and the week. Understanding how the unfolding of emotions over time interact
+    withsleep alterations may help to improve the tailoring and monitoring of treatments
+    addres-sing disturbed emotional processes in insomnia disorder.
+description: Theoretical models of insomnia disorder recognise an emotional component
+  in the main-tenance of the disorder. Nonetheless, the field of emotions is vast
+  and different pro-cesses are involved in psychological well-being. The present narrative
+  review focusseson emotion regulation and affect dynamics, synthesising some of the
+  most recent andrelevant evidence on emotions in relationto the quality of sleep
+  and to insomnia disor-der. The literature underlines the close association between
+  impaired sleep quality anddifficulties in regulating emotions. Impairedsleep quality
+  is also associated with reducedpositive affect and increased negative affect,but
+  little evidence supports a bi-directionalassociation between affective states and
+  sleep. Affect variability in relation to sleep hasbeen less investigated. Initial
+  evidence suggests that high variability in positive affect hasa negative impact
+  on sleep. Neurobiological and behavioural evidence indicates thatinsomnia disorder
+  is associated with emotion dysregulation, negative affect, and a dis-tinct daily
+  profile of affective states. Moreresearch is needed on the affective experi-ence
+  of patients with insomnia disorder, adopting multiple sampling of affect across
+  theday and the week. Understanding how the unfolding of emotions over time interact
+  withsleep alterations may help to improve the tailoring and monitoring of treatments
+  addres-sing disturbed emotional processes in insomnia disorder.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1365-2869
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1111/jsr.13983
+  schema_type: dlthings:DOI
+pid: xyzrins:publications/641a04e2-7c37-4bf3-953c-475e627a6852
+schema_type: xyzri:XYZPublication
+title: 'The emotional component of insomnia disorder: A focus on emotion regulation
+  and affect dynamics in relation to sleep quality and insomnia'

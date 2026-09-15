@@ -1,0 +1,80 @@
+attributed_to:
+- object: xyzrins:persons/af38e78f-3ae4-4ccc-bc7a-1d3bee12c601
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/269a3b65-df26-4c0d-a6a9-2c4410750dc8
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Gehirnvolumenveränderungen bei Anorexia nervosa: Aktuelle Metaanalyse struktureller
+    Bildgebungsstudien zu globalen Volumenveränderungen sowie Anatomical Likelihood
+    Estimation (ALE) Metaanalyse zu regionalen Volumenunterschieden'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Einleitung Zahlreiche Studien zeigen strukturelle Hirnveränderungen bei Patient:innen
+    mit Anorexia nervosa (AN). Insbesondere im akuten Krankheitsstadium finden sich
+    Unterschiede in der grauen und weißen Substanz, der kortikalen Dicke sowie der
+    Cerebrospinalflüssigkeit. Bislang existiert jedoch keine ALE-Metaanalyse über
+    alle strukturellen Bildgebungsstudien hinweg. Die vorliegende Metaanalyse soll
+    diese Lücke schließen und bisherige Metaanalysen zu globalen Volumenveränderungen
+    bei AN aktualisieren.Methoden Mithilfe einer systematischen Literatursuche wurden
+    relevante Artikel identifiziert. Anschließend wurden berichtete Volumenwerte extrahiert
+    und für die Analyse globaler Unterschiede unter Berücksichtigung des zeitlichen
+    Verlaufs der Erkrankung genutzt. Zudem wurden MNI- oder TAL-Koordinaten extrahiert
+    und zur Berechnung einer voxelbasierten whole-brain ALE-Metaanalyse verwendet,
+    um die in den Einzelstudien gefundenen Koordinaten auf ihre räumliche Konvergenz
+    hinsichtlich einer möglichen Strukturveränderung zu testen. Die resultierenden
+    ALE-Maps wurden anschließend für Assoziationsanalysen mit Begriffen der Neurosynth-Datenbank
+    sowie mit PET-Maps für unterschiedliche Neurotransmitter-Rezeptoren genutzt, um
+    Aufschluss über potenziell zugrundeliegende biologische Mechanismen zu geben.Ergebnisse Die
+    globale Metaanalyse ergab signifikante Volumenveränderungen bei akuter AN. Erstmals
+    konnten sogar bei seit mehr als 1,5 Jahren genesenen Patient:innen persistierende
+    Verringerungen der grauen Substanz gefunden werden. Die ALE-Metaanalyse über 32
+    MRT-Studien zeigte ferner, dass Veränderungen in der grauen Substanz und der kortikalen
+    Dicke großflächig über das Gehirn verteilt sind, jedoch bestimmte Regionen (v.a.
+    Precuneus, Gyrus cingularis und praecentralis) besonders betroffen sind.Schlussfolgerung Die
+    vorliegende Metaanalyse zeigt erstmals kleine, aber persistierende Volumendefizite
+    auch bei längerfristig gewichtsrehabilitierten Patient:innen. Dies unterstreicht
+    die mögliche Relevanz dieser Hirnvolumenveränderungen für den Verlauf und die
+    Prognose der Patientinnen. Die ALE-Metaanalyse liefert außerdem zusätzliche Informationen
+    zur Regionalität der Veränderungen und den zugrundeliegenden Mechanismen.
+description: Einleitung Zahlreiche Studien zeigen strukturelle Hirnveränderungen bei
+  Patient:innen mit Anorexia nervosa (AN). Insbesondere im akuten Krankheitsstadium
+  finden sich Unterschiede in der grauen und weißen Substanz, der kortikalen Dicke
+  sowie der Cerebrospinalflüssigkeit. Bislang existiert jedoch keine ALE-Metaanalyse
+  über alle strukturellen Bildgebungsstudien hinweg. Die vorliegende Metaanalyse soll
+  diese Lücke schließen und bisherige Metaanalysen zu globalen Volumenveränderungen
+  bei AN aktualisieren.Methoden Mithilfe einer systematischen Literatursuche wurden
+  relevante Artikel identifiziert. Anschließend wurden berichtete Volumenwerte extrahiert
+  und für die Analyse globaler Unterschiede unter Berücksichtigung des zeitlichen
+  Verlaufs der Erkrankung genutzt. Zudem wurden MNI- oder TAL-Koordinaten extrahiert
+  und zur Berechnung einer voxelbasierten whole-brain ALE-Metaanalyse verwendet, um
+  die in den Einzelstudien gefundenen Koordinaten auf ihre räumliche Konvergenz hinsichtlich
+  einer möglichen Strukturveränderung zu testen. Die resultierenden ALE-Maps wurden
+  anschließend für Assoziationsanalysen mit Begriffen der Neurosynth-Datenbank sowie
+  mit PET-Maps für unterschiedliche Neurotransmitter-Rezeptoren genutzt, um Aufschluss
+  über potenziell zugrundeliegende biologische Mechanismen zu geben.Ergebnisse Die
+  globale Metaanalyse ergab signifikante Volumenveränderungen bei akuter AN. Erstmals
+  konnten sogar bei seit mehr als 1,5 Jahren genesenen Patient:innen persistierende
+  Verringerungen der grauen Substanz gefunden werden. Die ALE-Metaanalyse über 32
+  MRT-Studien zeigte ferner, dass Veränderungen in der grauen Substanz und der kortikalen
+  Dicke großflächig über das Gehirn verteilt sind, jedoch bestimmte Regionen (v.a.
+  Precuneus, Gyrus cingularis und praecentralis) besonders betroffen sind.Schlussfolgerung Die
+  vorliegende Metaanalyse zeigt erstmals kleine, aber persistierende Volumendefizite
+  auch bei längerfristig gewichtsrehabilitierten Patient:innen. Dies unterstreicht
+  die mögliche Relevanz dieser Hirnvolumenveränderungen für den Verlauf und die Prognose
+  der Patientinnen. Die ALE-Metaanalyse liefert außerdem zusätzliche Informationen
+  zur Regionalität der Veränderungen und den zugrundeliegenden Mechanismen.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1055/s-0043-1771554
+  schema_type: dlthings:DOI
+pid: xyzrins:publications/75e53f0c-5103-4445-87f1-371d2dc87044
+schema_type: xyzri:XYZPublication
+title: 'Gehirnvolumenveränderungen bei Anorexia nervosa: Aktuelle Metaanalyse struktureller
+  Bildgebungsstudien zu globalen Volumenveränderungen sowie Anatomical Likelihood
+  Estimation (ALE) Metaanalyse zu regionalen Volumenunterschieden'

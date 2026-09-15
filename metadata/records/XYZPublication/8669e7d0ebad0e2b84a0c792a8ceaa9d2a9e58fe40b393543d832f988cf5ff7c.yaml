@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Hippocampal anterior- posterior shift in childhood and adolescence
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Hippocampal-cortical networks play an important role in neurocognitive development.
+    Applying the method of Connectivity-Based Parcellation (CBP) on hippocampal-cortical
+    structural covariance (SC) networks computed from T1-weighted magnetic resonance
+    images, we examined how the hippocampus differentiates into subregions during
+    childhood and adolescence (N = 1105, 6–18 years). In late childhood, the hippocampus
+    mainly differentiated along the anterior-posterior axis similar to previous reported
+    functional differentiation patterns of the hippocampus. In contrast, in adolescence
+    a differentiation along the medial-lateral axis was evident, reminiscent of the
+    cytoarchitectonic division into cornu ammonis and subiculum. Further meta-analytical
+    characterization of hippocampal subregions in terms of related structural co-maturation
+    networks, behavioural and gene profiling suggested that the hippocampal head is
+    related to higher order functions (e.g. language, theory of mind, autobiographical
+    memory) in late childhood morphologically co-varying with almost the whole brain.
+    In early adolescence but not in childhood, posterior subicular SC networks were
+    associated with action-oriented and reward systems. The findings point to late
+    childhood as an important developmental period for hippocampal head morphology
+    and to early adolescence as a crucial period for hippocampal integration into
+    action- and reward-oriented cognition. The latter may constitute a developmental
+    feature that conveys increased propensity for addictive disorders.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Hippocampal-cortical networks play an important role in neurocognitive
+  development. Applying the method of Connectivity-Based Parcellation (CBP) on hippocampal-cortical
+  structural covariance (SC) networks computed from T1-weighted magnetic resonance
+  images, we examined how the hippocampus differentiates into subregions during childhood
+  and adolescence (N = 1105, 6–18 years). In late childhood, the hippocampus mainly
+  differentiated along the anterior-posterior axis similar to previous reported functional
+  differentiation patterns of the hippocampus. In contrast, in adolescence a differentiation
+  along the medial-lateral axis was evident, reminiscent of the cytoarchitectonic
+  division into cornu ammonis and subiculum. Further meta-analytical characterization
+  of hippocampal subregions in terms of related structural co-maturation networks,
+  behavioural and gene profiling suggested that the hippocampal head is related to
+  higher order functions (e.g. language, theory of mind, autobiographical memory)
+  in late childhood morphologically co-varying with almost the whole brain. In early
+  adolescence but not in childhood, posterior subicular SC networks were associated
+  with action-oriented and reward systems. The findings point to late childhood as
+  an important developmental period for hippocampal head morphology and to early adolescence
+  as a crucial period for hippocampal integration into action- and reward-oriented
+  cognition. The latter may constitute a developmental feature that conveys increased
+  propensity for addictive disorders.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0301-0082
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.pneurobio.2023.102447
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/1eac9360-20e2-4154-80d8-9d5eb3f0d7f0
+schema_type: xyzri:XYZPublication
+title: Hippocampal anterior- posterior shift in childhood and adolescence

@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Meta-analytical transdiagnostic neural correlates in common pediatric psychiatric
+    disorders
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'In the last decades, neuroimaging studies have attempted to unveil the neurobiological
+    markers underlying pediatric psychiatric disorders. Yet, the vast majority of
+    neuroimaging studies still focus on a single nosological category, which limit
+    our understanding of the shared/specific neural correlates between these disorders.
+    Therefore, we aimed to investigate the transdiagnostic neural correlates through
+    a novel and data-driven meta-analytical method. A data-driven meta-analysis was
+    carried out which grouped similar experiments'' topographic map together, irrespectively
+    of nosological categories and task-characteristics. Then, activation likelihood
+    estimation meta-analysis was performed on each group of experiments to extract
+    spatially convergent brain regions. One hundred forty-seven experiments were retrieved
+    (3124 cases compared to 3100 controls): 79 attention-deficit/hyperactivity disorder,
+    32 conduct/oppositional defiant disorder, 14 anxiety disorders, 22 major depressive
+    disorders. Four significant groups of experiments were observed. Functional characterization
+    suggested that these groups of aberrant brain regions may be implicated internally/externally
+    directed processes, attentional control of affect, somato-motor and visual processes.
+    Furthermore, despite that some differences in rates of studies involving major
+    depressive disorders were noticed, nosological categories were evenly distributed
+    between these four sets of regions. Our results may reflect transdiagnostic neural
+    correlates of pediatric psychiatric disorders, but also underscore the importance
+    of studying pediatric psychiatric disorders simultaneously rather than independently
+    to examine differences between disorders.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'In the last decades, neuroimaging studies have attempted to unveil the
+  neurobiological markers underlying pediatric psychiatric disorders. Yet, the vast
+  majority of neuroimaging studies still focus on a single nosological category, which
+  limit our understanding of the shared/specific neural correlates between these disorders.
+  Therefore, we aimed to investigate the transdiagnostic neural correlates through
+  a novel and data-driven meta-analytical method. A data-driven meta-analysis was
+  carried out which grouped similar experiments'' topographic map together, irrespectively
+  of nosological categories and task-characteristics. Then, activation likelihood
+  estimation meta-analysis was performed on each group of experiments to extract spatially
+  convergent brain regions. One hundred forty-seven experiments were retrieved (3124
+  cases compared to 3100 controls): 79 attention-deficit/hyperactivity disorder, 32
+  conduct/oppositional defiant disorder, 14 anxiety disorders, 22 major depressive
+  disorders. Four significant groups of experiments were observed. Functional characterization
+  suggested that these groups of aberrant brain regions may be implicated internally/externally
+  directed processes, attentional control of affect, somato-motor and visual processes.
+  Furthermore, despite that some differences in rates of studies involving major depressive
+  disorders were noticed, nosological categories were evenly distributed between these
+  four sets of regions. Our results may reflect transdiagnostic neural correlates
+  of pediatric psychiatric disorders, but also underscore the importance of studying
+  pediatric psychiatric disorders simultaneously rather than independently to examine
+  differences between disorders.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2045-2322
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41598-022-08909-3
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/bdf491c1-0666-457f-a5dc-91d4578340f5
+schema_type: xyzri:XYZPublication
+title: Meta-analytical transdiagnostic neural correlates in common pediatric psychiatric
+  disorders

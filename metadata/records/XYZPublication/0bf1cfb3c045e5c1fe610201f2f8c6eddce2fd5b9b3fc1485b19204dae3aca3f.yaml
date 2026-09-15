@@ -1,0 +1,78 @@
+attributed_to:
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Assessing self-administration of medication: video-based evaluation of patient
+    performance in the ABLYMED study'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Background: Older adults often face challenges in medication management
+    due to multimorbidity and complex medication regimens, which frequently go unreported.
+    Unrecognized problems, however, may lead to a loss of drug efficacy and harmful
+    side effects. This study aimed to quantify the prevalence of such problems by
+    applying a novel video-based assessment procedure in a sample of elderly patients.Methods:
+    In this study, 67 elderly in-patients (≥70 years old and regularly taking ≥5 different
+    drugs autonomously) from the ABLYMED study participated in a placebo-based assessment
+    of medication management with five different dosage forms in an instructed manner
+    while being filmed. Patient performance was quantified by the median value of
+    two raters who evaluated each step of medication administration, which were summed
+    to sum scores for each dosage form and an overall impression for each dosage form
+    with a standardized and previously validated rating scheme.Results: The median
+    (Q1;Q3) sum score for tablets was 7.0 (5.0;8.0) with a theoretical range between
+    4.0 and 17.0, for eye-drops 2.0 (1.0;2.0) with a theoretical range between 1.0
+    and 5.0, for oral drops 4.0 (3.0;6.0) with a theoretical range between 3.0 and
+    12.0, for pens 7.0 (5.0;9.0) with a theoretical range between 4.0 and 17.0 and
+    for patches 5.0 (4.0;7.0) with a theoretical range between 3.0 and 15.0. The most
+    difficult step of medication administration was peeling off the protective liner
+    of a patch: 30% had severe difficulties or it was not possible, 21% had moderate
+    difficulties and 49% had mild or no difficulties.Discussion: In a sample of patients
+    with autonomous medication management, our novel assessment procedure identified
+    a substantial fraction of patients with handling problems for each dosage form.
+    This suggests that patients´ medication management problems should be assessed
+    regularly in clinical routine and tackled by patient-individual training or modification
+    of the prescribed drug regimens to achieve effective drug therapy in the elderly.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Background: Older adults often face challenges in medication management
+  due to multimorbidity and complex medication regimens, which frequently go unreported.
+  Unrecognized problems, however, may lead to a loss of drug efficacy and harmful
+  side effects. This study aimed to quantify the prevalence of such problems by applying
+  a novel video-based assessment procedure in a sample of elderly patients.Methods:
+  In this study, 67 elderly in-patients (≥70 years old and regularly taking ≥5 different
+  drugs autonomously) from the ABLYMED study participated in a placebo-based assessment
+  of medication management with five different dosage forms in an instructed manner
+  while being filmed. Patient performance was quantified by the median value of two
+  raters who evaluated each step of medication administration, which were summed to
+  sum scores for each dosage form and an overall impression for each dosage form with
+  a standardized and previously validated rating scheme.Results: The median (Q1;Q3)
+  sum score for tablets was 7.0 (5.0;8.0) with a theoretical range between 4.0 and
+  17.0, for eye-drops 2.0 (1.0;2.0) with a theoretical range between 1.0 and 5.0,
+  for oral drops 4.0 (3.0;6.0) with a theoretical range between 3.0 and 12.0, for
+  pens 7.0 (5.0;9.0) with a theoretical range between 4.0 and 17.0 and for patches
+  5.0 (4.0;7.0) with a theoretical range between 3.0 and 15.0. The most difficult
+  step of medication administration was peeling off the protective liner of a patch:
+  30% had severe difficulties or it was not possible, 21% had moderate difficulties
+  and 49% had mild or no difficulties.Discussion: In a sample of patients with autonomous
+  medication management, our novel assessment procedure identified a substantial fraction
+  of patients with handling problems for each dosage form. This suggests that patients´
+  medication management problems should be assessed regularly in clinical routine
+  and tackled by patient-individual training or modification of the prescribed drug
+  regimens to achieve effective drug therapy in the elderly.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2296-858X
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3389/fmed.2024.1444567
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/7e8db4f9-79c3-43af-ab79-9a314be0f32b
+schema_type: xyzri:XYZPublication
+title: 'Assessing self-administration of medication: video-based evaluation of patient
+  performance in the ABLYMED study'

@@ -1,0 +1,9 @@
+display_note: ISSN:1541-6933
+identifiers:
+- creator: ror:026ytr635
+  notation: 1541-6933
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:1541-6933
+schema_type: xyzri:XYZPublicationVenue
+title: Neurocritical Care

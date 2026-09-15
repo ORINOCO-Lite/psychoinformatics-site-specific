@@ -1,0 +1,26 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-06-29T14:47:29.925710'
+delegated_by:
+- object: ror:006k2kk72
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+- object: xyzrins:organizations/fzj
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+description: Working Group Leader “Clinical Neuroanatomy” and Consultant Neurologist
+  at University Hospital Düsseldorf, Center of Movement Disorders and Neuromodulation
+family_name: Minnerop
+given_name: Martina
+honorific_name_prefix: PD Dr. med.
+identifiers:
+- notation: 0000-0003-1365-5236
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/09d6f7b4-83ac-48bd-a783-cb6187cf47be
+schema_type: xyzri:XYZPerson

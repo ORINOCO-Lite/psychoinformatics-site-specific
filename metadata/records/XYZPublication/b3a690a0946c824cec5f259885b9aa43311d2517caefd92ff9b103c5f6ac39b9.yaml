@@ -1,0 +1,74 @@
+attributed_to:
+- object: xyzrins:persons/9d1d9209-a21a-43d8-aceb-f95b48933639
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d4e23096-f9d8-47e0-bb48-a25ba181f202
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Effects of exogenous testosterone application on network connectivity within
+    emotion regulation systems
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Studies with steroid hormones underlined the vital role of testosterone on
+    social-emotional processing. However, there is still a lack of studies investigating
+    whether testosterone modulates network connectivity during resting-state. Here,
+    we tested how the exogenous application of testosterone would affect functional
+    connectivity between regions implicated in emotion regulation. In total, 96 male
+    participants underwent resting-state fMRI scanning. Before the measurement, half
+    of the subjects received 5 g TestimTM gel (containing 50 mg testosterone) and
+    the other half a corresponding amount of placebo gel. Seeds for the connectivity
+    analysis were meta-analytically defined. First, all regions associated with emotion
+    regulation were chosen via Neurosynth (data driven). Among those, specific seeds
+    were selected and categorized based on the neural model of emotion regulation
+    by Etkin and colleagues (Etkin et al., 2015) (theory-guided). Resting-state connectivity
+    analysis revealed decreased connectivity between the right DLPFC and the right
+    amygdala as well as between the VMPFC and the left IPL for the testosterone group
+    compared to the placebo group. A complementary dynamic causal modeling (DCM) analysis
+    on findings from the resting-state connectivity analysis underlined a bidirectional
+    coupling which was decreased close to zero by testosterone administration. Our
+    results demonstrate that testosterone administration disrupts resting-state connectivity
+    within fronto-subcortical and fronto-parietal circuits. The findings suggest that
+    even without a specific task (e.g. challenge, reward processing) testosterone
+    modulates brain networks important for social-emotional processing.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Studies with steroid hormones underlined the vital role of testosterone
+  on social-emotional processing. However, there is still a lack of studies investigating
+  whether testosterone modulates network connectivity during resting-state. Here,
+  we tested how the exogenous application of testosterone would affect functional
+  connectivity between regions implicated in emotion regulation. In total, 96 male
+  participants underwent resting-state fMRI scanning. Before the measurement, half
+  of the subjects received 5 g TestimTM gel (containing 50 mg testosterone) and the
+  other half a corresponding amount of placebo gel. Seeds for the connectivity analysis
+  were meta-analytically defined. First, all regions associated with emotion regulation
+  were chosen via Neurosynth (data driven). Among those, specific seeds were selected
+  and categorized based on the neural model of emotion regulation by Etkin and colleagues
+  (Etkin et al., 2015) (theory-guided). Resting-state connectivity analysis revealed
+  decreased connectivity between the right DLPFC and the right amygdala as well as
+  between the VMPFC and the left IPL for the testosterone group compared to the placebo
+  group. A complementary dynamic causal modeling (DCM) analysis on findings from the
+  resting-state connectivity analysis underlined a bidirectional coupling which was
+  decreased close to zero by testosterone administration. Our results demonstrate
+  that testosterone administration disrupts resting-state connectivity within fronto-subcortical
+  and fronto-parietal circuits. The findings suggest that even without a specific
+  task (e.g. challenge, reward processing) testosterone modulates brain networks important
+  for social-emotional processing.
+generated_by:
+- at_location: ISSN:2045-2322
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41598-020-59329-0
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/1f2730df-7215-49a2-8707-8d4c9317f215
+schema_type: xyzri:XYZPublication
+title: Effects of exogenous testosterone application on network connectivity within
+  emotion regulation systems

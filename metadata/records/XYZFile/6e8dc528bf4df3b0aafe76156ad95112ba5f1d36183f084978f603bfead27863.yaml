@@ -1,0 +1,15 @@
+byte_size: 18846
+characterized_by:
+- object: https://hub.psychoinformatics.de/git-annex-p2phttp/git-annex/f1a8ef1c-6d8a-40e3-970f-4634390d961f/key/SHA256E-s18846--15936a17e294bf9017dcfec46f889eb82d1873c074fd02f5c34f46aa54c02a22.webp
+  predicate: dcat:downloadUrl
+- object: https://hub.psychoinformatics.de/git-annex-p2phttp/git-annex/cedde37c-416a-41fd-87e0-4ac100df4bf7/key/SHA256E-s18846--15936a17e294bf9017dcfec46f889eb82d1873c074fd02f5c34f46aa54c02a22.webp
+  predicate: dcat:downloadUrl
+checksums:
+- creator: spdx:checksumAlgorithm_sha256
+  notation: 15936a17e294bf9017dcfec46f889eb82d1873c074fd02f5c34f46aa54c02a22
+  schema_type: dlthings:Checksum
+display_label: logo-motor-crc-1451.webp
+distribution_of:
+- xyzrins:depictions/logo_sfb1451
+pid: dldi:SHA256E-s18846--15936a17e294bf9017dcfec46f889eb82d1873c074fd02f5c34f46aa54c02a22.webp
+schema_type: xyzri:XYZFile

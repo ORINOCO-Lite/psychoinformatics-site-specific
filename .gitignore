@@ -1,0 +1,11 @@
+.DS_Store
+.pixi/
+__pycache__/
+*.py[cod]
+build/
+generated/
+node_modules/
+test-results/
+playwright-report/
+.env
+.env.*

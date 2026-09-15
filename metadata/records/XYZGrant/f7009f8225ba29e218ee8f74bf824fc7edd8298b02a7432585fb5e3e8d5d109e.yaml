@@ -1,0 +1,11 @@
+attributed_to:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+- object: ror:00k4n6c32
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+pid: xyzrins:grants/f8d972a5-3ac0-45c8-8211-4a1d3cd4d96c
+schema_type: xyzri:XYZGrant
+short_name: NEUROCAST
+title: Neurodevelopmental forecasting of mental illness in adolescence

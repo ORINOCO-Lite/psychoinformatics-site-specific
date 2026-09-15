@@ -1,0 +1,27 @@
+application_deadline: '2027-01-31'
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: ERC Consolidator Grant
+- predicate: dcterms:description
+  schema_type: dlthings:AttributeSpecification
+  value: 'Funding Opportunities  Career Status: Postdocs, Experienced Scientists  Mobility:
+    Incoming, Outgoing, Staying  Deadline: January 13, 2026  Call opening: September
+    25, 2025  Information Funding Organization: ERC<https://go.fzj.de/ERC-Starting-Grant>  Information
+    FZJ: ERC Consolidator Grant<https://www.fz-juelich.de/en/research/research-fields/young-scientists/funding-calendar/funding-opportunities/erc_consolidator_grant>
+    (Funding Calendar)  FZJ Contact: Dr. Caitlin Morgan, email: c.morgan@fz-juelich.de<mailto:c.morgan@fz-juelich.de>  '
+- predicate: dcterms:date
+  schema_type: dlthings:AttributeSpecification
+  value: '2027-01-31'
+characterized_by:
+- object: xyzrins:competition-types/4e49ac7d-d6da-4131-806b-6425491e26fd
+  predicate: dcterms:type
+description: 'Funding Opportunities  Career Status: Postdocs, Experienced Scientists  Mobility:
+  Incoming, Outgoing, Staying  Deadline: January 13, 2026  Call opening: September
+  25, 2025  Information Funding Organization: ERC<https://go.fzj.de/ERC-Starting-Grant>  Information
+  FZJ: ERC Consolidator Grant<https://www.fz-juelich.de/en/research/research-fields/young-scientists/funding-calendar/funding-opportunities/erc_consolidator_grant>
+  (Funding Calendar)  FZJ Contact: Dr. Caitlin Morgan, email: c.morgan@fz-juelich.de<mailto:c.morgan@fz-juelich.de>  '
+kind: xyzrins:competition-types/4e49ac7d-d6da-4131-806b-6425491e26fd
+pid: xyzrins:competition/040000008200E00074C5B7101A82E008000000001FD42BD9BE9CDB01000000000000000010000000F5197330D2B01E45A9B2BCABC6E9BE4A
+schema_type: xyzri:XYZCompetition
+title: ERC Consolidator Grant

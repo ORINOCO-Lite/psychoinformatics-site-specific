@@ -1,0 +1,7 @@
+description: A curator who brings together items from various sources that are then
+  arranged, described, and cataloged as a collection. A collector is neither the creator
+  of the material nor a person to whom manuscripts in the collection may have been
+  addressed
+display_label: Collector
+pid: marcrel:col
+schema_type: xyzri:XYZAgentRole

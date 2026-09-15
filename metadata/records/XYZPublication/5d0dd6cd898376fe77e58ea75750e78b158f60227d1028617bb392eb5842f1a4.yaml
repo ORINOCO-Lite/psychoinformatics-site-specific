@@ -1,0 +1,95 @@
+attributed_to:
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c643dc9e-7b8a-4a32-aa1b-6f371c82880a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/edcdb20e-b1be-4fc8-b93a-6fc4f2cebc5d
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/086e45ca-472d-4419-ad35-9082b142c638
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Functional Characterization of Atrophy Patterns Related to Cognitive Impairment
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Introduction: Mild cognitive impairment (MCI) is a heterogenous syndrome
+    considered as a risk factor for developing dementia. Previous work examining morphological
+    brain changes in MCI has identified a temporo-parietal atrophy pattern that suggests
+    a common neuroanatomical denominator of cognitive impairment. Using functional
+    connectivity analyses of structurally affected regions in MCI, we aimed to investigate
+    and characterize functional networks formed by these regions that appear to be
+    particularly vulnerable to disease-related disruptions. Methods: Areas of convergent
+    atrophy in MCI were derived from a quantitative meta-analysis and encompassed
+    left and right medial temporal (i.e., hippocampus, amygdala), as well as parietal
+    regions (precuneus), which were defined as seed regions for connectivity analyses.
+    Both task-based meta-analytical connectivity modeling (MACM) based on the BrainMap
+    database and task-free resting-state functional MRI in a large cohort of older
+    adults from the 1000BRAINS study were applied. We additionally assessed behavioral
+    characteristics associated with the seed regions using BrainMap meta-data and
+    investigated correlations of resting-state connectivity with age. Results: The
+    left temporal seed showed stronger associations with a fronto-temporal network,
+    whereas the right temporal atrophy cluster was more linked to cortico-striatal
+    regions. In accordance with this, behavioral analysis indicated an emphasis of
+    the left temporal seed on language generation, and the right temporal seed was
+    associated with the domains of emotion and attention. Task-independent co-activation
+    was more pronounced in the parietal seed, which demonstrated stronger connectivity
+    with a frontoparietal network and associations with introspection and social cognition.
+    Correlation analysis revealed both decreasing and increasing functional connectivity
+    with higher age that may add to pathological processes but also indicates compensatory
+    mechanisms of functional reorganization with increasing age. Conclusion: Our findings
+    provide an important pathophysiological link between morphological changes and
+    the clinical relevance of major structural damage in MCI. Multimodal analysis
+    of functional networks related to areas of MCI-typical atrophy may help to explain
+    cognitive decline and behavioral alterations not tractable by a mere anatomical
+    interpretation and therefore contribute to prognostic evaluations.Copyright ©
+    2020 Schnellbächer, Hoffstaedter, Eickhoff, Caspers, Nickl-Jockschat, Fox, Laird,
+    Schulz, Reetz and Dogan.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Introduction: Mild cognitive impairment (MCI) is a heterogenous syndrome
+  considered as a risk factor for developing dementia. Previous work examining morphological
+  brain changes in MCI has identified a temporo-parietal atrophy pattern that suggests
+  a common neuroanatomical denominator of cognitive impairment. Using functional connectivity
+  analyses of structurally affected regions in MCI, we aimed to investigate and characterize
+  functional networks formed by these regions that appear to be particularly vulnerable
+  to disease-related disruptions. Methods: Areas of convergent atrophy in MCI were
+  derived from a quantitative meta-analysis and encompassed left and right medial
+  temporal (i.e., hippocampus, amygdala), as well as parietal regions (precuneus),
+  which were defined as seed regions for connectivity analyses. Both task-based meta-analytical
+  connectivity modeling (MACM) based on the BrainMap database and task-free resting-state
+  functional MRI in a large cohort of older adults from the 1000BRAINS study were
+  applied. We additionally assessed behavioral characteristics associated with the
+  seed regions using BrainMap meta-data and investigated correlations of resting-state
+  connectivity with age. Results: The left temporal seed showed stronger associations
+  with a fronto-temporal network, whereas the right temporal atrophy cluster was more
+  linked to cortico-striatal regions. In accordance with this, behavioral analysis
+  indicated an emphasis of the left temporal seed on language generation, and the
+  right temporal seed was associated with the domains of emotion and attention. Task-independent
+  co-activation was more pronounced in the parietal seed, which demonstrated stronger
+  connectivity with a frontoparietal network and associations with introspection and
+  social cognition. Correlation analysis revealed both decreasing and increasing functional
+  connectivity with higher age that may add to pathological processes but also indicates
+  compensatory mechanisms of functional reorganization with increasing age. Conclusion:
+  Our findings provide an important pathophysiological link between morphological
+  changes and the clinical relevance of major structural damage in MCI. Multimodal
+  analysis of functional networks related to areas of MCI-typical atrophy may help
+  to explain cognitive decline and behavioral alterations not tractable by a mere
+  anatomical interpretation and therefore contribute to prognostic evaluations.Copyright
+  © 2020 Schnellbächer, Hoffstaedter, Eickhoff, Caspers, Nickl-Jockschat, Fox, Laird,
+  Schulz, Reetz and Dogan.'
+generated_by:
+- at_location: ISSN:1664-2295
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3389/fneur.2020.00018
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/b03b8205-1f4e-4b48-ac00-f898f0281a28
+schema_type: xyzri:XYZPublication
+title: Functional Characterization of Atrophy Patterns Related to Cognitive Impairment

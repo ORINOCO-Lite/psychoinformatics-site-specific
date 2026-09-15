@@ -1,0 +1,13 @@
+attributed_to:
+- object: ror:018mejw64
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+identifiers:
+- creator: ror:018mejw64
+  notation: '449891086'
+  schema_type: dlthings:Identifier
+pid: xyzrins:grants/06f661d1-7a15-4f02-be83-eeff9ca42947
+schema_type: xyzri:XYZGrant
+title: Exploring modulating factors and predictive utility of patterns of brain-behaviour
+  relationships with statistical learning

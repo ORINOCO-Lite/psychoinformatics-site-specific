@@ -1,0 +1,34 @@
+attributed_to:
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Brainhack: Developing a culture of open, inclusive, community-driven neuroscience'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Brainhack is an innovative meeting format that promotes scientific collaboration
+    and education in an open, inclusive environment. This NeuroView describes the
+    myriad benefits for participants and the research community and how Brainhacks
+    complement conventional formats to augment scientific progress.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Brainhack is an innovative meeting format that promotes scientific collaboration
+  and education in an open, inclusive environment. This NeuroView describes the myriad
+  benefits for participants and the research community and how Brainhacks complement
+  conventional formats to augment scientific progress.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0896-6273
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuron.2021.04.001
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/f8d07ac2-b7d4-492f-8dd8-4713bf8cd675
+schema_type: xyzri:XYZPublication
+title: 'Brainhack: Developing a culture of open, inclusive, community-driven neuroscience'

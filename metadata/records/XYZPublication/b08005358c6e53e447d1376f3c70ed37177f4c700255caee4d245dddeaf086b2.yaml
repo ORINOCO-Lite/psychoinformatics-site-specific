@@ -1,0 +1,111 @@
+attributed_to:
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Association of Short-term Change in Leukocyte Telomere Length With Cortical
+    Thickness and Outcomes of Mental Training Among Healthy Adults
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Importance  Telomere length is associated with the development of age-related
+    diseases and structural differences in multiple brain regions. It remains unclear,
+    however, whether change in telomere length is linked to brain structure change,
+    and to what extent telomere length can be influenced through mental training.Objectives  To
+    assess the dynamic associations between leukocyte telomere length (LTL) and cortical
+    thickness (CT), and to determine whether LTL is affected by a longitudinal contemplative
+    mental training intervention.Design, Setting, and Participants  An open-label
+    efficacy trial of three 3-month mental training modules with healthy, meditation-naive
+    adults was conducted. Data on LTL and CT were collected 4 times over 9 months
+    between April 22, 2013, and March 31, 2015, as part of the ReSource Project. Data
+    analysis was performed between September 23, 2016, and June 21, 2019. Of 1582
+    eligible individuals, 943 declined to participate; 362 were randomly selected
+    for participation and assigned to training or retest control cohorts, with demographic
+    characteristics matched. The retest control cohorts underwent all testing but
+    no training. Intention-to-treat analysis was performed.Interventions  Training
+    cohort participants completed 3 modules cultivating interoception and attention
+    (Presence), compassion (Affect), or perspective taking (Perspective).Main Outcomes
+    and Measures  Change in LTL and CT.Results  Of the 362 individuals randomized,
+    30 participants dropped out before study initiation (initial sample, 332). Data
+    were available for analysis of the training intervention in 298 participants (n = 222
+    training; n = 76 retest control) (175 women [58.7%]; mean [SD] age, 40.5 [9.3]
+    years). The training modules had no effect on LTL. In 699 observations from all
+    298 participants, mean estimated changes in the relative ratios of telomere repeat
+    copy number to single-copy gene (T/S) were for no training, 0.004 (95% CI, −0.010
+    to 0.018); Presence, −0.007 (95% CI, −0.025 to 0.011); Affect, −0.005 (95% CI,
+    −0.019 to 0.010); and Perspective, −0.001 (95% CI, −0.017 to 0.016). Cortical
+    thickness change data were analyzed in 167 observations from 67 retest control
+    participants (37 women [55.2%], mean [SD] age, 39.6 [9.0] years). In this retest
+    control cohort subsample, naturally occurring LTL change was related to CT change
+    in the left precuneus extending to the posterior cingulate cortex (mean t161 = 3.22;
+    P < .001; r = 0.246). At the individual participant level, leukocyte telomere
+    shortening as well as lengthening were observed. Leukocyte telomere shortening
+    was related to cortical thinning (t77 = 2.38; P = .01; r = 0.262), and leukocyte
+    telomere lengthening was related to cortical thickening (t77 = 2.42; P = .009;
+    r = 0.266). All analyses controlled for age, sex, and body mass index.Conclusions
+    and Relevance  The findings of this trial indicate an association between short-term
+    change in LTL and concomitant change in plasticity of the left precuneus extending
+    to the posterior cingulate cortex. This result contributes to the evidence that
+    LTL changes more dynamically on the individual level than previously thought.
+    Further studies are needed to determine potential long-term implications of such
+    change in relation to cellular aging and the development of neurodegenerative
+    disorders. No effect of contemplative mental training was noted in what may be,
+    to date, the longest intervention with healthy adults.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Importance  Telomere length is associated with the development of age-related
+  diseases and structural differences in multiple brain regions. It remains unclear,
+  however, whether change in telomere length is linked to brain structure change,
+  and to what extent telomere length can be influenced through mental training.Objectives  To
+  assess the dynamic associations between leukocyte telomere length (LTL) and cortical
+  thickness (CT), and to determine whether LTL is affected by a longitudinal contemplative
+  mental training intervention.Design, Setting, and Participants  An open-label efficacy
+  trial of three 3-month mental training modules with healthy, meditation-naive adults
+  was conducted. Data on LTL and CT were collected 4 times over 9 months between April
+  22, 2013, and March 31, 2015, as part of the ReSource Project. Data analysis was
+  performed between September 23, 2016, and June 21, 2019. Of 1582 eligible individuals,
+  943 declined to participate; 362 were randomly selected for participation and assigned
+  to training or retest control cohorts, with demographic characteristics matched.
+  The retest control cohorts underwent all testing but no training. Intention-to-treat
+  analysis was performed.Interventions  Training cohort participants completed 3 modules
+  cultivating interoception and attention (Presence), compassion (Affect), or perspective
+  taking (Perspective).Main Outcomes and Measures  Change in LTL and CT.Results  Of
+  the 362 individuals randomized, 30 participants dropped out before study initiation
+  (initial sample, 332). Data were available for analysis of the training intervention
+  in 298 participants (n = 222 training; n = 76 retest control) (175 women [58.7%];
+  mean [SD] age, 40.5 [9.3] years). The training modules had no effect on LTL. In
+  699 observations from all 298 participants, mean estimated changes in the relative
+  ratios of telomere repeat copy number to single-copy gene (T/S) were for no training,
+  0.004 (95% CI, −0.010 to 0.018); Presence, −0.007 (95% CI, −0.025 to 0.011); Affect,
+  −0.005 (95% CI, −0.019 to 0.010); and Perspective, −0.001 (95% CI, −0.017 to 0.016).
+  Cortical thickness change data were analyzed in 167 observations from 67 retest
+  control participants (37 women [55.2%], mean [SD] age, 39.6 [9.0] years). In this
+  retest control cohort subsample, naturally occurring LTL change was related to CT
+  change in the left precuneus extending to the posterior cingulate cortex (mean t161 = 3.22;
+  P < .001; r = 0.246). At the individual participant level, leukocyte telomere shortening
+  as well as lengthening were observed. Leukocyte telomere shortening was related
+  to cortical thinning (t77 = 2.38; P = .01; r = 0.262), and leukocyte telomere lengthening
+  was related to cortical thickening (t77 = 2.42; P = .009; r = 0.266). All analyses
+  controlled for age, sex, and body mass index.Conclusions and Relevance  The findings
+  of this trial indicate an association between short-term change in LTL and concomitant
+  change in plasticity of the left precuneus extending to the posterior cingulate
+  cortex. This result contributes to the evidence that LTL changes more dynamically
+  on the individual level than previously thought. Further studies are needed to determine
+  potential long-term implications of such change in relation to cellular aging and
+  the development of neurodegenerative disorders. No effect of contemplative mental
+  training was noted in what may be, to date, the longest intervention with healthy
+  adults.
+generated_by:
+- at_location: ISSN:2574-3805
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1001/jamanetworkopen.2019.9687
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/9f0e8cd6-0db8-48ad-b1fc-a36a086a2bc0
+schema_type: xyzri:XYZPublication
+title: Association of Short-term Change in Leukocyte Telomere Length With Cortical
+  Thickness and Outcomes of Mental Training Among Healthy Adults

@@ -1,0 +1,15 @@
+about:
+- xyzrins:instruments/b8dc8b0a-4408-46f4-9f47-c1d3ae747fac
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: s.heunis@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-04-23T11:35:45.241444'
+description: Logo of shacl-vue
+distributions:
+- dldi:SHA256E-s5508--0089690988a2a20d6ae11976a82f0798e126c73c75808303b9c2be0ebf0566ef.svg
+kind: schema:logo
+pid: xyzrins:depictions/1f6b28b8-3852-4a1d-bff3-ad122ce026c7
+schema_type: xyzri:XYZDepiction

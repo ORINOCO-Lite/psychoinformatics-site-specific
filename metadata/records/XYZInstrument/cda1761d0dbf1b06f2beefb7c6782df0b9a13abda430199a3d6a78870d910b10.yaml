@@ -1,0 +1,25 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: s.heunis@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-05-20T22:47:37.365220'
+depiction:
+- xyzrins:depictions/404d8c4b-8363-4331-ac54-85a734024b02
+description: 'This software is a DataLad extension that equips DataLad with a set
+  of commands to track XNAT projects.
+
+
+  XNAT is an open source imaging informatics platform developed by the Neuroinformatics
+  Research Group at Washington University. It facilitates common management, productivity,
+  and quality assurance tasks for imaging and associated data. XNAT can be used to
+  support a wide range of neuro/medical imaging-based projects.'
+generated_by:
+- at_time: '2021-09-30'
+  object: xyzrins:projects/datalad
+  schema_type: dlthings:Generation
+kind: obo:IAO_0000010
+name: datalad-xnat
+pid: xyzrins:instruments/794b80ba-cae1-4fc1-b6d2-8b56c0ff4644
+schema_type: xyzri:XYZInstrument

@@ -1,0 +1,59 @@
+attributed_to:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Neuroanatomical correlates of genetic risk for obesity in children
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Obesity has a strong genetic component, with up to 20% of variance in body
+    mass index (BMI) being accounted for by common polygenic variation. Most genetic
+    polymorphisms associated with BMI are related to genes expressed in the central
+    nervous system. At the same time, higher BMI is associated with neurocognitive
+    changes. However, the direct link between genetics of obesity and neurobehavioral
+    mechanisms related to weight gain is missing. Here, we use a large sample of participants
+    (n > 4000) from the Adolescent Brain Cognitive Development cohort to investigate
+    how genetic risk for obesity, expressed as polygenic risk score for BMI (BMI-PRS),
+    is related to brain and behavioral measures in adolescents. In a series of analyses,
+    we show that BMI-PRS is related to lower cortical volume and thickness in the
+    frontal and temporal areas, relative to age-expected values. Relatedly, using
+    structural equation modeling, we find that lower overall cortical volume is associated
+    with higher impulsivity, which in turn is related to an increase in BMI 1 year
+    later. In sum, our study shows that obesity might partially stem from genetic
+    risk as expressed in brain changes in the frontal and temporal brain areas, and
+    changes in impulsivity.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Obesity has a strong genetic component, with up to 20% of variance in
+  body mass index (BMI) being accounted for by common polygenic variation. Most genetic
+  polymorphisms associated with BMI are related to genes expressed in the central
+  nervous system. At the same time, higher BMI is associated with neurocognitive changes.
+  However, the direct link between genetics of obesity and neurobehavioral mechanisms
+  related to weight gain is missing. Here, we use a large sample of participants (n > 4000)
+  from the Adolescent Brain Cognitive Development cohort to investigate how genetic
+  risk for obesity, expressed as polygenic risk score for BMI (BMI-PRS), is related
+  to brain and behavioral measures in adolescents. In a series of analyses, we show
+  that BMI-PRS is related to lower cortical volume and thickness in the frontal and
+  temporal areas, relative to age-expected values. Relatedly, using structural equation
+  modeling, we find that lower overall cortical volume is associated with higher impulsivity,
+  which in turn is related to an increase in BMI 1 year later. In sum, our study shows
+  that obesity might partially stem from genetic risk as expressed in brain changes
+  in the frontal and temporal brain areas, and changes in impulsivity.
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2158-3188
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41398-022-02301-5
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/084925e5-6cb6-40e7-b5da-158c400781b1
+schema_type: xyzri:XYZPublication
+title: Neuroanatomical correlates of genetic risk for obesity in children

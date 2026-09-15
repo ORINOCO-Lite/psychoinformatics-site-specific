@@ -1,0 +1,10 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-06-29T16:29:34.555496'
+name: Johannes Gutenberg-Universität Mainz
+pid: ror:023b0x485
+schema_type: xyzri:XYZOrganization

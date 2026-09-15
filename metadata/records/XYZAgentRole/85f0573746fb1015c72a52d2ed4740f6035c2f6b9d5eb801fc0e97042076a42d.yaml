@@ -1,0 +1,5 @@
+description: A person or organization that submits data for inclusion in a database
+  or other collection of data
+display_label: Data contributor
+pid: marcrel:dtc
+schema_type: xyzri:XYZAgentRole

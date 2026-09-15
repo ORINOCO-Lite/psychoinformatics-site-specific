@@ -1,0 +1,93 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/44b7c6a3-3595-4f36-9a08-b80b2240d22c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/laura-waite
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/9667ad1d-d904-4eea-9d86-7af45f176cb4
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b55ca6ad-784a-42e2-aae2-632272bebf23
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Hippocampal metabolic subregions and networks: Behavioral, molecular, and
+    pathological aging profiles'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: INTRODUCTIONHippocampal local and network dysfunction is the hallmark of
+    Alzheimer's disease (AD).METHODSWe characterized the spatial patterns of hippocampus
+    differentiation based on brain co-metabolism in healthy elderly participants and
+    demonstrated their relevance to study local metabolic changes and associated dysfunction
+    in pathological aging.RESULTSThe hippocampus can be differentiated into anterior/posterior
+    and dorsal cornu ammonis (CA)/ventral (subiculum) subregions. While anterior/posterior
+    CA show co-metabolism with different regions of the subcortical limbic networks,
+    the anterior/posterior subiculum are parts of cortical networks supporting object-centered
+    memory and higher cognitive demands, respectively. Both networks show relationships
+    with the spatial patterns of gene expression pertaining to cell energy metabolism
+    and AD's process. Finally, while local metabolism is generally lower in posterior
+    regions, the anterior–posterior imbalance is maximal in late mild cognitive impairment
+    with the anterior subiculum being relatively preserved.DISCUSSIONFuture studies
+    should consider bidimensional hippocampal differentiation and in particular the
+    posterior subicular region to better understand pathological aging.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: INTRODUCTIONHippocampal local and network dysfunction is the hallmark
+  of Alzheimer's disease (AD).METHODSWe characterized the spatial patterns of hippocampus
+  differentiation based on brain co-metabolism in healthy elderly participants and
+  demonstrated their relevance to study local metabolic changes and associated dysfunction
+  in pathological aging.RESULTSThe hippocampus can be differentiated into anterior/posterior
+  and dorsal cornu ammonis (CA)/ventral (subiculum) subregions. While anterior/posterior
+  CA show co-metabolism with different regions of the subcortical limbic networks,
+  the anterior/posterior subiculum are parts of cortical networks supporting object-centered
+  memory and higher cognitive demands, respectively. Both networks show relationships
+  with the spatial patterns of gene expression pertaining to cell energy metabolism
+  and AD's process. Finally, while local metabolism is generally lower in posterior
+  regions, the anterior–posterior imbalance is maximal in late mild cognitive impairment
+  with the anterior subiculum being relatively preserved.DISCUSSIONFuture studies
+  should consider bidimensional hippocampal differentiation and in particular the
+  posterior subicular region to better understand pathological aging.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1552-5260
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/alz.13056
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2027-12-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/2b40e9ef-d9d2-42f8-a502-2e6efa86a1f7
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2023-09-30'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/hbp-sga3
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2020-04-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/3d0e325d-25bf-4f48-b23b-9bf7322988aa
+schema_type: xyzri:XYZPublication
+title: 'Hippocampal metabolic subregions and networks: Behavioral, molecular, and
+  pathological aging profiles'

@@ -1,0 +1,49 @@
+about:
+- xyzrins:topics/data-management
+- xyzrins:topics/education
+- xyzrins:topics/free-and-open-culture
+- xyzrins:topics/distributed-systems
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.szczepanik@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-25T17:07:35.686579'
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/stephan-heunis
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michal-szczepanik
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/laura-waite
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/alex-waite
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/malgorzata-wierzba
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/christian-moench
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: foaf:homepage
+  schema_type: dlthings:AttributeSpecification
+  value: https://handbook.datalad.org
+description: 'The DataLad Handbook is a comprehensive educational resource for data
+  management with DataLad.
+
+
+  '
+generated_by:
+- at_time: '2023-02-14'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/zenodo.3608611
+  schema_type: dlthings:DOI
+kind: bibo:Book
+pid: xyzrins:publications/787d9a99-90ef-4fa3-b42a-09c3cc48b658
+schema_type: xyzri:XYZPublication
+title: The DataLad Handbook

@@ -1,0 +1,56 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'To learn or to gain: neural signatures of exploration in human decision-making'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Individuals not only take actions to obtain immediate rewards but also to
+    gain more information to guide future choices. An ideal exploration-exploitation
+    balance is crucial for maximizing reward over the long run. However, the neural
+    signatures of exploration in humans remain unclear. Using quantitative meta-analyses
+    of functional magnetic resonance imaging experiments on exploratory behaviors,
+    we sought to identify the concordant activity pertaining to exploration over a
+    range of experiments. The results revealed that exploration activates concordant
+    brain activity associated with risk (e.g., dorsal medial prefrontal cortex and
+    anterior insula), cognitive control (e.g., dorsolateral prefrontal cortex and
+    inferior frontal gyrus), and motor processing (e.g., premotor cortex). These stereotaxic
+    maps of exploration may indicate that exploration is highly linked to risk processing,
+    but is also specifically associated with regions involved in executive control
+    processes. Although this explanation should be treated as exploratory, these findings
+    support theories positing an important role for the prefrontal-insular-motor cortical
+    network in exploration.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Individuals not only take actions to obtain immediate rewards but also
+  to gain more information to guide future choices. An ideal exploration-exploitation
+  balance is crucial for maximizing reward over the long run. However, the neural
+  signatures of exploration in humans remain unclear. Using quantitative meta-analyses
+  of functional magnetic resonance imaging experiments on exploratory behaviors, we
+  sought to identify the concordant activity pertaining to exploration over a range
+  of experiments. The results revealed that exploration activates concordant brain
+  activity associated with risk (e.g., dorsal medial prefrontal cortex and anterior
+  insula), cognitive control (e.g., dorsolateral prefrontal cortex and inferior frontal
+  gyrus), and motor processing (e.g., premotor cortex). These stereotaxic maps of
+  exploration may indicate that exploration is highly linked to risk processing, but
+  is also specifically associated with regions involved in executive control processes.
+  Although this explanation should be treated as exploratory, these findings support
+  theories positing an important role for the prefrontal-insular-motor cortical network
+  in exploration.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1863-2653
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00429-021-02389-3
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/5a787561-1ea6-400f-9eda-e039a7c5fc7d
+schema_type: xyzri:XYZPublication
+title: 'To learn or to gain: neural signatures of exploration in human decision-making'

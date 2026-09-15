@@ -1,0 +1,29 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-05-18T10:57:38.466346'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - xyzrins:agent-roles/7e8c6eda-7d12-4c9f-9a3e-225e53a3db46
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: obo:APOLLO_SV_00000488
+  schema_type: dlthings:AttributeSpecification
+  value: https://hub.datalad.org/datalad/git-lad
+description: 'A lean CLI for DataLad operations '
+generated_by:
+- object: xyzrins:projects/13347b71-134b-40c8-b6e6-1cbc43969080
+  schema_type: dlthings:Generation
+influenced_by:
+- object: xyzrins:objectives/97ded4aa-108d-4b84-8195-d6076dce63ce
+  schema_type: xyzri:XYZInfluence
+kind: obo:IAO_0000010
+name: git-lad
+pid: xyzrins:instruments/ef7e7d3f-31f3-444e-9efb-b1419e867f3e
+rules:
+- spdxlic:MIT
+schema_type: xyzri:XYZInstrument

@@ -1,0 +1,62 @@
+attributed_to:
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Network-based fMRI-neurofeedback training of sustained attention
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The brain regions supporting sustained attention (sustained attention network;
+    SAN) and mind-wandering (default-mode network; DMN) have been extensively studied.
+    Nevertheless, this knowledge has not yet been translated into advanced brain-based
+    attention training protocols. Here, we used network-based real-time functional
+    magnetic resonance imaging (fMRI) to provide healthy individuals with information
+    about current activity levels in SAN and DMN. Specifically, 15 participants trained
+    to control the difference between SAN and DMN hemodynamic activity and completed
+    behavioral attention tests before and after neurofeedback training. Through training,
+    participants improved controlling the differential SAN-DMN feedback signal, which
+    was accomplished mainly through deactivating DMN. After training, participants
+    were able to apply learned self-regulation of the differential feedback signal
+    even when feedback was no longer available (i.e., during transfer runs). The neurofeedback
+    group improved in sustained attention after training, although this improvement
+    was temporally limited and rarely exceeded mere practice effects that were controlled
+    by a test-retest behavioral control group. The learned self-regulation and the
+    behavioral outcomes suggest that neurofeedback training of differential SAN and
+    DMN activity has the potential to become a non-invasive and non-pharmacological
+    tool to enhance attention and mitigate specific attention deficits.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The brain regions supporting sustained attention (sustained attention
+  network; SAN) and mind-wandering (default-mode network; DMN) have been extensively
+  studied. Nevertheless, this knowledge has not yet been translated into advanced
+  brain-based attention training protocols. Here, we used network-based real-time
+  functional magnetic resonance imaging (fMRI) to provide healthy individuals with
+  information about current activity levels in SAN and DMN. Specifically, 15 participants
+  trained to control the difference between SAN and DMN hemodynamic activity and completed
+  behavioral attention tests before and after neurofeedback training. Through training,
+  participants improved controlling the differential SAN-DMN feedback signal, which
+  was accomplished mainly through deactivating DMN. After training, participants were
+  able to apply learned self-regulation of the differential feedback signal even when
+  feedback was no longer available (i.e., during transfer runs). The neurofeedback
+  group improved in sustained attention after training, although this improvement
+  was temporally limited and rarely exceeded mere practice effects that were controlled
+  by a test-retest behavioral control group. The learned self-regulation and the behavioral
+  outcomes suggest that neurofeedback training of differential SAN and DMN activity
+  has the potential to become a non-invasive and non-pharmacological tool to enhance
+  attention and mitigate specific attention deficits.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2020.117194
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/2631485c-171b-49b1-8a95-a653fd74fe93
+schema_type: xyzri:XYZPublication
+title: Network-based fMRI-neurofeedback training of sustained attention

@@ -1,0 +1,9 @@
+display_note: ISSN:0889-1591
+identifiers:
+- creator: ror:026ytr635
+  notation: 0889-1591
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:0889-1591
+schema_type: xyzri:XYZPublicationVenue
+title: Brain, Behavior And Immunity

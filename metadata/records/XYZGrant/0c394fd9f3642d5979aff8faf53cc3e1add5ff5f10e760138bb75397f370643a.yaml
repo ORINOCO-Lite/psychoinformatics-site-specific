@@ -1,0 +1,23 @@
+about:
+- xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+attributed_to:
+- object: xyzrins:persons/60feb346-954c-4625-93d6-1b8bd1ca0dfa
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Attribution
+- object: ror:04pz7b180
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+identifiers:
+- creator: ror:04pz7b180
+  notation: 01GP2310A
+  schema_type: dlthings:Identifier
+- creator: xyzrins:organizations/fzj
+  description: PSP Element Jülich
+  notation: D.B.002474
+  schema_type: dlthings:Identifier
+pid: xyzrins:grants/927d6d5b-09f1-4432-97c2-ced899a19bff
+schema_type: xyzri:XYZGrant
+short_name: RHUNE
+title: Research Hub Neuroethics 

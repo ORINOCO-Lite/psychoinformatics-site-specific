@@ -1,0 +1,65 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Do intrinsic brain functional networks predict working memory from childhood
+    to adulthood?
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Working memory (WM) is defined as the ability to maintain a representation
+    online to guide goal‐directed behavior. Its capacity in early childhood predicts
+    academic achievements in late childhood and its deficits are found in various
+    neurodevelopmental disorders. We employed resting‐state fMRI (rs‐fMRI) of 468
+    participants aged from 4 to 55 years and connectome‐based predictive modeling
+    (CPM) to explore the potential predictive power of intrinsic functional networks
+    to WM in preschoolers, early and late school‐age children, adolescents, and adults.
+    We defined intrinsic functional networks among brain regions identified by activation
+    likelihood estimation (ALE) meta‐analysis on existing WM functional studies (ALE‐based
+    intrinsic functional networks) and intrinsic functional networks generated based
+    on the whole brain (whole‐brain intrinsic functional networks). We employed the
+    CPM on these networks to predict WM in each age group. The CPM using the ALE‐based
+    and whole‐brain intrinsic functional networks predicted WM of individual adults,
+    while the prediction power of the ALE‐based intrinsic functional networks was
+    superior to that of the whole‐brain intrinsic functional networks. Nevertheless,
+    the CPM using the whole‐brain but not the ALE‐based intrinsic functional networks
+    predicted WM in adolescents. And, the CPM using neither the ALE‐based nor whole‐brain
+    networks predicted WM in any of the children groups. Our findings showed the trend
+    of the prediction power of the intrinsic functional networks to cognition in individuals
+    from early childhood to adulthood.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Working memory (WM) is defined as the ability to maintain a representation
+  online to guide goal‐directed behavior. Its capacity in early childhood predicts
+  academic achievements in late childhood and its deficits are found in various neurodevelopmental
+  disorders. We employed resting‐state fMRI (rs‐fMRI) of 468 participants aged from
+  4 to 55 years and connectome‐based predictive modeling (CPM) to explore the potential
+  predictive power of intrinsic functional networks to WM in preschoolers, early and
+  late school‐age children, adolescents, and adults. We defined intrinsic functional
+  networks among brain regions identified by activation likelihood estimation (ALE)
+  meta‐analysis on existing WM functional studies (ALE‐based intrinsic functional
+  networks) and intrinsic functional networks generated based on the whole brain (whole‐brain
+  intrinsic functional networks). We employed the CPM on these networks to predict
+  WM in each age group. The CPM using the ALE‐based and whole‐brain intrinsic functional
+  networks predicted WM of individual adults, while the prediction power of the ALE‐based
+  intrinsic functional networks was superior to that of the whole‐brain intrinsic
+  functional networks. Nevertheless, the CPM using the whole‐brain but not the ALE‐based
+  intrinsic functional networks predicted WM in adolescents. And, the CPM using neither
+  the ALE‐based nor whole‐brain networks predicted WM in any of the children groups.
+  Our findings showed the trend of the prediction power of the intrinsic functional
+  networks to cognition in individuals from early childhood to adulthood.
+generated_by:
+- at_location: ISSN:1065-9471
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/hbm.25143
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/73dfd6b2-c61a-4e14-a77e-b7c05ef19c03
+schema_type: xyzri:XYZPublication
+title: Do intrinsic brain functional networks predict working memory from childhood
+  to adulthood?

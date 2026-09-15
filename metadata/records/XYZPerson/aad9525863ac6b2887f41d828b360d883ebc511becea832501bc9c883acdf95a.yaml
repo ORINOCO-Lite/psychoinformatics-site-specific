@@ -1,0 +1,24 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-07T09:10:27.209831'
+delegated_by:
+- ended:
+    at_time: '2014-07-31'
+    schema_type: dlthings:End
+  object: xyzrins:organizations/ovgu
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+  started:
+    at_time: '2013-11-01'
+    schema_type: dlthings:Start
+description: Became a professor at TH Brandenburg
+family_name: Buchholz
+given_name: Sven
+honorific_name_prefix: Dr.
+pid: xyzrins:persons/sven-buchholz
+schema_type: xyzri:XYZPerson

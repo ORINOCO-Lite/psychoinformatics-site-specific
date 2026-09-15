@@ -1,0 +1,89 @@
+attributed_to:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/6761809d-d48f-4912-a316-12a5e2fa32f4
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Functional connectivity signatures of NMDAR dysfunction in schizophrenia—integrating
+    findings from imaging genetics and pharmaco-fMRI
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Both, pharmacological and genome-wide association studies suggest N-methyl-D-aspartate
+    receptor (NMDAR) dysfunction and excitatory/inhibitory (E/I)-imbalance as a major
+    pathophysiological mechanism of schizophrenia. The identification of shared fMRI
+    brain signatures of genetically and pharmacologically induced NMDAR dysfunction
+    may help to define biomarkers for patient stratification. NMDAR-related genetic
+    and pharmacological effects on functional connectivity were investigated by integrating
+    three different datasets: (A) resting state fMRI data from 146 patients with schizophrenia
+    genotyped for the disease-associated genetic variant rs7191183 of GRIN2A (encoding
+    the NMDAR 2 A subunit) as well as 142 healthy controls. (B) Pharmacological effects
+    of the NMDAR antagonist ketamine and the GABA-A receptor agonist midazolam were
+    obtained from a double-blind, crossover pharmaco-fMRI study in 28 healthy participants.
+    (C) Regional gene expression profiles were estimated using a postmortem whole-brain
+    microarray dataset from six healthy donors. A strong resemblance was observed
+    between the effect of the genetic variant in schizophrenia and the ketamine versus
+    midazolam contrast of connectivity suggestive for an associated E/I-imbalance.
+    This similarity became more pronounced for regions with high density of NMDARs,
+    glutamatergic neurons, and parvalbumin-positive interneurons. From a functional
+    perspective, increased connectivity emerged between striato-pallido-thalamic regions
+    and cortical regions of the auditory-sensory-motor network, while decreased connectivity
+    was observed between auditory (superior temporal gyrus) and visual processing
+    regions (lateral occipital cortex, fusiform gyrus, cuneus). Importantly, these
+    imaging phenotypes were associated with the genetic variant, the differential
+    effect of ketamine versus midazolam and schizophrenia (as compared to healthy
+    controls). Moreover, the genetic variant was associated with language-related
+    negative symptomatology which correlated with disturbed connectivity between the
+    left posterior superior temporal gyrus and the superior lateral occipital cortex.
+    Shared genetic and pharmacological functional connectivity profiles were suggestive
+    of E/I-imbalance and associated with schizophrenia. The identified brain signatures
+    may help to stratify patients with a common molecular disease pathway providing
+    a basis for personalized psychiatry.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Both, pharmacological and genome-wide association studies suggest N-methyl-D-aspartate
+  receptor (NMDAR) dysfunction and excitatory/inhibitory (E/I)-imbalance as a major
+  pathophysiological mechanism of schizophrenia. The identification of shared fMRI
+  brain signatures of genetically and pharmacologically induced NMDAR dysfunction
+  may help to define biomarkers for patient stratification. NMDAR-related genetic
+  and pharmacological effects on functional connectivity were investigated by integrating
+  three different datasets: (A) resting state fMRI data from 146 patients with schizophrenia
+  genotyped for the disease-associated genetic variant rs7191183 of GRIN2A (encoding
+  the NMDAR 2 A subunit) as well as 142 healthy controls. (B) Pharmacological effects
+  of the NMDAR antagonist ketamine and the GABA-A receptor agonist midazolam were
+  obtained from a double-blind, crossover pharmaco-fMRI study in 28 healthy participants.
+  (C) Regional gene expression profiles were estimated using a postmortem whole-brain
+  microarray dataset from six healthy donors. A strong resemblance was observed between
+  the effect of the genetic variant in schizophrenia and the ketamine versus midazolam
+  contrast of connectivity suggestive for an associated E/I-imbalance. This similarity
+  became more pronounced for regions with high density of NMDARs, glutamatergic neurons,
+  and parvalbumin-positive interneurons. From a functional perspective, increased
+  connectivity emerged between striato-pallido-thalamic regions and cortical regions
+  of the auditory-sensory-motor network, while decreased connectivity was observed
+  between auditory (superior temporal gyrus) and visual processing regions (lateral
+  occipital cortex, fusiform gyrus, cuneus). Importantly, these imaging phenotypes
+  were associated with the genetic variant, the differential effect of ketamine versus
+  midazolam and schizophrenia (as compared to healthy controls). Moreover, the genetic
+  variant was associated with language-related negative symptomatology which correlated
+  with disturbed connectivity between the left posterior superior temporal gyrus and
+  the superior lateral occipital cortex. Shared genetic and pharmacological functional
+  connectivity profiles were suggestive of E/I-imbalance and associated with schizophrenia.
+  The identified brain signatures may help to stratify patients with a common molecular
+  disease pathway providing a basis for personalized psychiatry.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2158-3188
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41398-023-02344-2
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/70a8a856-af0d-466e-9a08-5489639561bd
+schema_type: xyzri:XYZPublication
+title: Functional connectivity signatures of NMDAR dysfunction in schizophrenia—integrating
+  findings from imaging genetics and pharmaco-fMRI

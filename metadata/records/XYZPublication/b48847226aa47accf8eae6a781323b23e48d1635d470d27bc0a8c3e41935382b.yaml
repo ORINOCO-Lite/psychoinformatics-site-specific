@@ -1,0 +1,66 @@
+attributed_to:
+- object: xyzrins:persons/f012978a-c0be-46ae-ba97-1e6f2abd5c7f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Mediation of the Association Between Vascular Risk Factors and Depressive
+    Symptoms by C-Reactive Protein: Longitudinal Evidence from the UK Biobank'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'People with vascular risk factors (VRFs) are at higher risk for depressive
+    symptoms. Given recent findings implicating low-grade systemic inflammation in
+    both vascular and mental health, this study examined the extent to which the VRF–depressive
+    symptom association might be mediated by low-grade systemic inflammation. To this
+    end, we analysed longitudinal data of 9,034 participants from the UK Biobank (mean
+    age = 56.54 years), who took part in three consecutive assessments over the course
+    of about 8 years. Cumulative VRF burden at baseline was defined as the presence
+    of 5 VRFs (hypertension, obesity, hypercholesterolemia, diabetes, and smoking).
+    Low-grade systemic inflammation was assessed using serum-derived C-reactive protein
+    (CRP) and depressive symptoms were measured using the Patient Health Questionnaire-9
+    (PHQ-9). We performed mediation models using longitudinal data and a path analytic
+    framework, while controlling for age, gender, racial-ethnic background, socioeconomic
+    status, and baseline mood. VRFs at baseline showed a small association with higher
+    depressive symptoms at follow-up (total effect = 0.014, 95% CI [0.007; 0.021]).
+    CRP mediated this association (indirect effect = 0.003, 95% CI [0.001; 0.005])
+    and accounted for 20.10% of the total effect of VRF burden on depressive symptoms.
+    Exploratory analyses taking a symptom-based approach revealed that mediating pathways
+    pertained to specific depressive symptoms: tiredness and changes in appetite.
+    These results suggest that the small association between VRF burden and depressive
+    symptoms may be partly explained by the inflammation-promoting effects of VRFs,
+    which might promote a specific symptom-profile of depression.'
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: 'People with vascular risk factors (VRFs) are at higher risk for depressive
+  symptoms. Given recent findings implicating low-grade systemic inflammation in both
+  vascular and mental health, this study examined the extent to which the VRF–depressive
+  symptom association might be mediated by low-grade systemic inflammation. To this
+  end, we analysed longitudinal data of 9,034 participants from the UK Biobank (mean
+  age = 56.54 years), who took part in three consecutive assessments over the course
+  of about 8 years. Cumulative VRF burden at baseline was defined as the presence
+  of 5 VRFs (hypertension, obesity, hypercholesterolemia, diabetes, and smoking).
+  Low-grade systemic inflammation was assessed using serum-derived C-reactive protein
+  (CRP) and depressive symptoms were measured using the Patient Health Questionnaire-9
+  (PHQ-9). We performed mediation models using longitudinal data and a path analytic
+  framework, while controlling for age, gender, racial-ethnic background, socioeconomic
+  status, and baseline mood. VRFs at baseline showed a small association with higher
+  depressive symptoms at follow-up (total effect = 0.014, 95% CI [0.007; 0.021]).
+  CRP mediated this association (indirect effect = 0.003, 95% CI [0.001; 0.005]) and
+  accounted for 20.10% of the total effect of VRF burden on depressive symptoms. Exploratory
+  analyses taking a symptom-based approach revealed that mediating pathways pertained
+  to specific depressive symptoms: tiredness and changes in appetite. These results
+  suggest that the small association between VRF burden and depressive symptoms may
+  be partly explained by the inflammation-promoting effects of VRFs, which might promote
+  a specific symptom-profile of depression.'
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.31234/osf.io/m8zv4
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/0f19ba4d-bb6b-42a9-a0d6-38d39948fb2b
+schema_type: xyzri:XYZPublication
+title: 'Mediation of the Association Between Vascular Risk Factors and Depressive
+  Symptoms by C-Reactive Protein: Longitudinal Evidence from the UK Biobank'

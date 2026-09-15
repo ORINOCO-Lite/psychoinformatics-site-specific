@@ -1,0 +1,61 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-13T13:32:20.794055'
+associated_with:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - marcrel:led
+  schema_type: dlthings:Association
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:led
+  schema_type: dlthings:Association
+- object: xyzrins:persons/laura-waite
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/malgorzata-wierzba
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Association
+- object: xyzrins:persons/stephan-heunis
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Association
+- object: xyzrins:persons/michal-szczepanik
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Association
+- object: xyzrins:persons/christian-moench
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Association
+- object: xyzrins:persons/alex-waite
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Association
+depiction:
+- xyzrins:depictions/5f2edd0e-cad3-4d45-8cc6-3164c08bf5af
+description: A community-written resource on research data management with DataLad,
+  publicly available at [handbook.datalad.org](https://handbook.datalad.org).
+influenced_by:
+- object: xyzrins:objectives/87be5fa3-80fb-4221-8406-2ddd40fb1fd1
+  roles:
+  - xyzrins:entity-roles/1160471a-9f8e-4379-85f2-351a2a36ef40
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:objectives/97ded4aa-108d-4b84-8195-d6076dce63ce
+  roles:
+  - FRAPO:Deliverable
+  schema_type: xyzri:XYZInfluence
+part_of:
+- xyzrins:projects/datalad
+pid: xyzrins:projects/18b8a19e-5e7b-425d-be04-f16c0cc15b01
+schema_type: xyzri:XYZProject
+started:
+  at_time: '2019-07-01'
+  schema_type: dlthings:Start
+title: The DataLad Handbook Project

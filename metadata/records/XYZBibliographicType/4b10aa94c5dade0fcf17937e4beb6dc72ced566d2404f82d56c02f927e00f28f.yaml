@@ -1,0 +1,4 @@
+description: A group of related documents issued at regular intervals.
+display_label: Periodical
+pid: bibo:Periodical
+schema_type: xyzri:XYZBibliographicType

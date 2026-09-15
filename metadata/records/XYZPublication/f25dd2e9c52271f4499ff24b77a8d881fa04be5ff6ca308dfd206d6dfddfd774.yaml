@@ -1,0 +1,79 @@
+attributed_to:
+- object: xyzrins:persons/269a3b65-df26-4c0d-a6a9-2c4410750dc8
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c434724f-78bc-4329-a538-ecff66804dde
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'In search of convergent regional brain abnormality in cognitive emotion
+    regulation: A transdiagnostic neuroimaging meta‐analysis'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Ineffective use of adaptive cognitive strategies (e.g., reappraisal) to
+    regulate emotional states is often reported in a wide variety of psychiatric disorders,
+    suggesting a common characteristic across different diagnostic categories. However,
+    the extent of shared neurobiological impairments is incompletely understood. This
+    study, therefore, aimed to identify the transdiagnostic neural signature of disturbed
+    reappraisal using the coordinate-based meta-analysis (CBMA) approach. Following
+    the best-practice guidelines for conducting neuroimaging meta-analyses, we systematically
+    searched PubMed, ScienceDirect and Web of Science databases and tracked the references.
+    Out of 1608 identified publications, 32 whole-brain neuroimaging studies were
+    retrieved that compared brain activation in patients with psychiatric disorders
+    and healthy controls during a reappraisal task. Then, the reported peak coordinates
+    of group comparisons were extracted and several activation likelihood estimation
+    (ALE) analyses were performed at three hierarchical levels to identify the potential
+    spatial convergence: the global level (i.e., the pooled analysis and the analyses
+    of in-/decreased activations), the experimental-contrast level (i.e., the analyses
+    of grouped data based on the regulation goal, stimulus valence, and instruction
+    rule) and the disorder-group level (i.e., the analyses across the experimental-contrast
+    level focused on increasing homogeneity of disorders). Surprisingly, none of our
+    analyses provided significant convergent findings. This CBMA indicates a lack
+    of transdiagnostic convergent regional abnormality related to reappraisal task,
+    probably due to the complex nature of cognitive emotion regulation, heterogeneity
+    of clinical populations, and/or experimental and statistical flexibility of individual
+    studies.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Ineffective use of adaptive cognitive strategies (e.g., reappraisal)
+  to regulate emotional states is often reported in a wide variety of psychiatric
+  disorders, suggesting a common characteristic across different diagnostic categories.
+  However, the extent of shared neurobiological impairments is incompletely understood.
+  This study, therefore, aimed to identify the transdiagnostic neural signature of
+  disturbed reappraisal using the coordinate-based meta-analysis (CBMA) approach.
+  Following the best-practice guidelines for conducting neuroimaging meta-analyses,
+  we systematically searched PubMed, ScienceDirect and Web of Science databases and
+  tracked the references. Out of 1608 identified publications, 32 whole-brain neuroimaging
+  studies were retrieved that compared brain activation in patients with psychiatric
+  disorders and healthy controls during a reappraisal task. Then, the reported peak
+  coordinates of group comparisons were extracted and several activation likelihood
+  estimation (ALE) analyses were performed at three hierarchical levels to identify
+  the potential spatial convergence: the global level (i.e., the pooled analysis and
+  the analyses of in-/decreased activations), the experimental-contrast level (i.e.,
+  the analyses of grouped data based on the regulation goal, stimulus valence, and
+  instruction rule) and the disorder-group level (i.e., the analyses across the experimental-contrast
+  level focused on increasing homogeneity of disorders). Surprisingly, none of our
+  analyses provided significant convergent findings. This CBMA indicates a lack of
+  transdiagnostic convergent regional abnormality related to reappraisal task, probably
+  due to the complex nature of cognitive emotion regulation, heterogeneity of clinical
+  populations, and/or experimental and statistical flexibility of individual studies.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1065-9471
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/hbm.25722
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/ea02fdbe-dbc0-42ee-bcab-a0f9db559bc1
+schema_type: xyzri:XYZPublication
+title: 'In search of convergent regional brain abnormality in cognitive emotion regulation:
+  A transdiagnostic neuroimaging meta‐analysis'

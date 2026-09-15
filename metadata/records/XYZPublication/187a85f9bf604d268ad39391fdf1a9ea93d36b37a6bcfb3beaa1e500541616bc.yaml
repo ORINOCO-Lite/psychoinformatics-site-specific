@@ -1,0 +1,78 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/269a3b65-df26-4c0d-a6a9-2c4410750dc8
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: PSP-specific atrophy targets regions connecting the salience network and
+    subcortical circuits
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Progressive supranuclear palsy (PSP) shows a characteristic but incompletely
+    defined pattern of neurodegeneration, in part because prior imaging studies have
+    been limited by small and heterogeneous cohorts. Here, we consolidated evidence
+    for PSP-related gray matter (GM) loss using a coordinate-based meta-analysis and
+    interpreted the resulting atrophy pattern in a network and molecular framework
+    to infer disease-relevant mechanisms.We conducted an Anatomical Likelihood Estimation
+    (ALE) meta-analysis of whole-brain morphometry studies investigating atrophy in
+    PSP, followed by functional decoding to evaluate the functions recruiting the
+    atrophied regions and meta-analytic connectivity to delineate co-activation–based
+    connectivity profiles. Finally, we explored potential neurochemical underpinnings
+    by correlating the atrophy map with PET-derived neurotransmitter density distributions.ALE
+    meta-analysis identified clusters of robust gray matter (GM) atrophy in PSP in
+    the bilateral thalamus & midbrain, left anterior-dorsal insula as well as bilateral
+    caudate nucleus. These regions were shown to be functionally associated with language,
+    body perception, somatosensation and emotion processing. Connectivity analyses
+    indicated coupling with fronto-insular salience-network circuitry and with key
+    subcortical nodes, consistent with a distributed systems-level disturbance. At
+    the molecular level, PSP-related atrophy aligned with higher densities of dopaminergic,
+    serotonergic, and—most prominently—cholinergic markers, suggesting multi–transmitter-system
+    vulnerability with a critical role of the cholinergic architecture.Together, these
+    findings identify an interconnected set of cortical–subcortical targets in PSP
+    whose functional and molecular profiles map onto core clinical features, supporting
+    a network-based view of PSP neurodegeneration beyond isolated local atrophy with
+    critical roles of the insula and the cholinergic system.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Progressive supranuclear palsy (PSP) shows a characteristic but incompletely
+  defined pattern of neurodegeneration, in part because prior imaging studies have
+  been limited by small and heterogeneous cohorts. Here, we consolidated evidence
+  for PSP-related gray matter (GM) loss using a coordinate-based meta-analysis and
+  interpreted the resulting atrophy pattern in a network and molecular framework to
+  infer disease-relevant mechanisms.We conducted an Anatomical Likelihood Estimation
+  (ALE) meta-analysis of whole-brain morphometry studies investigating atrophy in
+  PSP, followed by functional decoding to evaluate the functions recruiting the atrophied
+  regions and meta-analytic connectivity to delineate co-activation–based connectivity
+  profiles. Finally, we explored potential neurochemical underpinnings by correlating
+  the atrophy map with PET-derived neurotransmitter density distributions.ALE meta-analysis
+  identified clusters of robust gray matter (GM) atrophy in PSP in the bilateral thalamus
+  & midbrain, left anterior-dorsal insula as well as bilateral caudate nucleus. These
+  regions were shown to be functionally associated with language, body perception,
+  somatosensation and emotion processing. Connectivity analyses indicated coupling
+  with fronto-insular salience-network circuitry and with key subcortical nodes, consistent
+  with a distributed systems-level disturbance. At the molecular level, PSP-related
+  atrophy aligned with higher densities of dopaminergic, serotonergic, and—most prominently—cholinergic
+  markers, suggesting multi–transmitter-system vulnerability with a critical role
+  of the cholinergic architecture.Together, these findings identify an interconnected
+  set of cortical–subcortical targets in PSP whose functional and molecular profiles
+  map onto core clinical features, supporting a network-based view of PSP neurodegeneration
+  beyond isolated local atrophy with critical roles of the insula and the cholinergic
+  system.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2213-1582
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.nicl.2026.104032
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/e4e37d8d-9ba3-4011-be05-66e8677dfb2e
+schema_type: xyzri:XYZPublication
+title: PSP-specific atrophy targets regions connecting the salience network and subcortical
+  circuits

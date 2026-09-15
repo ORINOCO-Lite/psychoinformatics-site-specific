@@ -1,0 +1,8 @@
+broad_mappings:
+- ODRL:Duty
+description: This data use modifier indicates that the requestor must return derived/enriched
+  data to the database/resource.
+display_label: 'Duty: return to database or resource'
+pid: obo:DUO_0000029
+schema_type: dlthings:Rule
+title: return to database or resource

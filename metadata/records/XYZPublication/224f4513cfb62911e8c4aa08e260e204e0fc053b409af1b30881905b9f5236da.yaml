@@ -1,0 +1,65 @@
+attributed_to:
+- object: xyzrins:persons/534d28e8-d6e0-4a7f-8ba3-bf59298c9221
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b86edddd-1b83-43dd-b863-e724cebfef1d
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/969235eb-06f6-4eb4-857c-1681a660220a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/0767650a-2548-4ec6-a1ad-68f8e4e6c214
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/8f836375-520c-43d7-afb6-29abea72c0ab
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c643dc9e-7b8a-4a32-aa1b-6f371c82880a
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Combining lifestyle risks to disentangle brain structure and functional connectivity
+    differences in older adults
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Lifestyle contributes to inter-individual variability in brain aging, but
+    previous studies focusedon the effects of single lifestyle variables. Here, we
+    studied the combined and individualcontributions of four lifestyle variables -
+    alcohol consumption, smoking, physical activity,and social integration - to brain
+    structure and functional connectivity in a population-basedcohort of 549 older
+    adults. A combined lifestyle risk score was associated with decreasedgyrification
+    in left premotor and right prefrontal cortex, and higher functional connectivityto
+    sensorimotor and prefrontal cortex. While structural differences were driven by
+    alcoholconsumption, physical activity, and social integration, higher functional
+    connectivity wasdriven  by  smoking.  Results  suggest  that  combining  differentially  contributing  lifestylevariables
+    may be more than the sum of its parts. Associations generally were neither alteredby
+    adjustment for genetic risk, nor by depressive symptomatology or education, underliningthe
+    relevance of daily habits for brain health.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Lifestyle contributes to inter-individual variability in brain aging,
+  but previous studies focusedon the effects of single lifestyle variables. Here,
+  we studied the combined and individualcontributions of four lifestyle variables
+  - alcohol consumption, smoking, physical activity,and social integration - to brain
+  structure and functional connectivity in a population-basedcohort of 549 older adults.
+  A combined lifestyle risk score was associated with decreasedgyrification in left
+  premotor and right prefrontal cortex, and higher functional connectivityto sensorimotor
+  and prefrontal cortex. While structural differences were driven by alcoholconsumption,
+  physical activity, and social integration, higher functional connectivity wasdriven  by  smoking.  Results  suggest  that  combining  differentially  contributing  lifestylevariables
+  may be more than the sum of its parts. Associations generally were neither alteredby
+  adjustment for genetic risk, nor by depressive symptomatology or education, underliningthe
+  relevance of daily habits for brain health.
+generated_by:
+- at_location: ISSN:2041-1723
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41467-019-08500-x
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/5630d80c-a221-4b3f-bd1f-545526afaf2f
+schema_type: xyzri:XYZPublication
+title: Combining lifestyle risks to disentangle brain structure and functional connectivity
+  differences in older adults

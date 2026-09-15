@@ -1,0 +1,65 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Controversies and progress on standardization of large-scale brain network
+    nomenclature
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Progress in scientific disciplines is accompanied by standardization of terminology.
+    Network neuroscience, at the level of macroscale organization of the brain, is
+    beginning to confront the challenges associated with developing a taxonomy of
+    its fundamental explanatory constructs. The Workgroup for HArmonized Taxonomy
+    of NETworks (WHATNET) was formed in 2020 as an Organization for Human Brain Mapping
+    (OHBM)–endorsed best practices committee to provide recommendations on points
+    of consensus, identify open questions, and highlight areas of ongoing debate in
+    the service of moving the field toward standardized reporting of network neuroscience
+    results. The committee conducted a survey to catalog current practices in large-scale
+    brain network nomenclature. A few well-known network names (e.g., default mode
+    network) dominated responses to the survey, and a number of illuminating points
+    of disagreement emerged. We summarize survey results and provide initial considerations
+    and recommendations from the workgroup. This perspective piece includes a selective
+    review of challenges to this enterprise, including (1) network scale, resolution,
+    and hierarchies; (2) interindividual variability of networks; (3) dynamics and
+    nonstationarity of networks; (4) consideration of network affiliations of subcortical
+    structures; and (5) consideration of multimodal information. We close with minimal
+    reporting guidelines for the cognitive and network neuroscience communities to
+    adopt.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Progress in scientific disciplines is accompanied by standardization
+  of terminology. Network neuroscience, at the level of macroscale organization of
+  the brain, is beginning to confront the challenges associated with developing a
+  taxonomy of its fundamental explanatory constructs. The Workgroup for HArmonized
+  Taxonomy of NETworks (WHATNET) was formed in 2020 as an Organization for Human Brain
+  Mapping (OHBM)–endorsed best practices committee to provide recommendations on points
+  of consensus, identify open questions, and highlight areas of ongoing debate in
+  the service of moving the field toward standardized reporting of network neuroscience
+  results. The committee conducted a survey to catalog current practices in large-scale
+  brain network nomenclature. A few well-known network names (e.g., default mode network)
+  dominated responses to the survey, and a number of illuminating points of disagreement
+  emerged. We summarize survey results and provide initial considerations and recommendations
+  from the workgroup. This perspective piece includes a selective review of challenges
+  to this enterprise, including (1) network scale, resolution, and hierarchies; (2)
+  interindividual variability of networks; (3) dynamics and nonstationarity of networks;
+  (4) consideration of network affiliations of subcortical structures; and (5) consideration
+  of multimodal information. We close with minimal reporting guidelines for the cognitive
+  and network neuroscience communities to adopt.
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:2472-1751
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1162/netn_a_00323
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/e77c63b8-ad36-4020-8389-d8bff15190b0
+schema_type: xyzri:XYZPublication
+title: Controversies and progress on standardization of large-scale brain network
+  nomenclature

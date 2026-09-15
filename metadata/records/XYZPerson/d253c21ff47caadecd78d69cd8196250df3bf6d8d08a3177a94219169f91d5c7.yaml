@@ -1,0 +1,8 @@
+family_name: Riße
+given_name: Matthias
+identifiers:
+- creator: ror:04fa4r544
+  notation: 0009-0006-6081-9327
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/dac706d9-2188-4a84-91bd-a49c5e63c19c
+schema_type: xyzri:XYZPerson

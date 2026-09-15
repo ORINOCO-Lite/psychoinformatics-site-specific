@@ -1,0 +1,72 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/6de57b9d-196e-47c9-826a-ff26c9f32093
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d44b2ca0-e927-4495-939e-a05fac8e2aca
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Early motor network connectivity after stroke: An interplay of general reorganization
+    and state‐specific compensation'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Motor recovery after stroke relies on functional reorganization of the motor
+    network, which is commonly assessed via functional magnetic resonance imaging
+    (fMRI)-based resting-state functional connectivity (rsFC) or task-related effective
+    connectivity (trEC). Measures of either connectivity mode have been shown to successfully
+    explain motor impairment post-stroke, posing the question whether motor impairment
+    is more closely reflected by rsFC or trEC. Moreover, highly similar changes in
+    ipsilesional and interhemispheric motor network connectivity have been reported
+    for both rsFC and trEC after stroke, suggesting that altered rsFC and trEC may
+    capture similar aspects of information integration in the motor network reflecting
+    principle, state-independent mechanisms of network reorganization rather than
+    state-specific compensation strategies. To address this question, we conducted
+    the first direct comparison of rsFC and trEC in a sample of early subacute stroke
+    patients (n = 26, included on average 7.3 days post-stroke). We found that both
+    rsFC and trEC explained motor impairment across patients, stressing the clinical
+    potential of fMRI-based connectivity. Importantly, intrahemispheric connectivity
+    between ipsilesional M1 and premotor areas depended on the activation state, whereas
+    interhemispheric connectivity between homologs was state-independent. From a mechanistic
+    perspective, our results may thus arise from two distinct aspects of motor network
+    plasticity: task-specific compensation within the ipsilesional hemisphere and
+    a more fundamental form of reorganization between hemispheres.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Motor recovery after stroke relies on functional reorganization of the
+  motor network, which is commonly assessed via functional magnetic resonance imaging
+  (fMRI)-based resting-state functional connectivity (rsFC) or task-related effective
+  connectivity (trEC). Measures of either connectivity mode have been shown to successfully
+  explain motor impairment post-stroke, posing the question whether motor impairment
+  is more closely reflected by rsFC or trEC. Moreover, highly similar changes in ipsilesional
+  and interhemispheric motor network connectivity have been reported for both rsFC
+  and trEC after stroke, suggesting that altered rsFC and trEC may capture similar
+  aspects of information integration in the motor network reflecting principle, state-independent
+  mechanisms of network reorganization rather than state-specific compensation strategies.
+  To address this question, we conducted the first direct comparison of rsFC and trEC
+  in a sample of early subacute stroke patients (n = 26, included on average 7.3 days
+  post-stroke). We found that both rsFC and trEC explained motor impairment across
+  patients, stressing the clinical potential of fMRI-based connectivity. Importantly,
+  intrahemispheric connectivity between ipsilesional M1 and premotor areas depended
+  on the activation state, whereas interhemispheric connectivity between homologs
+  was state-independent. From a mechanistic perspective, our results may thus arise
+  from two distinct aspects of motor network plasticity: task-specific compensation
+  within the ipsilesional hemisphere and a more fundamental form of reorganization
+  between hemispheres.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1065-9471
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/hbm.25612
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/f1b8967f-7da2-4ee8-a309-90fe6da7f39c
+schema_type: xyzri:XYZPublication
+title: 'Early motor network connectivity after stroke: An interplay of general reorganization
+  and state‐specific compensation'

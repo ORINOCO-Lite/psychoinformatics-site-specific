@@ -1,0 +1,28 @@
+attributed_to:
+- object: ror:018mejw64
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+description: Das Projekt B05 untersucht multivariate Muster der Assoziationen zwischen
+  motorischer Leistung und Verhaltens- und Gehirnphänotypen mit Hilfe von Machine-Learning-Ansätzen.
+  Dieses Vorhaben baut auf der Arbeit der ersten Förderperiode auf, die gezeigt hat,
+  dass erfolgreiche Vorhersagen von motorischen Phänotypen in erster Linie auf das
+  Erlernen breiter gefächerter individueller Variationen zurückzuführen sind. Im Rahmen
+  der zweiten Förderperiode werden diese übergreifenden Dimensionen nun identifiziert,
+  charakterisiert und mit der ihnen zugrunde liegenden Neurobiologie bei Gesundheit
+  und Krankheit in Verbindung gebracht. Die vom Projekt B05 erstellten und ausgewerteten
+  Modelle charakterisieren die Beziehungen zwischen verschiedenen Ebenen der motorischen
+  Leistung, soziodemografischen, neuropsychologischen und psychiatrischen Informationen
+  sowie multimodalen Neuroimaging-Daten und stützen sich dabei auf die von Z03 gesammelten
+  und von INF organisierten Ressourcen.
+identifiers:
+- creator: ror:018mejw64
+  notation: '458640473'
+  schema_type: dlthings:Identifier
+part_of:
+- xyzrins:grants/sfb1451
+pid: xyzrins:grants/66cbbef2-5fd4-42c6-8348-cb74af435b75
+schema_type: xyzri:XYZGrant
+short_name: B05
+title: Identifizierung übergreifender Komponenten motorisch-kognitiv-demographischer
+  Phänotypen

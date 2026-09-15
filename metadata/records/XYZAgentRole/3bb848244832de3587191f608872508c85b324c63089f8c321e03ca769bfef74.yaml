@@ -1,0 +1,6 @@
+description: A person or organization associated with or found in an item or collection,
+  which cannot be determined to be that of a Former owner [fmo] or other designated
+  relationship indicative of provenance
+display_label: Associated name
+pid: marcrel:asn
+schema_type: xyzri:XYZAgentRole

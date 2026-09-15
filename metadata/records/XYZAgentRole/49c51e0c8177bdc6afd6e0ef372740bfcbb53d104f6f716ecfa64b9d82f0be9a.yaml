@@ -1,0 +1,5 @@
+description: The place of manufacture (e.g., printing, duplicating, casting, etc.)
+  of a resource in a published form
+display_label: Manufacture place
+pid: marcrel:mfp
+schema_type: xyzri:XYZAgentRole

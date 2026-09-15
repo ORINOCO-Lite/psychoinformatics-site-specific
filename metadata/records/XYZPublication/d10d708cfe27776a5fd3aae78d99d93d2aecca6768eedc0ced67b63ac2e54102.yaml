@@ -1,0 +1,76 @@
+attributed_to:
+- object: xyzrins:persons/c5630bae-5817-4599-a579-aa4fcadec6e9
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b85655e7-64f5-4471-99d4-3c79c92cfb40
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Multimodal neuroimaging data boosts the prediction of multifaceted cognition
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Relating individual brain patterns to behavioural phenotypes through predictive
+    modelling has been increasingly popular. Several recent studies have focused on
+    the fundamental challenge of improving behavioural prediction based on individual
+    brain patterns, by integrating information from multimodal neuroimaging data.
+    However, the benefit of multimodal integration in brain-based behaviour prediction
+    remains debated due to inconsistent findings. This issue raises the need of a
+    systematic and extensive evaluation. Here, we investigated the necessity and benefit
+    of multimodal integration in 3 large datasets covering different age ranges, using
+    25 to 33 feature types from different imaging modalities, and 21 behavioural measures
+    from different domains. By setting up multiple predictive models corresponding
+    to increasing levels of multimodal integration, we demonstrated that prediction
+    performance saturates after integrating a few types of features. In general, our
+    analyses revealed that multifaceted cognitive scores tend to require higher levels
+    of multimodal integration, while other predictions may depend on single feature
+    types. In most cases, multimodal integration can remain focused on functional
+    features, especially in young adults. However, predictions in aging can also require
+    structural and diffusion features. Along the same line, while model-free rest
+    and task functional connectivity may provide relevant brain phenotype for behavioural
+    prediction in most applications, in aging, effective connectivity appears relevant
+    too. Thus, our study demonstrates that alternatives to model-free functional connectivity
+    and, more generally, to functional imaging features should be considered for predictive
+    modelling of behaviour, especially in aging populations where understanding interindividual
+    variability in remain as a key challenge.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Relating individual brain patterns to behavioural phenotypes through
+  predictive modelling has been increasingly popular. Several recent studies have
+  focused on the fundamental challenge of improving behavioural prediction based on
+  individual brain patterns, by integrating information from multimodal neuroimaging
+  data. However, the benefit of multimodal integration in brain-based behaviour prediction
+  remains debated due to inconsistent findings. This issue raises the need of a systematic
+  and extensive evaluation. Here, we investigated the necessity and benefit of multimodal
+  integration in 3 large datasets covering different age ranges, using 25 to 33 feature
+  types from different imaging modalities, and 21 behavioural measures from different
+  domains. By setting up multiple predictive models corresponding to increasing levels
+  of multimodal integration, we demonstrated that prediction performance saturates
+  after integrating a few types of features. In general, our analyses revealed that
+  multifaceted cognitive scores tend to require higher levels of multimodal integration,
+  while other predictions may depend on single feature types. In most cases, multimodal
+  integration can remain focused on functional features, especially in young adults.
+  However, predictions in aging can also require structural and diffusion features.
+  Along the same line, while model-free rest and task functional connectivity may
+  provide relevant brain phenotype for behavioural prediction in most applications,
+  in aging, effective connectivity appears relevant too. Thus, our study demonstrates
+  that alternatives to model-free functional connectivity and, more generally, to
+  functional imaging features should be considered for predictive modelling of behaviour,
+  especially in aging populations where understanding interindividual variability
+  in remain as a key challenge.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.21203/rs.3.rs-7721822/v1
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/aa0007ae-e7a8-4f85-baee-6ebc7ffe993d
+schema_type: xyzri:XYZPublication
+title: Multimodal neuroimaging data boosts the prediction of multifaceted cognition

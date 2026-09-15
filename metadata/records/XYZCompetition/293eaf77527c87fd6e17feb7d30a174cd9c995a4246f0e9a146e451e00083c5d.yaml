@@ -1,0 +1,26 @@
+application_deadline: '2026-10-01'
+attributes:
+- predicate: rdfs:seeAlso
+  schema_type: dlthings:AttributeSpecification
+  value: https://gsonet.org/funding-programs/klaus-tschira-boost-fund/?lang=en
+description: 'It is possible to apply for funding of up to € 115,000 for a period
+  of up to 24 months. Funding can be used for all types of costs, but no more than
+  € 67,000 gross for the fellow’s salary for the duration of the project. Junior group
+  leaders or junior professors cannot apply for funding for their own position. Projects
+  can start between May 1 and Oct. 1, 2027.
+
+
+
+
+  The program addresses postdoctoral researchers who 1) are employed at a state-funded
+  (public law) university or state-funded (public law) university of applied sciences
+  (= öffentlich-rechtliche Universität oder HAW), at a Bundesamt or Bundesanstalt
+  (Ressortforschung), at a Fraunhofer, Leibniz, Max Planck, Helmholtz, or DLR institute
+  or at EMBL in Germany at the latest at the start of your project, 2) conduct non-clinical
+  research in one or more of the following areas: Biology, Chemistry, Computer Science,
+  Geosciences, Mathematics, Neurosciences and Physics, 3) do not yet have a permanent
+  position or tenure option, and 4) do not have acquired further substantial funding.'
+kind: xyzrins:competition-types/4e49ac7d-d6da-4131-806b-6425491e26fd
+pid: xyzrins:competitions/dec37bc9-8d86-48f8-9a6c-1d401e0c7057
+schema_type: xyzri:XYZCompetition
+title: Klaus Tschira Boost Fund

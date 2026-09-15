@@ -1,0 +1,27 @@
+about:
+- xyzrins:topics/cognitive-science
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-05-19T10:45:22.162871'
+attributed_to:
+- object: xyzrins:persons/christian-haeusler
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: CiTO:isDescribedBy
+  schema_type: dlthings:AttributeSpecification
+  value: https://psychoinformatics.de/img/wolfenbuettler_schaufenster_20181020.png
+description: 'Christian Olaf Häusler''s popular science talk "Psychologie & Gehirnforschung
+  treffen Hollywood: Was können Neurowissenschaftler in Deinem Gehirn sehen, während
+  Du einen Film schaust?" has been covered in Wolfenbüttler Schaufenster: "Ist unsere
+  Wahrnehmung eine Interpretation des Gehirns?".
+
+
+  '
+kind: bibo:Newspaper
+pid: xyzrins:publications/aa376542-5a33-4dc6-85c3-a880b4e521e9
+schema_type: xyzri:XYZPublication
+title: Ist unsere Wahrnehmung eine Interpretation des Gehirns

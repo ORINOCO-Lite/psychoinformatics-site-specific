@@ -1,0 +1,20 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.szczepanik@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-23T16:03:55.156607'
+byte_size: 22160
+characterized_by:
+- object: https://hub.psychoinformatics.de/git-annex-p2phttp/git-annex/cedde37c-416a-41fd-87e0-4ac100df4bf7/key/SHA256E-s22160--ca2bf500455a30b926c4ae46dd01e397f37698407479cd518ae5c79af4233beb.webp
+  predicate: dcat:downloadUrl
+checksums:
+- creator: spdx:checksumAlgorithm_sha256
+  notation: ca2bf500455a30b926c4ae46dd01e397f37698407479cd518ae5c79af4233beb
+  schema_type: dlthings:Checksum
+display_label: MSz_366x512.webp
+distribution_of:
+- xyzrins:depictions/1208f28d-0f31-4727-8334-b8f0061fecb6
+pid: dldi:SHA256E-s22160--ca2bf500455a30b926c4ae46dd01e397f37698407479cd518ae5c79af4233beb.webp
+schema_type: xyzri:XYZFile

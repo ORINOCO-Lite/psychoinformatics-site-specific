@@ -1,0 +1,4 @@
+description: A person who makes manuscript annotations on an item
+display_label: Annotator
+pid: marcrel:ann
+schema_type: xyzri:XYZAgentRole

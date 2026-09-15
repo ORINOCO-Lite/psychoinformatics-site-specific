@@ -1,0 +1,67 @@
+attributed_to:
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Profile of sleep disturbances in patients with recurrent depressive disorder
+    or bipolar affective disorder in a tertiary sleep disorders service
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Bidirectional relationship between sleep disturbances and affective disorders
+    is increasingly recognised, but its underlying mechanisms are far from clear,
+    and there is a scarcity of studies that report on sleep disturbances in recurrent
+    depressive disorder (RDD) and bipolar affective disorder (BPAD). To address this,
+    we conducted a retrospective study of polysomnographic and clinical records of
+    patients presenting to a tertiary sleep disorders clinic with affective disorders.
+    Sixty-three BPAD patients (32 female; mean age ± S.D.: 41.8 ± 12.4 years) and
+    126 age- and gender-matched RDD patients (62 female; 41.5 ± 12.8) were studied.
+    Whilst no significant differences were observed in sleep macrostructure parameters
+    between BPAD and RDD patients, major differences were observed in comorbid sleep
+    and physical disorders, both of which were higher in BPAD patients. Two most prevalent
+    sleep disorders, namely obstructive sleep apnoea (OSA) (BPAD 50.8.0% vs RDD 29.3%,
+    P = 0.006) and insomnia (BPAD 34.9% vs RDD 15.0%, P = 0.005) were found to be
+    strongly linked with BPAD. In summary, in our tertiary sleep clinic cohort, no
+    overt differences in the sleep macrostructure between BPAD and RDD patients were
+    demonstrated. However, OSA and insomnia, two most prevalent sleep disorders, were
+    found significantly more prevalent in patients with BPAD, by comparison to RDD
+    patients. Also, BPAD patients presented with significantly more severe OSA, and
+    with higher overall physical co-morbidity. Thus, our findings suggest an unmet/hidden
+    need for earlier diagnosis of those with BPAD.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Bidirectional relationship between sleep disturbances and affective
+  disorders is increasingly recognised, but its underlying mechanisms are far from
+  clear, and there is a scarcity of studies that report on sleep disturbances in recurrent
+  depressive disorder (RDD) and bipolar affective disorder (BPAD). To address this,
+  we conducted a retrospective study of polysomnographic and clinical records of patients
+  presenting to a tertiary sleep disorders clinic with affective disorders. Sixty-three
+  BPAD patients (32 female; mean age ± S.D.: 41.8 ± 12.4 years) and 126 age- and gender-matched
+  RDD patients (62 female; 41.5 ± 12.8) were studied. Whilst no significant differences
+  were observed in sleep macrostructure parameters between BPAD and RDD patients,
+  major differences were observed in comorbid sleep and physical disorders, both of
+  which were higher in BPAD patients. Two most prevalent sleep disorders, namely obstructive
+  sleep apnoea (OSA) (BPAD 50.8.0% vs RDD 29.3%, P = 0.006) and insomnia (BPAD 34.9%
+  vs RDD 15.0%, P = 0.005) were found to be strongly linked with BPAD. In summary,
+  in our tertiary sleep clinic cohort, no overt differences in the sleep macrostructure
+  between BPAD and RDD patients were demonstrated. However, OSA and insomnia, two
+  most prevalent sleep disorders, were found significantly more prevalent in patients
+  with BPAD, by comparison to RDD patients. Also, BPAD patients presented with significantly
+  more severe OSA, and with higher overall physical co-morbidity. Thus, our findings
+  suggest an unmet/hidden need for earlier diagnosis of those with BPAD.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2045-2322
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41598-023-36083-7
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/23424f5a-9627-40e7-8bc6-799c72528a9d
+schema_type: xyzri:XYZPublication
+title: Profile of sleep disturbances in patients with recurrent depressive disorder
+  or bipolar affective disorder in a tertiary sleep disorders service

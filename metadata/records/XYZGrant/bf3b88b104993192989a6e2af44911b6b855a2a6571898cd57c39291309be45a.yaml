@@ -1,0 +1,48 @@
+attributed_to:
+- object: ror:018mejw64
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+description: 'Der Fokus kognitiver Neurowissenschaften lag bislang darauf herauszufinden,
+  welche Hirnregionen mit welchen kognitiven Zuständen verbunden sind. Dies lässt
+  jedoch die Frage offen, wie bestimmte Hirnregionen Kognition ermöglichen. In diesem
+  Projekt beabsichtige ich zu untersuchen, wie Mikrostruktur und Konnektivität von
+  funktionellen Hirnnetzwerken zu Kognition beitragen und damit eine Grundlage für
+  menschliche Intelligenz schaffen. Neuroanatomische Merkmale können in gesunden ausgewachsenen
+  Gehirnen mit kognitiven Prozessen korreliert werden. Jedoch ist es schwierig, die
+  zugrunde liegenden kausalen Zusammenhänge zu ermitteln. Aufgrund dessen verfolgen
+  wir den Ansatz, zeitliche Abhängigkeiten zwischen Neuroanatomie und Kognition während
+  der Kindheitsentwicklung zu nutzen. Während dieser Zeit gehen tiefgreifende Veränderungen
+  der Gehirnstruktur und -funktion mit dem Erwerb kognitiver Fähigkeiten einher (z.B.
+  Multitasking). Ziel dieses Projektes ist es herauszufinden, welche neuroanatomischen
+  Eigenschaften für die Entstehung bestimmter kognitiver Fähigkeiten entscheidend
+  sind. Mein Team und ich werden dabei die folgenden drei Forschungslinien vorantreiben:
+  Erstens, wir wollen eine Lücke in der Literatur über die Entwicklung kortikaler
+  Mikrostrukturen schließen. Bisherige Studien hierzu sind meist auf histologische,
+  post-mortem Daten zur Quantifizierung angewiesen, deren verfügbare Stichprobengröße
+  für den Menschen, insbesondere für Jugendliche, stark begrenzt ist. Basierend auf
+  den jüngsten Fortschritten in der Magnetresonanztomographie (MRT) planen wir eine
+  Pipeline zu entwickeln, die erlernte Korrelationen zwischen MRT und Histologie nutzt,
+  um Unterschiede in der Mikrostruktur zu quantifizieren. Das Erreichen dieses Ziels
+  versetzt uns in die Lage, große offene MRT-Datensätze zu verwenden und mikrostrukturelle
+  Entwicklungen bei Säuglingen und Kindern zu verfolgen. Zweitens, wir planen individuelle
+  Variationen in der mikrostrukturellen Neuroentwicklung zu untersuchen, um personen-spezifische
+  Eigenschaften und Kognition zusammenzubringen. Insbesondere werden gezielte Psychosen
+  untersucht und gezeigt, wie Anomalien in der mikrostrukturellen Neuroentwicklung
+  einer kognitiven Störung vorausgehen können. Auf diese Weise wollen wir mögliche
+  Abhängigkeiten zwischen der Entwicklung von Neuroanatomie und einer gesunden höheren
+  Kognition aufzeigen. Schließlich modellieren wir neuronale Mechanismen, die zu Kognition
+  beitragen. Hierzu wird die orchestrierte Aktivität von mikrostrukturell unterschiedlichen
+  Hirnarealen charakterisiert. Insbesondere wollen wir jugendliche Kohorten nutzen,
+  um zu zeigen, wie neuroanatomische Eigenschaften die Entstehung bestimmter kognitiver
+  Fähigkeiten erklären können. Insgesamt trägt diese Arbeit dazu bei, die anatomischen
+  Bausteine von kognitiven Prozessen zu bestimmen, und Einblicke in die Implementierung
+  menschlicher Intelligenz zu gewinnen, insbesondere bei Störung im Krankheitsfall.'
+identifiers:
+- creator: ror:018mejw64
+  notation: '524408221'
+  schema_type: dlthings:Identifier
+pid: xyzrins:grants/003e63be-a64b-4d72-a912-392b40710a48
+schema_type: xyzri:XYZGrant
+title: 'Mikrostrukturelle Entwicklung des Gehirns: Den Ursprüngen höherer menschliche
+  Kognition auf der Spur'

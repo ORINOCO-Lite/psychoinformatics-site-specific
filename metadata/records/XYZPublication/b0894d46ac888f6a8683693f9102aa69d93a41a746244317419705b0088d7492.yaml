@@ -1,0 +1,61 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Biological Age and the Risk of Discrimination
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: This paper examines whether biological age, as distinct from chronological
+    age, could become a new basis for discrimination. Drawing on Joona Räsänen’s proposal
+    that individuals be allowed to change their legal age to mitigate chronological
+    age-based discrimination, it assesses whether this could introduce discrimination
+    based on biological age. The analysis distinguishes chronological from biological
+    age and clarifies differences. Chronological age measures the time elapsed since
+    an entity’s existence, with unidirectional and perfect passage-of-time correlation.
+    Biological age is the attempt to quantify the state of the ageing process—gradual
+    deterioration of body and mind—via biomarkers compared to population averages.
+    It is variable and potentially reversible. For these reasons, biological age currently
+    isn’t familiar to the public, it lacks stability and institutional recognition,
+    and thus does not meet the conditions for discrimination as discussed by prominent
+    theories of discrimination by Lippert-Rasmussen and Behrendt. Therefore, individuals
+    are unlikely to face discrimination on this basis in the same sense as they might
+    based on chronological age. However, if biological age were formally adopted –
+    say, through legal reforms substituting or even replacing chronological age –
+    it could acquire normative significance and potentially serve as a new basis for
+    discrimination. Hence, openly available information about biological age should
+    be limited to mitigate the risk that it could become a basis for discrimination.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: This paper examines whether biological age, as distinct from chronological
+  age, could become a new basis for discrimination. Drawing on Joona Räsänen’s proposal
+  that individuals be allowed to change their legal age to mitigate chronological
+  age-based discrimination, it assesses whether this could introduce discrimination
+  based on biological age. The analysis distinguishes chronological from biological
+  age and clarifies differences. Chronological age measures the time elapsed since
+  an entity’s existence, with unidirectional and perfect passage-of-time correlation.
+  Biological age is the attempt to quantify the state of the ageing process—gradual
+  deterioration of body and mind—via biomarkers compared to population averages. It
+  is variable and potentially reversible. For these reasons, biological age currently
+  isn’t familiar to the public, it lacks stability and institutional recognition,
+  and thus does not meet the conditions for discrimination as discussed by prominent
+  theories of discrimination by Lippert-Rasmussen and Behrendt. Therefore, individuals
+  are unlikely to face discrimination on this basis in the same sense as they might
+  based on chronological age. However, if biological age were formally adopted – say,
+  through legal reforms substituting or even replacing chronological age – it could
+  acquire normative significance and potentially serve as a new basis for discrimination.
+  Hence, openly available information about biological age should be limited to mitigate
+  the risk that it could become a basis for discrimination.
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:0306-6800
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1136/jme-2025-111472
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/a7032230-0a56-438c-a1d2-0761ffd2a20d
+schema_type: xyzri:XYZPublication
+title: Biological Age and the Risk of Discrimination

@@ -1,0 +1,23 @@
+about:
+- xyzrins:topics/neuroimaging
+- xyzrins:topics/predictive-data-analysis
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-04-01T09:57:02.348449'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+generated_by:
+- at_time: '2009-06-25'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+kind: bibo:Thesis
+pid: xyzrins:publications/42b8ce9d-795c-483a-a61a-d8ca8b7e606b
+schema_type: xyzri:XYZPublication
+title: Advancing the understanding of brain function with multivariate pattern analysis

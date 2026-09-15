@@ -1,0 +1,10 @@
+depiction:
+- xyzrins:depictions/9b890d76-27ab-4491-9a72-c0b2974686b0
+family_name: Waite
+given_name: Alex
+identifiers:
+- creator: ror:04fa4r544
+  notation: 0000-0002-8402-6173
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/alex-waite
+schema_type: xyzri:XYZPerson

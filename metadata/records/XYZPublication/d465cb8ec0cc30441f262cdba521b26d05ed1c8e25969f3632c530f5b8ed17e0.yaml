@@ -1,0 +1,30 @@
+attributed_to:
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Influence of straight versus angulated screw channel titanium bases on failure
+    loads of two‐piece ceramic and titanium implants restored with screw‐retained
+    monolithic crowns: An in‐vitro study'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0905-7161
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1111/clr.14157
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/95c60cc6-20cd-40ed-bf5e-fbcd14d44b2d
+schema_type: xyzri:XYZPublication
+title: 'Influence of straight versus angulated screw channel titanium bases on failure
+  loads of two‐piece ceramic and titanium implants restored with screw‐retained monolithic
+  crowns: An in‐vitro study'

@@ -1,0 +1,18 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-06T11:46:08.496149'
+description: A formal recognition (title, prize, honor, grant, or certificate) granted
+  to an individual, team, work, or organization on the basis of demonstrated merit,
+  measured by predefined evaluative criteria such as excellence, originality, impact,
+  technical quality, or service—determined through an adjudication process (e.g.,
+  jury or peer review). Recipients are selected from candidates submitted via self-nomination
+  or third-party nomination, application, or curated consideration, and selection
+  is documented by the awarding body according to stated eligibility and evaluation
+  procedures.
+display_label: Merit-based award
+pid: xyzrins:competition-types/16e38ddd-6323-4fc7-abad-398609bf8541
+schema_type: xyzri:XYZCompetitionType

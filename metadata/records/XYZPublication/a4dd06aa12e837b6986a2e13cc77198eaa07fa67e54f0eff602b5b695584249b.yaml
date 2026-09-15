@@ -1,0 +1,88 @@
+attributed_to:
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/8f836375-520c-43d7-afb6-29abea72c0ab
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b86edddd-1b83-43dd-b863-e724cebfef1d
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/969235eb-06f6-4eb4-857c-1681a660220a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/f7b317bf-6e66-45c2-a6d6-1cb71078bc98
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Neurobiological correlates of schizophrenia-specific and highly pleiotropic
+    genetic risk scores for neuropsychiatric disorders
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Neuropsychiatric disorders show shared and distinct neurobiological correlates.
+    A cross-disorder genome-wide association study (GWAS) identified 23 highly pleiotropic
+    single-nucleotide polymorphisms (SNPs) that were associated with at least four
+    neuropsychiatric disorders, and 22 SNPs that were associated predominantly with
+    schizophrenia. Exploring their link to brain-related traits might advance understanding
+    their distinct neurobiological processes. Using the UK Biobank data (n = 28,952),
+    this study examined the association of both a genetic risk score (GRS) for highly
+    pleiotropic SNPs (PleioPsych-GRS), and a GRS for predominantly schizophrenia-associated
+    SNPs (SCZ-GRS) with 154 measures of subcortical volume, cortical thickness, and
+    surface area as well as 12 outcomes related to mental health. To generate further
+    insights at the individual SNP level, the association between SNPs and brain structure
+    was examined using GWAS summary statistics. The PleioPsych-GRS showed no significant
+    association with brain structure after correction for multiple testing. The SCZ-GRS
+    showed a significant association with an increased surface area of the lateral
+    orbitofrontal region, and an increased volume of the putamen, among others. The
+    PleioPsych-GRS and the SCZ-GRS were associated with eight and four outcomes related
+    to mental health, respectively. Two highly pleiotropic and 10 SCZ-associated SNPs
+    were associated with several structural brain phenotypes. Taken together, these
+    findings indicated that GRSs of highly pleiotropic SNPs and predominantly schizophrenia-associated
+    SNPs have partly distinct associations with brain structure and outcomes related
+    to mental health. Thus, investigating schizophrenia-specific and pleiotropic variants
+    may improve our understanding of the neurobiology of neuropsychiatric disorders.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Neuropsychiatric disorders show shared and distinct neurobiological correlates.
+  A cross-disorder genome-wide association study (GWAS) identified 23 highly pleiotropic
+  single-nucleotide polymorphisms (SNPs) that were associated with at least four neuropsychiatric
+  disorders, and 22 SNPs that were associated predominantly with schizophrenia. Exploring
+  their link to brain-related traits might advance understanding their distinct neurobiological
+  processes. Using the UK Biobank data (n = 28,952), this study examined the association
+  of both a genetic risk score (GRS) for highly pleiotropic SNPs (PleioPsych-GRS),
+  and a GRS for predominantly schizophrenia-associated SNPs (SCZ-GRS) with 154 measures
+  of subcortical volume, cortical thickness, and surface area as well as 12 outcomes
+  related to mental health. To generate further insights at the individual SNP level,
+  the association between SNPs and brain structure was examined using GWAS summary
+  statistics. The PleioPsych-GRS showed no significant association with brain structure
+  after correction for multiple testing. The SCZ-GRS showed a significant association
+  with an increased surface area of the lateral orbitofrontal region, and an increased
+  volume of the putamen, among others. The PleioPsych-GRS and the SCZ-GRS were associated
+  with eight and four outcomes related to mental health, respectively. Two highly
+  pleiotropic and 10 SCZ-associated SNPs were associated with several structural brain
+  phenotypes. Taken together, these findings indicated that GRSs of highly pleiotropic
+  SNPs and predominantly schizophrenia-associated SNPs have partly distinct associations
+  with brain structure and outcomes related to mental health. Thus, investigating
+  schizophrenia-specific and pleiotropic variants may improve our understanding of
+  the neurobiology of neuropsychiatric disorders.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2158-3188
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41398-025-03440-1
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/1bcf09a4-539b-4496-847b-6e7cd96f0f3a
+schema_type: xyzri:XYZPublication
+title: Neurobiological correlates of schizophrenia-specific and highly pleiotropic
+  genetic risk scores for neuropsychiatric disorders

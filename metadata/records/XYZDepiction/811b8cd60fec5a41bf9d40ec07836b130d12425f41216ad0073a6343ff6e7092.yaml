@@ -1,0 +1,15 @@
+about:
+- xyzrins:persons/stephan-heunis
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: s.heunis@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-02-26T11:16:21.664396'
+description: A portrait of Stephan Heunis taken from https://www.psychoinformatics.de/lab-members.html
+distributions:
+- dldi:SHA256E-s48879--ad72b88b3284f79b1e2ae32c75db8482a1edaf2b2300ee220b1eaaf2cef69c13.png
+kind: xyzrins:depiction-types/e9a34f7d-d05e-4591-bb45-f8a0c499e07b
+pid: xyzrins:depictions/bd16919d-aa18-4838-8a82-17ec904f1fbf
+schema_type: xyzri:XYZDepiction

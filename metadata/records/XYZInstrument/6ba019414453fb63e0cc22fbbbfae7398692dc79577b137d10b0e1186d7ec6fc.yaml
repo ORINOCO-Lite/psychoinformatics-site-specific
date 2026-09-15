@@ -1,0 +1,20 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-09T21:05:15.422338'
+attributes:
+- predicate: dcat:downloadUrl
+  schema_type: dlthings:AttributeSpecification
+  value: https://hub.psychoinformatics.de/orinoco/things-enrichment-tools/src/branch/main/tools/scrape-calendar.py
+description: A CI-automated script  that periodically scrapes three FZJ funding calendars
+  and adds their events as XYZCompetition records (research information scheme compliant)
+generated_by:
+- object: xyzrins:projects/orinoco
+  schema_type: dlthings:Generation
+kind: obo:IAO_0000010
+name: Funding calendar scraping script
+pid: xyzrins:instruments/54be0232-d05e-4941-bfba-70716cfd6b05
+schema_type: xyzri:XYZInstrument

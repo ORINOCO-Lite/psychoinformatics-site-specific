@@ -1,0 +1,71 @@
+attributed_to:
+- object: xyzrins:persons/bd435998-679a-45d9-b311-5968e77bd776
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c6d47fbc-8b3c-46d1-9558-1f3b94ec9141
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Effective workflow from multimodal MRI data to model-based prediction
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Predicting human behavior from neuroimaging data remains a complex challenge
+    in neuroscience. To address this, we propose a systematic and multi-faceted framework
+    that incorporates a model-based workflow using dynamical brain models. This approach
+    utilizes multi-modal MRI data for brain modeling and applies the optimized modeling
+    outcome to machine learning. We demonstrate the performance of such an approach
+    through several examples such as sex classification and prediction of cognition
+    or personality traits. We in particular show that incorporating the simulated
+    data into machine learning can significantly improve the prediction performance
+    compared to using empirical features alone. These results suggest considering
+    the output of the dynamical brain models as an additional neuroimaging data modality
+    that complements empirical data by capturing brain features that are difficult
+    to measure directly. The discussed model-based workflow can offer a promising
+    avenue for investigating and understanding inter-individual variability in brain-behavior
+    relationships and enhancing prediction performance in neuroimaging research.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Predicting human behavior from neuroimaging data remains a complex challenge
+  in neuroscience. To address this, we propose a systematic and multi-faceted framework
+  that incorporates a model-based workflow using dynamical brain models. This approach
+  utilizes multi-modal MRI data for brain modeling and applies the optimized modeling
+  outcome to machine learning. We demonstrate the performance of such an approach
+  through several examples such as sex classification and prediction of cognition
+  or personality traits. We in particular show that incorporating the simulated data
+  into machine learning can significantly improve the prediction performance compared
+  to using empirical features alone. These results suggest considering the output
+  of the dynamical brain models as an additional neuroimaging data modality that complements
+  empirical data by capturing brain features that are difficult to measure directly.
+  The discussed model-based workflow can offer a promising avenue for investigating
+  and understanding inter-individual variability in brain-behavior relationships and
+  enhancing prediction performance in neuroimaging research.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:2045-2322
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41598-025-04511-5
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2017-02-28'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/ff4d1947-f1ad-4e9f-88fc-57af7b7cfc85
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2013-10-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/612deadf-f10f-4d07-a88e-7544453a133d
+schema_type: xyzri:XYZPublication
+title: Effective workflow from multimodal MRI data to model-based prediction

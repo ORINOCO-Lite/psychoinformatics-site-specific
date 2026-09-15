@@ -1,0 +1,15 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-05-19T09:54:26.919680'
+description: 'A sequence of images processed electronically into an analog or digital
+  format and displayed on a screen with sufficient rapidity as to create the illusion
+  of motion and continuity. '
+display_label: Video
+exact_mappings:
+- http://purl.obolibrary.org/obo/NCIT_C96985
+pid: xyzrins:depiction-types/045934e2-1b56-40ec-aea7-f2ec18299e90
+schema_type: xyzri:XYZDepictionType

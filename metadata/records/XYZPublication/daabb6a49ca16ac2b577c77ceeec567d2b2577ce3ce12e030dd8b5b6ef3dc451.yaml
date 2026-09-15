@@ -1,0 +1,90 @@
+attributed_to:
+- object: xyzrins:persons/c3e4db14-5d1c-4156-bb3e-ffc905751e98
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Prediction of depressive symptoms severity based on sleep quality, anxiety,
+    and gray matter volume: a generalizable machine learning approach across three
+    datasets'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Background: Depressive symptoms are rising in the general population, but
+    their associated factors are unclear. Although the link between sleep disturbances
+    and depressive symptoms severity (DSS) is reported, the predictive role of sleep
+    on DSS and the impact of anxiety and the brain on their relationship remained
+    obscure.Methods: Using three population-based datasets (N = 1813), we trained
+    the machine learning models in the primary dataset (N = 1101) to assess the predictive
+    role of sleep quality, anxiety problems, and brain structural (and functional)
+    measurements on DSS, then we tested our models'' performance in two independent
+    datasets (N = 378, N = 334) to test the generalizability of our findings. Furthermore,
+    we applied our model to a smaller longitudinal subsample (N = 66). In addition,
+    we performed a mediation analysis to identify the role of anxiety and brain measurements
+    on the sleep quality and DSS association.Findings: Sleep quality could predict
+    individual DSS (r = 0.43, R2 = 0.18, rMSE = 2.73), and adding anxiety, contrary
+    to brain measurements, strengthened its prediction performance (r = 0.67, R2 =
+    0.45, rMSE = 2.25). Importantly, out-of-cohort validations in other cross-sectional
+    datasets and a longitudinal subsample provided robust similar results. Furthermore,
+    anxiety scores, contrary to brain measurements, mediated the association between
+    sleep quality and DSS.Interpretation: Poor sleep quality could predict DSS at
+    the individual subject level across three datasets. Anxiety scores not only increased
+    the predictive model''s performance but also mediated the link between sleep quality
+    and DSS.Funding: The study is supported by Helmholtz Imaging Platform grant (NimRLS,
+    ZTI-PF-4-010), the Deutsche Forschungsgemeinschaft (DFG, GE 2835/2-1, GE 2835/4-1),
+    the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)-Project-ID
+    431549029-SFB 1451, the programme "Profilbildung 2020" (grant no. PROFILNRW-2020-107-A),
+    an initiative of the Ministry of Culture and Science of the State of Northrhine
+    Westphalia.Keywords: Anxiety; Brain; Depressive symptoms severity; Machine learning;
+    Sleep quality.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Background: Depressive symptoms are rising in the general population,
+  but their associated factors are unclear. Although the link between sleep disturbances
+  and depressive symptoms severity (DSS) is reported, the predictive role of sleep
+  on DSS and the impact of anxiety and the brain on their relationship remained obscure.Methods:
+  Using three population-based datasets (N = 1813), we trained the machine learning
+  models in the primary dataset (N = 1101) to assess the predictive role of sleep
+  quality, anxiety problems, and brain structural (and functional) measurements on
+  DSS, then we tested our models'' performance in two independent datasets (N = 378,
+  N = 334) to test the generalizability of our findings. Furthermore, we applied our
+  model to a smaller longitudinal subsample (N = 66). In addition, we performed a
+  mediation analysis to identify the role of anxiety and brain measurements on the
+  sleep quality and DSS association.Findings: Sleep quality could predict individual
+  DSS (r = 0.43, R2 = 0.18, rMSE = 2.73), and adding anxiety, contrary to brain measurements,
+  strengthened its prediction performance (r = 0.67, R2 = 0.45, rMSE = 2.25). Importantly,
+  out-of-cohort validations in other cross-sectional datasets and a longitudinal subsample
+  provided robust similar results. Furthermore, anxiety scores, contrary to brain
+  measurements, mediated the association between sleep quality and DSS.Interpretation:
+  Poor sleep quality could predict DSS at the individual subject level across three
+  datasets. Anxiety scores not only increased the predictive model''s performance
+  but also mediated the link between sleep quality and DSS.Funding: The study is supported
+  by Helmholtz Imaging Platform grant (NimRLS, ZTI-PF-4-010), the Deutsche Forschungsgemeinschaft
+  (DFG, GE 2835/2-1, GE 2835/4-1), the Deutsche Forschungsgemeinschaft (DFG, German
+  Research Foundation)-Project-ID 431549029-SFB 1451, the programme "Profilbildung
+  2020" (grant no. PROFILNRW-2020-107-A), an initiative of the Ministry of Culture
+  and Science of the State of Northrhine Westphalia.Keywords: Anxiety; Brain; Depressive
+  symptoms severity; Machine learning; Sleep quality.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2352-3964
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.ebiom.2024.105313
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/08c50b1b-7406-4ba6-a062-7670d50e1200
+schema_type: xyzri:XYZPublication
+title: 'Prediction of depressive symptoms severity based on sleep quality, anxiety,
+  and gray matter volume: a generalizable machine learning approach across three datasets'

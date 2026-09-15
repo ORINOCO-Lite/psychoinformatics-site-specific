@@ -1,0 +1,26 @@
+application_deadline: '2027-01-01'
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Minerva Fellowship Programme
+- predicate: dcterms:description
+  schema_type: dlthings:AttributeSpecification
+  value: 'Funding Opportunities  Career Status: Doctoral Researchers, Postdocs  Mobility:
+    Incoming, Outgoing  Next Call: January 2027  Information Funding Organization:
+    Minerva Stiftung<https://go.fzj.de/minerva_fellowship>  Information FZJ: Minerva
+    Fellowship<https://www.fz-juelich.de/en/research/research-fields/young-scientists/funding-calendar/funding-opportunities/minerva_fellowship>
+    (Funding Calendar)  FZJ Contact: Eva Portius, email: e.portius@fz-juelich.de<mailto:e.portius@fz-juelich.de>  '
+- predicate: dcterms:date
+  schema_type: dlthings:AttributeSpecification
+  value: '2027-01-01'
+characterized_by:
+- object: xyzrins:competition-types/4e49ac7d-d6da-4131-806b-6425491e26fd
+  predicate: dcterms:type
+description: 'Funding Opportunities  Career Status: Doctoral Researchers, Postdocs  Mobility:
+  Incoming, Outgoing  Next Call: January 2027  Information Funding Organization: Minerva
+  Stiftung<https://go.fzj.de/minerva_fellowship>  Information FZJ: Minerva Fellowship<https://www.fz-juelich.de/en/research/research-fields/young-scientists/funding-calendar/funding-opportunities/minerva_fellowship>
+  (Funding Calendar)  FZJ Contact: Eva Portius, email: e.portius@fz-juelich.de<mailto:e.portius@fz-juelich.de>  '
+kind: xyzrins:competition-types/4e49ac7d-d6da-4131-806b-6425491e26fd
+pid: xyzrins:competition/040000008200E00074C5B7101A82E00800000000D3435B22BE9CDB0100000000000000001000000002C73C53840C3B46BBB62C12B1151AEB
+schema_type: xyzri:XYZCompetition
+title: Minerva Fellowship Programme

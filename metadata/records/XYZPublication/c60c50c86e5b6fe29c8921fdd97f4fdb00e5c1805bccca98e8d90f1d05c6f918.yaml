@@ -1,0 +1,74 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: '„KI“ in der Rechtsmedizin – von der Forschung in die Praxis: Welche Herausforderungen
+    ergeben sich?“AI” in forensic medicine—From research into practice: what are the
+    challenges?'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'AbstractHintergrundDie zunehmende Einführung von künstlicher Intelligenz
+    (KI) in die Rechtsmedizin, ähnlich wie in anderen Bereichen der Medizin, ist absehbar.
+    Vor dem Hintergrund dieser Entwicklung stellt sich die Frage nach den Herausforderungen,
+    die mit dem Einsatz von KI in der Rechtsmedizin verbunden sind – eine Thematik,
+    die bisher kaum behandelt wurde.Ziel der ArbeitDer Text untersucht zentrale Fragestellungen
+    sowie die daraus resultierenden rechtlichen und ethischen Herausforderungen bei
+    der Implementierung von KI in die forensische Praxis. Zudem werden Lösungsansätze
+    vorgestellt.Material und MethodenDie Publikation basiert auf einer systematischen
+    Literaturanalyse zu KI-Anwendungen in der Rechtsmedizin, aber auch der verwandten
+    Bereiche, wie der medizinischen Diagnostik und digitalen Forensik. Berücksichtigt
+    werden auch rechtliche Rahmenbedingungen, insbesondere die europäische KI-Verordnung
+    sowie Perspektiven der KI-Ethik.Ergebnisse und DiskussionFür KI-Anwendungen in
+    der Rechtsmedizin werden 6 zentrale Herausforderungen identifiziert: Zuverlässigkeit,
+    Transparenz und Nachvollziehbarkeit („Blackbox“-Problematik), Verantwortlichkeit
+    für Fehler, Datenquantität und -qualität, Datenbias und Fairness sowie die Akzeptanz
+    KI-generierter Diagnosen. Zur Bewältigung der identifizierten Herausforderungen
+    werden verschiedene Ansätze vorgeschlagen. Dazu zählen der Einsatz von „explainable
+    AI“ (XAI) in Verbindung mit KI-Sachverständigen, die Entwicklung von Standardprotokollen
+    sowie multizentrisches Arbeiten zur Sicherung der Datenqualität und Systemzuverlässigkeit.
+    Zudem wird eine verstärkte transdisziplinäre Zusammenarbeit zwischen Informatikern,
+    Rechtsmedizinern, Juristen und Ethikern empfohlen, um die Akzeptanz und Integration
+    von KI-Systemen in die Praxis zu fördern.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'AbstractHintergrundDie zunehmende Einführung von künstlicher Intelligenz
+  (KI) in die Rechtsmedizin, ähnlich wie in anderen Bereichen der Medizin, ist absehbar.
+  Vor dem Hintergrund dieser Entwicklung stellt sich die Frage nach den Herausforderungen,
+  die mit dem Einsatz von KI in der Rechtsmedizin verbunden sind – eine Thematik,
+  die bisher kaum behandelt wurde.Ziel der ArbeitDer Text untersucht zentrale Fragestellungen
+  sowie die daraus resultierenden rechtlichen und ethischen Herausforderungen bei
+  der Implementierung von KI in die forensische Praxis. Zudem werden Lösungsansätze
+  vorgestellt.Material und MethodenDie Publikation basiert auf einer systematischen
+  Literaturanalyse zu KI-Anwendungen in der Rechtsmedizin, aber auch der verwandten
+  Bereiche, wie der medizinischen Diagnostik und digitalen Forensik. Berücksichtigt
+  werden auch rechtliche Rahmenbedingungen, insbesondere die europäische KI-Verordnung
+  sowie Perspektiven der KI-Ethik.Ergebnisse und DiskussionFür KI-Anwendungen in der
+  Rechtsmedizin werden 6 zentrale Herausforderungen identifiziert: Zuverlässigkeit,
+  Transparenz und Nachvollziehbarkeit („Blackbox“-Problematik), Verantwortlichkeit
+  für Fehler, Datenquantität und -qualität, Datenbias und Fairness sowie die Akzeptanz
+  KI-generierter Diagnosen. Zur Bewältigung der identifizierten Herausforderungen
+  werden verschiedene Ansätze vorgeschlagen. Dazu zählen der Einsatz von „explainable
+  AI“ (XAI) in Verbindung mit KI-Sachverständigen, die Entwicklung von Standardprotokollen
+  sowie multizentrisches Arbeiten zur Sicherung der Datenqualität und Systemzuverlässigkeit.
+  Zudem wird eine verstärkte transdisziplinäre Zusammenarbeit zwischen Informatikern,
+  Rechtsmedizinern, Juristen und Ethikern empfohlen, um die Akzeptanz und Integration
+  von KI-Systemen in die Praxis zu fördern.'
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:0937-9819
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00194-025-00742-y
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/f200ef0b-007e-4f88-aa0d-f1247acf98b0
+schema_type: xyzri:XYZPublication
+title: '„KI“ in der Rechtsmedizin – von der Forschung in die Praxis: Welche Herausforderungen
+  ergeben sich?“AI” in forensic medicine—From research into practice: what are the
+  challenges?'

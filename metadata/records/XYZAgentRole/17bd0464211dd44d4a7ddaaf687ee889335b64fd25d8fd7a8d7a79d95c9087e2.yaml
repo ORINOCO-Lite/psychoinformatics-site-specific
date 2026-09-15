@@ -1,0 +1,6 @@
+description: A person or organization that manages or supervises the work done to
+  collect raw data or do research in an actual setting or environment (typically applies
+  to the natural and social sciences)
+display_label: Field director
+pid: marcrel:fld
+schema_type: xyzri:XYZAgentRole

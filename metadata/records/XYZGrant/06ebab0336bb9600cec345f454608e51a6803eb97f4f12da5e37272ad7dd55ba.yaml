@@ -1,0 +1,15 @@
+attributed_to:
+- object: ror:018mejw64
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+identifiers:
+- creator: ror:018mejw64
+  notation: '458705014'
+  schema_type: dlthings:Identifier
+part_of:
+- xyzrins:grants/sfb1451
+pid: xyzrins:grants/1325c9f4-279a-42d1-ba37-ed5577965620
+schema_type: xyzri:XYZGrant
+short_name: Z03
+title: Humanes Motor-Assesment Center

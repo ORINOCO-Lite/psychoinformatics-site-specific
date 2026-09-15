@@ -1,0 +1,65 @@
+attributed_to:
+- object: xyzrins:persons/b85655e7-64f5-4471-99d4-3c79c92cfb40
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/3a3e24eb-dbe4-47d5-9a32-feefd99ad4f1
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/0dcbdd1c-49cc-467b-a0b0-2b3e1be0bfb1
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Inter-subject and inter-parcellation variability of resting-state whole-brain
+    dynamical modeling
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Modern approaches to investigate complex brain dynamics suggest to represent
+    the brain as a functional network of brain regions defined by a brain atlas, while
+    edges represent the structural or functional connectivity among them. This approach
+    is also utilized for mathematical modeling of the resting-state brain dynamics,
+    where the applied brain parcellation plays an essential role in deriving the model
+    network and governing the modeling results. There is however no consensus and
+    empirical evidence on how a given brain atlas affects the model outcome, and the
+    choice of parcellation is still rather arbitrary. Accordingly, we explore the
+    impact of brain parcellation on inter-subject and inter-parcellation variability
+    of model fitting to empirical data. Our objective is to provide a comprehensive
+    empirical evidence of potential influences of parcellation choice on resting-state
+    whole-brain dynamical modeling. We show that brain atlases strongly influence
+    the quality of model validation and propose several variables calculated from
+    empirical data to account for the observed variability. A few classes of such
+    data variables can be distinguished depending on their inter-subject and inter-parcellation
+    explanatory power.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Modern approaches to investigate complex brain dynamics suggest to represent
+  the brain as a functional network of brain regions defined by a brain atlas, while
+  edges represent the structural or functional connectivity among them. This approach
+  is also utilized for mathematical modeling of the resting-state brain dynamics,
+  where the applied brain parcellation plays an essential role in deriving the model
+  network and governing the modeling results. There is however no consensus and empirical
+  evidence on how a given brain atlas affects the model outcome, and the choice of
+  parcellation is still rather arbitrary. Accordingly, we explore the impact of brain
+  parcellation on inter-subject and inter-parcellation variability of model fitting
+  to empirical data. Our objective is to provide a comprehensive empirical evidence
+  of potential influences of parcellation choice on resting-state whole-brain dynamical
+  modeling. We show that brain atlases strongly influence the quality of model validation
+  and propose several variables calculated from empirical data to account for the
+  observed variability. A few classes of such data variables can be distinguished
+  depending on their inter-subject and inter-parcellation explanatory power.
+generated_by:
+- at_location: ISSN:1053-8119
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2021.118201
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/cbbf3a76-28ca-4f35-9398-07e3dde6aaec
+schema_type: xyzri:XYZPublication
+title: Inter-subject and inter-parcellation variability of resting-state whole-brain
+  dynamical modeling
