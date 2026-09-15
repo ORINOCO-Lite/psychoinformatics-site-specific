@@ -4,7 +4,7 @@ identity:
   title: Psychoinformatics
   description: Research in this lab focuses on the interface of computer and information
     sciences, neuroscience, and psychology.
-  base_url: https://www-draft.psychoinformatics.de/
+  base_url: https://orinoco-lite.github.io/psychoinformatics-downstream/
 navigation:
 - name: People
   page_ref: persons
