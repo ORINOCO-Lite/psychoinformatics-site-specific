@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/"
+  },
+  "@type": "Dataset",
+  "name": "Studyforrest: Phase 2 Data",
+  "description": "Here we present an update of the studyforrest (http://studyforrest.org) dataset that complements the previously released functional magnetic resonance imaging (fMRI) data for natural language processing with a new two-hour 3 Tesla fMRI acquisition while 15 of the original participants were shown an audio-visual version of the stimulus motion picture. We demonstrate with two validation analyses that these new data support modeling specific properties of the complex natural stimulus, as well as a substantial within-subject BOLD response congruency in brain areas related to the processing of auditory inputs, speech, and narrative when compared to the existing fMRI data for audio-only stimulation. In addition, we provide participants' eye gaze location as recorded simultaneously with fMRI, and an additional sample of 15 control participants whose eye gaze trajectories for the entire movie were recorded in a lab setting—to enable studies on attentional processes and comparative investigations on the potential impact of the stimulation setting on these processes.",
+  "url": "https://hub.psychoinformatics.de/studyforrest/data-phase2",
+  "version": "",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "Naturalistic stimulation",
+    "Cognitive science",
+    "Naturalistic neuroimaging"
+  ],
+  "license": [
+    "http://spdx.org/licenses/PDDL-1.0"
+  ],
+  "citation": {
+    "@id": "https://doi.org/10.1038/sdata.2016.92"
+  },
+  "creator": [
+      {
+         "@type": "Person",
+         "url": "https://concepts.datalad.org/s/demo-research-information/ns/persons/michael-hanke",
+         "name": "Michael Hanke",
+         "identifier": 
+          {
+              "@id": "https://orcid.org/0000-0001-6398-6370",
+              "@type": "PropertyValue",
+              "propertyID": "https://registry.identifiers.org/registry/orcid",
+              "url": "https://orcid.org/0000-0001-6398-6370",
+              "value": "orcid:0000-0001-6398-6370"
+          }
+      }
+  ]
+}
