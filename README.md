@@ -9,13 +9,14 @@ The [official website](https://www.psychoinformatics.de/) is a separate deployme
 - `sources/pool/public-thing.jsonl`: captured Pool records.
 - `metadata/`: converted records and annotation companions.
 - `site.yaml`: identity, navigation, and presentation settings.
-- `content/`: authored pages, section introductions, portraits, and page images.
+- `content/`: authored pages, section introductions, portraits, images, and dataset bundle resources.
 - `assets/img/`: institutional logos processed by Hugo.
-- `static/`: identity images and dataset downloads, published at their original paths.
+- `static/`: identity images published at their original paths.
 - `overrides/`: upstream home layout and identity settings that replace the neutral template defaults.
 
 The home layout comes from the selected `www-from-model` revision.
 Its asset and Explore links use Hugo's `relURL` so the site also works under a hosting path prefix.
+Dataset bundle resources stay in `content/` so upstream Hugo publishes the downloads and embeds their Dataset JSON-LD.
 Generated record pages and graphs do not belong here.
 The reusable template contains none of this site's branding or dataset downloads.
 
