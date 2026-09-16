@@ -15,7 +15,7 @@ assertions:
   path: /characterized_by
   pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
   pav:importedFrom: https://juser.fz-juelich.de/record/865238
-- assertion_sha256: sha256:08c890fe5b5771235d227bd8839113424c552fcfb43a9a0fc5dfef37fca9d0ca
+- assertion_sha256: sha256:02c544214d4bfef2f8c873cc070ac58f2ff8bc2c19823470237a27b7be393517
   path: /generated_by
   pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
   pav:importedFrom: https://juser.fz-juelich.de/record/865238
