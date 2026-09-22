@@ -22,6 +22,8 @@ The reusable template contains none of this site's branding or dataset downloads
 
 The retained capture contains 5,030 records.
 Its original capture time is unknown.
+Metadata preserves the capture's compact or expanded annotation values and its original PAV spelling.
+The annotation companions retain the source form where reconstruction requires it; joining them to YAML must reproduce all 5,030 captured JSON records exactly.
 Git records later input changes.
 The downstream's submodule selects the input commit for each build.
 
@@ -37,6 +39,6 @@ pixi run --locked orinoco-lite serve --port 8769
 Use `build-pages` instead of `build` to test the configured public URL.
 These builds need no Pool API.
 
-For a new capture or software repin, follow the package's [comparison procedure](https://github.com/ORINOCO-Lite/orinoco-lite-dev/blob/codex/upstream-deployment-validation/docs/agents/upstream-comparison.md).
+For a new capture or software repin, follow the package's [comparison procedure](https://github.com/ORINOCO-Lite/orinoco-lite-dev/blob/codex/stage-c-records/docs/agents/staged-upstream-validation.md).
 It generates both sites from the same inputs and reports their differences.
 Keep generated reports outside this input repository.
