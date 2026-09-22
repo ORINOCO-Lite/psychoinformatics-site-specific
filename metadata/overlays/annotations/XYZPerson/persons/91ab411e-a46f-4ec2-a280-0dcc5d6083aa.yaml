@@ -3,4 +3,11 @@ assertions:
   path: /identifiers
   pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
   pav:importedFrom: https://juser.fz-juelich.de/record/https://juser.fz-juelich.de/record/889092
+  source_annotations:
+    pav:importedBy:
+      annotation_tag: pav:importedBy
+      annotation_value: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+    pav:importedFrom:
+      annotation_tag: pav:importedFrom
+      annotation_value: https://juser.fz-juelich.de/record/https://juser.fz-juelich.de/record/889092
 record: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa

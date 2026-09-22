@@ -3,14 +3,23 @@ assertions:
   path: /attributes
   pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
   pav:importedFrom: https://webmail.fz-juelich.de/owa/calendar/d61ec0ce8d704cb293df97fbb3c8fe23@fz-juelich.de/a7ad1dee32cf49749872136f3a9223191125633822045414026/calendar.ics
+  source_annotations:
+    http://purl.org/pav/importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+    http://purl.org/pav/importedFrom: https://webmail.fz-juelich.de/owa/calendar/d61ec0ce8d704cb293df97fbb3c8fe23@fz-juelich.de/a7ad1dee32cf49749872136f3a9223191125633822045414026/calendar.ics
 - assertion_sha256: sha256:68a3e97c4d7bcc5f0a2b1f727c0a07cfb1a47dcaf041fec7b8ef1f996d4b4a7a
   path: /attributes
   pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
   pav:importedFrom: https://webmail.fz-juelich.de/owa/calendar/d61ec0ce8d704cb293df97fbb3c8fe23@fz-juelich.de/a7ad1dee32cf49749872136f3a9223191125633822045414026/calendar.ics
+  source_annotations:
+    http://purl.org/pav/importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+    http://purl.org/pav/importedFrom: https://webmail.fz-juelich.de/owa/calendar/d61ec0ce8d704cb293df97fbb3c8fe23@fz-juelich.de/a7ad1dee32cf49749872136f3a9223191125633822045414026/calendar.ics
 - assertion_sha256: sha256:80e3971699612f4f9792e7f64c349b102d13875eb6b4e28b5199b74357bdb131
   path: /attributes
   pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
   pav:importedFrom: https://webmail.fz-juelich.de/owa/calendar/d61ec0ce8d704cb293df97fbb3c8fe23@fz-juelich.de/a7ad1dee32cf49749872136f3a9223191125633822045414026/calendar.ics
+  source_annotations:
+    http://purl.org/pav/importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+    http://purl.org/pav/importedFrom: https://webmail.fz-juelich.de/owa/calendar/d61ec0ce8d704cb293df97fbb3c8fe23@fz-juelich.de/a7ad1dee32cf49749872136f3a9223191125633822045414026/calendar.ics
 - assertion_sha256: sha256:fb0efa1e703382e84ff59841d8daba2d98dfe893964c1f376dfc3c3abaa0a7bc
   path: /characterized_by
   pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
