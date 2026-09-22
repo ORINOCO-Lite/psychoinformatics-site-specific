@@ -41,6 +41,6 @@ pixi run --locked orinoco-lite serve --port 8769
 Use `build-pages` instead of `build` to test the configured public URL.
 These builds need no Pool API.
 
-For a new capture or software repin, follow the package's [comparison procedure](https://github.com/ORINOCO-Lite/orinoco-lite-dev/blob/codex/stage-c-records/docs/agents/staged-upstream-validation.md).
+For a new capture or software repin, follow the package's [comparison procedure](https://github.com/ORINOCO-Lite/orinoco-lite-dev/blob/30ca9ad2cf8beb8036389980d0966b4602ba0f9b/docs/agents/staged-upstream-validation.md).
 It generates both sites from the same inputs and reports their differences.
 Keep generated reports outside this input repository.
