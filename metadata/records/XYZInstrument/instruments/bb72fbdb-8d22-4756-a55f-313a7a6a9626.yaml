@@ -1,10 +1,6 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: a.wagner@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-05-19T08:54:37.924995'
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-19T08:54:37.924995'
 description: 'datalad-container is a DataLad extension that integrates containerized
   execution into DataLad workflows. Its purpose:
 

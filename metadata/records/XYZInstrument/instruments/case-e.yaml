@@ -1,12 +1,8 @@
 about:
 - xyzrins:topics/research-software-engineering
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: v.shivashankar@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-03-10T08:22:11.836132'
+  obo:NCIT_C54269: v.shivashankar@fz-juelich.de
+  sio:SIO_001083: '2026-03-10T08:22:11.836132'
 attributed_to:
 - object: xyzrins:persons/venkatesh-hariharapura-shivashankar
   roles:

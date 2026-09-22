@@ -4,12 +4,8 @@ about:
 - xyzrins:topics/free-and-open-culture
 - xyzrins:topics/distributed-systems
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: m.szczepanik@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-03-25T17:07:35.686579'
+  obo:NCIT_C54269: m.szczepanik@fz-juelich.de
+  sio:SIO_001083: '2026-03-25T17:07:35.686579'
 attributed_to:
 - object: xyzrins:persons/adina-wagner
   schema_type: dlthings:Attribution

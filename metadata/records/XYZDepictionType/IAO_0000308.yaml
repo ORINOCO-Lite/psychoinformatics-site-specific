@@ -1,10 +1,6 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: s.heunis@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-02-25T12:08:49.813785'
+  obo:NCIT_C54269: s.heunis@fz-juelich.de
+  sio:SIO_001083: '2026-02-25T12:08:49.813785'
 description: An information content entity consisting of a two dimensional arrangement
   of information content entities such that the arrangement itself is about something.
 display_label: Figure

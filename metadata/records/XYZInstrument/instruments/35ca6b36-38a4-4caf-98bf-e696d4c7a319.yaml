@@ -1,13 +1,7 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: m.hanke@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-06-30T05:48:32.430822'
-  xyzrins:annotation-tags/psyinf-ns-id:
-    annotation_tag: xyzrins:annotation-tags/psyinf-ns-id
-    annotation_value: instruments/dump-things-pyclient
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-06-30T05:48:32.430822'
+  xyzrins:annotation-tags/psyinf-ns-id: instruments/dump-things-pyclient
 attributed_to:
 - object: xyzrins:persons/christian-moench
   roles:

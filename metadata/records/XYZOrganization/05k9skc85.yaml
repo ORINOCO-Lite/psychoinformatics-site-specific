@@ -1,10 +1,6 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: s.heunis@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-04-22T15:05:54.925716'
+  obo:NCIT_C54269: s.heunis@fz-juelich.de
+  sio:SIO_001083: '2026-04-22T15:05:54.925716'
 name: Institut Pasteur de Lille
 pid: ror:05k9skc85
 schema_type: xyzri:XYZOrganization

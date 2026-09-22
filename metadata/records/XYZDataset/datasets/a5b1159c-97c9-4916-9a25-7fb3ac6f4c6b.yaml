@@ -3,12 +3,8 @@ about:
 - xyzrins:topics/naturalistic-neuroimaging
 - xyzrins:topics/neuroimaging
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: a.wagner@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-05-26T10:50:14.413899'
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-26T10:50:14.413899'
 attributed_to:
 - object: xyzrins:persons/a7087531-9bed-4ad3-9a0a-f048510ade2e
   roles:

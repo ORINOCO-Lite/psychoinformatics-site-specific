@@ -2,12 +2,8 @@ about:
 - xyzrins:topics/free-and-open-culture
 - xyzrins:topics/naturalistic-neuroimaging
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: a.wagner@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-05-19T10:45:22.329018'
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-19T10:45:22.329018'
 attributes:
 - predicate: CiTO:isDescribedBy
   schema_type: dlthings:AttributeSpecification

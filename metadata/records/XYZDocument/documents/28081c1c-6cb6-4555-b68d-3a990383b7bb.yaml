@@ -1,12 +1,8 @@
 about:
 - xyzrins:competitions/c2a58f79-34f6-49bd-a813-6ac41faf34d9
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: a.wagner@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-03-12T12:51:46.132471'
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-03-12T12:51:46.132471'
 description: The call for proposals for Consort SWDs FlexFund "Powerful tools for
   research data management, in particular for sensitive data"
 distributions:

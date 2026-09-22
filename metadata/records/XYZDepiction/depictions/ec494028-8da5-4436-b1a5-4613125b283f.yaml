@@ -1,12 +1,8 @@
 about:
 - xyzrins:instruments/git-annex-wheel
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: a.wagner@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-05-20T17:35:56.566553'
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-20T17:35:56.566553'
 description: The logo of the git-annex software
 distributions:
 - dldi:SHA256E-s5032--302b9da57961fbce464944580aa7b491ed86f98b15e4e3eafc86a6b116a53f73.svg

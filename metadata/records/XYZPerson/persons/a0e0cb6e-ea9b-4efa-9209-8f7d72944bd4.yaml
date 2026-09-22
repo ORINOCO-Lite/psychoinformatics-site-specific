@@ -1,10 +1,6 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: a.wagner@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-06-29T14:47:29.670289'
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-06-29T14:47:29.670289'
 description: Dr. Charles Rathkopf is a Research Associate at Forschungszentrum Jülich,
   working at the intersection of AI, neuroscience, and philosophy.
 family_name: Rathkopf

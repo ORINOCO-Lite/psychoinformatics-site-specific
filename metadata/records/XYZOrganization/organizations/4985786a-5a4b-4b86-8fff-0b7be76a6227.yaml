@@ -1,10 +1,6 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: m.hanke@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-03-03T07:31:51.179162'
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-03T07:31:51.179162'
 editorial_notes:
 - 'The identifier is a EUID (https://euid.eu) taken from the european business register
   that can be queried at https://e-justice.europa.eu/topics/registers-business-insolvency-land/business-registers-search-company-eu_en

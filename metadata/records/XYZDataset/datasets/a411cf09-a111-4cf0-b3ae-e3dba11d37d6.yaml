@@ -3,12 +3,8 @@ about:
 - xyzrins:topics/naturalistic-neuroimaging
 - xyzrins:topics/naturalistic-stimulation
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: a.wagner@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-05-26T10:38:20.819492'
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-26T10:38:20.819492'
 attributed_to:
 - object: xyzrins:persons/christian-haeusler
   roles:

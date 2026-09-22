@@ -2,16 +2,12 @@ about:
 - xyzrins:topics/research-data-management
 - xyzrins:topics/distributed-systems
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: a.wagner@fz-juelich.de
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
   owl:deprecated:
     annotation_tag: owl:deprecated
     annotation_value: Use https://concepts.datalad.org/s/demo-research-information/ns/publications/4d692cf1-2a19-406c-9066-e0c85de46e4a
       instead
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-04-01T09:57:03.820201'
+  sio:SIO_001083: '2026-04-01T09:57:03.820201'
 identifiers:
 - description: ISBN
   notation: 979-8857037973

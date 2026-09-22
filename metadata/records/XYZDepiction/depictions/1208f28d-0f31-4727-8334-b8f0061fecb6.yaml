@@ -1,12 +1,8 @@
 about:
 - xyzrins:persons/michal-szczepanik
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: m.szczepanik@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-03-23T16:03:55.185852'
+  obo:NCIT_C54269: m.szczepanik@fz-juelich.de
+  sio:SIO_001083: '2026-03-23T16:03:55.185852'
 distributions:
 - dldi:SHA256E-s22160--ca2bf500455a30b926c4ae46dd01e397f37698407479cd518ae5c79af4233beb.webp
 kind: xyzrins:depiction-types/e9a34f7d-d05e-4591-bb45-f8a0c499e07b

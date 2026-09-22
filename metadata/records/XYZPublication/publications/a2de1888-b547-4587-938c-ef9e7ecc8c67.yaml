@@ -5,12 +5,8 @@ about:
 - xyzrins:topics/distributed-systems
 - xyzrins:topics/high-throughput-computing
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: a.wagner@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-04-01T09:57:02.702385'
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-04-01T09:57:02.702385'
 attributed_to:
 - object: xyzrins:persons/malgorzata-wierzba
   roles:

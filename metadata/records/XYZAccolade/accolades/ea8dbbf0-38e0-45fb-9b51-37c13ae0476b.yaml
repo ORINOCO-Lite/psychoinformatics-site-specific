@@ -1,12 +1,8 @@
 about:
 - xyzrins:publications/d3399cd6-b993-4b75-b386-0edb776b83e7
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: a.wagner@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-05-19T09:54:26.984480'
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-19T09:54:26.984480'
 description: 'The jury of the 2021 OHBM Brain Art Competition awarded our submission
   second place in the category videos & animations. The 1:20 min video is a visualization
   of the provenance information captured by DataLad for processing 41,180 brain images

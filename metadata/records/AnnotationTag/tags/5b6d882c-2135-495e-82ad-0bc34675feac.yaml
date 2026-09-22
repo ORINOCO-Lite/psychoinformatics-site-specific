@@ -1,10 +1,6 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: m.hanke@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2025-12-20T06:21:27.811349'
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2025-12-20T06:21:27.811349'
 description: Tag indicating that the tagged content must be access protected, and
   must not be made publicly available. The annotation value should detail acceptable
   target audiences.

@@ -1,10 +1,6 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: s.heunis@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-02-25T21:54:30.691242'
+  obo:NCIT_C54269: s.heunis@fz-juelich.de
+  sio:SIO_001083: '2026-02-25T21:54:30.691242'
 description: Work consisting of graphic representations, especially of the face, of
   real persons, usually posed, living or dead. They are pictures whose purpose is
   the portrayal of an individual or group of individuals, not pictures which merely

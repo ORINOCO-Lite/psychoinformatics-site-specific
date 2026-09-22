@@ -1,10 +1,6 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: a.wagner@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-06-12T11:19:14.818911'
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-06-12T11:19:14.818911'
 display_label: studyforrest-sub-26
 kind: obo:NCBITaxon_9606
 pid: datalad:deabeb9b-7a37-4062-a1e0-8fcef7909609/bids/sub-26

@@ -1,10 +1,6 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: a.wagner@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-03-26T14:47:18.228558'
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-03-26T14:47:18.228558'
 application_deadline: '2026-06-05'
 description: "The programme funds short-term stays of early career researchers, whose\
   \ PhD was completed no more than five years ago (at the time of project start, plus\

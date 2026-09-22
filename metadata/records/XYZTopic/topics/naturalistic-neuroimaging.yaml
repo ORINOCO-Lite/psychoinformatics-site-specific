@@ -1,10 +1,6 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: m.hanke@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-06-17T10:51:59.335833'
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-06-17T10:51:59.335833'
 description: 'Naturalistic neuroimaging refers to neuroimaging studies that use ecologically
   valid, dynamic and often multimodal stimuli or interactions (e.g., movies, stories,
   real social exchanges, continuous visual searching) during brain recording (fMRI,

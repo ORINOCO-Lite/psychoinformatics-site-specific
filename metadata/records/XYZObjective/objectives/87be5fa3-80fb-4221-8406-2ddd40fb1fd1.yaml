@@ -1,10 +1,6 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: m.hanke@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-03-08T10:39:08.918541'
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-08T10:39:08.918541'
 description: Releases data, code, and documentation and fosters cross-site collaborations
   to accelerate scientific progress. By making resources public and encouraging standardized
   practices, they increase transparency, enable secondary analyses, and support large-scale

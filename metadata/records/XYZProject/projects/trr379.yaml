@@ -1,10 +1,6 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: j.goddard@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-03-03T17:07:19.523915'
+  obo:NCIT_C54269: j.goddard@fz-juelich.de
+  sio:SIO_001083: '2026-03-03T17:07:19.523915'
 associated_with:
 - attributes:
   - predicate: foaf:homepage

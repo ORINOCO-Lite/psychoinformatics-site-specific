@@ -1,10 +1,6 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: a.wagner@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-06-12T11:52:31.709111'
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-06-12T11:52:31.709111'
 description: 'The home of a diverse and extensive collection of data and studies on
   our favorite shrimping, cross-country running, international ping-pong champion:
   Forrest Gump'

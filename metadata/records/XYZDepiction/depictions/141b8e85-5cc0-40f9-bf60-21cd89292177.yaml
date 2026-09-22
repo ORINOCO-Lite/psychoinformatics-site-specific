@@ -2,12 +2,8 @@ about:
 - xyzrins:projects/studyforrest
 - xyzrins:datasets/studyforrest
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: a.wagner@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-05-20T10:39:22.602134'
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-20T10:39:22.602134'
 distributions:
 - dldi:SHA256E-s6784--7876750ba85f76c6ba6386fdac10a8db24960f7672dc62878b6bb593fea466f9.png
 generated_by:

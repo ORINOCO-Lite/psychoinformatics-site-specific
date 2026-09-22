@@ -1,10 +1,6 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: m.hanke@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-05-13T10:03:53.169564'
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-05-13T10:03:53.169564'
 description: 'This annotation can be used to assign a record name within the namespace
   used by the psychoinformatics project and its knowledge pool. This is useful for
   two main use cases:

@@ -1,10 +1,6 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: s.heunis@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-02-25T12:03:37.982214'
+  obo:NCIT_C54269: s.heunis@fz-juelich.de
+  sio:SIO_001083: '2026-02-25T12:03:37.982214'
 description: Indicates that the subject has been deprecated. Typically, the annotation
   value will provide information on alternatives.
 display_label: Deprecated

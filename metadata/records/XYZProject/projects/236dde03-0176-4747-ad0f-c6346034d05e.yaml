@@ -1,10 +1,6 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: m.hanke@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-04-29T08:36:07.138444'
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-04-29T08:36:07.138444'
 associated_with:
 - description: 'Provides neuroinformatics and FAIR‑data leadership and enables the
     project’s reproducible data management: he guides standardized metadata and SOP

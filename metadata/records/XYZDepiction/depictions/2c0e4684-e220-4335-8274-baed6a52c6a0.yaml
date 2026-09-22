@@ -1,12 +1,8 @@
 about:
 - xyzrins:persons/laura-waite
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: s.heunis@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-06-02T11:51:25.790885'
+  obo:NCIT_C54269: s.heunis@fz-juelich.de
+  sio:SIO_001083: '2026-06-02T11:51:25.790885'
 distributions:
 - dldi:SHA256E-s39984--2f4aa139afd846b1ed4535eb7194d20fd1f6b591e21dd236b4578822c164be2e.png
 kind: xyzrins:depiction-types/e9a34f7d-d05e-4591-bb45-f8a0c499e07b

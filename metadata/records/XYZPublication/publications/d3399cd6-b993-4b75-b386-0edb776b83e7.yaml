@@ -3,12 +3,8 @@ about:
 - xyzrins:topics/high-throughput-computing
 - xyzrins:topics/provenance
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: a.wagner@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-06-12T13:56:36.221966'
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-06-12T13:56:36.221966'
 attributed_to:
 - object: xyzrins:persons/adina-wagner
   roles:

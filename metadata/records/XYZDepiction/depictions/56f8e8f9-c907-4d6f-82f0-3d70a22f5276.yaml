@@ -1,12 +1,8 @@
 about:
 - xyzrins:instruments/64c502e7-d63e-4403-8cb9-b4c60f122b0d
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: a.wagner@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-05-18T15:16:49.510539'
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-18T15:16:49.510539'
 attributed_to:
 - object: xyzrins:persons/stephan-heunis
   roles:

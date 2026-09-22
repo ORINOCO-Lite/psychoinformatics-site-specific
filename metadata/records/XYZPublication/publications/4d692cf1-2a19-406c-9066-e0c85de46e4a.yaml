@@ -3,12 +3,8 @@ about:
 - xyzrins:topics/distributed-systems
 - xyzrins:topics/education
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: m.hanke@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-06-26T12:31:43.966235'
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-06-26T12:31:43.966235'
 attributed_to:
 - object: xyzrins:persons/michael-hanke
   roles:

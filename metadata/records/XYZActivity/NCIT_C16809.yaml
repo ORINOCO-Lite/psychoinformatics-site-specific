@@ -1,10 +1,6 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: a.wagner@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-05-26T14:24:03.494772'
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-26T14:24:03.494772'
 description: Imaging that uses radiofrequency waves and a strong magnetic field rather
   than x-rays to provide detailed pictures of internal organs and tissues. The technique
   is valuable for the diagnosis of many pathologic conditions, including cancer, heart

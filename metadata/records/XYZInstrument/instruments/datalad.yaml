@@ -1,10 +1,6 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: m.hanke@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-03-03T11:29:55.540663'
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-03T11:29:55.540663'
 description: 'DataLad is a Python-based tool for the joint management of code, data,
   and their relationship, built on top of a versatile system for data logistics (git-annex)
   and the most popular distributed version control system (Git). It adapts principles

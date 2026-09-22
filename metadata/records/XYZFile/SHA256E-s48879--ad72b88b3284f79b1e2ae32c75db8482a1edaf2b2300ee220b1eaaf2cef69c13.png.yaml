@@ -1,10 +1,6 @@
 annotations:
-  obo:NCIT_C54269:
-    annotation_tag: obo:NCIT_C54269
-    annotation_value: s.heunis@fz-juelich.de
-  sio:SIO_001083:
-    annotation_tag: sio:SIO_001083
-    annotation_value: '2026-02-26T11:16:21.622690'
+  obo:NCIT_C54269: s.heunis@fz-juelich.de
+  sio:SIO_001083: '2026-02-26T11:16:21.622690'
 byte_size: 48879
 characterized_by:
 - object: https://hub.psychoinformatics.de/git-annex-p2phttp/git-annex/f1a8ef1c-6d8a-40e3-970f-4634390d961f/key/SHA256E-s48879--ad72b88b3284f79b1e2ae32c75db8482a1edaf2b2300ee220b1eaaf2cef69c13.png
