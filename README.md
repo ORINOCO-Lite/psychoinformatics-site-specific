@@ -23,7 +23,9 @@ The reusable template contains none of this site's branding or dataset downloads
 The retained capture contains 5,030 records.
 Its original capture time is unknown.
 Metadata preserves the capture's compact or expanded annotation values and its original PAV spelling.
-The annotation companions retain the source form where reconstruction requires it; joining them to YAML must reproduce all 5,030 captured JSON records exactly.
+The annotation companions retain the source form where reconstruction requires it; converting YAML and companions back to JSONL must reproduce all 5,030 captured JSON records exactly.
+Generated record paths are `<class>/<SHA-256 of the full UTF-8 PID>.yaml`, with annotation companions at the corresponding mirrored paths.
+Superseded filenames are removed.
 Git records later input changes.
 The downstream's submodule selects the input commit for each build.
 
