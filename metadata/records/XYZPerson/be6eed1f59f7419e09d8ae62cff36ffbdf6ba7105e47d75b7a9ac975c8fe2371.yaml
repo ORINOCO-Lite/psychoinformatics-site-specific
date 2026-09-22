@@ -1,0 +1,9 @@
+additional_names:
+- Tsankeu
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2025-12-11T21:28:30.332843'
+family_name: Songong
+given_name: Odelfa
+pid: xyzrins:persons/odelfa-songong
+schema_type: xyzri:XYZPerson

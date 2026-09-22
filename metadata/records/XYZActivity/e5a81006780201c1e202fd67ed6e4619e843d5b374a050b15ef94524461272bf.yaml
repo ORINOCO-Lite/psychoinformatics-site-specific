@@ -1,0 +1,8 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-26T14:24:03.584162'
+description: MRI method that measure the diffusion of water in the tissue, rather
+  than the content of water as measured in conventional MRI.
+name: Diffusion MRI
+pid: obo:NCIT_C20117
+schema_type: xyzri:XYZActivity

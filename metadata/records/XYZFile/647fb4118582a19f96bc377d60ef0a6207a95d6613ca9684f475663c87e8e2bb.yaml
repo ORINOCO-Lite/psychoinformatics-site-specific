@@ -1,0 +1,16 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-05-18T15:19:08.498276'
+byte_size: 43712
+characterized_by:
+- object: https://hub.psychoinformatics.de/git-annex-p2phttp/git-annex/cedde37c-416a-41fd-87e0-4ac100df4bf7/key/SHA256E-s43712--473a738edd10c976c664d883ade337048e1834ea5007a2212d6521b021109cd3.png
+  predicate: dcat:downloadUrl
+checksums:
+- creator: spdx:checksumAlgorithm_sha256
+  notation: 473a738edd10c976c664d883ade337048e1834ea5007a2212d6521b021109cd3
+  schema_type: dlthings:Checksum
+display_label: hanke.png
+distribution_of:
+- xyzrins:depictions/31557c86-cf9e-4810-9565-4a6ce0bea05b
+pid: dldi:SHA256E-s43712--473a738edd10c976c664d883ade337048e1834ea5007a2212d6521b021109cd3.png
+schema_type: xyzri:XYZFile

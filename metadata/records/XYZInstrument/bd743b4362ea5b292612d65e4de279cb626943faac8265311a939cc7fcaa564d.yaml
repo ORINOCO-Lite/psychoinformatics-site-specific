@@ -1,0 +1,24 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-03T11:29:55.463677'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - marcrel:aut
+  - marcrel:cre
+  schema_type: dlthings:Attribution
+description: datalad-next is a DataLad extension that can be thought of as a staging
+  area for additional functionality, or for improved performance and user experience.
+  Unlike other topical or more experimental extensions, the focus here is on functionality
+  with broad applicability. This extension is a suitable dependency for other software
+  packages that intend to build on this improved set of functionality.
+generated_by:
+- at_time: '2022-03-31'
+  object: xyzrins:projects/13347b71-134b-40c8-b6e6-1cbc43969080
+  schema_type: dlthings:Generation
+kind: obo:IAO_0000010
+name: datalad-next
+part_of:
+- xyzrins:instruments/datalad
+pid: xyzrins:instruments/datalad-next
+schema_type: xyzri:XYZInstrument

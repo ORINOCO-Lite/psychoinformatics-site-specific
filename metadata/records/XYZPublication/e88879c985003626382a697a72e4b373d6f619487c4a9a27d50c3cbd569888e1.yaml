@@ -1,0 +1,32 @@
+about:
+- xyzrins:topics/neuroimaging
+- xyzrins:topics/predictive-data-analysis
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-04-01T13:37:27.774929'
+attributed_to:
+- object: xyzrins:persons/ayan-sengupta
+  roles:
+  - obo:MS_1002034
+  schema_type: dlthings:Attribution
+- object: orcid:0000-0001-5840-5658
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002035
+  schema_type: dlthings:Attribution
+generated_by:
+- at_location: ISSN:1053-8119
+  at_time: 2017-03
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2016.12.040
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/4a42292a-ab19-447a-9ac8-57e5daf5614f
+schema_type: xyzri:XYZPublication
+title: The effect of acquisition resolution on orientation decoding from V1 BOLD fMRI
+  at 7 Tesla

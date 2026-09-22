@@ -1,0 +1,8 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-03-20T13:51:23.589589'
+description: A workshop by the Human Brain Project
+kind: bibo:Workshop
+pid: xyzrins:publication-venues/0195b3d8-7765-4364-a4b2-12477da7c5ae
+schema_type: xyzri:XYZPublicationVenue
+title: Supercomputing for Neuroscience

@@ -1,0 +1,29 @@
+about:
+- xyzrins:topics/research-data-management
+annotations:
+  obo:NCIT_C54269: s.heunis@fz-juelich.de
+  sio:SIO_001083: '2026-04-22T16:22:40.194357'
+attributed_to:
+- object: xyzrins:persons/stephan-heunis
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+attributes:
+- description: Event website
+  predicate: rdfs:seeAlso
+  schema_type: dlthings:AttributeSpecification
+  value: https://mritogether.esmrmb.org/24m/
+- description: Slide sources
+  predicate: rdfs:seeAlso
+  schema_type: dlthings:AttributeSpecification
+  value: https://github.com/jsheunis/mritogether23-datalad
+description: 'Virtual talk at the MRI Together Workshop 2023: overview of RDM with
+  DataLad.'
+generated_by:
+- at_time: '2023-12-06'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+kind: fabio:Presentation
+pid: xyzrins:publications/bfc4c1b2-f2ed-475f-9bce-e3a5cc101421
+schema_type: xyzri:XYZPublication
+title: 'Talk: RDM with DataLad @ MRI Together'

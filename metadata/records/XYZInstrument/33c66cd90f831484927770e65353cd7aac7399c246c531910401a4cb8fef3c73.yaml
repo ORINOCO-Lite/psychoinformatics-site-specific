@@ -1,0 +1,25 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-03-10T15:44:26.202417'
+attributes:
+- predicate: foaf:homepage
+  schema_type: dlthings:AttributeSpecification
+  value: https://pool.v0.trr379.de/
+description: The knowledge pooling tool is a system used for aggregating information
+  on research progress and outputs across TRR379 partner sites and projects. It comprises
+  a web UI for manually submitting, editing, and browsing information, and an API
+  for programmatic submission and retrieval.
+generated_by:
+- object: xyzrins:projects/trr379_q02
+  schema_type: dlthings:Generation
+identifiers:
+- creator: xyzrins:projects/trr379
+  notation: https://pool.v0.trr379.de/
+  schema_type: dlthings:Identifier
+influenced_by:
+- object: xyzrins:projects/trr379
+  schema_type: xyzri:XYZInfluence
+kind: schema:Service
+name: Knowledge Pooling Tool of the TRR379
+pid: xyzrins:instruments/trr379_pool
+schema_type: xyzri:XYZInstrument

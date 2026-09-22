@@ -1,0 +1,43 @@
+about:
+- xyzrins:topics/naturalistic-neuroimaging
+- xyzrins:topics/representational-brain-spaces
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-04-01T09:23:53.050549'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002035
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/christian-haeusler
+  roles:
+  - obo:MS_1002034
+  schema_type: dlthings:Attribution
+description: "\n                    Here we present an annotation of speech in the\
+  \ audio-visual movie “Forrest Gump” and its audio-description for a visually impaired\
+  \ audience, as an addition to a large public functional brain imaging dataset (\n\
+  \                    studyforrest.org\n                    ). The annotation provides\
+  \ information about the exact timing of each of the more than 2500 spoken sentences,\
+  \ 16,000 words (including 202 non-speech vocalizations), 66,000 phonemes, and their\
+  \ corresponding speaker. Additionally, for every word, we provide lemmatization,\
+  \ a simple part-of-speech-tagging (15 grammatical categories), a detailed part-of-speech\
+  \ tagging (43 grammatical categories), syntactic dependencies, and a semantic analysis\
+  \ based on word embedding which represents each word in a 300-dimensional semantic\
+  \ space. To validate the dataset’s quality, we build a model of hemodynamic brain\
+  \ activity based on information drawn from the annotation. Results suggest that\
+  \ the annotation’s content and quality enable independent researchers to create\
+  \ models of brain activity correlating with a variety of linguistic aspects under\
+  \ conditions of near-real-life complexity.\n                  "
+generated_by:
+- at_location: ISSN:2046-1402
+  at_time: '2021-01-28'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.12688/f1000research.27621.1
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/0cac730a-7fa1-429d-82ca-0a98ba32f156
+schema_type: xyzri:XYZPublication
+title: A studyforrest extension, an annotation of spoken language in the German dubbed
+  movie “Forrest Gump” and its audio-description

@@ -1,0 +1,20 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-06-29T14:47:29.781124'
+delegated_by:
+- object: ror:006k2kk72
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+description: Director of the Department of Psychiatry and Psychotherapy at the university
+  clinic Düsseldorf.
+family_name: Meisenzahl-Lechner
+given_name: Eva
+honorific_name_prefix: Dr. med.
+identifiers:
+- description: Director of the Department of Psychiatry and Psychotherapy at the university
+    clinic Düsseldorf.
+  notation: 0009-0004-8025-6766
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/cd0bc74d-9849-4891-a852-84e53736f505
+schema_type: xyzri:XYZPerson

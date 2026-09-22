@@ -1,0 +1,10 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-06-13T08:55:26.774013'
+description: A Behavioral Experimental Paradigm in which, in at least one of the conditions,
+  Subjects view various visual stimuli and make no response. Stimuli include houses,
+  faces, objects, fractals, letter strings, line drawings, complex scenes, etc. If
+  the presented stimuli were faces, the experiments are co-coded with Face Monitor/Discrimination.
+name: Passive Viewing Paradigm
+pid: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00084
+schema_type: xyzri:XYZActivity

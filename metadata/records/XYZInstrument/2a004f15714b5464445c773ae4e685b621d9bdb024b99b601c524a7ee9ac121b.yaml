@@ -1,0 +1,24 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-06-30T05:48:32.405082'
+  xyzrins:annotation-tags/psyinf-ns-id: instruments/shacl-tulip
+attributed_to:
+- object: xyzrins:persons/stephan-heunis
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: obo:APOLLO_SV_00000488
+  schema_type: dlthings:AttributeSpecification
+  value: https://hub.psychoinformatics.de/orinoco/shacl-tulip
+description: shacl--tulip is  the main library behind the SHACL form/data-related
+  functionality of shacl-vue.
+generated_by:
+- object: xyzrins:projects/orinoco
+  schema_type: dlthings:Generation
+kind: obo:IAO_0000010
+name: shacl-tulip
+part_of:
+- xyzrins:instruments/b8dc8b0a-4408-46f4-9f47-c1d3ae747fac
+pid: xyzrins:instruments/b99d514b-b86a-4e4a-933a-1724132bf486
+rules:
+- spdxlic:MIT
+schema_type: xyzri:XYZInstrument

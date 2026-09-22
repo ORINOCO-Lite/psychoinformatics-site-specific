@@ -1,0 +1,74 @@
+about:
+- xyzrins:topics/education
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-07T09:41:50.621940'
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+description: 'The HIDA PhD Kick-Off Days in the HIDA Hub are an onboarding event tailored
+  to new PhD students from all 7 Helmholtz Information and Data Science Schools: MUDS,
+  DASHH, MarDATA, HDS-LEE, HEIBRiDS, HIDSS4Health, and IDEAS. These are the slides
+  for Workshop 3: Reproducibility in science: What it is and why to care, with examples
+  from the DataLad World (May 6th 2026, 2-4pm)
+
+
+
+
+
+
+  A rendering of these slides can be found at files.inm7.de/adina/talks/html/hida2026.html#/.
+
+
+   
+
+
+
+
+
+
+
+
+
+
+  Abstract:
+
+
+
+
+
+
+
+  The reproproducibilty of findings is the foundation of trustworthy science in every
+  data-driven discipline. But beyond what may seem like an abstract quality of scientific
+  conduct: Whether it concerns the premises of your PhD thesis or the code that needs
+  to be rerun to respond to reviewer 2s comments on your manuscript, reproducibility
+  is directly relevant to your work. When done right and from the very beginning,
+  reproducible practices make your current and future life easier.This workshops looks
+  at reproducibility from a technical perspective, and introduces a range of tools
+  and concepts to help you understand why reproducibility is important and how you
+  can achieve it. Participants will work through hands-on examples that they should
+  easily translate to their own work. A specific but not exclusive focus will lie
+  on the DataLad ecosystem (datalad.org).
+
+
+
+   
+
+
+   '
+generated_by:
+- at_time: '2026-05-06'
+  description: A 2 hour workshop at the HIDA kick-off days in Berlin, Germany.
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/zenodo.19692938
+  schema_type: dlthings:DOI
+kind: bibo:Workshop
+pid: xyzrins:publications/bde8a483-e87d-4425-b517-369322d049e7
+schema_type: xyzri:XYZPublication
+title: Reproducibility in science - what it is and why to care, with examples from
+  the DataLad world

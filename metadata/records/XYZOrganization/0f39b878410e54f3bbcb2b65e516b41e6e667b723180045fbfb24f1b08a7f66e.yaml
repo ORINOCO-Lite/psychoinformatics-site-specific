@@ -1,0 +1,11 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-06-17T09:39:25.305398'
+description: Open platform for analyzing and sharing neuroimaging data from human
+  brain imaging research studies. Brain Imaging Data Structure ( BIDS) compliant database.
+  Formerly known as OpenfMRI. Data archives to hold magnetic resonance imaging data.
+  Platform for sharing MRI, MEG, EEG, iEEG, and ECoG data.
+name: OpenNeuro.org
+pid: rrid:SCR_005031
+schema_type: xyzri:XYZOrganization
+short_name: OpenNeuro

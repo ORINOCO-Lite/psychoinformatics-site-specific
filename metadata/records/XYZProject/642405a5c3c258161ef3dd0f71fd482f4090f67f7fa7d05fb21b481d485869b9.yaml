@@ -1,0 +1,54 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-04-01T09:01:47.588715'
+associated_with:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - marcrel:orm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/jenna-swarthout-goddard
+  roles:
+  - marcrel:orm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:orm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/michal-szczepanik
+  roles:
+  - marcrel:orm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/christian-moench
+  roles:
+  - marcrel:orm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/stephan-heunis
+  roles:
+  - marcrel:orm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/alex-waite
+  roles:
+  - marcrel:orm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/laura-waite
+  roles:
+  - marcrel:orm
+  schema_type: dlthings:Association
+description: 'The distribits 2025 meeting was the second of its kind. It, again, took
+  place in Düsseldorf (Germany) at Haus der Universität. The conference was be live-streamed
+  on the DataLad YouTube Channel for those who would like to rewatch the talks.
+
+
+  '
+ended:
+  at_time: '2025-10-25'
+  schema_type: dlthings:End
+kind: bibo:Conference
+part_of:
+- xyzrins:projects/a605574d-ee49-4ad4-8348-599b632ed5eb
+pid: xyzrins:projects/e2a8b1eb-40b0-4763-9a34-ed864817f00e
+schema_type: xyzri:XYZProject
+started:
+  at_time: '2025-10-23'
+  schema_type: dlthings:Start
+title: Distribits 2025

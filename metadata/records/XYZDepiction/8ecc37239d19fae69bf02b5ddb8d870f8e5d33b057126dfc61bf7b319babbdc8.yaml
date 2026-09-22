@@ -1,0 +1,13 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-03-06T16:05:43.398092'
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  schema_type: dlthings:Attribution
+display_label: Mug shot of Adina
+distributions:
+- dldi:SHA256E-s31538--54607e9bd4e519071f8d8997bb4f1ed71a1213227c6560a3ac217429d821c9c7.png
+kind: xyzrins:depiction-types/e9a34f7d-d05e-4591-bb45-f8a0c499e07b
+pid: xyzrins:depictions/e729fdfb-a695-4dfa-bfeb-363680cdec12
+schema_type: xyzri:XYZDepiction
+title: Mug shot of Adina

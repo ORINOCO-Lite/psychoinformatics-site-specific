@@ -1,0 +1,7 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-26T14:24:03.874097'
+description: An extensible file format for lossless data compression of images.
+display_label: PNG format
+pid: obo:NCIT_C85437
+schema_type: xyzri:XYZDataType

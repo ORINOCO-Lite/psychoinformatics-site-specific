@@ -1,0 +1,8 @@
+annotations:
+  obo:NCIT_C54269: s.heunis@fz-juelich.de
+  sio:SIO_001083: '2026-02-25T12:03:37.933487'
+description: A person who presents or submits something (e.g., a proposal or protocol)
+  for formal consideration or review by others.
+display_label: Submitter
+pid: obo:NCIT_C54269
+schema_type: dlthings:AnnotationTag

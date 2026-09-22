@@ -1,0 +1,7 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-06-13T14:42:38.022220'
+byte_size: 4827627
+media_type: application/gzip
+pid: dldi:MD5E-s4827627--b83c16199dab9ca2fd82640bf57fb2b5.tsv.gz
+schema_type: xyzri:XYZFile

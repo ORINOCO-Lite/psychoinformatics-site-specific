@@ -1,0 +1,8 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-06-12T11:19:10.075368'
+display_label: studyforrest-sub-20
+kind: obo:NCBITaxon_9606
+pid: datalad:deabeb9b-7a37-4062-a1e0-8fcef7909609/bids/sub-20
+schema_type: xyzri:XYZSubject
+study: xyzrins:studies/f953b6ba-fcd5-4775-a907-5090eae59c86

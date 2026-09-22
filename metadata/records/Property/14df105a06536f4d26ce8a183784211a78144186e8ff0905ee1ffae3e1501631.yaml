@@ -1,0 +1,7 @@
+annotations:
+  obo:NCIT_C54269: s.heunis@fz-juelich.de
+  sio:SIO_001083: '2026-04-23T10:47:41.761057'
+description: Information about software includes software documentation URI
+display_label: Software Documentation URI
+pid: obo:NGBO_6000416
+schema_type: dlthings:Property

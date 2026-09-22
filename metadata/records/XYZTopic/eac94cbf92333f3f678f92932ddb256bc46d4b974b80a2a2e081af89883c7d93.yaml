@@ -1,0 +1,8 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-06-26T12:20:19.118712'
+description: Data management is the practice of collecting, organizing, storing, securing,
+  and maintaining data so it can be used effectively.
+display_label: Data management
+pid: xyzrins:topics/data-management
+schema_type: xyzri:XYZTopic

@@ -1,0 +1,9 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-03-20T13:51:23.563603'
+description: The deRSE conference on research software engineering, Karlsruhe, February
+  2025.
+kind: bibo:Conference
+pid: xyzrins:publication-venues/136378e0-afc7-4fb1-bf80-4fbeca4ef186
+schema_type: xyzri:XYZPublicationVenue
+title: deRSE 2025

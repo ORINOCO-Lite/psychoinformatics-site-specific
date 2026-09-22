@@ -1,0 +1,27 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-04-01T09:57:02.557905'
+attributed_to:
+- object: xyzrins:persons/abe084af-730c-4619-8c82-4fd72fda2655
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/0b6a4df7-b978-4fe0-ac36-7351b399a6d7
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/venkatesh-hariharapura-shivashankar
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+generated_by:
+- at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.18420/inf2024_178
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/e7274698-f460-4a7b-8b07-01a5d54374bc
+schema_type: xyzri:XYZPublication
+title: An analysis of Computer Science in OJAs with a dual-lingual ontology approach

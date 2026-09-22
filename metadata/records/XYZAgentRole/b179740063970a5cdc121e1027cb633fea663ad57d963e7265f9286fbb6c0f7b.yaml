@@ -1,0 +1,8 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-03T16:32:58.080625'
+description: The role held by a person who makes statements on behalf of another individual,
+  a group, a project or an institution
+name: Spokesperson
+pid: SCoRO:spokesperson
+schema_type: xyzri:XYZAgentRole

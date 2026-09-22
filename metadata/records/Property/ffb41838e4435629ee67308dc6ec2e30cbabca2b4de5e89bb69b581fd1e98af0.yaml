@@ -1,0 +1,6 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2025-12-18T13:10:28.731832'
+display_label: Download URL
+pid: http://www.w3.org/ns/dcat#downloadUrl
+schema_type: dlthings:Property

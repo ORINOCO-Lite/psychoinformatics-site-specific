@@ -1,0 +1,25 @@
+about:
+- xyzrins:topics/research
+- xyzrins:topics/naturalistic-neuroimaging
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-18T13:05:01.135411'
+attributed_to:
+- object: orcid:0000-0003-3456-2493
+  roles:
+  - obo:MS_1002035
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002034
+  schema_type: dlthings:Attribution
+generated_by:
+- at_location: ISSN:2046-1402
+  at_time: '2015-03-10'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8cd76c6f-d34a-4125-a7d5-b74632b1046b
+schema_type: xyzri:XYZPublication
+title: A communication hub for a decentralized collaboration on studying real-life
+  cognition

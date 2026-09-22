@@ -1,0 +1,12 @@
+annotations:
+  obo:NCIT_C54269: m.szczepanik@fz-juelich.de
+  sio:SIO_001083: '2026-01-19T17:44:59.765383'
+at_location: geodata:4348599
+characterized_by:
+- object: http://orcid.org/
+  predicate: rdfs:seeAlso
+- object: https://en.wikipedia.org/wiki/ORCID
+  predicate: rdfs:seeAlso
+name: ORCID
+pid: ror:04fa4r544
+schema_type: xyzri:XYZOrganization

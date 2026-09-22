@@ -1,0 +1,8 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-26T14:24:03.668262'
+description: A sensor-based technology that makes it possible for a computer or other
+  device to know where a person is looking.
+name: Eye Tracking
+pid: obo:NCIT_C176742
+schema_type: xyzri:XYZActivity

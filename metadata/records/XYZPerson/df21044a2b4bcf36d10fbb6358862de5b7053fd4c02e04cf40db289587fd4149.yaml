@@ -1,0 +1,9 @@
+additional_names:
+- R.
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2025-12-11T08:33:17.970329'
+family_name: Kaule
+given_name: Falko
+pid: xyzrins:persons/falko-kaule
+schema_type: xyzri:XYZPerson

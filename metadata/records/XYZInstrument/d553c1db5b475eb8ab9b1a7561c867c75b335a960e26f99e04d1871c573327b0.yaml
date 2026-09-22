@@ -1,0 +1,33 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-18T11:05:01.171085'
+attributed_to:
+- object: xyzrins:persons/stephan-heunis
+  roles:
+  - xyzrins:agent-roles/7e8c6eda-7d12-4c9f-9a3e-225e53a3db46
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: obo:APOLLO_SV_00000488
+  schema_type: dlthings:AttributeSpecification
+  value: https://github.com/datalad/datalad-catalog
+description: DataLad Catalog is a free and open source command line tool, with a Python
+  API, that assists with the automatic generation of user-friendly, browser-based
+  data catalogs from structured metadata. It is an extension to DataLad and forms
+  part of the broader ecosystem of DataLad's distributed metadata handling and (meta)data
+  publishing tools.
+generated_by:
+- object: xyzrins:projects/datalad
+  schema_type: dlthings:Generation
+influenced_by:
+- object: xyzrins:grants/sfb1451
+  roles:
+  - marcrel:fnd
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:grants/mkw-abcd-j
+  roles:
+  - marcrel:fnd
+  schema_type: xyzri:XYZInfluence
+kind: obo:IAO_0000010
+name: datalad-catalog
+pid: xyzrins:instruments/64c502e7-d63e-4403-8cb9-b4c60f122b0d
+schema_type: xyzri:XYZInstrument

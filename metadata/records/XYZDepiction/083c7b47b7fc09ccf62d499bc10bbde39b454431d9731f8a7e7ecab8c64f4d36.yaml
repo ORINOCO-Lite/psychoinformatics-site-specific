@@ -1,0 +1,10 @@
+about:
+- xyzrins:persons/jenna-swarthout-goddard
+annotations:
+  obo:NCIT_C54269: s.heunis@fz-juelich.de
+  sio:SIO_001083: '2026-03-31T12:03:41.413840'
+distributions:
+- dldi:SHA256E-s85768--181271df5a78bfb1eb62eda48a8e84d586f790348bd775cf210fc8f14b5455cd.webp
+kind: xyzrins:depiction-types/e9a34f7d-d05e-4591-bb45-f8a0c499e07b
+pid: xyzrins:depictions/0edefead-63a8-4fa2-b5ec-f36d67bd04c5
+schema_type: xyzri:XYZDepiction

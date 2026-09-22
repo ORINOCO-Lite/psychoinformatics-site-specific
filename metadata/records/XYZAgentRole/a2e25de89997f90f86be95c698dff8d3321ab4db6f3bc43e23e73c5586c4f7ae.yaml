@@ -1,0 +1,9 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2025-12-14T22:27:22.400807'
+display_label: Professor
+exact_mappings:
+- http://purl.obolibrary.org/obo/NCIT_C69170
+name: Professor
+pid: xyzrins:agent-roles/80708441-16c9-4290-975e-77235aae95f6
+schema_type: xyzri:XYZAgentRole

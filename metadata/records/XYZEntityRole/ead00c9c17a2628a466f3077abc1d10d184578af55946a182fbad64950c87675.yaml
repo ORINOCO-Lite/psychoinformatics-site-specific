@@ -1,0 +1,7 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-07T11:42:38.389118'
+description: Something that a project set out to deliver, or succeeds in delivering.
+name: Deliverable
+pid: FRAPO:Deliverable
+schema_type: xyzri:XYZEntityRole

@@ -1,0 +1,59 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-18T09:24:13.543574'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - xyzrins:agent-roles/7e8c6eda-7d12-4c9f-9a3e-225e53a3db46
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/stephan-heunis
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michal-szczepanik
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Attribution
+- object: orcid:0000-0003-3456-2493
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/venkatesh-hariharapura-shivashankar
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: obo:APOLLO_SV_00000488
+  schema_type: dlthings:AttributeSpecification
+  value: https://hub.psychoinformatics.de/orinoco/datalad-concepts
+- predicate: foaf:homepage
+  schema_type: dlthings:AttributeSpecification
+  value: https://concepts.datalad.org/
+description: 'For many use cases metadata concepts are complex. Producing and consuming
+  such metadata involves sophisticated tooling, which implies a considerable technical
+  threshold for adopting metadata-focused workflows.
+
+
+  The schemas in DataLad Concepts aim to lower this threshold with an approach to
+  expressing rich and semantically precise metadata in relatively simple data structures
+  -- data structures that can be reasonably read from files and processed in scripts
+  with loops and conditionals, rather than requiring databases and specific query
+  languages implemented in targeted libraries.
+
+
+  All schemas are implemented in LinkML, connecting to a rich ecosystem for data modeling,
+  validation, and transformation. LinkML bridges between the worlds of structured
+  data in plain text files, relational databases and knowledge graphs if and when
+  needed, so metadata workflows can stay as simple as possible.
+
+  '
+kind: xyzrins:instrument-types/d72e0ff8-459f-4719-a932-3c32db4e8a9d
+name: DataLad Concepts
+pid: xyzrins:instruments/f92a09a8-1579-4e3a-a205-8459524ca802
+rules:
+- spdxlic:MIT
+schema_type: xyzri:XYZInstrument

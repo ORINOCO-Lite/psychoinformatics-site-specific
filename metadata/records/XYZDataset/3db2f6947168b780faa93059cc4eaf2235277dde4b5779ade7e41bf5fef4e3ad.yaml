@@ -1,0 +1,54 @@
+about:
+- xyzrins:topics/cognitive-science
+- xyzrins:topics/naturalistic-neuroimaging
+- xyzrins:topics/neuroimaging
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-26T10:50:14.413899'
+attributed_to:
+- object: xyzrins:persons/a7087531-9bed-4ad3-9a0a-f048510ade2e
+  roles:
+  - marcrel:cre
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/falko-kaule
+  roles:
+  - marcrel:cre
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - marcrel:cre
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/christian-haeusler
+  roles:
+  - marcrel:cre
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ayan-sengupta
+  roles:
+  - marcrel:cre
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: obo:APOLLO_SV_00000488
+  schema_type: dlthings:AttributeSpecification
+  value: https://hub.psychoinformatics.de/studyforrest/data-visualrois
+characterized_by:
+- object: xyzrins:publications/31f308e9-6173-4adb-a902-6af3ec2cd327
+  predicate: CiTO:isDescribedBy
+derived_from:
+- object: xyzrins:datasets/e511f0bb-9baf-4c29-88e0-079836868273
+  schema_type: dlthings:Derivation
+description: "For all participants in the phase2 extension of the studyforrest dataset,\
+  \ the following visual areas were localized:\n\n    fusiform face area (FFA)\n \
+  \   occipital face area (OFA)\n    parahippocampal place area (PPA)\n    extrastriate\
+  \ body area (EBA)\n    lateral occipital complex (LOC)\n    early visual cortex\
+  \ (VIS)\n"
+display_label: 'Studyforrest: Visual ROIs'
+generated_by:
+- object: xyzrins:projects/studyforrest
+  schema_type: dlthings:Generation
+part_of:
+- xyzrins:datasets/studyforrest
+pid: xyzrins:datasets/a5b1159c-97c9-4916-9a25-7fb3ac6f4c6b
+rules:
+- spdxlic:PDDL-1.0
+schema_type: xyzri:XYZDataset
+title: Studyforrest-data-visualrois

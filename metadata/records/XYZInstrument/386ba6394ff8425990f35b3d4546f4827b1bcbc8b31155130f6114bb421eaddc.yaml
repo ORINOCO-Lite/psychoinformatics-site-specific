@@ -1,0 +1,33 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-18T10:57:38.430955'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - xyzrins:agent-roles/7e8c6eda-7d12-4c9f-9a3e-225e53a3db46
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/christian-moench
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: obo:APOLLO_SV_00000488
+  schema_type: dlthings:AttributeSpecification
+  value: hub.datalad.org/datalad/datalad-core
+description: datalad-core is a core library for the DataLad framework
+generated_by:
+- object: xyzrins:projects/13347b71-134b-40c8-b6e6-1cbc43969080
+  schema_type: dlthings:Generation
+influenced_by:
+- object: xyzrins:objectives/97ded4aa-108d-4b84-8195-d6076dce63ce
+  schema_type: xyzri:XYZInfluence
+kind: obo:IAO_0000010
+name: datalad-core
+pid: xyzrins:instruments/8b75c829-479e-4bc4-8354-2fdf29a7d213
+rules:
+- spdxlic:MIT
+schema_type: xyzri:XYZInstrument

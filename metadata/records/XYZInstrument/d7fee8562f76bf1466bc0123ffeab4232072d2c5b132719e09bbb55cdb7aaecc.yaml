@@ -1,0 +1,40 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-06-30T05:50:19.364586'
+  xyzrins:annotation-tags/psyinf-ns-id: instruments/shacl-vue
+attributed_to:
+- object: xyzrins:organizations/psyinf-group
+  roles:
+  - marcrel:sht
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/stephan-heunis
+  roles:
+  - marcrel:cre
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: obo:APOLLO_SV_00000488
+  schema_type: dlthings:AttributeSpecification
+  value: https://hub.psychoinformatics.de/orinoco/shacl-vue
+- predicate: obo:NGBO_6000416
+  schema_type: dlthings:AttributeSpecification
+  value: https://shacl-vue.psychoinformatics.de/
+depiction:
+- xyzrins:depictions/1f6b28b8-3852-4a1d-bff3-ad122ce026c7
+description: A VueJS application for automatic generation of user interfaces from
+  SHACL
+generated_by:
+- object: xyzrins:projects/orinoco
+  schema_type: dlthings:Generation
+influenced_by:
+- object: xyzrins:objectives/97ded4aa-108d-4b84-8195-d6076dce63ce
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:instruments/f92a09a8-1579-4e3a-a205-8459524ca802
+  roles:
+  - xyzri:entity-roles/fdb8ad1c-6a8a-442a-848d-64a16bd44eab
+  schema_type: xyzri:XYZInfluence
+kind: obo:IAO_0000010
+name: shacl-vue
+pid: xyzrins:instruments/b8dc8b0a-4408-46f4-9f47-c1d3ae747fac
+rules:
+- spdxlic:MIT
+schema_type: xyzri:XYZInstrument

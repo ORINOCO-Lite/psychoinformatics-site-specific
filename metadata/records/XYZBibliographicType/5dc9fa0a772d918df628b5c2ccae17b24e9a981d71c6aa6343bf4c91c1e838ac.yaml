@@ -1,0 +1,10 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-03T13:54:19.429970'
+description: An electronic form of data storage that displays a grid of rows and columns,
+  in which each editable cell can contain alphanumeric text, a numeric value, or a
+  formula that defines how the content of that cell is to be calculated from the content
+  of another cell or cells.
+display_label: Spreadsheet
+pid: fabio:Spreadsheet
+schema_type: xyzri:XYZBibliographicType

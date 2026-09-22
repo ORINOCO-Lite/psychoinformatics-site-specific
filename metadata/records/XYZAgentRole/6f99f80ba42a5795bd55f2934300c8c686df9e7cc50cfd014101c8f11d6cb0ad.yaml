@@ -1,0 +1,7 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-03T07:34:20.650251'
+description: Someone who takes part in an activity.
+name: Participant
+pid: obo:NCIT_C29867
+schema_type: xyzri:XYZAgentRole

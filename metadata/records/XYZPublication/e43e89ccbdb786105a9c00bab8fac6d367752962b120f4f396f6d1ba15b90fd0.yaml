@@ -1,0 +1,38 @@
+about:
+- xyzrins:topics/naturalistic-neuroimaging
+- xyzrins:topics/naturalistic-stimulation
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-04-01T13:37:27.683860'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Nature abhors a paywall: How open science can realize the potential of naturalistic
+    stimuli'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- at_location: ISSN:1053-8119
+  at_time: 2020-08
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2019.116330
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/3d36ec1a-b677-429b-8485-d8047fea11a0
+schema_type: xyzri:XYZPublication
+title: 'Nature abhors a paywall: How open science can realize the potential of naturalistic
+  stimuli'

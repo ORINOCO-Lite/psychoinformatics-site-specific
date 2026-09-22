@@ -1,0 +1,10 @@
+about:
+- xyzrins:persons/venkatesh-hariharapura-shivashankar
+annotations:
+  obo:NCIT_C54269: v.shivashankar@fz-juelich.de
+  sio:SIO_001083: '2026-03-23T15:36:51.419170'
+distributions:
+- dldi:SHA256E-s879308--bc5562c29896b6bb63cd8ed8e4d13bedbbd79b02960d8e1156551595fe0feb52.png
+kind: xyzrins:depiction-types/e9a34f7d-d05e-4591-bb45-f8a0c499e07b
+pid: xyzrins:depictions/e79ee0e4-54d4-4d1c-8940-e1dd74394794
+schema_type: xyzri:XYZDepiction

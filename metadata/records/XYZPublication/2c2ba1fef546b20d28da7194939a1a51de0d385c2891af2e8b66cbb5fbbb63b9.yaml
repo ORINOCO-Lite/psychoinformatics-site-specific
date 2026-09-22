@@ -1,0 +1,47 @@
+about:
+- xyzrins:topics/research-data-management
+- xyzrins:topics/education
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-04-01T13:37:27.620435'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michal-szczepanik
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/stephan-heunis
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/jenna-swarthout-goddard
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: foaf:homepage
+  schema_type: dlthings:AttributeSpecification
+  value: https://docs.trr379.de/
+description: The Documentation of the TRR379 provides all general information, “How
+  To” guidelines, and pointers to relevant services and contact points.
+generated_by:
+- object: xyzrins:projects/trr379_q02
+  schema_type: dlthings:Generation
+identifiers:
+- creator: xyzrins:projects/trr379
+  notation: https://docs.trr379.de/
+  schema_type: dlthings:Identifier
+influenced_by:
+- object: xyzrins:projects/trr379
+  schema_type: xyzri:XYZInfluence
+kind: bibo:Website
+pid: xyzrins:publications/1e14ae9a-a54a-467a-8a27-e89da1c612b1
+schema_type: xyzri:XYZPublication
+title: Documentation of the TRR379

@@ -1,0 +1,19 @@
+about:
+- xyzrins:topics/naturalistic-neuroimaging
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-04-01T09:57:04.212254'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002034
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/pierre-ibe
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/7bbb3f5c-66ab-4818-8134-ed869d7e1a64
+schema_type: xyzri:XYZPublication
+title: Lies, irony, and contradiction — an annotation of semantic conflict in the
+  movie "Forrest Gump"

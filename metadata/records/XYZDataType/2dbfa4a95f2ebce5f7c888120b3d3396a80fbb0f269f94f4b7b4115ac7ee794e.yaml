@@ -1,0 +1,11 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-26T14:24:03.896867'
+description: An open file format from the Neuroimaging Informatics Technology Initiative
+  (NIfTI) commonly used to store brain imaging data obtained using Magnetic Resonance
+  Imaging (MRI) methods.
+display_label: NIFTI format
+exact_mappings:
+- http://purl.obolibrary.org/obo/NCIT_C190183
+pid: http://edamontology.org/format_3549
+schema_type: xyzri:XYZDataType

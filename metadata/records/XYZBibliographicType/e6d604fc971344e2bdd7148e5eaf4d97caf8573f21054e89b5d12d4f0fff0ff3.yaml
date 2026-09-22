@@ -1,0 +1,7 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-03T13:54:19.471477'
+description: a distinct part of a larger document or collected document.
+display_label: Document part
+pid: bibo:DocumentPart
+schema_type: xyzri:XYZBibliographicType

@@ -1,0 +1,26 @@
+about:
+- xyzrins:topics/research-data-management
+annotations:
+  obo:NCIT_C54269: m.szczepanik@fz-juelich.de
+  sio:SIO_001083: '2026-03-25T17:07:40.171826'
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+description: 'A talk on version control for data and beyond, and its advantages for
+  scientific work, given at the Think Open @ CIMeC, virtual symposium: "Version Control
+  for Scientific Research using Git/Github"'
+generated_by:
+- at_time: '2022-03-11'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/zenodo.6346848
+  schema_type: dlthings:DOI
+kind: fabio:Presentation
+pid: xyzrins:publications/ce6400c7-51eb-4656-82ff-836ebef0c445
+rules:
+- spdxlic:CC-BY-4.0
+schema_type: xyzri:XYZPublication
+title: Version control for data and beyond

@@ -1,0 +1,62 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-03-13T13:32:20.683730'
+associated_with:
+- object: orcid:0000-0003-3456-2493
+  roles:
+  - marcrel:cre
+  schema_type: dlthings:Association
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - marcrel:led
+  schema_type: dlthings:Association
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/christian-moench
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/stephan-heunis
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/benjamin-poldrack
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/michal-szczepanik
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+- object: xyzrins:persons/alex-waite
+  roles:
+  - marcrel:rtm
+  schema_type: dlthings:Association
+attributes:
+- predicate: foaf:homepage
+  schema_type: dlthings:AttributeSpecification
+  value: https://www.datalad.org
+influenced_by:
+- object: xyzrins:grants/metalad
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:objectives/87be5fa3-80fb-4221-8406-2ddd40fb1fd1
+  roles:
+  - xyzrins:entity-roles/1160471a-9f8e-4379-85f2-351a2a36ef40
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:objectives/97ded4aa-108d-4b84-8195-d6076dce63ce
+  roles:
+  - FRAPO:Deliverable
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:grants/datagit
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+part_of:
+- xyzrins:.
+pid: xyzrins:projects/datalad
+schema_type: xyzri:XYZProject
+title: DataLad

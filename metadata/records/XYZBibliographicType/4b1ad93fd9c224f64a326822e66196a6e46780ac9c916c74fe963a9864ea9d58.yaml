@@ -1,0 +1,10 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-03T13:54:19.453855'
+description: A graphical means of presenting data in a grid of rows and columns, within
+  which the cells usually contain alphanumeric text or numeric values. If included
+  within a publication, a table typically appearing unaligned with the main body of
+  text, with its own descriptive title.
+display_label: Table
+pid: fabio:Table
+schema_type: xyzri:XYZBibliographicType

@@ -1,0 +1,21 @@
+about:
+- xyzrins:topics/naturalistic-stimulation
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-19T10:45:22.213748'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - marcrel:ive
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: CiTO:isDescribedBy
+  schema_type: dlthings:AttributeSpecification
+  value: https://www.swr.de/swr2/programm/sendungen/wissen/medizin-ohne-tierversuche/-/id=660374/did=22367746/nid=660374/1xjzwct/index.html
+description: The use of complex natural stimuli in the lab's human imaging studies
+  plays a role in this half-hour SWR2 radio feature on animal experiments in medical
+  research (2018; about 4min from the ~11 min mark).
+kind: bibo:AudioDocument
+pid: xyzrins:publications/b868e194-0d17-4b91-a386-dd7342588780
+schema_type: xyzri:XYZPublication
+title: SWR2 Radio feature on animal experiments in medical research

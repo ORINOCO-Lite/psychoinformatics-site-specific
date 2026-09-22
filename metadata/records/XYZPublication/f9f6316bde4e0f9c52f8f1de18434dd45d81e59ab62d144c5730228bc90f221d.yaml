@@ -1,0 +1,27 @@
+about:
+- xyzrins:topics/education
+annotations:
+  obo:NCIT_C54269: m.szczepanik@fz-juelich.de
+  sio:SIO_001083: '2026-03-25T17:07:36.084554'
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+description: 'Lecture on DataLad and how it connects to Git and git-annex, held in
+  a course on Git at the University Hamburg Jan. 26th 2024.
+
+  '
+generated_by:
+- at_time: '2024-01-23'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/zenodo.10556596
+  schema_type: dlthings:DOI
+kind: fabio:Presentation
+pid: xyzrins:publications/7f75bf68-9f8f-4aa6-81b6-5d843666440c
+rules:
+- spdxlic:CC-BY-4.0
+schema_type: xyzri:XYZPublication
+title: 'DataLad: Decentralized management of digital objects for open science'
