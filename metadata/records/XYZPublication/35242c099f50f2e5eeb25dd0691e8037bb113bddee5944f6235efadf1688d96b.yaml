@@ -1,0 +1,81 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Neural Correlates of Empathy in Boys With Early Onset Conduct Disorder
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Background: A deficit in empathy has repeatedly been described in individuals
+    with conduct disorder (CD), and in particular in those with callous unemotional
+    traits. Until now, little is known about the neural basis of empathy in children
+    and adolescents with early onset conduct disorder. The aim of this study was to
+    examine neural responses during empathizing in children and adolescents with CD
+    with a task that allowed to differentiate between the judgment of the emotional
+    states of other people and the own emotional response to other people''s emotional
+    state. Moreover, we investigated associations of callous-unemotional traits and
+    neural activations during empathizing.Methods: Using functional magnetic resonance
+    imaging (fMRI) we investigated 14 boys with early onset CD and 15 typically developing
+    (TDC) age matched controls between 8 and 16 years of age. Happy and sad faces
+    were presented, and participants were asked to either infer the emotional state
+    from the face (other-task) or to judge their own emotional response (self-task).
+    A perceptual decision on faces was used as a control task. Individual empathic
+    abilities and callous unemotional traits were assessed.Results: During the other
+    task, TDC boys showed significantly larger right amygdala responses than CD boys.
+    Higher empathic abilities (as assessed with the Bryant Index of Empathy) were
+    associated with higher responses in the right amygdala within the CD boys and
+    across the entire sample. Moreover, across the entire sample, callous-unemotional
+    traits were negatively related to the BOLD-response in the right amygdala. CD
+    boys showed larger responses in the dorsal and ventral medial prefrontal cortex
+    across tasks and increased activation in dorsal medial prefrontal cortex specifically
+    during the self-conditions, which were also related to empathic abilities within
+    the CD boys.Conclusions: The data emphasize the important role of the amygdala
+    in empathy related emotional processing. Diminished amygdala responses and their
+    association with low empathy suggest a pivotal influence of impaired amygdala
+    processing in early-onset CD, in particular for deficits in empathic behavior
+    and related callous-unemotional-traits. Elevated response in the medial prefrontal
+    cortex in boys with CD point toward increased involvement of brain areas related
+    to self-referential processing and cognitive empathy during empathizing.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Background: A deficit in empathy has repeatedly been described in individuals
+  with conduct disorder (CD), and in particular in those with callous unemotional
+  traits. Until now, little is known about the neural basis of empathy in children
+  and adolescents with early onset conduct disorder. The aim of this study was to
+  examine neural responses during empathizing in children and adolescents with CD
+  with a task that allowed to differentiate between the judgment of the emotional
+  states of other people and the own emotional response to other people''s emotional
+  state. Moreover, we investigated associations of callous-unemotional traits and
+  neural activations during empathizing.Methods: Using functional magnetic resonance
+  imaging (fMRI) we investigated 14 boys with early onset CD and 15 typically developing
+  (TDC) age matched controls between 8 and 16 years of age. Happy and sad faces were
+  presented, and participants were asked to either infer the emotional state from
+  the face (other-task) or to judge their own emotional response (self-task). A perceptual
+  decision on faces was used as a control task. Individual empathic abilities and
+  callous unemotional traits were assessed.Results: During the other task, TDC boys
+  showed significantly larger right amygdala responses than CD boys. Higher empathic
+  abilities (as assessed with the Bryant Index of Empathy) were associated with higher
+  responses in the right amygdala within the CD boys and across the entire sample.
+  Moreover, across the entire sample, callous-unemotional traits were negatively related
+  to the BOLD-response in the right amygdala. CD boys showed larger responses in the
+  dorsal and ventral medial prefrontal cortex across tasks and increased activation
+  in dorsal medial prefrontal cortex specifically during the self-conditions, which
+  were also related to empathic abilities within the CD boys.Conclusions: The data
+  emphasize the important role of the amygdala in empathy related emotional processing.
+  Diminished amygdala responses and their association with low empathy suggest a pivotal
+  influence of impaired amygdala processing in early-onset CD, in particular for deficits
+  in empathic behavior and related callous-unemotional-traits. Elevated response in
+  the medial prefrontal cortex in boys with CD point toward increased involvement
+  of brain areas related to self-referential processing and cognitive empathy during
+  empathizing.'
+generated_by:
+- at_location: ISSN:1664-0640
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3389/fpsyt.2020.00178
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/3063b3ca-3f8c-460c-a439-c563684d7bc1
+schema_type: xyzri:XYZPublication
+title: Neural Correlates of Empathy in Boys With Early Onset Conduct Disorder

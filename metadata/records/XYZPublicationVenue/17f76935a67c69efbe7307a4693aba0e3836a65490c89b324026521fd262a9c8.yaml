@@ -1,0 +1,9 @@
+display_note: ISSN:0376-8716
+identifiers:
+- creator: ror:026ytr635
+  notation: 0376-8716
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:0376-8716
+schema_type: xyzri:XYZPublicationVenue
+title: Drug And Alcohol Dependence

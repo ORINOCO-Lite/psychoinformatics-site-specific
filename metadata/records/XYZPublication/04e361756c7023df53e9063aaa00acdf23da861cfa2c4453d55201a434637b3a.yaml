@@ -1,0 +1,74 @@
+attributed_to:
+- object: xyzrins:persons/beef5300-2559-47ed-b7e1-2525119ee254
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Overview of Challenges in Brain-Based Predictive Modeling: Toward Meaningful
+    Predictive Insights'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Predictive analytics based on machine learning (ML) and artificial intelligence
+    is a powerful tool enabling precision psychiatry and providing insights into brain-behavior
+    relationships. However, given the mixed results observed in the field so far,
+    making meaningful progress requires careful consideration of several key challenges
+    to ensure the validity of models and findings, including overfitting, confounding
+    biases, site effect harmonization, and interpretability, among others. First,
+    we highlight limitations of cross-validation, a ubiquitous ML strategy used to
+    prevent overfitting and obtain generalization estimates, emphasizing the risk
+    of performance inflation and the need for independent validation. Next, we introduce
+    different types of so-called third variables that can influence the examination
+    of a brain-behavioral relationship of interest in different ways, using causal
+    inference principles. We emphasize the biasing impact of confounding variables
+    on ML models and summarize common mitigation strategies. We then discuss site-specific
+    effects in multisite datasets, reviewing different harmonization strategies to
+    reduce unwanted variability and site-specific noise. Finally, we explore post
+    hoc model interpretation methods to enhance model transparency while cautioning
+    against misinterpretation. By integrating rigorous result validation, confounder
+    control, and interpretability techniques, researchers can ensure that ML models
+    produce more reliable and generalizable findings and avoid spurious associations.KeywordsBrain-behavior
+    associationsConfoundsCross-validationHarmonizationMachine learningModel interpretability
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Predictive analytics based on machine learning (ML) and artificial intelligence
+  is a powerful tool enabling precision psychiatry and providing insights into brain-behavior
+  relationships. However, given the mixed results observed in the field so far, making
+  meaningful progress requires careful consideration of several key challenges to
+  ensure the validity of models and findings, including overfitting, confounding biases,
+  site effect harmonization, and interpretability, among others. First, we highlight
+  limitations of cross-validation, a ubiquitous ML strategy used to prevent overfitting
+  and obtain generalization estimates, emphasizing the risk of performance inflation
+  and the need for independent validation. Next, we introduce different types of so-called
+  third variables that can influence the examination of a brain-behavioral relationship
+  of interest in different ways, using causal inference principles. We emphasize the
+  biasing impact of confounding variables on ML models and summarize common mitigation
+  strategies. We then discuss site-specific effects in multisite datasets, reviewing
+  different harmonization strategies to reduce unwanted variability and site-specific
+  noise. Finally, we explore post hoc model interpretation methods to enhance model
+  transparency while cautioning against misinterpretation. By integrating rigorous
+  result validation, confounder control, and interpretability techniques, researchers
+  can ensure that ML models produce more reliable and generalizable findings and avoid
+  spurious associations.KeywordsBrain-behavior associationsConfoundsCross-validationHarmonizationMachine
+  learningModel interpretability
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0006-3223
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.biopsych.2025.09.003
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/6eadfe28-545d-4327-82be-f5f19fed3a82
+schema_type: xyzri:XYZPublication
+title: 'Overview of Challenges in Brain-Based Predictive Modeling: Toward Meaningful
+  Predictive Insights'

@@ -1,0 +1,80 @@
+attributed_to:
+- object: xyzrins:persons/659e2c63-bcaa-4348-bf2c-2d6176dfad96
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/39e91aa8-3e7e-4e72-9977-ae6941e9e142
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7fe402d2-c44a-4d7f-91a2-e11ba61da3a2
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/534d28e8-d6e0-4a7f-8ba3-bf59298c9221
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c643dc9e-7b8a-4a32-aa1b-6f371c82880a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/8f836375-520c-43d7-afb6-29abea72c0ab
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Hippocampus co-atrophy pattern in dementia deviates from covariance patterns
+    across the lifespan
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The hippocampus is a plastic region and highly susceptible to ageing and
+    dementia. Previous studies explicitly imposed a priori models of hippocampus when
+    investigating ageing and dementia-specific atrophy but led to inconsistent results.
+    Consequently, the basic question of whether macrostructural changes follow a cytoarchitectonic
+    or functional organization across the adult lifespan and in age-related neurodegenerative
+    disease remained open. The aim of this cross-sectional study was to identify the
+    spatial pattern of hippocampus differentiation based on structural covariance
+    with a data-driven approach across structural MRI data of large cohorts (n = 2594).
+    We examined the pattern of structural covariance of hippocampus voxels in young,
+    middle-aged, elderly, mild cognitive impairment and dementia disease samples by
+    applying a clustering algorithm revealing differentiation in structural covariance
+    within the hippocampus. In all the healthy and in the mild cognitive impaired
+    participants, the hippocampus was robustly divided into anterior, lateral and
+    medial subregions reminiscent of cytoarchitectonic division. In contrast, in dementia
+    patients, the pattern of subdivision was closer to known functional differentiation
+    into an anterior, body and tail subregions. These results not only contribute
+    to a better understanding of co-plasticity and co-atrophy in the hippocampus across
+    the lifespan and in dementia, but also provide robust data-driven spatial representations
+    (i.e. maps) for structural studies.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The hippocampus is a plastic region and highly susceptible to ageing
+  and dementia. Previous studies explicitly imposed a priori models of hippocampus
+  when investigating ageing and dementia-specific atrophy but led to inconsistent
+  results. Consequently, the basic question of whether macrostructural changes follow
+  a cytoarchitectonic or functional organization across the adult lifespan and in
+  age-related neurodegenerative disease remained open. The aim of this cross-sectional
+  study was to identify the spatial pattern of hippocampus differentiation based on
+  structural covariance with a data-driven approach across structural MRI data of
+  large cohorts (n = 2594). We examined the pattern of structural covariance of hippocampus
+  voxels in young, middle-aged, elderly, mild cognitive impairment and dementia disease
+  samples by applying a clustering algorithm revealing differentiation in structural
+  covariance within the hippocampus. In all the healthy and in the mild cognitive
+  impaired participants, the hippocampus was robustly divided into anterior, lateral
+  and medial subregions reminiscent of cytoarchitectonic division. In contrast, in
+  dementia patients, the pattern of subdivision was closer to known functional differentiation
+  into an anterior, body and tail subregions. These results not only contribute to
+  a better understanding of co-plasticity and co-atrophy in the hippocampus across
+  the lifespan and in dementia, but also provide robust data-driven spatial representations
+  (i.e. maps) for structural studies.
+generated_by:
+- at_location: ISSN:0006-8950
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/brain/awaa222
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/da45ac29-37d3-46fa-8bea-a263ff2a1f58
+schema_type: xyzri:XYZPublication
+title: Hippocampus co-atrophy pattern in dementia deviates from covariance patterns
+  across the lifespan

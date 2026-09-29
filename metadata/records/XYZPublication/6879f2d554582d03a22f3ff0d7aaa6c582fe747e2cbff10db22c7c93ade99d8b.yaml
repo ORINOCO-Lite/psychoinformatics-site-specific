@@ -1,0 +1,33 @@
+about:
+- xyzrins:topics/education
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-03-23T15:15:47.864979'
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michal-szczepanik
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+attributes:
+- description: YouTube playlist of the workshop recording
+  predicate: rdfs:seeAlso
+  schema_type: dlthings:AttributeSpecification
+  value: https://www.youtube.com/watch?v=40ZcGp2vHXk&list=PLEQHbPfpVqU5RSPiyFuPdDlSUEd-XoPV-
+description: A two-half-day workshop on DataLad, April 21st and April 22nd 2022. Conducted
+  virtually for the Institute of Systems Neuroscience at the University Clinic Hamburg
+  (UKE).
+generated_by:
+- at_location: ror:01zgy1s35
+  at_time: '2022-04-21'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+kind: bibo:Workshop
+pid: xyzrins:publications/c5ca68cb-ba35-4df5-8788-d51beb266fd9
+rules:
+- spdxlic:CC-BY-4.0
+schema_type: xyzri:XYZPublication
+title: Data Management for reproducible science

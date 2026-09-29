@@ -1,0 +1,53 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Embodied emotions in ancient Neo-Assyrian texts revealed by bodily mapping
+    of emotional semantics
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Emotions are associated with subjective emotion-specific bodily sensations.
+    Here, we utilized this relationship and computational linguistic methods to map
+    a representation of emotions in ancient texts. We analyzed Neo-Assyrian texts
+    from 934–612 BCE to discern consistent relationships between linguistic expressions
+    related to both emotions and bodily sensations. We then computed statistical regularities
+    between emotion terms and words referring to body parts and back-projected the
+    resulting emotion-body part relationships on a body template, yielding bodily
+    sensation maps for the emotions. We found consistent embodied patterns for 18
+    distinct emotions. Hierarchical clustering revealed four main clusters of bodily
+    emotion categories, two clusters of mainly positive emotions, one large cluster
+    of mainly negative emotions, and one of empathy and schadenfreude. These results
+    reveal the historical use of embodied language pertaining to human emotions. Our
+    data-driven tool could enable future comparisons of textual embodiment patterns
+    across different languages and cultures across time.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Emotions are associated with subjective emotion-specific bodily sensations.
+  Here, we utilized this relationship and computational linguistic methods to map
+  a representation of emotions in ancient texts. We analyzed Neo-Assyrian texts from
+  934–612 BCE to discern consistent relationships between linguistic expressions related
+  to both emotions and bodily sensations. We then computed statistical regularities
+  between emotion terms and words referring to body parts and back-projected the resulting
+  emotion-body part relationships on a body template, yielding bodily sensation maps
+  for the emotions. We found consistent embodied patterns for 18 distinct emotions.
+  Hierarchical clustering revealed four main clusters of bodily emotion categories,
+  two clusters of mainly positive emotions, one large cluster of mainly negative emotions,
+  and one of empathy and schadenfreude. These results reveal the historical use of
+  embodied language pertaining to human emotions. Our data-driven tool could enable
+  future comparisons of textual embodiment patterns across different languages and
+  cultures across time.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2589-0042
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.isci.2024.111365
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/6f6a0952-c777-404f-8e1f-a4049d8a8e41
+schema_type: xyzri:XYZPublication
+title: Embodied emotions in ancient Neo-Assyrian texts revealed by bodily mapping
+  of emotional semantics

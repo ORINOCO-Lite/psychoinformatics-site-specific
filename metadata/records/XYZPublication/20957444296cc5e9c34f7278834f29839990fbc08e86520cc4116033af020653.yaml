@@ -1,0 +1,41 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Narrows, Detours, and Dead Ends—How Cognitive Scaffolds Can Constrain the
+    Mind
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'The chapter challenges the notion that cognitive tools are universally beneficial
+    and should always be deeply integrated into cognitive systems. Instead, it proposes
+    a taxonomy that recognizes the existence of hostile and detrimental tools and
+    suggests that some tools might be better suited remaining on the periphery of
+    an extended cognitive system. The chapter explores the moral implications of deep
+    integration between cognitive tools and systems, highlighting three potential
+    detriments: narrows, detours, and dead ends. These adverse effects present moral
+    challenges and call for cautious consideration during technology development.
+    The text emphasizes that the list of detrimental effects is likely to expand as
+    technology advances and further investigations uncover additional impacts on cognitive
+    systems.'
+characterized_by:
+- object: bibo:Chapter
+  predicate: dcterms:type
+description: 'The chapter challenges the notion that cognitive tools are universally
+  beneficial and should always be deeply integrated into cognitive systems. Instead,
+  it proposes a taxonomy that recognizes the existence of hostile and detrimental
+  tools and suggests that some tools might be better suited remaining on the periphery
+  of an extended cognitive system. The chapter explores the moral implications of
+  deep integration between cognitive tools and systems, highlighting three potential
+  detriments: narrows, detours, and dead ends. These adverse effects present moral
+  challenges and call for cautious consideration during technology development. The
+  text emphasizes that the list of detrimental effects is likely to expand as technology
+  advances and further investigations uncover additional impacts on cognitive systems.'
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/978-3-662-68362-0_4
+  schema_type: dlthings:DOI
+kind: bibo:Chapter
+pid: xyzrins:publications/26755793-ec5a-4e67-8698-c7dcfb665702
+schema_type: xyzri:XYZPublication
+title: Narrows, Detours, and Dead Ends—How Cognitive Scaffolds Can Constrain the Mind

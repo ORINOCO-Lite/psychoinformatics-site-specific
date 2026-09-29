@@ -1,0 +1,62 @@
+attributed_to:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Human cortical dynamics reflect graded contributions of local geometry and
+    network topography
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The brain is a physically embedded and heavily interconnected system that
+    expresses neural rhythms across multiple time scales. While these dynamics result
+    from the complex interplay of local and inter-regional factors, the relative contribution
+    of such mechanisms across the cortex remains unclear. Our study explores geometric,
+    microstructural, and connectome-level constraints on cortex-wide neural activity.
+    We leverage intracranial electroencephalography recordings to derive a coordinate
+    system of human cortical dynamics. Using multimodal neuroimaging, we could then
+    demonstrate that these patterns are largely explainable by geometric properties
+    indexed by inter-regional distance. However, dynamics in transmodal association
+    regions are additionally explainable by incorporation of inter-regional microstructural
+    similarity and connectivity information. Our findings are generally consistent
+    when cross-referencing electroencephalography and imaging data from large-scale
+    atlases and when using data obtained in the same individuals, suggesting subject-specificity
+    and population-level generalizability. Together, our results suggest that the
+    relative contribution of local and macroscale constraints on cortical dynamics
+    varies systematically across the cortical sheet, specifically highlighting the
+    role of transmodal networks in inter-regional cortical coordination.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The brain is a physically embedded and heavily interconnected system
+  that expresses neural rhythms across multiple time scales. While these dynamics
+  result from the complex interplay of local and inter-regional factors, the relative
+  contribution of such mechanisms across the cortex remains unclear. Our study explores
+  geometric, microstructural, and connectome-level constraints on cortex-wide neural
+  activity. We leverage intracranial electroencephalography recordings to derive a
+  coordinate system of human cortical dynamics. Using multimodal neuroimaging, we
+  could then demonstrate that these patterns are largely explainable by geometric
+  properties indexed by inter-regional distance. However, dynamics in transmodal association
+  regions are additionally explainable by incorporation of inter-regional microstructural
+  similarity and connectivity information. Our findings are generally consistent when
+  cross-referencing electroencephalography and imaging data from large-scale atlases
+  and when using data obtained in the same individuals, suggesting subject-specificity
+  and population-level generalizability. Together, our results suggest that the relative
+  contribution of local and macroscale constraints on cortical dynamics varies systematically
+  across the cortical sheet, specifically highlighting the role of transmodal networks
+  in inter-regional cortical coordination.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2041-1723
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41467-025-67740-2
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/151dc718-c139-43c4-9765-7f24c2e9aaae
+schema_type: xyzri:XYZPublication
+title: Human cortical dynamics reflect graded contributions of local geometry and
+  network topography

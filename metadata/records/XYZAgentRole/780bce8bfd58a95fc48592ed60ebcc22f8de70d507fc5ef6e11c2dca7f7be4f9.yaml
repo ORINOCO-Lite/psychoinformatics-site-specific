@@ -1,0 +1,11 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-03T16:32:58.049166'
+description: The role a person or institution has of being leader for a workpackage
+  or sub-project within a project such as a research project, with responsibility
+  for ensuring that the proposed work is undertaken and documented, the generated
+  data are properly curated and archived, and the results are published and reported
+  to the funding agency.
+name: Workpackage leader
+pid: SCoRO:workpackage-leader
+schema_type: xyzri:XYZAgentRole

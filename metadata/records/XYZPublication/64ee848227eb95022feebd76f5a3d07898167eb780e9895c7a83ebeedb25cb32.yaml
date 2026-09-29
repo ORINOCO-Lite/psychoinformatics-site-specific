@@ -1,0 +1,64 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/6de57b9d-196e-47c9-826a-ff26c9f32093
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Functional connectivity of the vigilant-attention network in children and
+    adolescents with attention-deficit/hyperactivity disorder
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'The ability to maintain attention to simple tasks (i.e., vigilant attention,
+    VA) is often impaired in attention-deficit/hyperactivity disorder (ADHD), but
+    the underlying pathophysiological mechanisms at the brain network level are not
+    clear yet. We therefore investigated ADHD-related differences in resting-state
+    functional connectivity within a meta-analytically defined brain network of 14
+    distinct regions subserving VA (comprising 91 connections in total), as well as
+    the association of connectivity with markers of behavioural dysfunction in 17
+    children (age range: 9–14 years) with a diagnosis of ADHD and 21 age-matched neurotypical
+    controls. Our analyses revealed selective, rather than global, differences in
+    the intrinsic coupling between nodes of the VA-related brain network in children
+    with ADHD, relative to controls. In particular, ADHD patients showed substantially
+    diminished intrinsic coupling for 7 connections and increased coupling for 4 connections,
+    with many differences involving connectivity with the anterior insula. Moreover,
+    connectivity strength of several aberrant connections was found to be associated
+    with core aspects of ADHD symptomatology, such as poor attention, difficulties
+    with social functioning, and impaired cognitive control, attesting to the behavioural
+    relevance of specific connectivity differences observed in the resting state.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'The ability to maintain attention to simple tasks (i.e., vigilant attention,
+  VA) is often impaired in attention-deficit/hyperactivity disorder (ADHD), but the
+  underlying pathophysiological mechanisms at the brain network level are not clear
+  yet. We therefore investigated ADHD-related differences in resting-state functional
+  connectivity within a meta-analytically defined brain network of 14 distinct regions
+  subserving VA (comprising 91 connections in total), as well as the association of
+  connectivity with markers of behavioural dysfunction in 17 children (age range:
+  9–14 years) with a diagnosis of ADHD and 21 age-matched neurotypical controls. Our
+  analyses revealed selective, rather than global, differences in the intrinsic coupling
+  between nodes of the VA-related brain network in children with ADHD, relative to
+  controls. In particular, ADHD patients showed substantially diminished intrinsic
+  coupling for 7 connections and increased coupling for 4 connections, with many differences
+  involving connectivity with the anterior insula. Moreover, connectivity strength
+  of several aberrant connections was found to be associated with core aspects of
+  ADHD symptomatology, such as poor attention, difficulties with social functioning,
+  and impaired cognitive control, attesting to the behavioural relevance of specific
+  connectivity differences observed in the resting state.'
+generated_by:
+- at_location: ISSN:0278-2626
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.bandc.2017.10.005
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/4c1e5a4d-b897-4b41-826a-8a3656e063e0
+schema_type: xyzri:XYZPublication
+title: Functional connectivity of the vigilant-attention network in children and adolescents
+  with attention-deficit/hyperactivity disorder

@@ -1,0 +1,4 @@
+description: A document that presents visual or diagrammatic information.
+display_label: Image
+pid: bibo:Image
+schema_type: xyzri:XYZBibliographicType

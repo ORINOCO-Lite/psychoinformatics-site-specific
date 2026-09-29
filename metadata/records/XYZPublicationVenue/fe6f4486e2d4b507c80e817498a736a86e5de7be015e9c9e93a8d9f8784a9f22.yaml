@@ -1,0 +1,9 @@
+display_note: ISSN:2383-4196
+identifiers:
+- creator: ror:026ytr635
+  notation: 2383-4196
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:2383-4196
+schema_type: xyzri:XYZPublicationVenue
+title: Journal Of Biostatistics And Epidemiology

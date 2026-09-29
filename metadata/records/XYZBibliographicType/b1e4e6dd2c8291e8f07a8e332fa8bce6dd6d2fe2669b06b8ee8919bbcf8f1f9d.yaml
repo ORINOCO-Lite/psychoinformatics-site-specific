@@ -1,0 +1,4 @@
+description: A document that simultaneously contains other documents.
+display_label: Collected Document
+pid: bibo:CollectedDocument
+schema_type: xyzri:XYZBibliographicType

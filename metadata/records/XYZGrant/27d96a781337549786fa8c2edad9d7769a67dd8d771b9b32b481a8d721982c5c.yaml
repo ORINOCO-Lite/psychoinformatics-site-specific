@@ -1,0 +1,8 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2025-12-11T21:48:30.575803'
+pid: xyzrins:grants/metalad
+schema_type: xyzri:XYZGrant
+short_name: METALAD
+title: 'CRCNS US-German Data Sharing: DataLad - a decentralized system for integrated
+  discovery, management, and publication of digital artefacts of science'

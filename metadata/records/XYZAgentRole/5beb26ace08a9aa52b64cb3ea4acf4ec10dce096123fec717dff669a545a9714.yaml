@@ -1,0 +1,4 @@
+description: A place from which a resource, e.g., a serial, is distributed
+display_label: Distribution place
+pid: marcrel:dbp
+schema_type: xyzri:XYZAgentRole

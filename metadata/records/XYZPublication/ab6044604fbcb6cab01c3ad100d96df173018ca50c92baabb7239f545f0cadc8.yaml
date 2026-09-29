@@ -1,0 +1,33 @@
+about:
+- xyzrins:topics/data-management
+- xyzrins:topics/research-methods
+annotations:
+  obo:NCIT_C54269: m.szczepanik@fz-juelich.de
+  sio:SIO_001083: '2026-03-25T17:07:41.898970'
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+description: 'A talk entitled "Reproducibility Management in Neuroscience - Specific
+  issues and solutions", given by Adina S. Wagner at the virtual DGPA/DGPs-Symposium
+  "Computational Reproducibility", Nov. 23rd 2020.
+
+
+  The sources for the slides can be found at github.com/adswa/talk-computational-reproducibility.
+
+
+  A recording of the symposium is available on Youtube: youtube.com/watch?v=nTVcMDVlyOI'
+generated_by:
+- at_time: '2020-11-23'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/zenodo.4285926
+  schema_type: dlthings:DOI
+kind: fabio:Presentation
+pid: xyzrins:publications/e6b31cf9-30e9-455e-b28d-f08af8617014
+rules:
+- spdxlic:CC-BY-4.0
+schema_type: xyzri:XYZPublication
+title: 'Talk: Reproducibility management in Neuroscience'

@@ -1,0 +1,74 @@
+attributed_to:
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Einfluss von Kohorte, Gerätehersteller, Magnetfeldstärke und Bildbeschleunigung
+    auf die Brain Age Gap Estimation (BrainAGE)
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Zielsetzung Hirnalter wird als Biomarker u.a. für neurodegenerative Erkrankungen
+    oder alterns- und lebensstilbedinge Veränderungen untersucht. Die Brain Age Gap
+    Estimation (BrainAGE), die Differenz zwischen chronologischem und vorhergesagtem
+    Alter, wird typischerweise mittels KI anhand struktureller MRTs des Gehirns berechnet.
+    Unsere Grundannahme ist, dass bei kognitiv normalen, gesunden Personen ein BrainAGE
+    von 0 vorliegt (vorhergesagtes=chronologisches Alter). Die aktuelle Studie soll
+    untersuchen, ob systematische Unterschiede durch unterschiedliche Studiendesigns,
+    Scannerhersteller, Feldstärken oder Bildbeschleunigung entstehen können.Material
+    und Methoden 2.414 gesunde Teilnehmende wurden eingeschlossen: 914 aus ADNI (55%
+    weiblich, 72,8±6,4 Jahre), 725 aus HCPA (56% weiblich, 60,3±15,7 Jahre), 609 aus
+    OASIS3 (58,9% weiblich, 67,8±8,9 Jahre) und 166 aus PPMI (36,7% weiblich, 60,5±11,6
+    Jahre). BrainAGE wurde basierend auf der Arbeit von More et al. (2023) berechnet
+    und zwischen den Kohorten sowie nach Scannerhersteller, Feldstärke und Bildbeschleunigung
+    verglichen. Statistisch signifikante Unterschiede (p<0,05) wurden mittels Welch-t-Test
+    oder ANOVA, inklusive Turkey post-hoc Test, analysiert.Ergebnisse BrainAGE betrug
+    für ADNI -5,9±5,5 Jahren, HCPA -4,1±6,2, OASIS3 -4,8±5,4 und PPMI -3±5,8 (p<0,0001).
+    Nur OASIS3/HCPA (p=0,17) und PPMI/HCPA (p=0,1) zeigten keine signifikanten Unterschiede.
+    1,5T-Untersuchungen ergaben eine kleinere BrainAGE als 3T-Scans (ADNI: p<0,0001,
+    OASIS3: p=0,007, PPMI: p=0,03; HCPA enthält nur 3T-Untersuchungen). In ADNI und
+    PPMI wurden Scans auf Geräten verschiedener Hersteller durchgeführt, wobei signifikante
+    Unterschiede zwischen Philips/GE (ADNI, post-hoc p=0.008) und Siemens/GE (PPMI,
+    post-hoc p=0.008) auftraten. Es fanden sich kein Unterschied zwischen beschleunigten
+    und unbeschleunigten Aufnahmen (ADNI, p=0.47).Schlussfolgerungen Faktoren wie
+    Hersteller und Feldstärke beeinflussen die Abschätzung des Hirnalters (BrainAGE).
+    Direkte Vergleiche zwischen Kohorten sollten vermieden werden.'
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+description: 'Zielsetzung Hirnalter wird als Biomarker u.a. für neurodegenerative
+  Erkrankungen oder alterns- und lebensstilbedinge Veränderungen untersucht. Die Brain
+  Age Gap Estimation (BrainAGE), die Differenz zwischen chronologischem und vorhergesagtem
+  Alter, wird typischerweise mittels KI anhand struktureller MRTs des Gehirns berechnet.
+  Unsere Grundannahme ist, dass bei kognitiv normalen, gesunden Personen ein BrainAGE
+  von 0 vorliegt (vorhergesagtes=chronologisches Alter). Die aktuelle Studie soll
+  untersuchen, ob systematische Unterschiede durch unterschiedliche Studiendesigns,
+  Scannerhersteller, Feldstärken oder Bildbeschleunigung entstehen können.Material
+  und Methoden 2.414 gesunde Teilnehmende wurden eingeschlossen: 914 aus ADNI (55%
+  weiblich, 72,8±6,4 Jahre), 725 aus HCPA (56% weiblich, 60,3±15,7 Jahre), 609 aus
+  OASIS3 (58,9% weiblich, 67,8±8,9 Jahre) und 166 aus PPMI (36,7% weiblich, 60,5±11,6
+  Jahre). BrainAGE wurde basierend auf der Arbeit von More et al. (2023) berechnet
+  und zwischen den Kohorten sowie nach Scannerhersteller, Feldstärke und Bildbeschleunigung
+  verglichen. Statistisch signifikante Unterschiede (p<0,05) wurden mittels Welch-t-Test
+  oder ANOVA, inklusive Turkey post-hoc Test, analysiert.Ergebnisse BrainAGE betrug
+  für ADNI -5,9±5,5 Jahren, HCPA -4,1±6,2, OASIS3 -4,8±5,4 und PPMI -3±5,8 (p<0,0001).
+  Nur OASIS3/HCPA (p=0,17) und PPMI/HCPA (p=0,1) zeigten keine signifikanten Unterschiede.
+  1,5T-Untersuchungen ergaben eine kleinere BrainAGE als 3T-Scans (ADNI: p<0,0001,
+  OASIS3: p=0,007, PPMI: p=0,03; HCPA enthält nur 3T-Untersuchungen). In ADNI und
+  PPMI wurden Scans auf Geräten verschiedener Hersteller durchgeführt, wobei signifikante
+  Unterschiede zwischen Philips/GE (ADNI, post-hoc p=0.008) und Siemens/GE (PPMI,
+  post-hoc p=0.008) auftraten. Es fanden sich kein Unterschied zwischen beschleunigten
+  und unbeschleunigten Aufnahmen (ADNI, p=0.47).Schlussfolgerungen Faktoren wie Hersteller
+  und Feldstärke beeinflussen die Abschätzung des Hirnalters (BrainAGE). Direkte Vergleiche
+  zwischen Kohorten sollten vermieden werden.'
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1055/s-0045-1802817
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/ee1307fc-ff61-4e6e-b588-c9d3850d3ee1
+schema_type: xyzri:XYZPublication
+title: Einfluss von Kohorte, Gerätehersteller, Magnetfeldstärke und Bildbeschleunigung
+  auf die Brain Age Gap Estimation (BrainAGE)

@@ -1,0 +1,16 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-06-29T14:47:30.125931'
+delegated_by:
+- object: xyzrins:organizations/fzj
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+description: Research Software Engineer for JDash.
+family_name: Navara
+given_name: Mamaka
+identifiers:
+- notation: 0009-0007-6003-1676
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/01dc361b-4bf7-4c57-ba6d-78cd174dab34
+schema_type: xyzri:XYZPerson

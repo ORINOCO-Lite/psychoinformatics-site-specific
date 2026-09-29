@@ -1,0 +1,88 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Sampling inequalities affect generalization of neuroimaging-based diagnostic
+    classifiers in psychiatry
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'AbstractBackground The development of machine learning models for aiding
+    in the diagnosis of mental disorder is rec‑ognized as a significant breakthrough
+    in the field of psychiatry. However, clinical practice of such models remains
+    achallenge, with poor generalizability being a major limitation.Methods Here,
+    we conducted a pre‑registered meta‑research assessment on neuroimaging‑based models
+    in thepsychiatric literature, quantitatively examining global and regional sampling
+    issues over recent decades, from a viewthat has been relatively underexplored.
+    A total of 476 studies (n = 118,137) were included in the current assessment.Based
+    on these findings, we built a comprehensive 5‑star rating system to quantitatively
+    evaluate the quality of exist‑ing machine learning models for psychiatric diagnoses.Results
+    A global sampling inequality in these models was revealed quantitatively (sampling
+    Gini coefficient(G) = 0.81, p < .01), varying across different countries (regions)
+    (e.g., China, G = 0.47; the USA, G = 0.58; Germany,G = 0.78; the UK, G = 0.87).
+    Furthermore, the severity of this sampling inequality was significantly predicted
+    by nationaleconomic levels (β = − 2.75, p < .001, R2adj = 0.40; r = − .84, 95%
+    CI: − .41 to − .97), and was plausibly predictable formodel performance, with
+    higher sampling inequality for reporting higher classification accuracy. Further
+    analysesshowed that lack of independent testing (84.24% of models, 95% CI: 81.0–87.5%),
+    improper cross‑validation (51.68%of models, 95% CI: 47.2–56.2%), and poor technical
+    transparency (87.8% of models, 95% CI: 84.9–90.8%)/availability(80.88% of models,
+    95% CI: 77.3–84.4%) are prevailing in current diagnostic classifiers despite improvements
+    overtime. Relating to these observations, model performances were found decreased
+    in studies with independent cross‑country sampling validations (all p < .001,
+    BF10 > 15). In light of this, we proposed a purpose‑built quantitative assess‑ment
+    checklist, which demonstrated that the overall ratings of these models increased
+    by publication year but werenegatively associated with model performance.Conclusions
+    Together, improving sampling economic equality and hence the quality of machine
+    learning modelsmay be a crucial facet to plausibly translating neuroimaging‑based
+    diagnostic classifiers into clinical practice.Keywords Psychiatric machine learning,
+    Diagnostic classification, Meta‑analysis, Neuroimaging, Sampling inequalities'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'AbstractBackground The development of machine learning models for aiding
+  in the diagnosis of mental disorder is rec‑ognized as a significant breakthrough
+  in the field of psychiatry. However, clinical practice of such models remains achallenge,
+  with poor generalizability being a major limitation.Methods Here, we conducted a
+  pre‑registered meta‑research assessment on neuroimaging‑based models in thepsychiatric
+  literature, quantitatively examining global and regional sampling issues over recent
+  decades, from a viewthat has been relatively underexplored. A total of 476 studies
+  (n = 118,137) were included in the current assessment.Based on these findings, we
+  built a comprehensive 5‑star rating system to quantitatively evaluate the quality
+  of exist‑ing machine learning models for psychiatric diagnoses.Results A global
+  sampling inequality in these models was revealed quantitatively (sampling Gini coefficient(G)
+  = 0.81, p < .01), varying across different countries (regions) (e.g., China, G =
+  0.47; the USA, G = 0.58; Germany,G = 0.78; the UK, G = 0.87). Furthermore, the severity
+  of this sampling inequality was significantly predicted by nationaleconomic levels
+  (β = − 2.75, p < .001, R2adj = 0.40; r = − .84, 95% CI: − .41 to − .97), and was
+  plausibly predictable formodel performance, with higher sampling inequality for
+  reporting higher classification accuracy. Further analysesshowed that lack of independent
+  testing (84.24% of models, 95% CI: 81.0–87.5%), improper cross‑validation (51.68%of
+  models, 95% CI: 47.2–56.2%), and poor technical transparency (87.8% of models, 95%
+  CI: 84.9–90.8%)/availability(80.88% of models, 95% CI: 77.3–84.4%) are prevailing
+  in current diagnostic classifiers despite improvements overtime. Relating to these
+  observations, model performances were found decreased in studies with independent
+  cross‑country sampling validations (all p < .001, BF10 > 15). In light of this,
+  we proposed a purpose‑built quantitative assess‑ment checklist, which demonstrated
+  that the overall ratings of these models increased by publication year but werenegatively
+  associated with model performance.Conclusions Together, improving sampling economic
+  equality and hence the quality of machine learning modelsmay be a crucial facet
+  to plausibly translating neuroimaging‑based diagnostic classifiers into clinical
+  practice.Keywords Psychiatric machine learning, Diagnostic classification, Meta‑analysis,
+  Neuroimaging, Sampling inequalities'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1741-7015
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1186/s12916-023-02941-4
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/fb27b766-91e6-416d-960d-92049f6e8be1
+schema_type: xyzri:XYZPublication
+title: Sampling inequalities affect generalization of neuroimaging-based diagnostic
+  classifiers in psychiatry

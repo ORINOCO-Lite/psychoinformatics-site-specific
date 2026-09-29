@@ -1,0 +1,5 @@
+description: A person under whose supervision a degree candidate develops and presents
+  a thesis, mémoire, or text of a dissertation
+display_label: Thesis advisor
+pid: marcrel:ths
+schema_type: xyzri:XYZAgentRole

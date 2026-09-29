@@ -1,0 +1,4 @@
+description: A legal document; for example, a court decision, a brief, and so forth.
+display_label: Legal Document
+pid: bibo:LegalDocument
+schema_type: xyzri:XYZBibliographicType

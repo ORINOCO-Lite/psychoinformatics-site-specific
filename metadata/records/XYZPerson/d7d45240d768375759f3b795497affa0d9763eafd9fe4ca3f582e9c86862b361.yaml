@@ -1,0 +1,18 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-06-29T14:47:29.862278'
+delegated_by:
+- object: ror:05mxhda18
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+description: Professor of Biological Psychiatry, practicing psychiatrist, head of
+  the Early Recognition Service.
+family_name: Kambeitz
+given_name: Joseph
+honorific_name_prefix: 'Prof. Dr. '
+identifiers:
+- notation: 0000-0002-8988-3959
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/f15451c2-7985-4c85-9426-a347aa818753
+schema_type: xyzri:XYZPerson

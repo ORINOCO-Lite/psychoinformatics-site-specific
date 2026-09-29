@@ -1,0 +1,76 @@
+attributed_to:
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: A genome-wide association study of brain function across multiple cognitive
+    domains
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Task-based fMRI is widely used to study the neurobiological basis of behavior,
+    cognition, and emotion. Previous studies disagree on whether statistics derived
+    from task-based fMRI are heritable – estimates range from approximately five percent
+    to more than forty percent. Here we present the largest and most diverse genome-wide
+    association study of task-based fMRI to date that uses a single, harmonized data
+    analysis pipeline across all contributing sites. This abstract reports the SNP-based
+    heritability results obtained from the current sample.We invited researchers with
+    access to relevant data to contribute through the ENIGMA consortium and public
+    postings on social media. We chose three tasks that have been widely used for
+    inclusion in the study. These are emotional faces, working memory, and reward
+    tasks.SNP-based analyses of seven datasets show moderate heritability across a
+    wide range of brain regions for emotional faces and reward tasks. The amygdala
+    is known to have a large effect size in the emotional faces task. However, we
+    find greater heritability in cortical regions not commonly associated with the
+    task. For reward, we found the maximum heritability in the striatum, which is
+    consistent with brain maps found by imaging-only studies. We did not find significant
+    heritability for working memory, likely due to a lack of statistical power. At
+    time of writing, not all sites planned for inclusion in the meta-analysis have
+    completed data analysis. We expect to increase statistical power by including
+    these datasets.Our results are consistent with previous findings of SNP-based
+    heritability for the amygdala in the emotional faces task. This demonstrates the
+    feasibility of genome-wide association studies for investigating individual differences
+    in task-based fMRI. The results presented here will inform secondary analyses
+    including genetic correlations and annotation. These may provide important insights
+    into the relation of genes, molecules, cells, and circuits to psychological domains.
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+description: Task-based fMRI is widely used to study the neurobiological basis of
+  behavior, cognition, and emotion. Previous studies disagree on whether statistics
+  derived from task-based fMRI are heritable – estimates range from approximately
+  five percent to more than forty percent. Here we present the largest and most diverse
+  genome-wide association study of task-based fMRI to date that uses a single, harmonized
+  data analysis pipeline across all contributing sites. This abstract reports the
+  SNP-based heritability results obtained from the current sample.We invited researchers
+  with access to relevant data to contribute through the ENIGMA consortium and public
+  postings on social media. We chose three tasks that have been widely used for inclusion
+  in the study. These are emotional faces, working memory, and reward tasks.SNP-based
+  analyses of seven datasets show moderate heritability across a wide range of brain
+  regions for emotional faces and reward tasks. The amygdala is known to have a large
+  effect size in the emotional faces task. However, we find greater heritability in
+  cortical regions not commonly associated with the task. For reward, we found the
+  maximum heritability in the striatum, which is consistent with brain maps found
+  by imaging-only studies. We did not find significant heritability for working memory,
+  likely due to a lack of statistical power. At time of writing, not all sites planned
+  for inclusion in the meta-analysis have completed data analysis. We expect to increase
+  statistical power by including these datasets.Our results are consistent with previous
+  findings of SNP-based heritability for the amygdala in the emotional faces task.
+  This demonstrates the feasibility of genome-wide association studies for investigating
+  individual differences in task-based fMRI. The results presented here will inform
+  secondary analyses including genetic correlations and annotation. These may provide
+  important insights into the relation of genes, molecules, cells, and circuits to
+  psychological domains.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1055/s-0045-1807310
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/41f4c866-4323-492c-bfa9-4bf8cb79910e
+schema_type: xyzri:XYZPublication
+title: A genome-wide association study of brain function across multiple cognitive
+  domains

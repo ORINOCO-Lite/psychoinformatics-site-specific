@@ -1,0 +1,7 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2025-12-11T21:28:30.147354'
+family_name: Burgardt
+given_name: Michael
+pid: xyzrins:persons/michael-burgardt
+schema_type: xyzri:XYZPerson

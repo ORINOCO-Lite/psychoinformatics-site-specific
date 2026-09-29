@@ -1,0 +1,56 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'JuSpace : A tool for spatial correlation analyses of magnetic resonance
+    imaging data with nuclear imaging derived neurotransmitter maps'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Recent studies have shown that drug‐induced spatial alteration patterns in
+    resting state functional activity as measured using magnetic resonance imaging
+    (rsfMRI) are associated with the distribution of specific receptor systems targeted
+    by respective compounds. Based on this approach, we introduce a toolbox (JuSpace)
+    allowing for cross‐modal correlation of MRI‐based measures with nuclear imaging
+    derived estimates covering various neurotransmitter systems including dopaminergic,
+    serotonergic, noradrenergic, and GABAergic (gamma‐aminobutric acid) neurotransmission.
+    We apply JuSpace to two datasets covering Parkinson's disease patients (PD) and
+    risperidone‐induced changes in rsfMRI and cerebral blood flow (CBF). Consistently
+    with the predominant neurodegeneration of dopaminergic and serotonergic system
+    in PD, we find significant spatial associations between rsfMRI activity alterations
+    in PD and dopaminergic (D2) and serotonergic systems (5‐HT1b). Risperidone induced
+    CBF alterations were correlated with its main targets in serotonergic and dopaminergic
+    systems. JuSpace provides a biologically meaningful framework for linking neuroimaging
+    to underlying neurotransmitter information.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Recent studies have shown that drug‐induced spatial alteration patterns
+  in resting state functional activity as measured using magnetic resonance imaging
+  (rsfMRI) are associated with the distribution of specific receptor systems targeted
+  by respective compounds. Based on this approach, we introduce a toolbox (JuSpace)
+  allowing for cross‐modal correlation of MRI‐based measures with nuclear imaging
+  derived estimates covering various neurotransmitter systems including dopaminergic,
+  serotonergic, noradrenergic, and GABAergic (gamma‐aminobutric acid) neurotransmission.
+  We apply JuSpace to two datasets covering Parkinson's disease patients (PD) and
+  risperidone‐induced changes in rsfMRI and cerebral blood flow (CBF). Consistently
+  with the predominant neurodegeneration of dopaminergic and serotonergic system in
+  PD, we find significant spatial associations between rsfMRI activity alterations
+  in PD and dopaminergic (D2) and serotonergic systems (5‐HT1b). Risperidone induced
+  CBF alterations were correlated with its main targets in serotonergic and dopaminergic
+  systems. JuSpace provides a biologically meaningful framework for linking neuroimaging
+  to underlying neurotransmitter information.
+generated_by:
+- at_location: ISSN:1065-9471
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/hbm.25244
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/ec1fea49-3b95-4bb5-ae5d-91db7b48a2dd
+schema_type: xyzri:XYZPublication
+title: 'JuSpace : A tool for spatial correlation analyses of magnetic resonance imaging
+  data with nuclear imaging derived neurotransmitter maps'

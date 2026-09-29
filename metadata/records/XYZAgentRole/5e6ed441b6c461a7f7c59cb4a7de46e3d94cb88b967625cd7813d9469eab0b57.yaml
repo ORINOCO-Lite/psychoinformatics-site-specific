@@ -1,0 +1,5 @@
+description: A person, family, or organization honored by a work or item (e.g., the
+  honoree of a festschrift, a person to whom a copy is presented)
+display_label: Honoree
+pid: marcrel:hnr
+schema_type: xyzri:XYZAgentRole

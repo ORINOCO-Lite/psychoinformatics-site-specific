@@ -1,0 +1,106 @@
+attributed_to:
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/69ecde4d-415d-4c33-8225-8f761863ebe6
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Lifetime exposure to depression and neuroimaging measures of brain structure
+    and function
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Importance  Despite decades of neuroimaging studies reporting brain structural
+    and functional alterations in depression, discrepancies in findings across studies
+    and limited convergence across meta-analyses have raised questions about the consistency
+    and robustness of the observed brain phenotypes.Objective  To investigate the
+    associations between 6 operational criteria of lifetime exposure to depression
+    and functional and structural neuroimaging measures.Design, Setting, and Participants  This
+    cross-sectional study analyzed data from a UK Biobank cohort of individuals aged
+    45 to 80 years who were enrolled between January 1, 2014, and December 31, 2018.
+    Participants included individuals with a lifetime exposure to depression and matched
+    healthy controls without indications of psychosis, mental illness, behavior disorder,
+    and disease of the nervous system. Six operational criteria of lifetime exposure
+    to depression were evaluated: help seeking for depression; self-reported depression;
+    antidepressant use; depression definition by Smith et al; hospital International
+    Statistical Classification of Diseases and Related Health Problems, Tenth Revision
+    (ICD-10) diagnosis codes F32 and F33; and Composite International Diagnostic Interview
+    Short Form score. Six increasingly restrictive depression definitions and groups
+    were defined based on the 6 depression criteria, ranging from meeting only 1 criterion
+    to meeting all 6 criteria. Data were analyzed between January and October 2022.Main
+    Outcomes and Measures  Functional measures were calculated using voxel-wise fractional
+    amplitude of low-frequency fluctuation (fALFF), global correlation (GCOR), and
+    local correlation (LCOR). Structural measures were calculated using gray matter
+    volume (GMV).Results  The study included 20 484 individuals with lifetime depression
+    (12 645 females [61.7%]; mean [SD] age, 63.91 [7.60] years) and 25 462 healthy
+    controls (14 078 males [55.3%]; mean [SD] age, 65.05 [7.8] years). Across all
+    depression criteria, individuals with lifetime depression displayed regionally
+    consistent decreases in fALFF, LCOR, and GCOR (Cohen d range, −0.53 [95% CI, −0.88
+    to −0.15] to −0.04 [95% CI, −0.07 to −0.01]) but not in GMV (Cohen d range, −0.47
+    [95 % CI, −0.75 to −0.12] to 0.26 [95% CI, 0.15-0.37]). Hospital ICD-10 diagnosis
+    codes F32 and F33 (median [IQR] difference in effect sizes, −0.14 [−0.17 to −0.11])
+    and antidepressant use (median [IQR] difference in effect sizes, −0.12 [−0.16
+    to −0.10]) were criteria associated with the most pronounced alterations.Conclusions
+    and Relevance  Results of this cross-sectional study indicate that lifetime exposure
+    to depression was associated with robust functional changes, with a more restrictive
+    depression definition revealing more pronounced alterations. Different inclusion
+    criteria for depression may be associated with the substantial variation in imaging
+    findings reported in the literature.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Importance  Despite decades of neuroimaging studies reporting brain
+  structural and functional alterations in depression, discrepancies in findings across
+  studies and limited convergence across meta-analyses have raised questions about
+  the consistency and robustness of the observed brain phenotypes.Objective  To investigate
+  the associations between 6 operational criteria of lifetime exposure to depression
+  and functional and structural neuroimaging measures.Design, Setting, and Participants  This
+  cross-sectional study analyzed data from a UK Biobank cohort of individuals aged
+  45 to 80 years who were enrolled between January 1, 2014, and December 31, 2018.
+  Participants included individuals with a lifetime exposure to depression and matched
+  healthy controls without indications of psychosis, mental illness, behavior disorder,
+  and disease of the nervous system. Six operational criteria of lifetime exposure
+  to depression were evaluated: help seeking for depression; self-reported depression;
+  antidepressant use; depression definition by Smith et al; hospital International
+  Statistical Classification of Diseases and Related Health Problems, Tenth Revision
+  (ICD-10) diagnosis codes F32 and F33; and Composite International Diagnostic Interview
+  Short Form score. Six increasingly restrictive depression definitions and groups
+  were defined based on the 6 depression criteria, ranging from meeting only 1 criterion
+  to meeting all 6 criteria. Data were analyzed between January and October 2022.Main
+  Outcomes and Measures  Functional measures were calculated using voxel-wise fractional
+  amplitude of low-frequency fluctuation (fALFF), global correlation (GCOR), and local
+  correlation (LCOR). Structural measures were calculated using gray matter volume
+  (GMV).Results  The study included 20 484 individuals with lifetime depression (12 645
+  females [61.7%]; mean [SD] age, 63.91 [7.60] years) and 25 462 healthy controls
+  (14 078 males [55.3%]; mean [SD] age, 65.05 [7.8] years). Across all depression
+  criteria, individuals with lifetime depression displayed regionally consistent decreases
+  in fALFF, LCOR, and GCOR (Cohen d range, −0.53 [95% CI, −0.88 to −0.15] to −0.04
+  [95% CI, −0.07 to −0.01]) but not in GMV (Cohen d range, −0.47 [95 % CI, −0.75 to
+  −0.12] to 0.26 [95% CI, 0.15-0.37]). Hospital ICD-10 diagnosis codes F32 and F33
+  (median [IQR] difference in effect sizes, −0.14 [−0.17 to −0.11]) and antidepressant
+  use (median [IQR] difference in effect sizes, −0.12 [−0.16 to −0.10]) were criteria
+  associated with the most pronounced alterations.Conclusions and Relevance  Results
+  of this cross-sectional study indicate that lifetime exposure to depression was
+  associated with robust functional changes, with a more restrictive depression definition
+  revealing more pronounced alterations. Different inclusion criteria for depression
+  may be associated with the substantial variation in imaging findings reported in
+  the literature.'
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:2574-3805
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1001/jamanetworkopen.2023.56787
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/15394ed8-409a-4a54-9fdf-b0be12fc0c98
+schema_type: xyzri:XYZPublication
+title: Lifetime exposure to depression and neuroimaging measures of brain structure
+  and function

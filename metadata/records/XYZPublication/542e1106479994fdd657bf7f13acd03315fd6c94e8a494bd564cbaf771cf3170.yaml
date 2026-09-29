@@ -1,0 +1,56 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/6761809d-d48f-4912-a316-12a5e2fa32f4
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d4e23096-f9d8-47e0-bb48-a25ba181f202
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Cumulative cortisol exposure in the third trimester correlates with postpartum
+    mothers' neural response to emotional interference
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Prolonged stress affects the central nervous system, rendering individuals
+    vulnerable to a wide range of mental health disorders. 76 healthy postpartum mothers
+    were studied by means of functional magnetic resonance imaging within 6 days of
+    childbirth. The subjects were required to perform the emotional Stroop task involving
+    happy and anxious word-face combinations. Hair samples were collected to determine
+    cumulative hair cortisol concentration (HCC) in the third trimester.HCC was found
+    to be negatively correlated with the recruitment of the dorsal anterior cingulate
+    cortex (ACC) and the midcingulate cortex (MCC). In response to the emotional interference
+    of only anxious target faces, a negative correlation was seen between HCC and
+    the bilateral orbitofrontal cortex, extending to the rostral ACC and the MCC.Women
+    with lower HCC recruited brain areas relevant to emotional cognitive control,
+    indicating that lower HCC helps preserve conflict monitoring and resolution capacities
+    and thus benefits mental health in pregnancy.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Prolonged stress affects the central nervous system, rendering individuals
+  vulnerable to a wide range of mental health disorders. 76 healthy postpartum mothers
+  were studied by means of functional magnetic resonance imaging within 6 days of
+  childbirth. The subjects were required to perform the emotional Stroop task involving
+  happy and anxious word-face combinations. Hair samples were collected to determine
+  cumulative hair cortisol concentration (HCC) in the third trimester.HCC was found
+  to be negatively correlated with the recruitment of the dorsal anterior cingulate
+  cortex (ACC) and the midcingulate cortex (MCC). In response to the emotional interference
+  of only anxious target faces, a negative correlation was seen between HCC and the
+  bilateral orbitofrontal cortex, extending to the rostral ACC and the MCC.Women with
+  lower HCC recruited brain areas relevant to emotional cognitive control, indicating
+  that lower HCC helps preserve conflict monitoring and resolution capacities and
+  thus benefits mental health in pregnancy.
+generated_by:
+- at_location: ISSN:0301-0511
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.biopsycho.2019.02.008
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/9f601e78-e4c7-48f5-bc4e-37a65e983694
+schema_type: xyzri:XYZPublication
+title: Cumulative cortisol exposure in the third trimester correlates with postpartum
+  mothers' neural response to emotional interference

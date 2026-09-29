@@ -1,0 +1,30 @@
+attributed_to:
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Transcutaneous auricular vagus nerve stimulation for the treatment of myoarthropatic
+    symptoms in patients with craniomandibular dysfunction – a protocol for a randomized
+    and controlled pilot trial
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2055-5784
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1186/s40814-024-01447-x
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/923762df-a2c8-4a80-9716-02ca6d37774f
+schema_type: xyzri:XYZPublication
+title: Transcutaneous auricular vagus nerve stimulation for the treatment of myoarthropatic
+  symptoms in patients with craniomandibular dysfunction – a protocol for a randomized
+  and controlled pilot trial

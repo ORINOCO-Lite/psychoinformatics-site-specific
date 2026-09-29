@@ -1,0 +1,5 @@
+description: A document that presents authoritative reference information, such as
+  a dictionary or encylopedia .
+display_label: Reference Source
+pid: bibo:ReferenceSource
+schema_type: xyzri:XYZBibliographicType

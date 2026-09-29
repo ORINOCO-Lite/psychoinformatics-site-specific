@@ -1,0 +1,4 @@
+description: A person who directed or managed a research project
+display_label: Research team head
+pid: marcrel:rth
+schema_type: xyzri:XYZAgentRole

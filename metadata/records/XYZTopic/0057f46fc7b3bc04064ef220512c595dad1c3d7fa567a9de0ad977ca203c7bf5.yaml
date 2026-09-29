@@ -1,0 +1,6 @@
+display_label: Research software engineering (RSE)
+part_of:
+- xyzrins:topics/research
+- xyzrins:topics/software-engineering
+pid: xyzrins:topics/research-software-engineering
+schema_type: xyzri:XYZTopic

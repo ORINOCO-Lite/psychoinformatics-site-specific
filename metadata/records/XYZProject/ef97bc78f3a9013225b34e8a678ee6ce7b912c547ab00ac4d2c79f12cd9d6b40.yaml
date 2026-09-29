@@ -1,0 +1,38 @@
+associated_with:
+- object: xyzrins:persons/3764fca4-0337-4395-a553-9be5d479df80
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+description: HELIA is developing a mobile robotic assistance system designed to provide
+  flexible support to healthcare professionals in their day-to-day clinical work.
+  At its core is a no-code approach (EPG system), which enables clinical staff without
+  programming knowledge to create new tasks for a service robot, based on AI models
+  such as vision-language and large-language models. In parallel, the development
+  and testing of the HELIA system are being subjected to a comprehensive ethical,
+  legal and medical analysis, particularly with regard to data protection, transparency
+  and its use with vulnerable patient groups. This analysis takes into account current
+  and future regulatory frameworks such as the GDPR, the AI Act and the European Health
+  Data Space, and links them to practical experience gained from clinical trials.
+  The aim is to develop practical ethical guidelines for the use of AI-supported robotics
+  in medicine and to utilise these scientifically.
+ended:
+  at_time: '2028-09-30'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2028-09-30'
+    schema_type: dlthings:End
+  object: xyzrins:grants/a1a89bb1-5596-439a-ac65-903494549bd2
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2025-10-01'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/c2d2a0d0-a974-46f3-994c-a2699df44b22
+schema_type: xyzri:XYZProject
+short_name: HELIA
+started:
+  at_time: '2025-10-01'
+  schema_type: dlthings:Start
+title: 'HELIA: Helfender Roboter im Klinikalltag'

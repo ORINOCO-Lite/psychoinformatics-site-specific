@@ -1,0 +1,9 @@
+display_note: ISSN:0890-8567
+identifiers:
+- creator: ror:026ytr635
+  notation: 0890-8567
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:0890-8567
+schema_type: xyzri:XYZPublicationVenue
+title: Journal Of The American Academy Of Child And Adolescent Psychiatry

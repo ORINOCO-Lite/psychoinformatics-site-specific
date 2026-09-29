@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Bioactivity assessment of natural compounds using machine learning models
+    trained on target similarity between drugs
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Natural compounds constitute a rich resource of potential small molecule
+    therapeutics. While experimental access to this resource is limited due to its
+    vast diversity and difficulties in systematic purification, computational assessment
+    of structural similarity with known therapeutic molecules offers a scalable approach.
+    Here, we assessed functional similarity between natural compounds and approved
+    drugs by combining multiple chemical similarity metrics and physicochemical properties
+    using a machine-learning approach. We computed pairwise similarities between 1410
+    drugs for training classification models and used the drugs shared protein targets
+    as class labels. The best performing models were random forest which gave an average
+    area under the ROC of 0.9, Matthews correlation coefficient of 0.35, and F1 score
+    of 0.33, suggesting that it captured the structure-activity relation well. The
+    models were then used to predict protein targets of circa 11k natural compounds
+    by comparing them with the drugs. This revealed therapeutic potential of several
+    natural compounds, including those with support from previously published sources
+    as well as those hitherto unexplored. We experimentally validated one of the predicted
+    pair’s activities, viz., Cox-1 inhibition by 5-methoxysalicylic acid, a molecule
+    commonly found in tea, herbs and spices. In contrast, another natural compound,
+    4-isopropylbenzoic acid, with the highest similarity score when considering most
+    weighted similarity metric but not picked by our models, did not inhibit Cox-1.
+    Our results demonstrate the utility of a machine-learning approach combining multiple
+    chemical features for uncovering protein binding potential of natural compounds.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Natural compounds constitute a rich resource of potential small molecule
+  therapeutics. While experimental access to this resource is limited due to its vast
+  diversity and difficulties in systematic purification, computational assessment
+  of structural similarity with known therapeutic molecules offers a scalable approach.
+  Here, we assessed functional similarity between natural compounds and approved drugs
+  by combining multiple chemical similarity metrics and physicochemical properties
+  using a machine-learning approach. We computed pairwise similarities between 1410
+  drugs for training classification models and used the drugs shared protein targets
+  as class labels. The best performing models were random forest which gave an average
+  area under the ROC of 0.9, Matthews correlation coefficient of 0.35, and F1 score
+  of 0.33, suggesting that it captured the structure-activity relation well. The models
+  were then used to predict protein targets of circa 11k natural compounds by comparing
+  them with the drugs. This revealed therapeutic potential of several natural compounds,
+  including those with support from previously published sources as well as those
+  hitherto unexplored. We experimentally validated one of the predicted pair’s activities,
+  viz., Cox-1 inhibition by 5-methoxysalicylic acid, a molecule commonly found in
+  tea, herbs and spices. In contrast, another natural compound, 4-isopropylbenzoic
+  acid, with the highest similarity score when considering most weighted similarity
+  metric but not picked by our models, did not inhibit Cox-1. Our results demonstrate
+  the utility of a machine-learning approach combining multiple chemical features
+  for uncovering protein binding potential of natural compounds.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1553-734X
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1371/journal.pcbi.1010029
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/068d2d54-6201-4c8a-8ac7-1870c3f7223e
+schema_type: xyzri:XYZPublication
+title: Bioactivity assessment of natural compounds using machine learning models trained
+  on target similarity between drugs

@@ -1,0 +1,34 @@
+assertions:
+- assertion_sha256: sha256:09d181470983d39f3a49773fb0f343f8dbf9471f96897cd0e7441c880cc4ac0e
+  path: /attributed_to
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/868058
+- assertion_sha256: sha256:0ec54bb8435f4bd173be4a8072a27643e598db88c19726e3946a0b91191f870c
+  path: /attributed_to
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/868058
+- assertion_sha256: sha256:5ae3ef12376ebd83e8645c65b7c653bbb317a60e38b3cb8ad2c24b70899b7b94
+  path: /attributed_to
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/868058
+- assertion_sha256: sha256:e84bdb5afeb0e3357484b6ed27cca6494902718736b5a36663bd593853818d04
+  path: /attributed_to
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/868058
+- assertion_sha256: sha256:f35afd1a2e8b02436b07fa05159b58aa90bbad945ddbe8a37739649b70c3ea69
+  path: /attributed_to
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/868058
+- assertion_sha256: sha256:f2d32288069cc5701d25f5c9937fdc2008da3c1e3bb393f1d28515a0ee0c2392
+  path: /attributes
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/868058
+- assertion_sha256: sha256:f5550eadb4ba9789bd220601405fa6b015469c11a83cc62120482852e4edb6d1
+  path: /attributes
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/868058
+- assertion_sha256: sha256:65dfeaf4193b1ea669a6fa619a6aa728a3af2ff54740b5c56e440d0de5fb5399
+  path: /identifiers
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/868058
+record: xyzrins:publications/e2a03a26-64c1-413f-9266-2347945ac18f

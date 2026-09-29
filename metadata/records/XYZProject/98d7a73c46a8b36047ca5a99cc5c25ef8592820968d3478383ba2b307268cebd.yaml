@@ -1,0 +1,27 @@
+associated_with:
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+description: Sarah's Heisenberg Professorship
+ended:
+  at_time: '2027-02-28'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2027-02-28'
+    schema_type: dlthings:End
+  object: xyzrins:grants/06f661d1-7a15-4f02-be83-eeff9ca42947
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2022-01-03'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/831fd706-70d5-4f5c-8cb9-bac68da8a0b0
+schema_type: xyzri:XYZProject
+started:
+  at_time: '2022-03-01'
+  schema_type: dlthings:Start
+title: Exploring modulating factors and  predictive utility of patterns of  brain-behaviour
+  relationships  with statistical learning

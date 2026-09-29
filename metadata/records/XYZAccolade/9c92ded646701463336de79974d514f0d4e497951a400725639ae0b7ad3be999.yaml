@@ -1,0 +1,14 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-06-19T13:10:56.744045'
+depiction:
+- xyzrins:depictions/a05e90e0-7577-4949-b2d2-e3304f52d832
+influenced_by:
+- editorial_notes:
+  - We are missing a role that can be used to declare an object to be the submitted
+    work that caused a merit-based award.
+  object: xyzrins:publications/379d0ef3-c467-4cd4-9912-a15a6d082204
+  schema_type: xyzri:XYZInfluence
+pid: xyzrins:accolades/b6b70f5d-7707-4e67-9193-e01f31f576ff
+schema_type: xyzri:XYZAccolade
+title: OHBM2026 People's choice award

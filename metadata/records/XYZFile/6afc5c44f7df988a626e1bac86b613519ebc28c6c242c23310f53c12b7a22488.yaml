@@ -1,0 +1,15 @@
+byte_size: 17460
+characterized_by:
+- object: https://hub.psychoinformatics.de/git-annex-p2phttp/git-annex/f1a8ef1c-6d8a-40e3-970f-4634390d961f/key/SHA256E-s17460--05cb8e200e755515c46011947fdedd89249df98d799dcd989fd224feed2d2352.svg
+  predicate: dcat:downloadUrl
+- object: https://hub.psychoinformatics.de/git-annex-p2phttp/git-annex/cedde37c-416a-41fd-87e0-4ac100df4bf7/key/SHA256E-s17460--05cb8e200e755515c46011947fdedd89249df98d799dcd989fd224feed2d2352.svg
+  predicate: dcat:downloadUrl
+checksums:
+- creator: spdx:checksumAlgorithm_sha256
+  notation: 05cb8e200e755515c46011947fdedd89249df98d799dcd989fd224feed2d2352
+  schema_type: dlthings:Checksum
+display_label: logo_trr379.svg
+distribution_of:
+- xyzrins:depictions/logo_trr379
+pid: dldi:SHA256E-s17460--05cb8e200e755515c46011947fdedd89249df98d799dcd989fd224feed2d2352.svg
+schema_type: xyzri:XYZFile

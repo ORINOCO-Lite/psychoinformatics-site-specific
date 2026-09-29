@@ -1,0 +1,12 @@
+attributes:
+- predicate: spdx:isOsiApproved
+  schema_type: dlthings:AttributeSpecification
+  value: obo:NCIT_C68850
+- predicate: spdx:isFsfLibre
+  schema_type: dlthings:AttributeSpecification
+  value: obo:NCIT_C68850
+broad_mappings:
+- dcterms:LicenseDocument
+display_label: PHP License v3.01
+pid: spdxlic:PHP-3.01
+schema_type: dlthings:Rule

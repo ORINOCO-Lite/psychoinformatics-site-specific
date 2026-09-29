@@ -1,0 +1,5 @@
+description: A person, family, or organization responsible for recording the minutes
+  of a meeting
+display_label: Minute taker
+pid: marcrel:mtk
+schema_type: xyzri:XYZAgentRole

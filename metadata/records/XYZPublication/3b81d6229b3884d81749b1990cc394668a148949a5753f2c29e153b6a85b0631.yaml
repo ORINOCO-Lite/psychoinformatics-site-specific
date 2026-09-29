@@ -1,0 +1,82 @@
+attributed_to:
+- object: xyzrins:persons/3efc5cfa-a10c-4c65-9bcf-36ad37d9b7e0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Brain-age prediction: A systematic comparison of machine learning workflows'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The difference between age predicted using anatomical brain scans and chronological
+    age, i.e., the brain-age delta, provides a proxy for atypical aging. Various data
+    representations and machine learning (ML) algorithms have been used for brain-age
+    estimation. However, how these choices compare on performance criteria important
+    for real-world applications, such as; (1) within-dataset accuracy, (2) cross-dataset
+    generalization, (3) test-retest reliability, and (4) longitudinal consistency,
+    remains uncharacterized. We evaluated 128 workflows consisting of 16 feature representations
+    derived from gray matter (GM) images and eight ML algorithms with diverse inductive
+    biases. Using four large neuroimaging databases covering the adult lifespan (total
+    N = 2953, 18–88 years), we followed a systematic model selection procedure by
+    sequentially applying stringent criteria. The 128 workflows showed a within-dataset
+    mean absolute error (MAE) between 4.73–8.38 years, from which 32 broadly sampled
+    workflows showed a cross-dataset MAE between 5.23–8.98 years. The test-retest
+    reliability and longitudinal consistency of the top 10 workflows were comparable.
+    The choice of feature representation and the ML algorithm both affected the performance.
+    Specifically, voxel-wise feature spaces (smoothed and resampled), with and without
+    principal components analysis, with non-linear and kernel-based ML algorithms
+    performed well. Strikingly, the correlation of brain-age delta with behavioral
+    measures disagreed between within-dataset and cross-dataset predictions. Application
+    of the best-performing workflow on the ADNI sample showed a significantly higher
+    brain-age delta in Alzheimer's and mild cognitive impairment patients compared
+    to healthy controls. However, in the presence of age bias, the delta estimates
+    in the patients varied depending on the sample used for bias correction. Taken
+    together, brain-age shows promise, but further evaluation and improvements are
+    needed for its real-world application.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The difference between age predicted using anatomical brain scans and
+  chronological age, i.e., the brain-age delta, provides a proxy for atypical aging.
+  Various data representations and machine learning (ML) algorithms have been used
+  for brain-age estimation. However, how these choices compare on performance criteria
+  important for real-world applications, such as; (1) within-dataset accuracy, (2)
+  cross-dataset generalization, (3) test-retest reliability, and (4) longitudinal
+  consistency, remains uncharacterized. We evaluated 128 workflows consisting of 16
+  feature representations derived from gray matter (GM) images and eight ML algorithms
+  with diverse inductive biases. Using four large neuroimaging databases covering
+  the adult lifespan (total N = 2953, 18–88 years), we followed a systematic model
+  selection procedure by sequentially applying stringent criteria. The 128 workflows
+  showed a within-dataset mean absolute error (MAE) between 4.73–8.38 years, from
+  which 32 broadly sampled workflows showed a cross-dataset MAE between 5.23–8.98
+  years. The test-retest reliability and longitudinal consistency of the top 10 workflows
+  were comparable. The choice of feature representation and the ML algorithm both
+  affected the performance. Specifically, voxel-wise feature spaces (smoothed and
+  resampled), with and without principal components analysis, with non-linear and
+  kernel-based ML algorithms performed well. Strikingly, the correlation of brain-age
+  delta with behavioral measures disagreed between within-dataset and cross-dataset
+  predictions. Application of the best-performing workflow on the ADNI sample showed
+  a significantly higher brain-age delta in Alzheimer's and mild cognitive impairment
+  patients compared to healthy controls. However, in the presence of age bias, the
+  delta estimates in the patients varied depending on the sample used for bias correction.
+  Taken together, brain-age shows promise, but further evaluation and improvements
+  are needed for its real-world application.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2023.119947
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/f9456e2a-edf9-4253-bcef-71ab3b6e1a6b
+schema_type: xyzri:XYZPublication
+title: 'Brain-age prediction: A systematic comparison of machine learning workflows'

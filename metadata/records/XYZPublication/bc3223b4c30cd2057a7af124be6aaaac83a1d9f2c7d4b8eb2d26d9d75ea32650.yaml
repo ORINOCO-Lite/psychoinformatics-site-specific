@@ -1,0 +1,60 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d44b2ca0-e927-4495-939e-a05fac8e2aca
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Qualitätsindikatoren künstliche Intelligenz - Quality indicators artificial
+    intelligence
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The ability of some artificial intelligence (AI) systems to autonomously
+    evolve and the sometimes very limited possibilities to comprehend their decision-making
+    processes present new challenges to our legal system. At a European level this
+    has led to reform efforts, of which the proposal for a European AI regulation
+    promises to close regulatory gaps in existing product safety law through cross-sectoral
+    AI-specific safety requirements. A prerequisite, however, would be that the EU
+    legislator does not only avoid duplications and contradictions with existing safety
+    requirements but also refrains from imposing exaggerated and unattainable demands.
+    If this were to be taken into consideration, the new safety requirements could
+    also be used to specify the undefined standard of care in liability law. Nevertheless,
+    challenges in the context of provability continue to remain unresolved, posing
+    a risk of rendering the legal protection efforts of the aggrieved party ineffective.
+    It remains to be seen whether the EU legislator will address this need for reform
+    with the recently proposed reform of product liability law by the Commission.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The ability of some artificial intelligence (AI) systems to autonomously
+  evolve and the sometimes very limited possibilities to comprehend their decision-making
+  processes present new challenges to our legal system. At a European level this has
+  led to reform efforts, of which the proposal for a European AI regulation promises
+  to close regulatory gaps in existing product safety law through cross-sectoral AI-specific
+  safety requirements. A prerequisite, however, would be that the EU legislator does
+  not only avoid duplications and contradictions with existing safety requirements
+  but also refrains from imposing exaggerated and unattainable demands. If this were
+  to be taken into consideration, the new safety requirements could also be used to
+  specify the undefined standard of care in liability law. Nevertheless, challenges
+  in the context of provability continue to remain unresolved, posing a risk of rendering
+  the legal protection efforts of the aggrieved party ineffective. It remains to be
+  seen whether the EU legislator will address this need for reform with the recently
+  proposed reform of product liability law by the Commission.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:0028-2804
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00115-023-01573-6
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/593d154f-4b06-4a94-a826-e34eed6e3b70
+schema_type: xyzri:XYZPublication
+title: Qualitätsindikatoren künstliche Intelligenz - Quality indicators artificial
+  intelligence

@@ -1,0 +1,9 @@
+attributed_to:
+- object: xyzrins:organizations/fzj
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+pid: xyzrins:grants/797b5f7a-96b3-4175-86a6-9fa41742b9b8
+schema_type: xyzri:XYZGrant
+short_name: Case-E
+title: Entwicklung einer Case Report Form Umgebung für klinische Studien

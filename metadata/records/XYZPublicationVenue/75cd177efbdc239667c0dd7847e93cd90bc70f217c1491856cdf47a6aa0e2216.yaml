@@ -1,0 +1,9 @@
+display_note: ISSN:2076-3425
+identifiers:
+- creator: ror:026ytr635
+  notation: 2076-3425
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:2076-3425
+schema_type: xyzri:XYZPublicationVenue
+title: Brain Sciences

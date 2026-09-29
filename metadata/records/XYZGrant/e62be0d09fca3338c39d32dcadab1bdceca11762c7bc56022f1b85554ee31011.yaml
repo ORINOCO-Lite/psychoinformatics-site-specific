@@ -1,0 +1,9 @@
+attributed_to:
+- object: ror:01wxdd722
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+pid: xyzrins:grants/e7661099-df2d-4d97-9123-d1e90135a245
+schema_type: xyzri:XYZGrant
+short_name: ONCOverse
+title: ' Patient-centric and intuitive evidence generation in Pancreatic Cancer'

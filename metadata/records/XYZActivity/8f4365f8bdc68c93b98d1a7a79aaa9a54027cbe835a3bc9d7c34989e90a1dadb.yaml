@@ -1,0 +1,9 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-06-13T08:55:26.687491'
+description: A Behavioral Experimental Paradigm in which, in at least one of the conditions,
+  Subjects view movie or film clips passively or are required to make a discrimination
+  when the clip is over.
+name: Film Viewing Paradigm
+pid: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00060
+schema_type: xyzri:XYZActivity

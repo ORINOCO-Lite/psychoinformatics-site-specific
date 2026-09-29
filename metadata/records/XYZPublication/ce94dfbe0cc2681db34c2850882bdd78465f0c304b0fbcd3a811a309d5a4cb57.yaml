@@ -1,0 +1,50 @@
+attributed_to:
+- object: xyzrins:persons/60feb346-954c-4625-93d6-1b8bd1ca0dfa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/32b961f5-689a-478b-946c-c9b009951e74
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/3cf923ff-969d-4224-bb7b-9f319f0b1564
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Künstliche Intelligenz in der Kinder- und Jugendmedizin - Artificial intelligence
+    in pediatric and adolescent medicine
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Durch die rasanten Entwicklungen im Bereich der künstlichen Intelligenz (KI)
+    ergeben sich zahlreiche neue Diagnostik- und Therapieoptionen in der Kinder- und
+    Jugendmedizin. Gleichzeitig werfen diese Entwicklungen aber auch vielfältige Fragen
+    auf. In diesem Beitrag beleuchten wir, welche Faktoren für die Akzeptanz von KI
+    in der Kinder- und Jugendmedizin wichtig sind, und skizzieren einige ethische
+    und rechtliche Fragen. Eine interdisziplinäre Perspektive und ein sorgsamer Umgang
+    mit Bedenken oder Ängsten ist unabdingbar, um diesen Herausforderungen zu begegnen
+    und die sich durch KI eröffnenden Chancen nutzen zu können.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Durch die rasanten Entwicklungen im Bereich der künstlichen Intelligenz
+  (KI) ergeben sich zahlreiche neue Diagnostik- und Therapieoptionen in der Kinder-
+  und Jugendmedizin. Gleichzeitig werfen diese Entwicklungen aber auch vielfältige
+  Fragen auf. In diesem Beitrag beleuchten wir, welche Faktoren für die Akzeptanz
+  von KI in der Kinder- und Jugendmedizin wichtig sind, und skizzieren einige ethische
+  und rechtliche Fragen. Eine interdisziplinäre Perspektive und ein sorgsamer Umgang
+  mit Bedenken oder Ängsten ist unabdingbar, um diesen Herausforderungen zu begegnen
+  und die sich durch KI eröffnenden Chancen nutzen zu können.
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:0026-9298
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00112-025-02139-3
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/036c2769-9cdc-4193-a65d-933c5318eb08
+schema_type: xyzri:XYZPublication
+title: Künstliche Intelligenz in der Kinder- und Jugendmedizin - Artificial intelligence
+  in pediatric and adolescent medicine

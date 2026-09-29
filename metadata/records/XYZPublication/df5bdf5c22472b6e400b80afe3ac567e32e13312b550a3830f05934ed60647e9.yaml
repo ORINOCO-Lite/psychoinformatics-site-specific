@@ -1,0 +1,55 @@
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: A pragmatic approach to reusable research outputs
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Science is an incremental process that produces and builds on more than
+    journal articles¹. Code, data, results, or tools of previous finished or unfinished
+    projects (research outputs) fuel new undertakings.Reusing research objects allows
+    for reproduction, verification, and extending existing work, evidence synthesis,
+    and minimizing duplicate efforts². The more reusable outputs are, at any stage
+    of a project, the better.                                             The FAIR
+    principles³ center around richly curated metadata to reach maximal reusability.
+    In practice, creating fully FAIR resources is difficult in systems that yet lack
+    or fail to incentivize the necessary standards and procedures. But reusability
+    should be improved nevertheless.We highlight four widely accessible strategies
+    that can elevate reusability as a byproduct of pragmatic research data management,
+    even when compliance to FAIR is not yet possible.                                          ¹
+    Mons, B. (2018). Data Stewardship for Open Science: Implementing  FAIR Principles.
+    CRC Press. ISBN 9780815348184² Thanos, C. (2017). Research Data Reusability: Conceptual
+    Foundations,  Barriers and Enabling Technologies. doi.org/10.3390/publications5010002³
+    Wilkinson, M. D. et al., (2016). The FAIR Guiding Principles for scientific  data
+    management and stewardship. doi.org/10.1038/sdata.2016.18'
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+description: 'Science is an incremental process that produces and builds on more than
+  journal articles¹. Code, data, results, or tools of previous finished or unfinished
+  projects (research outputs) fuel new undertakings.Reusing research objects allows
+  for reproduction, verification, and extending existing work, evidence synthesis,
+  and minimizing duplicate efforts². The more reusable outputs are, at any stage of
+  a project, the better.                                             The FAIR principles³
+  center around richly curated metadata to reach maximal reusability. In practice,
+  creating fully FAIR resources is difficult in systems that yet lack or fail to incentivize
+  the necessary standards and procedures. But reusability should be improved nevertheless.We
+  highlight four widely accessible strategies that can elevate reusability as a byproduct
+  of pragmatic research data management, even when compliance to FAIR is not yet possible.                                          ¹
+  Mons, B. (2018). Data Stewardship for Open Science: Implementing  FAIR Principles.
+  CRC Press. ISBN 9780815348184² Thanos, C. (2017). Research Data Reusability: Conceptual
+  Foundations,  Barriers and Enabling Technologies. doi.org/10.3390/publications5010002³
+  Wilkinson, M. D. et al., (2016). The FAIR Guiding Principles for scientific  data
+  management and stewardship. doi.org/10.1038/sdata.2016.18'
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.7490/F1000RESEARCH.1118575.1
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/fdbfa7ad-fd58-4a67-80ce-c6f140c6f614
+schema_type: xyzri:XYZPublication
+title: A pragmatic approach to reusable research outputs

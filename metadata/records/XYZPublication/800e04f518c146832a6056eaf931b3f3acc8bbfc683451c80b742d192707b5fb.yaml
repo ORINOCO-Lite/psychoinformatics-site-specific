@@ -1,0 +1,54 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c6d47fbc-8b3c-46d1-9558-1f3b94ec9141
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Simulated brain networks reflecting progression of Parkinson's disease
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Neurodegenerative progression of Parkinson’s disease affects brain structure
+    and function and, concomitantly, alters topological properties of brain networks.
+    The network alteration accompanied with motor impairment and duration of the disease
+    is not yet clearly demonstrated in the disease progression. In this study, we
+    aim at resolving this problem with a modeling approach based on large-scale brain
+    networks from cross-sectional MRI data. Optimizing whole-brain simulation models
+    allows us to discover brain networks showing unexplored relationships with clinical
+    variables. We observe that simulated brain networks exhibit significant differences
+    between healthy controls (n=51) and patients with Parkinson’s disease (n=60) and
+    strongly correlate with disease severity and disease duration of the patients.
+    Moreover, the modeling results outperform the empirical brain networks in these
+    clinical measures. Consequently, this study demonstrates that utilizing simulated
+    brain networks provides an enhanced view on network alterations in the progression
+    of motor impairment and potential biomarkers for clinical indices.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Neurodegenerative progression of Parkinson’s disease affects brain structure
+  and function and, concomitantly, alters topological properties of brain networks.
+  The network alteration accompanied with motor impairment and duration of the disease
+  is not yet clearly demonstrated in the disease progression. In this study, we aim
+  at resolving this problem with a modeling approach based on large-scale brain networks
+  from cross-sectional MRI data. Optimizing whole-brain simulation models allows us
+  to discover brain networks showing unexplored relationships with clinical variables.
+  We observe that simulated brain networks exhibit significant differences between
+  healthy controls (n=51) and patients with Parkinson’s disease (n=60) and strongly
+  correlate with disease severity and disease duration of the patients. Moreover,
+  the modeling results outperform the empirical brain networks in these clinical measures.
+  Consequently, this study demonstrates that utilizing simulated brain networks provides
+  an enhanced view on network alterations in the progression of motor impairment and
+  potential biomarkers for clinical indices.
+generated_by:
+- at_location: ISSN:2472-1751
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1162/netn_a_00406
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/1a3f8d03-f5f5-4b8c-a358-33b4ed6fe920
+schema_type: xyzri:XYZPublication
+title: Simulated brain networks reflecting progression of Parkinson's disease

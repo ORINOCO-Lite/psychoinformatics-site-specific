@@ -1,0 +1,66 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Neurite density imaging in amygdala nuclei reveals interindividual differences
+    in neuroticism
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Neuroticism is known to have significant health implications. While previous
+    research revealed that interindividual differences in the amygdala function are
+    associated with interindividual differences in neuroticism, the impact of the
+    amygdala's structure and especially microstructure on variations in neuroticism
+    remains unclear. Here, we present the first study using NODDI to examine the association
+    between the in vivo microstructural architecture of the amygdala and neuroticism
+    at the level of neurites. We, therefore, acquired brain images from 221 healthy
+    participants using advanced multi-shell diffusion-weighted imaging. Because the
+    amygdala comprises several nuclei, we, moreover, used a high-resolution T1 image
+    to automatically segment the amygdala into eight different nuclei. Neuroticism
+    and its facets have been assessed using the NEO-PI-R. Finally, we associated neuroticism
+    and its facets with the volume and microstructure of the amygdala nuclei. Statistical
+    analysis revealed that lower neurite density in the lateral amygdala nucleus (La)
+    was significantly associated with higher scores in depression, one of the six
+    neuroticism facets. The La is the sensory relay of the amygdala, filtering incoming
+    information based on previous experiences. Reduced neurite density and related
+    changes in the dendritic structure of the La could impair its filtering function.
+    This again might cause harmless sensory information to be misevaluated as threatening
+    and lead to the altered amygdala responsivity as reported in previous studies
+    investigating the functional correlates of neuroticism and neuroticism-related
+    disorders like depression.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Neuroticism is known to have significant health implications. While previous
+  research revealed that interindividual differences in the amygdala function are
+  associated with interindividual differences in neuroticism, the impact of the amygdala's
+  structure and especially microstructure on variations in neuroticism remains unclear.
+  Here, we present the first study using NODDI to examine the association between
+  the in vivo microstructural architecture of the amygdala and neuroticism at the
+  level of neurites. We, therefore, acquired brain images from 221 healthy participants
+  using advanced multi-shell diffusion-weighted imaging. Because the amygdala comprises
+  several nuclei, we, moreover, used a high-resolution T1 image to automatically segment
+  the amygdala into eight different nuclei. Neuroticism and its facets have been assessed
+  using the NEO-PI-R. Finally, we associated neuroticism and its facets with the volume
+  and microstructure of the amygdala nuclei. Statistical analysis revealed that lower
+  neurite density in the lateral amygdala nucleus (La) was significantly associated
+  with higher scores in depression, one of the six neuroticism facets. The La is the
+  sensory relay of the amygdala, filtering incoming information based on previous
+  experiences. Reduced neurite density and related changes in the dendritic structure
+  of the La could impair its filtering function. This again might cause harmless sensory
+  information to be misevaluated as threatening and lead to the altered amygdala responsivity
+  as reported in previous studies investigating the functional correlates of neuroticism
+  and neuroticism-related disorders like depression.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1065-9471
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/hbm.25775
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/741adcdc-440b-4977-93b8-146b4b4ea34f
+schema_type: xyzri:XYZPublication
+title: Neurite density imaging in amygdala nuclei reveals interindividual differences
+  in neuroticism

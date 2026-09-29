@@ -1,0 +1,30 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-06-29T14:47:30.254088'
+delegated_by:
+- object: ror:04xfq0f34
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+- object: xyzrins:organizations/fzj
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+description: Ute Habel is the senior psychologist at the Clinic for Psychiatry, Psychotherapy
+  and Psychosomatics, Vice Rector of RWTH Aachen University for International Affairs,
+  and head of the JARA Institute Brain structure-function relationships (INM-10) at
+  the research centre Jülich.
+family_name: Habel
+given_name: Ute
+honorific_name_prefix: Prof. Dr. rer. soc.
+identifiers:
+- notation: 0000-0003-0703-7722
+  schema_type: xyzri:ORCID
+- creator: https://w3id.org/isil/DE-Juel1
+  notation: P:(DE-Juel1)172840
+  schema_type: dlthings:Identifier
+- creator: ror:04fa4r544
+  notation: 0000-0003-0703-7722
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/d4e23096-f9d8-47e0-bb48-a25ba181f202
+schema_type: xyzri:XYZPerson

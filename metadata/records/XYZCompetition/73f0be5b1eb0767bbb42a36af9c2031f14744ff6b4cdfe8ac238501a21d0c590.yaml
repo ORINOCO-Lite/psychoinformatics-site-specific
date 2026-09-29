@@ -1,0 +1,27 @@
+application_deadline: '2026-11-01'
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: AvH-International Climate Protection Fellowship
+- predicate: dcterms:description
+  schema_type: dlthings:AttributeSpecification
+  value: 'Funding Opportunities  Career Status: Prospective leaders and Postdocs  Mobility:
+    Incoming  Deadline: November 2026  Information Funding Organization: Alexander
+    von Humboldt Stiftung<https://go.fzj.de/international-climate-protection>  Information
+    FZJ: AvH-International Climate Protection<https://www.fz-juelich.de/en/research/research-fields/young-scientists/funding-calendar/funding-opportunities/international_climate_protection_fellowship>
+    (Funding Calendar)  FZJ Contact: Aikanysh Bazarova (W), email: a.bazarova@fz-juelich.de<mailto:a.bazarova@fz-juelich.de>  '
+- predicate: dcterms:date
+  schema_type: dlthings:AttributeSpecification
+  value: '2026-11-01'
+characterized_by:
+- object: xyzrins:competition-types/4e49ac7d-d6da-4131-806b-6425491e26fd
+  predicate: dcterms:type
+description: 'Funding Opportunities  Career Status: Prospective leaders and Postdocs  Mobility:
+  Incoming  Deadline: November 2026  Information Funding Organization: Alexander von
+  Humboldt Stiftung<https://go.fzj.de/international-climate-protection>  Information
+  FZJ: AvH-International Climate Protection<https://www.fz-juelich.de/en/research/research-fields/young-scientists/funding-calendar/funding-opportunities/international_climate_protection_fellowship>
+  (Funding Calendar)  FZJ Contact: Aikanysh Bazarova (W), email: a.bazarova@fz-juelich.de<mailto:a.bazarova@fz-juelich.de>  '
+kind: xyzrins:competition-types/4e49ac7d-d6da-4131-806b-6425491e26fd
+pid: xyzrins:competition/040000008200E00074C5B7101A82E0080000000063C22457BB9CDB010000000000000000100000001D258E7942540C468B804D97F771088C
+schema_type: xyzri:XYZCompetition
+title: AvH-International Climate Protection Fellowship

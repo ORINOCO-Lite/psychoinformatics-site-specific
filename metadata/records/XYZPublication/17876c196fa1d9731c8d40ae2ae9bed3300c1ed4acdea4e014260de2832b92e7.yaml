@@ -1,0 +1,65 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Influence of Processing Pipeline on Cortical Thickness Measurement
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: In recent years, replicability of neuroscientific findings, specifically
+    those concerning correlates of morphological properties of gray matter (GM), have
+    been subject of major scrutiny. Use of different processing pipelines and differences
+    in their estimates of the macroscale GM may play an important role in this context.
+    To address this issue, here, we investigated the cortical thickness estimates
+    of three widely used pipelines. Based on analyses in two independent large-scale
+    cohorts, we report high levels of within-pipeline reliability of the absolute
+    cortical thickness-estimates and comparable spatial patterns of cortical thickness-estimates
+    across all pipelines. Within each individual, absolute regional thickness differed
+    between pipelines, indicating that in-vivo thickness measurements are only a proxy
+    of actual thickness of the cortex, which shall only be compared within the same
+    software package and thickness estimation technique. However, at group level,
+    cortical thickness-estimates correlated strongly between pipelines, in most brain
+    regions. The smallest between-pipeline correlations were observed in para-limbic
+    areas and insula. These regions also demonstrated the highest interindividual
+    variability and the lowest reliability of cortical thickness-estimates within
+    each pipeline, suggesting that structural variations within these regions should
+    be interpreted with caution.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: In recent years, replicability of neuroscientific findings, specifically
+  those concerning correlates of morphological properties of gray matter (GM), have
+  been subject of major scrutiny. Use of different processing pipelines and differences
+  in their estimates of the macroscale GM may play an important role in this context.
+  To address this issue, here, we investigated the cortical thickness estimates of
+  three widely used pipelines. Based on analyses in two independent large-scale cohorts,
+  we report high levels of within-pipeline reliability of the absolute cortical thickness-estimates
+  and comparable spatial patterns of cortical thickness-estimates across all pipelines.
+  Within each individual, absolute regional thickness differed between pipelines,
+  indicating that in-vivo thickness measurements are only a proxy of actual thickness
+  of the cortex, which shall only be compared within the same software package and
+  thickness estimation technique. However, at group level, cortical thickness-estimates
+  correlated strongly between pipelines, in most brain regions. The smallest between-pipeline
+  correlations were observed in para-limbic areas and insula. These regions also demonstrated
+  the highest interindividual variability and the lowest reliability of cortical thickness-estimates
+  within each pipeline, suggesting that structural variations within these regions
+  should be interpreted with caution.
+generated_by:
+- at_location: ISSN:1047-3211
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/cercor/bhaa097
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/5e0a63ed-8145-4202-aeda-222961d724e5
+schema_type: xyzri:XYZPublication
+title: Influence of Processing Pipeline on Cortical Thickness Measurement

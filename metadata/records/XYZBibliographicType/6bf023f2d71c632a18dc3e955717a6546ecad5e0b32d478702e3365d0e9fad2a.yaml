@@ -1,0 +1,4 @@
+description: Notes or annotations about a resource.
+display_label: Note
+pid: bibo:Note
+schema_type: xyzri:XYZBibliographicType

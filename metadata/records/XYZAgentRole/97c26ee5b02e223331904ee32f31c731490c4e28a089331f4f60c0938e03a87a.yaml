@@ -1,0 +1,5 @@
+description: The place of production (e.g., inscription, fabrication, construction,
+  etc.) of a resource in an unpublished form
+display_label: Production place
+pid: marcrel:prp
+schema_type: xyzri:XYZAgentRole

@@ -1,0 +1,71 @@
+attributed_to:
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'ALE meta-analyses of voxel-based morphometry studies: Parameter validation
+    via large-scale simulations'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Activation likelihood estimation (ALE) meta-analysis has been applied to
+    structural neuroimaging data since long, but up to now, any systematic assessment
+    of the algorithm's behavior, power and sensitivity has been based on simulations
+    using functional neuroimaging databases as their foundation. Here, we aimed to
+    determine whether the guidelines offered by previous evaluations can be generalized
+    to ALE meta-analyses of voxel-based morphometry (VBM) studies. We ran 365000 distinct
+    ALE analyses filled with simulated experiments, randomly sampling parameters from
+    BrainMap's VBM experiment database. We then examined the algorithm's sensitivity,
+    its susceptibility to spurious convergence, and its susceptibility to excessive
+    contributions by individual experiments. In general, the performance of the ALE
+    algorithm was highly comparable between imaging modalities, with the algorithm's
+    sensitivity and specificity reaching similar levels with structural data as previously
+    observed with functional data. Because of the lower number of foci reported and
+    the higher number of participants usually included in structural experiments,
+    individual studies had, on average, a higher impact towards significant clusters.
+    To prevent significant clusters from being driven by single experiments, we recommend
+    that researchers include at least 23 experiments in a VBM ALE dataset, instead
+    of the previously recommended minimum of n = 17. While these recommendations do
+    not constitute hard borders, running ALE analyses on smaller datasets would require
+    special diligence in assessing and reporting the contributions of experiments
+    to individual clusters.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Activation likelihood estimation (ALE) meta-analysis has been applied
+  to structural neuroimaging data since long, but up to now, any systematic assessment
+  of the algorithm's behavior, power and sensitivity has been based on simulations
+  using functional neuroimaging databases as their foundation. Here, we aimed to determine
+  whether the guidelines offered by previous evaluations can be generalized to ALE
+  meta-analyses of voxel-based morphometry (VBM) studies. We ran 365000 distinct ALE
+  analyses filled with simulated experiments, randomly sampling parameters from BrainMap's
+  VBM experiment database. We then examined the algorithm's sensitivity, its susceptibility
+  to spurious convergence, and its susceptibility to excessive contributions by individual
+  experiments. In general, the performance of the ALE algorithm was highly comparable
+  between imaging modalities, with the algorithm's sensitivity and specificity reaching
+  similar levels with structural data as previously observed with functional data.
+  Because of the lower number of foci reported and the higher number of participants
+  usually included in structural experiments, individual studies had, on average,
+  a higher impact towards significant clusters. To prevent significant clusters from
+  being driven by single experiments, we recommend that researchers include at least
+  23 experiments in a VBM ALE dataset, instead of the previously recommended minimum
+  of n = 17. While these recommendations do not constitute hard borders, running ALE
+  analyses on smaller datasets would require special diligence in assessing and reporting
+  the contributions of experiments to individual clusters.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2023.120383
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/b52537cb-736f-4697-99f8-62a62f614860
+schema_type: xyzri:XYZPublication
+title: 'ALE meta-analyses of voxel-based morphometry studies: Parameter validation
+  via large-scale simulations'

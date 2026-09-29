@@ -1,0 +1,9 @@
+display_note: ISSN:0303-2647
+identifiers:
+- creator: ror:026ytr635
+  notation: 0303-2647
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:0303-2647
+schema_type: xyzri:XYZPublicationVenue
+title: Biosystems

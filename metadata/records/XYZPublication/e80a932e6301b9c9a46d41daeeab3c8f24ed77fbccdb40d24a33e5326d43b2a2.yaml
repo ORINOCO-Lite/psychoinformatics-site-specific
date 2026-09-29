@@ -1,0 +1,27 @@
+attributed_to:
+- object: xyzrins:persons/91325970-a275-4cb9-ad49-568d705b798c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Individual differences in delay discounting are associated with dorsal prefrontal
+    cortex connectivity in children, adolescents, and adults
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.dcn.2023.101265
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/c11fac68-c951-4708-8a9b-bad9865f397f
+schema_type: xyzri:XYZPublication
+title: Individual differences in delay discounting are associated with dorsal prefrontal
+  cortex connectivity in children, adolescents, and adults

@@ -1,0 +1,12 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2025-12-17T15:06:45.438054'
+description: Specifies whether the Free Software Foundation (FSF) has listed a License
+  as "free" in their commentary on licenses, located at the time of this writing at
+  Various Licenses and Comments about Them. A value of "true" indicates that the license
+  is in the list of licenses that FSF publishes as libre. A value of "false" indicates
+  that the license is explicitly not in the corresponding list of FSF libre licenses
+  (e.g., FSF has the license on a non-free list).
+display_label: FSF libre
+pid: spdx:isFsfLibre
+schema_type: dlthings:Property

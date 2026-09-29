@@ -1,0 +1,58 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Impact of leakage on data harmonization in machine learning pipelines in
+    class imbalance across sites
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Due to the cost and complexity of data collection in biomedical domains,
+    it is a common practice to combine data from multiple sites to obtain large datasets
+    required for machine learning. However, undesired site-specific variability presents
+    challenges. Data harmonization aims to address this issue by removing site-specific
+    variance while preserving biologically relevant information. We show that the
+    widely used ComBat-based harmonization improvements are driven by data leakage
+    due to illicit use of target information when class labels are imbalanced across
+    sites, a common scenario in biomedical domains. We propose a novel approach, PrettYharmonize,
+    which leverages subtle differences in data harmonized using different pretended
+    target values. Using controlled benchmark datasets and real-world magnetic resonance
+    imaging and clinical ICU data, we demonstrate that our leakage-free PrettYharmonize
+    method achieves performance comparable to leakage-prone methods. As such, it is
+    a viable method to integrate ComBat-based methods into machine learning applications.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Due to the cost and complexity of data collection in biomedical domains,
+  it is a common practice to combine data from multiple sites to obtain large datasets
+  required for machine learning. However, undesired site-specific variability presents
+  challenges. Data harmonization aims to address this issue by removing site-specific
+  variance while preserving biologically relevant information. We show that the widely
+  used ComBat-based harmonization improvements are driven by data leakage due to illicit
+  use of target information when class labels are imbalanced across sites, a common
+  scenario in biomedical domains. We propose a novel approach, PrettYharmonize, which
+  leverages subtle differences in data harmonized using different pretended target
+  values. Using controlled benchmark datasets and real-world magnetic resonance imaging
+  and clinical ICU data, we demonstrate that our leakage-free PrettYharmonize method
+  achieves performance comparable to leakage-prone methods. As such, it is a viable
+  method to integrate ComBat-based methods into machine learning applications.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:0925-2312
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neucom.2026.133146
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8d83aff3-eba7-4991-9838-90480406b2f3
+schema_type: xyzri:XYZPublication
+title: Impact of leakage on data harmonization in machine learning pipelines in class
+  imbalance across sites

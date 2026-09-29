@@ -1,0 +1,9 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-26T14:24:04.010323'
+description: A file format where each line in the file contains a single piece of
+  data and where each field or value in a line of data is separated from the next
+  by a tab character.
+display_label: TSV format
+pid: obo:NCIT_C164049
+schema_type: xyzri:XYZDataType

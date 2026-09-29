@@ -1,0 +1,93 @@
+attributed_to:
+- object: xyzrins:persons/321336e5-1024-4174-995d-6000d0884f58
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/6de57b9d-196e-47c9-826a-ff26c9f32093
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d44b2ca0-e927-4495-939e-a05fac8e2aca
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Cortical reorganization after motor stroke: A pilot study on differences
+    between the upper and lower limbs'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Stroke patients suffering from hemiparesis may show substantial recovery
+    in the first months poststroke due to neural reorganization. While reorganization
+    driving improvement of upper hand motor function has been frequently investigated,
+    much less is known about the changes underlying recovery of lower limb function.
+    We, therefore, investigated neural network dynamics giving rise to movements of
+    both the hands and feet in 12 well-recovered left-hemispheric chronic stroke patients
+    and 12 healthy participants using a functional magnetic resonance imaging sparse
+    sampling design and dynamic causal modeling (DCM). We found that the level of
+    neural activity underlying movements of the affected right hand and foot positively
+    correlated with residual motor impairment, in both ipsilesional and contralesional
+    premotor as well as left primary motor (M1) regions. Furthermore, M1 representations
+    of the affected limb showed significantly stronger increase in BOLD activity compared
+    to healthy controls and compared to the respective other limb. DCM revealed reduced
+    endogenous connectivity of M1 of both limbs in patients compared to controls.
+    However, when testing for the specific effect of movement on interregional connectivity,
+    interhemispheric inhibition of the contralesional M1 during movements of the affected
+    hand was not detected in patients whereas no differences in condition-dependent
+    connectivity were found for foot movements compared to controls. In contrast,
+    both groups featured positive interhemispheric M1 coupling, that is, facilitation
+    of neural activity, mediating movements of the affected foot. These exploratory
+    findings help to explain why functional recovery of the upper and lower limbs
+    often develops differently after stroke, supporting limb-specific rehabilitative
+    strategies.Keywords: dynamic causal modeling; effective connectivity; fMRI; interhemispheric
+    inhibition; motor recovery; plasticity; rehabilitation.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Stroke patients suffering from hemiparesis may show substantial recovery
+  in the first months poststroke due to neural reorganization. While reorganization
+  driving improvement of upper hand motor function has been frequently investigated,
+  much less is known about the changes underlying recovery of lower limb function.
+  We, therefore, investigated neural network dynamics giving rise to movements of
+  both the hands and feet in 12 well-recovered left-hemispheric chronic stroke patients
+  and 12 healthy participants using a functional magnetic resonance imaging sparse
+  sampling design and dynamic causal modeling (DCM). We found that the level of neural
+  activity underlying movements of the affected right hand and foot positively correlated
+  with residual motor impairment, in both ipsilesional and contralesional premotor
+  as well as left primary motor (M1) regions. Furthermore, M1 representations of the
+  affected limb showed significantly stronger increase in BOLD activity compared to
+  healthy controls and compared to the respective other limb. DCM revealed reduced
+  endogenous connectivity of M1 of both limbs in patients compared to controls. However,
+  when testing for the specific effect of movement on interregional connectivity,
+  interhemispheric inhibition of the contralesional M1 during movements of the affected
+  hand was not detected in patients whereas no differences in condition-dependent
+  connectivity were found for foot movements compared to controls. In contrast, both
+  groups featured positive interhemispheric M1 coupling, that is, facilitation of
+  neural activity, mediating movements of the affected foot. These exploratory findings
+  help to explain why functional recovery of the upper and lower limbs often develops
+  differently after stroke, supporting limb-specific rehabilitative strategies.Keywords:
+  dynamic causal modeling; effective connectivity; fMRI; interhemispheric inhibition;
+  motor recovery; plasticity; rehabilitation.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1065-9471
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/hbm.25275
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2017-02-28'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/ff4d1947-f1ad-4e9f-88fc-57af7b7cfc85
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2013-10-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/39cbfa14-0aaf-428d-916e-c954fd9f2c7b
+schema_type: xyzri:XYZPublication
+title: 'Cortical reorganization after motor stroke: A pilot study on differences between
+  the upper and lower limbs'

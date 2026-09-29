@@ -1,0 +1,4 @@
+description: A graphical depiction of geographic features.
+display_label: Map
+pid: bibo:Map
+schema_type: xyzri:XYZBibliographicType

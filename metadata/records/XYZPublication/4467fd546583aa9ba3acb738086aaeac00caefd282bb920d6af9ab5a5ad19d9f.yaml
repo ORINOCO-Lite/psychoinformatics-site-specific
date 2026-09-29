@@ -1,0 +1,88 @@
+attributed_to:
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Multimodal prediction of residual consciousness in the intensive care unit:
+    the CONNECT-ME study'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Functional MRI (fMRI) and EEG may reveal residual consciousness in patients
+    with disorders of consciousness (DoC), as reflected by a rapidly expanding literature
+    on chronic DoC. However, acute DoC is rarely investigated, although identifying
+    residual consciousness is key to clinical decision-making in the intensive care
+    unit (ICU). Therefore, the objective of the prospective, observational, tertiary
+    centre cohort, diagnostic phase IIb study ‘Consciousness in neurocritical care
+    cohort study using EEG and fMRI’ (CONNECT-ME, NCT02644265) was to assess the accuracy
+    of fMRI and EEG to identify residual consciousness in acute DoC in the ICU. Between
+    April 2016 and November 2020, 87 acute DoC patients with traumatic or non-traumatic
+    brain injury were examined with repeated clinical assessments, fMRI and EEG. Resting-state
+    EEG and EEG with external stimulations were evaluated by visual analysis, spectral
+    band analysis and a Support Vector Machine (SVM) consciousness classifier. In
+    addition, within- and between-network resting-state connectivity for canonical
+    resting-state fMRI networks was assessed. Next, we used EEG and fMRI data at study
+    enrolment in two different machine-learning algorithms (Random Forest and SVM
+    with a linear kernel) to distinguish patients in a minimally conscious state or
+    better (≥MCS) from those in coma or unresponsive wakefulness state (≤UWS) at time
+    of study enrolment and at ICU discharge (or before death). Prediction performances
+    were assessed with area under the curve (AUC). Of 87 DoC patients (mean age, 50.0
+    ± 18 years, 43% female), 51 (59%) were ≤UWS and 36 (41%) were ≥ MCS at study enrolment.
+    Thirty-one (36%) patients died in the ICU, including 28 who had life-sustaining
+    therapy withdrawn. EEG and fMRI predicted consciousness levels at study enrolment
+    and ICU discharge, with maximum AUCs of 0.79 (95% CI 0.77–0.80) and 0.71 (95%
+    CI 0.77–0.80), respectively. Models based on combined EEG and fMRI features predicted
+    consciousness levels at study enrolment and ICU discharge with maximum AUCs of
+    0.78 (95% CI 0.71–0.86) and 0.83 (95% CI 0.75–0.89), respectively, with improved
+    positive predictive value and sensitivity. Overall, both machine-learning algorithms
+    (SVM and Random Forest) performed equally well. In conclusion, we suggest that
+    acute DoC prediction models in the ICU be based on a combination of fMRI and EEG
+    features, regardless of the machine-learning algorithm used.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Functional MRI (fMRI) and EEG may reveal residual consciousness in patients
+  with disorders of consciousness (DoC), as reflected by a rapidly expanding literature
+  on chronic DoC. However, acute DoC is rarely investigated, although identifying
+  residual consciousness is key to clinical decision-making in the intensive care
+  unit (ICU). Therefore, the objective of the prospective, observational, tertiary
+  centre cohort, diagnostic phase IIb study ‘Consciousness in neurocritical care cohort
+  study using EEG and fMRI’ (CONNECT-ME, NCT02644265) was to assess the accuracy of
+  fMRI and EEG to identify residual consciousness in acute DoC in the ICU. Between
+  April 2016 and November 2020, 87 acute DoC patients with traumatic or non-traumatic
+  brain injury were examined with repeated clinical assessments, fMRI and EEG. Resting-state
+  EEG and EEG with external stimulations were evaluated by visual analysis, spectral
+  band analysis and a Support Vector Machine (SVM) consciousness classifier. In addition,
+  within- and between-network resting-state connectivity for canonical resting-state
+  fMRI networks was assessed. Next, we used EEG and fMRI data at study enrolment in
+  two different machine-learning algorithms (Random Forest and SVM with a linear kernel)
+  to distinguish patients in a minimally conscious state or better (≥MCS) from those
+  in coma or unresponsive wakefulness state (≤UWS) at time of study enrolment and
+  at ICU discharge (or before death). Prediction performances were assessed with area
+  under the curve (AUC). Of 87 DoC patients (mean age, 50.0 ± 18 years, 43% female),
+  51 (59%) were ≤UWS and 36 (41%) were ≥ MCS at study enrolment. Thirty-one (36%)
+  patients died in the ICU, including 28 who had life-sustaining therapy withdrawn.
+  EEG and fMRI predicted consciousness levels at study enrolment and ICU discharge,
+  with maximum AUCs of 0.79 (95% CI 0.77–0.80) and 0.71 (95% CI 0.77–0.80), respectively.
+  Models based on combined EEG and fMRI features predicted consciousness levels at
+  study enrolment and ICU discharge with maximum AUCs of 0.78 (95% CI 0.71–0.86) and
+  0.83 (95% CI 0.75–0.89), respectively, with improved positive predictive value and
+  sensitivity. Overall, both machine-learning algorithms (SVM and Random Forest) performed
+  equally well. In conclusion, we suggest that acute DoC prediction models in the
+  ICU be based on a combination of fMRI and EEG features, regardless of the machine-learning
+  algorithm used.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0006-8950
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/brain/awac335
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/e8c5db8c-5209-4d65-826a-7928cfb0df03
+schema_type: xyzri:XYZPublication
+title: 'Multimodal prediction of residual consciousness in the intensive care unit:
+  the CONNECT-ME study'

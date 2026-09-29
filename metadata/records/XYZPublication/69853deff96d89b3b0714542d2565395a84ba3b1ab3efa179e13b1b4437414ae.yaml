@@ -1,0 +1,92 @@
+attributed_to:
+- object: xyzrins:persons/3efc5cfa-a10c-4c65-9bcf-36ad37d9b7e0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/6dd61910-c158-400e-aefc-6f1cd75215e0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/535129e4-fc67-4e19-8f5e-0d4a43a4578c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'MRI or 18 F-FDG PET for Brain Age Gap Estimation: Links to Cognition, Pathology,
+    and Alzheimer Disease Progression'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Deviations of brain age from chronologic age, known as the brain age gap
+    (BAG), have been linked to neurodegenerative diseases such as Alzheimer disease
+    (AD). Here, we compare the associations of MRI-derived (atrophy) or 18F-FDG PET–derived
+    (brain metabolism) BAG with cognitive performance, neuropathologic burden, and
+    disease progression in cognitively normal individuals (CNs) and individuals with
+    subjective cognitive decline (SCD) or mild cognitive impairment (MCI). Methods:
+    Machine learning pipelines were trained to estimate brain age from 185 matched
+    T1-weighted MRI or 18F-FDG PET scans of CN from the Alzheimer’s Disease Neuroimaging
+    Initiative and validated in external test sets from the Open Access of Imaging
+    and German Center for Neurodegenerative Diseases–Longitudinal Cognitive Impairment
+    and Dementia studies. BAG was correlated with measures of cognitive performance
+    and AD neuropathology in CNs, SCD subjects, and MCI subjects. Finally, BAG was
+    compared between cognitively stable and declining individuals and subsequently
+    used to predict disease progression. Results: MRI (mean absolute error, 2.49 y)
+    and 18F-FDG PET (mean absolute error, 2.60 y) both estimated chronologic age well.
+    At the SCD stage, MRI-based BAG correlated significantly with beta-amyloid1-42
+    (Aβ1-42) in cerebrospinal fluid, whereas 18F-FDG PET BAG correlated with memory
+    performance. At the MCI stage, both BAGs were associated with memory and executive
+    function performance and cerebrospinal fluid Aβ1-42, but only MRI-derived BAG
+    correlated with phosphorylated-tau181/Aβ1-42. Lastly, MRI-estimated BAG predicted
+    MCI-to-AD progression better than 18F-FDG PET–estimated BAG (areas under the curve,
+    0.73 and 0.60, respectively). Conclusion: Age was reliably estimated from MRI
+    or 18F-FDG PET. MRI BAG reflected cognitive and pathologic markers of AD in SCD
+    and MCI, whereas 18F-FDG PET BAG was sensitive mainly to early cognitive impairment,
+    possibly constituting an independent biomarker of brain age-related changes.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Deviations of brain age from chronologic age, known as the brain age
+  gap (BAG), have been linked to neurodegenerative diseases such as Alzheimer disease
+  (AD). Here, we compare the associations of MRI-derived (atrophy) or 18F-FDG PET–derived
+  (brain metabolism) BAG with cognitive performance, neuropathologic burden, and disease
+  progression in cognitively normal individuals (CNs) and individuals with subjective
+  cognitive decline (SCD) or mild cognitive impairment (MCI). Methods: Machine learning
+  pipelines were trained to estimate brain age from 185 matched T1-weighted MRI or
+  18F-FDG PET scans of CN from the Alzheimer’s Disease Neuroimaging Initiative and
+  validated in external test sets from the Open Access of Imaging and German Center
+  for Neurodegenerative Diseases–Longitudinal Cognitive Impairment and Dementia studies.
+  BAG was correlated with measures of cognitive performance and AD neuropathology
+  in CNs, SCD subjects, and MCI subjects. Finally, BAG was compared between cognitively
+  stable and declining individuals and subsequently used to predict disease progression.
+  Results: MRI (mean absolute error, 2.49 y) and 18F-FDG PET (mean absolute error,
+  2.60 y) both estimated chronologic age well. At the SCD stage, MRI-based BAG correlated
+  significantly with beta-amyloid1-42 (Aβ1-42) in cerebrospinal fluid, whereas 18F-FDG
+  PET BAG correlated with memory performance. At the MCI stage, both BAGs were associated
+  with memory and executive function performance and cerebrospinal fluid Aβ1-42, but
+  only MRI-derived BAG correlated with phosphorylated-tau181/Aβ1-42. Lastly, MRI-estimated
+  BAG predicted MCI-to-AD progression better than 18F-FDG PET–estimated BAG (areas
+  under the curve, 0.73 and 0.60, respectively). Conclusion: Age was reliably estimated
+  from MRI or 18F-FDG PET. MRI BAG reflected cognitive and pathologic markers of AD
+  in SCD and MCI, whereas 18F-FDG PET BAG was sensitive mainly to early cognitive
+  impairment, possibly constituting an independent biomarker of brain age-related
+  changes.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:0097-9058
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.2967/jnumed.123.265931
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/125e50c3-924c-41d6-8056-420d9a5c791a
+schema_type: xyzri:XYZPublication
+title: 'MRI or 18 F-FDG PET for Brain Age Gap Estimation: Links to Cognition, Pathology,
+  and Alzheimer Disease Progression'

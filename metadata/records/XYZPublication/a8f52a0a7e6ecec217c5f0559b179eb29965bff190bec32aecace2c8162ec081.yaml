@@ -1,0 +1,36 @@
+about:
+- xyzrins:topics/research-software-engineering
+- xyzrins:topics/neuroimaging
+- xyzrins:topics/predictive-data-analysis
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-04-01T09:57:04.037983'
+attributed_to:
+- object: orcid:0000-0003-3456-2493
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: orcid:0000-0002-6558-3118
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: orcid:0000-0001-5840-5658
+  roles:
+  - obo:MS_1002035
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002034
+  schema_type: dlthings:Attribution
+generated_by:
+- at_location: ISSN:1539-2791
+  at_time: '2009-01-28'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s12021-008-9041-y
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/6ab9f41d-bc91-47a1-97d7-44b52282d6b7
+schema_type: xyzri:XYZPublication
+title: 'PyMVPA: A Python toolbox for multivariate pattern analysis of fMRI data'

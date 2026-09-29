@@ -1,0 +1,55 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Psychiatric neuroimaging designs for individualised, cohort, and population
+    studies
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Psychiatric neuroimaging faces challenges to rigour and reproducibility that
+    prompt reconsideration of the relative strengths and limitations of study designs.
+    Owing to high resource demands and varying inferential goals, current designs
+    differentially emphasise sample size, measurement breadth, and longitudinal assessments.
+    In this overview and perspective, we provide a guide to the current landscape
+    of psychiatric neuroimaging study designs with respect to this balance of scientific
+    goals and resource constraints. Through a heuristic data cube contrasting key
+    design features, we discuss a resulting trade-off among small sample, precision
+    longitudinal studies (e.g., individualised studies and cohorts) and large sample,
+    minimally longitudinal, population studies. Precision studies support tests of
+    within-person mechanisms, via intervention and tracking of longitudinal course.
+    Population studies support tests of generalisation across multifaceted individual
+    differences. A proposed reciprocal validation model (RVM) aims to recursively
+    leverage these complementary designs in sequence to accumulate evidence, optimise
+    relative strengths, and build towards improved long-term clinical utility.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Psychiatric neuroimaging faces challenges to rigour and reproducibility
+  that prompt reconsideration of the relative strengths and limitations of study designs.
+  Owing to high resource demands and varying inferential goals, current designs differentially
+  emphasise sample size, measurement breadth, and longitudinal assessments. In this
+  overview and perspective, we provide a guide to the current landscape of psychiatric
+  neuroimaging study designs with respect to this balance of scientific goals and
+  resource constraints. Through a heuristic data cube contrasting key design features,
+  we discuss a resulting trade-off among small sample, precision longitudinal studies
+  (e.g., individualised studies and cohorts) and large sample, minimally longitudinal,
+  population studies. Precision studies support tests of within-person mechanisms,
+  via intervention and tracking of longitudinal course. Population studies support
+  tests of generalisation across multifaceted individual differences. A proposed reciprocal
+  validation model (RVM) aims to recursively leverage these complementary designs
+  in sequence to accumulate evidence, optimise relative strengths, and build towards
+  improved long-term clinical utility.
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:0893-133X
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41386-024-01918-y
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/c120f014-d627-4b6f-8d54-8321d95da09c
+schema_type: xyzri:XYZPublication
+title: Psychiatric neuroimaging designs for individualised, cohort, and population
+  studies

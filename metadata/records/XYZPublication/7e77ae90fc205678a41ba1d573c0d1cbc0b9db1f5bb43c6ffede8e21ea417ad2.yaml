@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Signal diffusion along connectome gradients and inter-hub routing differentially
+    contribute to dynamic human brain function
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Human cognition is dynamic, alternating over time between externally-focused
+    states and more abstract, often self-generated, patterns of thought. Although
+    cognitive neuroscience has documented how networks anchor particular modes of
+    brain function, mechanisms that describe transitions between distinct functional
+    states remain poorly understood. Here, we examined how time-varying changes in
+    brain function emerge within the constraints imposed by macroscale structural
+    network organization. Studying a large cohort of healthy adults (n = 326), we
+    capitalized on manifold learning techniques that identify low dimensional representations
+    of structural connectome organization and we decomposed neurophysiological activity
+    into distinct functional states and their transition patterns using Hidden Markov
+    Models. Structural connectome organization predicted dynamic transitions anchored
+    in sensorimotor systems and those between sensorimotor and transmodal states.
+    Connectome topology analyses revealed that transitions involving sensorimotor
+    states traversed short and intermediary distances and adhered strongly to communication
+    mechanisms of network diffusion. Conversely, transitions between transmodal states
+    involved spatially distributed hubs and increasingly engaged long-range routing.
+    These findings establish that the structure of the cortex is optimized to allow
+    neural states the freedom to vary between distinct modes of processing, and so
+    provides a key insight into the neural mechanisms that give rise to the flexibility
+    of human cognition.Keywords: Hidden Markov Model; diffusion MRI; functional dynamics;
+    gradients; multimodal imaging; structural connectome.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Human cognition is dynamic, alternating over time between externally-focused
+  states and more abstract, often self-generated, patterns of thought. Although cognitive
+  neuroscience has documented how networks anchor particular modes of brain function,
+  mechanisms that describe transitions between distinct functional states remain poorly
+  understood. Here, we examined how time-varying changes in brain function emerge
+  within the constraints imposed by macroscale structural network organization. Studying
+  a large cohort of healthy adults (n = 326), we capitalized on manifold learning
+  techniques that identify low dimensional representations of structural connectome
+  organization and we decomposed neurophysiological activity into distinct functional
+  states and their transition patterns using Hidden Markov Models. Structural connectome
+  organization predicted dynamic transitions anchored in sensorimotor systems and
+  those between sensorimotor and transmodal states. Connectome topology analyses revealed
+  that transitions involving sensorimotor states traversed short and intermediary
+  distances and adhered strongly to communication mechanisms of network diffusion.
+  Conversely, transitions between transmodal states involved spatially distributed
+  hubs and increasingly engaged long-range routing. These findings establish that
+  the structure of the cortex is optimized to allow neural states the freedom to vary
+  between distinct modes of processing, and so provides a key insight into the neural
+  mechanisms that give rise to the flexibility of human cognition.Keywords: Hidden
+  Markov Model; diffusion MRI; functional dynamics; gradients; multimodal imaging;
+  structural connectome.'
+generated_by:
+- at_location: ISSN:1053-8119
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2020.117429
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/c33d5d58-b106-4860-89de-b75b5fe0c93f
+schema_type: xyzri:XYZPublication
+title: Signal diffusion along connectome gradients and inter-hub routing differentially
+  contribute to dynamic human brain function

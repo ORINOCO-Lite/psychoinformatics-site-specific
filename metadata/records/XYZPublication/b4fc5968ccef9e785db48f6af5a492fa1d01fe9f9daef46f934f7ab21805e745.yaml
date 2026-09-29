@@ -1,0 +1,72 @@
+attributed_to:
+- object: xyzrins:persons/60189876-7d04-48db-9586-9171fae8ee2b
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/459e1cd0-3caf-436b-8031-df3b4592a994
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/laura-waite
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Naturalistic viewing increases individual identifiability based on connectivity
+    within functional brain networks
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Naturalistic viewing (NV) is currently considered a promising paradigm for
+    studying individual differences in functional brain organization. While whole
+    brain functional connectivity (FC) under NV has been relatively well characterized,
+    so far little work has been done on a network level.Here, we extend current knowledge
+    by characterizing the influence of NV on FC in fourteen meta-analytically derived
+    brain networks considering three different movie stimuli in comparison to resting-state
+    (RS). We show that NV increases identifiability of individuals over RS based on
+    functional connectivity in certain, but not all networks. Furthermore, movie stimuli
+    including a narrative appear more distinct from RS. In addition, we assess individual
+    variability in network FC by comparing within- and between-subject similarity
+    during NV and RS. We show that NV can evoke individually distinct NFC patterns
+    by increasing inter-subject variability while retaining within-subject similarity.
+    Crucially, our results highlight that this effect is not observable across all
+    networks, but rather dependent on the network-stimulus combination. Our results
+    confirm that NV can improve the detection of individual differences over RS and
+    underline the importance of selecting the appropriate combination of movie and
+    cognitive network for the research question at hand.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Naturalistic viewing (NV) is currently considered a promising paradigm
+  for studying individual differences in functional brain organization. While whole
+  brain functional connectivity (FC) under NV has been relatively well characterized,
+  so far little work has been done on a network level.Here, we extend current knowledge
+  by characterizing the influence of NV on FC in fourteen meta-analytically derived
+  brain networks considering three different movie stimuli in comparison to resting-state
+  (RS). We show that NV increases identifiability of individuals over RS based on
+  functional connectivity in certain, but not all networks. Furthermore, movie stimuli
+  including a narrative appear more distinct from RS. In addition, we assess individual
+  variability in network FC by comparing within- and between-subject similarity during
+  NV and RS. We show that NV can evoke individually distinct NFC patterns by increasing
+  inter-subject variability while retaining within-subject similarity. Crucially,
+  our results highlight that this effect is not observable across all networks, but
+  rather dependent on the network-stimulus combination. Our results confirm that NV
+  can improve the detection of individual differences over RS and underline the importance
+  of selecting the appropriate combination of movie and cognitive network for the
+  research question at hand.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2023.120083
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/e6703f1f-e01f-44ee-a823-ad85d74963bf
+schema_type: xyzri:XYZPublication
+title: Naturalistic viewing increases individual identifiability based on connectivity
+  within functional brain networks

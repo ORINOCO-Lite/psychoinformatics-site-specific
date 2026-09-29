@@ -1,0 +1,9 @@
+display_note: ISSN:0920-9964
+identifiers:
+- creator: ror:026ytr635
+  notation: 0920-9964
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:0920-9964
+schema_type: xyzri:XYZPublicationVenue
+title: Schizophrenia Research

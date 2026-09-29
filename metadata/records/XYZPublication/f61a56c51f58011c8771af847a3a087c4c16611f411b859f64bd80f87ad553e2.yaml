@@ -1,0 +1,54 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Stimulus selection influences prediction of individual phenotypes in naturalistic
+    conditions
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Understanding individual differences and brain-behaviour relationships is
+    an essential goal of human neuroscience. Recent studies have shown the great potential
+    of naturalistic stimuli, e.g., movie clips, in advancing this pursuit. While the
+    use of naturalistic stimuli attracts increasing interest, the influence of stimulus
+    selection remains largely unclear. In this study, we show that brain activity
+    is generally sensitive to the choice of movie stimuli at both group and individual
+    subject levels. Using sex classification as an example, we demonstrate that brain
+    activity elicited by different stimuli can lead to distinct prediction performance
+    and unique predictive features. The stimuli that yield better classification performance
+    often elicit stronger synchrony of brain activity across all subjects and are
+    mostly derived from Hollywood films with rich social content and cohesive narratives.
+    Our results highlight the importance of stimulus selection and provide practical
+    guidance for choosing appropriate stimuli, opening up new avenues for future studies
+    on individual differences and brain-behaviour relationships.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Understanding individual differences and brain-behaviour relationships
+  is an essential goal of human neuroscience. Recent studies have shown the great
+  potential of naturalistic stimuli, e.g., movie clips, in advancing this pursuit.
+  While the use of naturalistic stimuli attracts increasing interest, the influence
+  of stimulus selection remains largely unclear. In this study, we show that brain
+  activity is generally sensitive to the choice of movie stimuli at both group and
+  individual subject levels. Using sex classification as an example, we demonstrate
+  that brain activity elicited by different stimuli can lead to distinct prediction
+  performance and unique predictive features. The stimuli that yield better classification
+  performance often elicit stronger synchrony of brain activity across all subjects
+  and are mostly derived from Hollywood films with rich social content and cohesive
+  narratives. Our results highlight the importance of stimulus selection and provide
+  practical guidance for choosing appropriate stimuli, opening up new avenues for
+  future studies on individual differences and brain-behaviour relationships.
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2023.12.07.570273
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/16ac3d63-9466-447e-bacf-c75dc2fbf252
+schema_type: xyzri:XYZPublication
+title: Stimulus selection influences prediction of individual phenotypes in naturalistic
+  conditions

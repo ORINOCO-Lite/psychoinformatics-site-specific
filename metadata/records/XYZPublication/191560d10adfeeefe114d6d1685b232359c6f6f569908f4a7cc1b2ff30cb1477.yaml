@@ -1,0 +1,31 @@
+about:
+- xyzrins:topics/education
+- xyzrins:topics/naturalistic-neuroimaging
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-05-18T13:05:01.400736'
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002034
+  schema_type: dlthings:Attribution
+generated_by:
+- object: xyzrins:projects/14419ccc-b340-45ea-b0f4-bccc25c9e34d
+  schema_type: dlthings:Generation
+- at_time: '2019-10-02'
+  description: 'Part of the book series: Neuromethods ((NM,volume 151)) '
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+kind: bibo:Chapter
+pid: xyzrins:publications/3e67bc48-6ca2-472f-b007-31237865b33f
+schema_type: xyzri:XYZPublication
+title: A practical guide to functional magnetic resonance imaging with simultaneous
+  eye tracking for cognitive neuroimaging research

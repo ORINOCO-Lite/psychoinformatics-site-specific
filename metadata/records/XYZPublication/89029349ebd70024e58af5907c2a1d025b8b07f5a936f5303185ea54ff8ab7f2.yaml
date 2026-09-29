@@ -1,0 +1,29 @@
+about:
+- xyzrins:topics/education
+annotations:
+  obo:NCIT_C54269: m.szczepanik@fz-juelich.de
+  sio:SIO_001083: '2026-03-25T17:07:35.334530'
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - marcrel:aut
+  schema_type: dlthings:Attribution
+description: 'The lecture "Data Management for Neuroimaging with DataLad" of the 2022
+  Neurohackademy in Seattle, Washington, held by Adina Wagner.
+
+
+
+  Accompanying code to copy-paste and code along is at handbook.datalad.org/en/latest/code_from_chapters/neurohackademy.html.'
+generated_by:
+- at_time: '2022-07-22'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/zenodo.6880615
+  schema_type: dlthings:DOI
+kind: fabio:Presentation
+pid: xyzrins:publications/739a02ab-313d-48b1-8d8e-fdc35f0e2314
+rules:
+- spdxlic:CC-BY-4.0
+schema_type: xyzri:XYZPublication
+title: Data Management for Neuroimaging with DataLad

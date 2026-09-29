@@ -1,0 +1,46 @@
+attributed_to:
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Mental Imagery in Dreams of Congenitally Blind People
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: It is unclear to what extent the absence of vision affects the sensory sensitivity
+    for oneiric construction. Similarly, the presence of visual imagery in the mentation
+    of dreams of congenitally blind people has been largely disputed. We investigate
+    the presence and nature of oneiric visuo-spatial impressions by analysing 180
+    dreams of seven congenitally blind people identified from the online database
+    DreamBank. A higher presence of auditory, haptic, olfactory, and gustatory sensation
+    in dreams of congenitally blind people was demonstrated, when compared to normally
+    sighted individuals. Nonetheless, oneiric visual imagery in reports of congenitally
+    blind subjects was also noted, in opposition to some previous studies, and raising
+    questions about the possible underlying neuro-mechanisms.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: It is unclear to what extent the absence of vision affects the sensory
+  sensitivity for oneiric construction. Similarly, the presence of visual imagery
+  in the mentation of dreams of congenitally blind people has been largely disputed.
+  We investigate the presence and nature of oneiric visuo-spatial impressions by analysing
+  180 dreams of seven congenitally blind people identified from the online database
+  DreamBank. A higher presence of auditory, haptic, olfactory, and gustatory sensation
+  in dreams of congenitally blind people was demonstrated, when compared to normally
+  sighted individuals. Nonetheless, oneiric visual imagery in reports of congenitally
+  blind subjects was also noted, in opposition to some previous studies, and raising
+  questions about the possible underlying neuro-mechanisms.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2076-3425
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3390/brainsci13101394
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/393421fe-9590-420e-9dc7-77e73cf450a4
+schema_type: xyzri:XYZPublication
+title: Mental Imagery in Dreams of Congenitally Blind People

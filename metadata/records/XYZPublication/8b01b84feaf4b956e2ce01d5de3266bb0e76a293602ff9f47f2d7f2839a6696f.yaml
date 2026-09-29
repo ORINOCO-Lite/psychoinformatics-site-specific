@@ -1,0 +1,72 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Systematic Review and Meta-analysis: Resting State Functional Magnetic Resonance
+    Imaging Studies of Attention-Deficit/Hyperactivity Disorder'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'ObjectiveWe conducted a meta-analysis of resting state functional magnetic
+    resonance imaging (R-fMRI) studies in children/adolescents and adults with ADHD
+    to assess spatial convergence of findings from available studies.MethodBased on
+    a preregistered protocol in PROSPERO (CRD42019119553), a large set of databases
+    were searched up to April 9th, 2019, with no language/type-of-document restrictions.
+    Study authors were systematically contacted for additional unpublished information/data.
+    R-fMRI studies using seed-based connectivity (SBC) or any other method (non-SBC)
+    reporting whole-brain results of group comparisons between individuals with ADHD
+    and typically developing controls were eligible. Voxel-wise meta-analysis via
+    activation likelihood estimation with cluster-level Family Wise Error (FWE) (voxel-level:
+    p < 0.001; cluster-level: p < 0.05) was used. The full dataset used for analyses
+    will be freely available online in an open source platform (http://anima.fz-juelich.de/).Results30
+    studies (18 SBC and 12 non-SBC), including a total of 1978 participants (1094
+    ADHD; 884 controls) were retained. The meta-analysis focused on SBC studies found
+    no significant spatial convergence of ADHD-related hyper- or hypo-connectivity
+    across studies. This non-significant finding remained after integrating 12 non-SBC
+    studies into the main-analysis and in sensitivity analyses limited to studies
+    including only children or only non-medication naïve patients.ConclusionThe lack
+    of significant spatial convergence may be accounted for by heterogeneity in study
+    participants, experimental procedures and analytic flexibility, as well as in
+    ADHD pathophysiology. Alongside other neuroimaging meta-analyses in other psychiatric
+    conditions, our results should inform the conduct and publication of future neuroimaging
+    studies of psychiatric disorders.Key wordsADHDresting stateALEmeta-analysisneuroimaging'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'ObjectiveWe conducted a meta-analysis of resting state functional magnetic
+  resonance imaging (R-fMRI) studies in children/adolescents and adults with ADHD
+  to assess spatial convergence of findings from available studies.MethodBased on
+  a preregistered protocol in PROSPERO (CRD42019119553), a large set of databases
+  were searched up to April 9th, 2019, with no language/type-of-document restrictions.
+  Study authors were systematically contacted for additional unpublished information/data.
+  R-fMRI studies using seed-based connectivity (SBC) or any other method (non-SBC)
+  reporting whole-brain results of group comparisons between individuals with ADHD
+  and typically developing controls were eligible. Voxel-wise meta-analysis via activation
+  likelihood estimation with cluster-level Family Wise Error (FWE) (voxel-level: p
+  < 0.001; cluster-level: p < 0.05) was used. The full dataset used for analyses will
+  be freely available online in an open source platform (http://anima.fz-juelich.de/).Results30
+  studies (18 SBC and 12 non-SBC), including a total of 1978 participants (1094 ADHD;
+  884 controls) were retained. The meta-analysis focused on SBC studies found no significant
+  spatial convergence of ADHD-related hyper- or hypo-connectivity across studies.
+  This non-significant finding remained after integrating 12 non-SBC studies into
+  the main-analysis and in sensitivity analyses limited to studies including only
+  children or only non-medication naïve patients.ConclusionThe lack of significant
+  spatial convergence may be accounted for by heterogeneity in study participants,
+  experimental procedures and analytic flexibility, as well as in ADHD pathophysiology.
+  Alongside other neuroimaging meta-analyses in other psychiatric conditions, our
+  results should inform the conduct and publication of future neuroimaging studies
+  of psychiatric disorders.Key wordsADHDresting stateALEmeta-analysisneuroimaging'
+generated_by:
+- at_location: ISSN:0890-8567
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.jaac.2020.08.014
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/ca155881-e8f4-4f0b-8e52-b67a0b1425f8
+schema_type: xyzri:XYZPublication
+title: 'Systematic Review and Meta-analysis: Resting State Functional Magnetic Resonance
+  Imaging Studies of Attention-Deficit/Hyperactivity Disorder'

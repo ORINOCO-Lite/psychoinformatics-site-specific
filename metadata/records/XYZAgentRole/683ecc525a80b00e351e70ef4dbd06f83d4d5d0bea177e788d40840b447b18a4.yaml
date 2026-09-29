@@ -1,0 +1,6 @@
+description: A performer contributing to a resource by leading a program (often broadcast)
+  where topics are discussed, usually with participation of experts in fields related
+  to the discussion
+display_label: Moderator
+pid: marcrel:mod
+schema_type: xyzri:XYZAgentRole

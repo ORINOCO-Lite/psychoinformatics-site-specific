@@ -1,0 +1,43 @@
+attributed_to:
+- object: xyzrins:persons/8f8d626c-dba9-466f-ab66-c97ed7afe800
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c643dc9e-7b8a-4a32-aa1b-6f371c82880a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Linking human brain functional connectivity to underlying neurotransmission
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.64898/2026.04.28.721294
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2026-12-01'
+    schema_type: dlthings:End
+  object: xyzrins:grants/ebrains-2.0
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2024-01-01'
+    schema_type: dlthings:Start
+kind: bibo:Manuscript
+pid: xyzrins:publications/f371f453-e6c3-4038-a1cb-532b117021ba
+schema_type: xyzri:XYZPublication
+title: Linking human brain functional connectivity to underlying neurotransmission

@@ -1,0 +1,37 @@
+associated_with:
+- object: xyzrins:persons/81b3a1a2-cde7-46c2-8edd-87145adc579e
+  roles:
+  - marcrel:app
+  schema_type: dlthings:Association
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+description: This project aims to improve our understanding of neurotransmitter system
+  development in the human brain, especially in children and adolescents with attention-deficit/hyperactivity
+  disorder (ADHD) and autism spectrum disorder (ASD). By combining non-invasive brain
+  imaging with normative modeling, the project investigates typical and atypical developmental
+  trajectories of neurotransmitter systems, potentially paving the way for new diagnostic
+  and therapeutic strategies in neurodevelopmental disorders.
+ended:
+  at_time: '2028-07-31'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2028-07-31'
+    schema_type: dlthings:End
+  object: xyzrins:grants/bfdf216c-c749-46da-a59e-4da2abad45fc
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2025-08-01'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/4fd889ce-627f-4d77-99a5-2df75c468d62
+schema_type: xyzri:XYZProject
+short_name: NDDbiomarkers
+started:
+  at_time: '2025-08-01'
+  schema_type: dlthings:Start
+title: Linking brain functional trajectories in neurodevelopmental disorders to underlying
+  neurotransmitter systems (NDDbiomarkers)

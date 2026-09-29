@@ -1,0 +1,57 @@
+attributed_to:
+- object: xyzrins:persons/c643dc9e-7b8a-4a32-aa1b-6f371c82880a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Chimpanzee Brain Morphometry Utilizing Standardized MRI Preprocessing and
+    Macroanatomical Annotations
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Chimpanzees are among the closest living relatives to humans and, as such,
+    provide a crucial comparative model for investigating primate brain evolution.
+    In recent years, human brain mapping has strongly benefited from enhanced computational
+    models and image processing pipelines that could also improve data analyses in
+    animals by using species-specific templates. In this study, we use structural
+    MRI data from the National Chimpanzee Brain Resource (NCBR) to develop the chimpanzee
+    brain reference template Juna.Chimp for spatial registration and the macro-anatomical
+    brain parcellation Davi130 for standardized whole-brain analysis. Additionally,
+    we introduce a ready-to-use image processing pipeline built upon the CAT12 toolbox
+    in SPM12, implementing a standard human image preprocessing framework in chimpanzees.
+    Applying this approach to data from 178 subjects, we find strong evidence for
+    age-related GM atrophy in multiple regions of the chimpanzee brain, as well as,
+    a human-like anterior-posterior pattern of hemi-spheric asymmetry in medial chimpanzee
+    brain regions.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Chimpanzees are among the closest living relatives to humans and, as
+  such, provide a crucial comparative model for investigating primate brain evolution.
+  In recent years, human brain mapping has strongly benefited from enhanced computational
+  models and image processing pipelines that could also improve data analyses in animals
+  by using species-specific templates. In this study, we use structural MRI data from
+  the National Chimpanzee Brain Resource (NCBR) to develop the chimpanzee brain reference
+  template Juna.Chimp for spatial registration and the macro-anatomical brain parcellation
+  Davi130 for standardized whole-brain analysis. Additionally, we introduce a ready-to-use
+  image processing pipeline built upon the CAT12 toolbox in SPM12, implementing a
+  standard human image preprocessing framework in chimpanzees. Applying this approach
+  to data from 178 subjects, we find strong evidence for age-related GM atrophy in
+  multiple regions of the chimpanzee brain, as well as, a human-like anterior-posterior
+  pattern of hemi-spheric asymmetry in medial chimpanzee brain regions.
+generated_by:
+- at_location: ISSN:2050-084X
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2020.04.20.046680
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/a6baa69b-bec3-46cf-9eb1-64025014a512
+schema_type: xyzri:XYZPublication
+title: Chimpanzee Brain Morphometry Utilizing Standardized MRI Preprocessing and Macroanatomical
+  Annotations

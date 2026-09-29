@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Personality and local brain structure: their shared genetic basis and reproducibility'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Local cortical architecture is highly heritable and distinct genes are associated
+    with specific cortical regions. Total surface area has been shown to be genetically
+    correlated with complex cognitive capacities, suggesting cortical brain structure
+    is a viable endophenotype linking genes to behavior. However, to what extend local
+    brain structure has a genetic association with cognitive and emotional functioning
+    is incompletely understood. Here, we study the genetic correlation between personality
+    traits and local cortical structure in a large-scale twin sample (Human Connectome
+    Project, n=1102, 22-37y) and we evaluated whether observed associations reflect
+    generalizable relationships between personality and local brain structure two
+    independent age-matched samples (Brain Genomics Superstructure Project: n=925,
+    age=19-35y, enhanced Nathan Kline Institute dataset: n=209, age: 19-39y). We found
+    a genetic overlap between personality traits and local cortical structure in 10
+    of 18 observed phenotypic associations in predominantly frontal cortices. However,
+    we only observed evidence in favor of replication for the negative association
+    between surface area in medial prefrontal cortex and Neuroticism in both replication
+    samples. Quantitative functional decoding indicated this region is implicated
+    in emotional and socio-cognitive functional processes. In sum, our observations
+    suggest that associations between local brain structure and personality are, in
+    part, under genetic control. However, associations are weak and only the relation
+    between frontal surface area and Neuroticism was consistently observed across
+    three independent samples of young adults.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Local cortical architecture is highly heritable and distinct genes are
+  associated with specific cortical regions. Total surface area has been shown to
+  be genetically correlated with complex cognitive capacities, suggesting cortical
+  brain structure is a viable endophenotype linking genes to behavior. However, to
+  what extend local brain structure has a genetic association with cognitive and emotional
+  functioning is incompletely understood. Here, we study the genetic correlation between
+  personality traits and local cortical structure in a large-scale twin sample (Human
+  Connectome Project, n=1102, 22-37y) and we evaluated whether observed associations
+  reflect generalizable relationships between personality and local brain structure
+  two independent age-matched samples (Brain Genomics Superstructure Project: n=925,
+  age=19-35y, enhanced Nathan Kline Institute dataset: n=209, age: 19-39y). We found
+  a genetic overlap between personality traits and local cortical structure in 10
+  of 18 observed phenotypic associations in predominantly frontal cortices. However,
+  we only observed evidence in favor of replication for the negative association between
+  surface area in medial prefrontal cortex and Neuroticism in both replication samples.
+  Quantitative functional decoding indicated this region is implicated in emotional
+  and socio-cognitive functional processes. In sum, our observations suggest that
+  associations between local brain structure and personality are, in part, under genetic
+  control. However, associations are weak and only the relation between frontal surface
+  area and Neuroticism was consistently observed across three independent samples
+  of young adults.'
+generated_by:
+- at_location: ISSN:1053-8119
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2020.117067
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/dabdb6e4-050e-489e-b590-15525d66d7ba
+schema_type: xyzri:XYZPublication
+title: 'Personality and local brain structure: their shared genetic basis and reproducibility'

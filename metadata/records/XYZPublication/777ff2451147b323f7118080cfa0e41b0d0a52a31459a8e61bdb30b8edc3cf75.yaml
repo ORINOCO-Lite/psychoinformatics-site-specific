@@ -1,0 +1,74 @@
+attributed_to:
+- object: xyzrins:persons/4bbd6721-42e7-4a31-93cc-8ff0e9814e93
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/535129e4-fc67-4e19-8f5e-0d4a43a4578c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: How is self-reported sleep-disordered breathing linked with biomarkers of
+    Alzheimer’s disease?
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Sleep-disordered breathing (SDB) is prevalent in Alzheimer’s disease (AD).
+    Here, we assessed how self-reported SDB is linked with AD biomarkers, including
+    amyloid-beta plaque burden (Aβ), regional fluorodeoxyglucose uptake (rFDG-PET),
+    grey matter volume (GMV), cognitive scores, and cerebrospinal fluid (CSF) biomarkers.
+    We selected 757 individuals, including AD, mild cognitive impairment (MCI), and
+    cognitively unimpaired (CU) groups, and divided them according to self-reported
+    SDB condition. Using a stratified subsampling approach, we selected 512 matched
+    subsamples, and effect sizes (ES) of the group-SDB interaction were computed for
+    each biomarker and cognitive score across subsamples. Linear regression assessed
+    associations between the ES of Aβ, rFDG, and GMV with the ES of cognitive scores
+    and CSF biomarkers. The group-SDB interaction had a medium-sized effect on Aβ,
+    rFDG, and GMV biomarkers in several brain areas. Participants with SDB exhibited
+    reduced Aβ burden and increased rFDG uptake in the CU and MCI groups, whereas
+    the AD group showed elevated Aβ burden and decreased rFDG. Additionally, SDB+ individuals
+    demonstrated GMV alterations across all groups. The ES of group-SDB interaction
+    on Aβ in the precuneus, middle temporal gyrus, and fusiform gyrus was associated
+    with the ES of cognitive scores. Taken together, we observed a robust association
+    of SDB with Aβ pathology in PET and CSF relative to rFDG and GMV in the AD group,
+    which was also associated with cognitive decline.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Sleep-disordered breathing (SDB) is prevalent in Alzheimer’s disease
+  (AD). Here, we assessed how self-reported SDB is linked with AD biomarkers, including
+  amyloid-beta plaque burden (Aβ), regional fluorodeoxyglucose uptake (rFDG-PET),
+  grey matter volume (GMV), cognitive scores, and cerebrospinal fluid (CSF) biomarkers.
+  We selected 757 individuals, including AD, mild cognitive impairment (MCI), and
+  cognitively unimpaired (CU) groups, and divided them according to self-reported
+  SDB condition. Using a stratified subsampling approach, we selected 512 matched
+  subsamples, and effect sizes (ES) of the group-SDB interaction were computed for
+  each biomarker and cognitive score across subsamples. Linear regression assessed
+  associations between the ES of Aβ, rFDG, and GMV with the ES of cognitive scores
+  and CSF biomarkers. The group-SDB interaction had a medium-sized effect on Aβ, rFDG,
+  and GMV biomarkers in several brain areas. Participants with SDB exhibited reduced
+  Aβ burden and increased rFDG uptake in the CU and MCI groups, whereas the AD group
+  showed elevated Aβ burden and decreased rFDG. Additionally, SDB+ individuals demonstrated
+  GMV alterations across all groups. The ES of group-SDB interaction on Aβ in the
+  precuneus, middle temporal gyrus, and fusiform gyrus was associated with the ES
+  of cognitive scores. Taken together, we observed a robust association of SDB with
+  Aβ pathology in PET and CSF relative to rFDG and GMV in the AD group, which was
+  also associated with cognitive decline.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0197-4580
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neurobiolaging.2025.06.006
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/fa2c499d-247a-4287-89d5-062ecd8f6a50
+schema_type: xyzri:XYZPublication
+title: How is self-reported sleep-disordered breathing linked with biomarkers of Alzheimer’s
+  disease?

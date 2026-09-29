@@ -1,0 +1,63 @@
+attributed_to:
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Mind blanking is a distinct mental state linked to a recurrent brain profile
+    of globally positive connectivity during ongoing mentation
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Mind blanking (MB) is a waking state during which we do not report any mental
+    content. The phenomenology of MB challenges the view of a constantly thinking
+    mind. Here, we comprehensively characterize the MB’s neurobehavioral profile with
+    the aim to delineate its role during ongoing mentation. Using functional MRI experience
+    sampling, we show that the reportability of MB is less frequent, faster, and with
+    lower transitional dynamics than other mental states, pointing to its role as
+    a transient mental relay. Regarding its neural underpinnings, we observed higher
+    global signal amplitude during MB reports, indicating a distinct physiological
+    state. Using the time-varying functional connectome, we show that MB reports can
+    be classified with high accuracy, suggesting that MB has a unique neural composition.
+    Indeed, a pattern of global positive-phase coherence shows the highest similarity
+    to the connectivity patterns associated with MB reports. We interpret this pattern’s
+    rigid signal architecture as hindering content reportability due to the brain’s
+    inability to differentiate signals in an informative way. Collectively, we show
+    that MB has a unique neurobehavioral profile, indicating that nonreportable mental
+    events can happen during wakefulness. Our results add to the characterization
+    of spontaneous mentation and pave the way for more mechanistic investigations
+    of MB’s phenomenology.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Mind blanking (MB) is a waking state during which we do not report any
+  mental content. The phenomenology of MB challenges the view of a constantly thinking
+  mind. Here, we comprehensively characterize the MB’s neurobehavioral profile with
+  the aim to delineate its role during ongoing mentation. Using functional MRI experience
+  sampling, we show that the reportability of MB is less frequent, faster, and with
+  lower transitional dynamics than other mental states, pointing to its role as a
+  transient mental relay. Regarding its neural underpinnings, we observed higher global
+  signal amplitude during MB reports, indicating a distinct physiological state. Using
+  the time-varying functional connectome, we show that MB reports can be classified
+  with high accuracy, suggesting that MB has a unique neural composition. Indeed,
+  a pattern of global positive-phase coherence shows the highest similarity to the
+  connectivity patterns associated with MB reports. We interpret this pattern’s rigid
+  signal architecture as hindering content reportability due to the brain’s inability
+  to differentiate signals in an informative way. Collectively, we show that MB has
+  a unique neurobehavioral profile, indicating that nonreportable mental events can
+  happen during wakefulness. Our results add to the characterization of spontaneous
+  mentation and pave the way for more mechanistic investigations of MB’s phenomenology.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0027-8424
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1073/pnas.2200511119
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/3349ab89-9b75-4ee9-bd12-bf29adcd71ba
+schema_type: xyzri:XYZPublication
+title: Mind blanking is a distinct mental state linked to a recurrent brain profile
+  of globally positive connectivity during ongoing mentation

@@ -1,0 +1,103 @@
+attributed_to:
+- object: xyzrins:persons/524cfe09-be4c-4e65-9886-4c3b7d4c0237
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/8f8d626c-dba9-466f-ab66-c97ed7afe800
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/beef5300-2559-47ed-b7e1-2525119ee254
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Voxel‐Wise or Region‐Wise Nuisance Regression for Functional Connectivity
+    Analyses: Does It Matter?'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Removal of nuisance signals (such as motion) from the BOLD time series is
+    an important aspect of preprocessing to obtain meaningful resting-state functional
+    connectivity (rs-FC). The nuisance signals are commonly removed using denoising
+    procedures at the finest resolution, that is the voxel time series. Typically,
+    the voxel-wise time series are then aggregated into predefined regions or parcels
+    to obtain an rs-FC matrix as the correlation between pairs of regional time series.
+    Computational efficiency can be improved by denoising the aggregated regional
+    time series instead of the voxel time series. However, a comprehensive comparison
+    of the effects of denoising on these two resolutions is missing. In this study,
+    we systematically investigate the effects of denoising at different time series
+    resolutions (voxel-level and region-level) in 370 unrelated subjects from the
+    HCP-YA dataset. Alongside the time series resolution, we considered additional
+    factors such as aggregation method (Mean and first eigenvariate [EV]) and parcellation
+    granularity (100, 400, and 1000 regions). To assess the effect of those choices
+    on the utility of the resulting whole-brain rs-FC, we evaluated the individual
+    specificity (fingerprinting) and the capacity to predict age and three cognitive
+    scores. Our findings show generally equal or better performance for region-level
+    denoising with notable differences depending on the aggregation method. Using
+    Mean aggregation yielded equal individual specificity and prediction performance
+    for voxel-level and region-level denoising. When EV was employed for aggregation,
+    the individual specificity of voxel-level denoising was reduced compared to region-level
+    denoising. Increasing parcellation granularity generally improved individual specificity.
+    For the prediction of age and cognitive test scores, only fluid intelligence indicated
+    worse performance for voxel-level denoising in the case of aggregating with the
+    EV. Based on these results, we recommend the adoption of region-level denoising
+    for brain-behavior investigations when using Mean aggregation. This approach offers
+    equal individual specificity and prediction capacity with reduced computational
+    resources for the analysis of rs-FC patterns.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Removal of nuisance signals (such as motion) from the BOLD time series
+  is an important aspect of preprocessing to obtain meaningful resting-state functional
+  connectivity (rs-FC). The nuisance signals are commonly removed using denoising
+  procedures at the finest resolution, that is the voxel time series. Typically, the
+  voxel-wise time series are then aggregated into predefined regions or parcels to
+  obtain an rs-FC matrix as the correlation between pairs of regional time series.
+  Computational efficiency can be improved by denoising the aggregated regional time
+  series instead of the voxel time series. However, a comprehensive comparison of
+  the effects of denoising on these two resolutions is missing. In this study, we
+  systematically investigate the effects of denoising at different time series resolutions
+  (voxel-level and region-level) in 370 unrelated subjects from the HCP-YA dataset.
+  Alongside the time series resolution, we considered additional factors such as aggregation
+  method (Mean and first eigenvariate [EV]) and parcellation granularity (100, 400,
+  and 1000 regions). To assess the effect of those choices on the utility of the resulting
+  whole-brain rs-FC, we evaluated the individual specificity (fingerprinting) and
+  the capacity to predict age and three cognitive scores. Our findings show generally
+  equal or better performance for region-level denoising with notable differences
+  depending on the aggregation method. Using Mean aggregation yielded equal individual
+  specificity and prediction performance for voxel-level and region-level denoising.
+  When EV was employed for aggregation, the individual specificity of voxel-level
+  denoising was reduced compared to region-level denoising. Increasing parcellation
+  granularity generally improved individual specificity. For the prediction of age
+  and cognitive test scores, only fluid intelligence indicated worse performance for
+  voxel-level denoising in the case of aggregating with the EV. Based on these results,
+  we recommend the adoption of region-level denoising for brain-behavior investigations
+  when using Mean aggregation. This approach offers equal individual specificity and
+  prediction capacity with reduced computational resources for the analysis of rs-FC
+  patterns.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1065-9471
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/hbm.70323
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2027-12-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/2b40e9ef-d9d2-42f8-a502-2e6efa86a1f7
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/852ec4c4-2fec-4350-977a-e6ac1d19afc0
+schema_type: xyzri:XYZPublication
+title: 'Voxel‐Wise or Region‐Wise Nuisance Regression for Functional Connectivity
+  Analyses: Does It Matter?'

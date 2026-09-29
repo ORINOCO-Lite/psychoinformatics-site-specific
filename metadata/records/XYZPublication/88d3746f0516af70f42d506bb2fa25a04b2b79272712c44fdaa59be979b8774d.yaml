@@ -1,0 +1,26 @@
+attributed_to:
+- object: xyzrins:persons/91325970-a275-4cb9-ad49-568d705b798c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: A spatiotemporal complexity architecture of human brain activity
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2375-2548
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1126/sciadv.abq3851
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/b35cb64b-c371-4813-ac65-2da4dc058dd5
+schema_type: xyzri:XYZPublication
+title: A spatiotemporal complexity architecture of human brain activity

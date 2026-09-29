@@ -1,0 +1,9 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-26T14:24:03.832468'
+description: A common open standard file format and data interchange format that uses
+  human-readable text consisting of attribute-value pairs and arrays to store and
+  transmit data.
+display_label: JSON format
+pid: obo:NCIT_C184769
+schema_type: xyzri:XYZDataType

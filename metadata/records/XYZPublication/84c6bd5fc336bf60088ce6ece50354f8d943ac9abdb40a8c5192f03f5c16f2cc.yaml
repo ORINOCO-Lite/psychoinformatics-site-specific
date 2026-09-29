@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/f927ec1c-72cd-4daa-ae49-c4792d3efb70
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Multimodal Covariance Network Reflects Individual Cognitive Flexibility
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Cognitive flexibility refers to the capacity to shift between patterns of
+    mental function and relies on functional activity supported by anatomical structures.
+    However, how the brain''s structural-functional covarying is preconfigured in
+    the resting state to facilitate cognitive flexibility under tasks remains unrevealed.
+    Herein, we investigated the potential relationship between individual cognitive
+    flexibility performance during the trail-making test (TMT) and structural-functional
+    covariation of the large-scale multimodal covariance network (MCN) using magnetic
+    resonance imaging (MRI) and electroencephalograph (EEG) datasets of 182 healthy
+    participants. Results show that cognitive flexibility correlated significantly
+    with the intra-subnetwork covariation of the visual network (VN) and somatomotor
+    network (SMN) of MCN. Meanwhile, inter-subnetwork interactions across SMN and
+    VN/default mode network/frontoparietal network (FPN), as well as across VN and
+    ventral attention network (VAN)/dorsal attention network (DAN) were also found
+    to be closely related to individual cognitive flexibility. After using resting-state
+    MCN connectivity as representative features to train a multi-layer perceptron
+    prediction model, we achieved a reliable prediction of individual cognitive flexibility
+    performance. Collectively, this work offers new perspectives on the structural-functional
+    coordination of cognitive flexibility and also provides neurobiological markers
+    to predict individual cognitive flexibility.Keywords: Cognitive flexibility; EEG-MRI;
+    multimodal covariance network; response prediction; trail-making test.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Cognitive flexibility refers to the capacity to shift between patterns
+  of mental function and relies on functional activity supported by anatomical structures.
+  However, how the brain''s structural-functional covarying is preconfigured in the
+  resting state to facilitate cognitive flexibility under tasks remains unrevealed.
+  Herein, we investigated the potential relationship between individual cognitive
+  flexibility performance during the trail-making test (TMT) and structural-functional
+  covariation of the large-scale multimodal covariance network (MCN) using magnetic
+  resonance imaging (MRI) and electroencephalograph (EEG) datasets of 182 healthy
+  participants. Results show that cognitive flexibility correlated significantly with
+  the intra-subnetwork covariation of the visual network (VN) and somatomotor network
+  (SMN) of MCN. Meanwhile, inter-subnetwork interactions across SMN and VN/default
+  mode network/frontoparietal network (FPN), as well as across VN and ventral attention
+  network (VAN)/dorsal attention network (DAN) were also found to be closely related
+  to individual cognitive flexibility. After using resting-state MCN connectivity
+  as representative features to train a multi-layer perceptron prediction model, we
+  achieved a reliable prediction of individual cognitive flexibility performance.
+  Collectively, this work offers new perspectives on the structural-functional coordination
+  of cognitive flexibility and also provides neurobiological markers to predict individual
+  cognitive flexibility.Keywords: Cognitive flexibility; EEG-MRI; multimodal covariance
+  network; response prediction; trail-making test.'
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:0129-0657
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1142/S0129065724500187
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/638539ce-8023-480f-88f7-d8b661ca98f4
+schema_type: xyzri:XYZPublication
+title: Multimodal Covariance Network Reflects Individual Cognitive Flexibility

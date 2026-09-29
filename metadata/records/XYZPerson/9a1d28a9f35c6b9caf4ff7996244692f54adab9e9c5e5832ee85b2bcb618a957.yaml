@@ -1,0 +1,24 @@
+additional_names:
+- O.
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-10T08:02:02.294999'
+  xyzrins:annotation-tags/psyinf-ns-id:
+    annotation_tag: xyzrins:annotation-tags/psyinf-ns-id
+    annotation_value: persons/yaroslav-halchenko
+delegated_by:
+- object: 'ror:'
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+  started:
+    at_time: 2009-05
+    schema_type: dlthings:Start
+family_name: Halchenko
+given_name: Yaroslav
+honorific_name_prefix: Prof. Dr.
+identifiers:
+- notation: 0000-0003-3456-2493
+  schema_type: xyzri:ORCID
+pid: orcid:0000-0003-3456-2493
+schema_type: xyzri:XYZPerson

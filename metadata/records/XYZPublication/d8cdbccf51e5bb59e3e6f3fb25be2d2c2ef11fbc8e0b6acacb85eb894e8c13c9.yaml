@@ -1,0 +1,72 @@
+attributed_to:
+- object: xyzrins:persons/91cb3ecc-1778-47b5-bce4-efc570225b9e
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b5b19e62-b0b2-4bfe-898b-cf20d71b83b0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d4e23096-f9d8-47e0-bb48-a25ba181f202
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Accurate sex prediction of cisgender and transgender individuals without
+    brain size bias
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: he increasing use of machine learning approaches on neuroimaging data comes
+    with the important concern of confounding variables which might lead to biased
+    predictions and in turn spurious conclusions about the relationship between the
+    features and the target. A prominent example is the brain size difference between
+    women and men. This difference in total intracranial volume (TIV) can cause bias
+    when employing machine learning approaches for the investigation of sex differences
+    in brain morphology. A TIV-biased model will not capture qualitative sex differences
+    in brain organization but rather learn to classify an individual’s sex based on
+    brain size differences, thus leading to spurious and misleading conclusions, for
+    example when comparing brain morphology between cisgender- and transgender individuals.
+    In this study, TIV bias in sex classification models applied to cis- and transgender
+    individuals was systematically investigated by controlling for TIV either through
+    featurewise confound removal or by matching the training samples for TIV. Our
+    results provide strong evidence that models not biased by TIV can classify the
+    sex of both cis- and transgender individuals with high accuracy, highlighting
+    the importance of appropriate modeling to avoid bias in automated decision making.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: he increasing use of machine learning approaches on neuroimaging data
+  comes with the important concern of confounding variables which might lead to biased
+  predictions and in turn spurious conclusions about the relationship between the
+  features and the target. A prominent example is the brain size difference between
+  women and men. This difference in total intracranial volume (TIV) can cause bias
+  when employing machine learning approaches for the investigation of sex differences
+  in brain morphology. A TIV-biased model will not capture qualitative sex differences
+  in brain organization but rather learn to classify an individual’s sex based on
+  brain size differences, thus leading to spurious and misleading conclusions, for
+  example when comparing brain morphology between cisgender- and transgender individuals.
+  In this study, TIV bias in sex classification models applied to cis- and transgender
+  individuals was systematically investigated by controlling for TIV either through
+  featurewise confound removal or by matching the training samples for TIV. Our results
+  provide strong evidence that models not biased by TIV can classify the sex of both
+  cis- and transgender individuals with high accuracy, highlighting the importance
+  of appropriate modeling to avoid bias in automated decision making.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2045-2322
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41598-023-37508-z
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/33ad595b-1184-4849-af7a-dd014757ccae
+schema_type: xyzri:XYZPublication
+title: Accurate sex prediction of cisgender and transgender individuals without brain
+  size bias

@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Decision Models and Technology Can Help Psychiatry Develop Biomarkers
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Why is psychiatry unable to define clinically useful biomarkers? We explore
+    this question from the vantage of data and decision science and consider biomarkers
+    as a form of phenotypic data that resolves a well-defined clinical decision. We
+    introduce a framework that systematizes different forms of phenotypic data and
+    further introduce the concept of decision model to describe the strategies a clinician
+    uses to seek out, combine, and act on clinical data. Though many medical specialties
+    rely on quantitative clinical data and operationalized decision models, we observe
+    that, in psychiatry, clinical data are gathered and used in idiosyncratic decision
+    models that exist solely in the clinician''s mind and therefore are outside empirical
+    evaluation. This, we argue, is a fundamental reason why psychiatry is unable to
+    define clinically useful biomarkers: because psychiatry does not currently quantify
+    clinical data, decision models cannot be operationalized and, in the absence of
+    an operationalized decision model, it is impossible to define how a biomarker
+    might be of use. Here, psychiatry might benefit from digital technologies that
+    have recently emerged specifically to quantify clinically relevant facets of human
+    behavior. We propose that digital tools might help psychiatry in two ways: first,
+    by quantifying data already present in the standard clinical interaction and by
+    allowing decision models to be operationalized and evaluated; second, by testing
+    whether new forms of data might have value within an operationalized decision
+    model. We reference successes from other medical specialties to illustrate how
+    quantitative data and operationalized decision models improve patient care.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Why is psychiatry unable to define clinically useful biomarkers? We
+  explore this question from the vantage of data and decision science and consider
+  biomarkers as a form of phenotypic data that resolves a well-defined clinical decision.
+  We introduce a framework that systematizes different forms of phenotypic data and
+  further introduce the concept of decision model to describe the strategies a clinician
+  uses to seek out, combine, and act on clinical data. Though many medical specialties
+  rely on quantitative clinical data and operationalized decision models, we observe
+  that, in psychiatry, clinical data are gathered and used in idiosyncratic decision
+  models that exist solely in the clinician''s mind and therefore are outside empirical
+  evaluation. This, we argue, is a fundamental reason why psychiatry is unable to
+  define clinically useful biomarkers: because psychiatry does not currently quantify
+  clinical data, decision models cannot be operationalized and, in the absence of
+  an operationalized decision model, it is impossible to define how a biomarker might
+  be of use. Here, psychiatry might benefit from digital technologies that have recently
+  emerged specifically to quantify clinically relevant facets of human behavior. We
+  propose that digital tools might help psychiatry in two ways: first, by quantifying
+  data already present in the standard clinical interaction and by allowing decision
+  models to be operationalized and evaluated; second, by testing whether new forms
+  of data might have value within an operationalized decision model. We reference
+  successes from other medical specialties to illustrate how quantitative data and
+  operationalized decision models improve patient care.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1664-0640
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3389/fpsyt.2021.706655
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/7fe84435-246f-446a-a41f-99c64d2e36ae
+schema_type: xyzri:XYZPublication
+title: Decision Models and Technology Can Help Psychiatry Develop Biomarkers

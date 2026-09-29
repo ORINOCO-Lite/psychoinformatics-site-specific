@@ -1,0 +1,28 @@
+attributed_to:
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Individual brain activity topographies during naturalistic viewing predict
+    individual traits
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.13140/RG.2.2.25470.25920
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/4f08b39b-5829-43db-b04c-ea5bf605703f
+schema_type: xyzri:XYZPublication
+title: Individual brain activity topographies during naturalistic viewing predict
+  individual traits

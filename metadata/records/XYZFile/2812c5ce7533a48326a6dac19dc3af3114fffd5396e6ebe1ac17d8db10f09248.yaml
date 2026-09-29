@@ -1,0 +1,16 @@
+annotations:
+  obo:NCIT_C54269: s.heunis@fz-juelich.de
+  sio:SIO_001083: '2026-06-02T12:25:08.151524'
+byte_size: 113489
+characterized_by:
+- object: https://hub.psychoinformatics.de/git-annex-p2phttp/git-annex/cedde37c-416a-41fd-87e0-4ac100df4bf7/key/SHA256E-s113489--241100e1adcffd2022cd3a376592b446736cb4e6d310e78f6c99bccbdf9f4425.png
+  predicate: dcat:downloadUrl
+checksums:
+- creator: spdx:checksumAlgorithm_sha256
+  notation: 241100e1adcffd2022cd3a376592b446736cb4e6d310e78f6c99bccbdf9f4425
+  schema_type: dlthings:Checksum
+display_label: vankatesh_alpha.png
+distribution_of:
+- xyzrins:depictions/7aa295e1-1026-4466-a279-d0afefb4f32c
+pid: dldi:SHA256E-s113489--241100e1adcffd2022cd3a376592b446736cb4e6d310e78f6c99bccbdf9f4425.png
+schema_type: xyzri:XYZFile

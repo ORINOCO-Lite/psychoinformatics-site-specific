@@ -1,0 +1,86 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-03-08T13:09:06.096864'
+associated_with:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+- object: xyzrins:persons/michal-szczepanik
+  roles:
+  - marcrel:res
+  schema_type: dlthings:Association
+- object: xyzrins:persons/simon-eickhoff
+  roles:
+  - marcrel:exp
+  schema_type: dlthings:Association
+description: This project will provide expertise for access, description, and modelling
+  of the data collected in the individual projects as well as [Z02](https://www.crc1451.uni-koeln.de/z02/)
+  and [Z03](https://www.crc1451.uni-koeln.de/z03/). INF will continuously assess general
+  workflows, resource requirements, and data analysis processes to capture between-project
+  differences that may impact data comparability and re-usability across projects.
+  INF will provide tools, services and training to help projects align their research
+  output to (i) facilitate data analysis for extracting common activity patterns and
+  mechanisms underlying motor behaviours across species, and (ii) promote data-driven
+  computational modelling.
+ended:
+  at_time: '2028-12-31'
+  schema_type: dlthings:End
+identifiers:
+- creator: ror:018mejw64
+  notation: '458705014'
+  schema_type: dlthings:Identifier
+- creator: xyzrins:projects/sfb1451
+  notation: https://www.crc1451.uni-koeln.de/inf/
+  schema_type: dlthings:Identifier
+influenced_by:
+- object: xyzrins:objectives/97ded4aa-108d-4b84-8195-d6076dce63ce
+  roles:
+  - xyzrins:entity-roles/1160471a-9f8e-4379-85f2-351a2a36ef40
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:objectives/87be5fa3-80fb-4221-8406-2ddd40fb1fd1
+  roles:
+  - xyzrins:entity-roles/1160471a-9f8e-4379-85f2-351a2a36ef40
+  schema_type: xyzri:XYZInfluence
+- ended:
+    at_time: '2028-12-31'
+    schema_type: dlthings:End
+  object: xyzrins:grants/sfb1451-inf
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+informed_by:
+- attributes:
+  - predicate: foaf:homepage
+    schema_type: dlthings:AttributeSpecification
+    value: https://rdm.sfb1451.de/datalad/index.html
+  description: The software [DataLad](https://www.datalad.org/) is the key research
+    data management solution adopted by the SFB. DataLad is a free and open source
+    distributed data management system that keeps track of your data, creates structure,
+    ensures reproducibility, supports collaboration, and integrates with widely used
+    data infrastructure.
+  identifiers:
+  - creator: xyzrins:projects/sfb1451
+    notation: https://rdm.sfb1451.de/datalad/index.html
+    schema_type: dlthings:Identifier
+  object: xyzrins:projects/datalad
+  roles:
+  - obo:IAO_0000010
+  schema_type: xyzri:XYZCommunication
+part_of:
+- xyzrins:projects/sfb1451
+pid: xyzrins:projects/sfb1451_inf
+schema_type: xyzri:XYZProject
+short_name: INF
+started:
+  at_time: '2021-01-01'
+  schema_type: dlthings:Start
+title: Data management for reproducible data-driven computational modeling cross-species
+  and cross-labs

@@ -1,0 +1,7 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2025-12-11T21:28:30.088180'
+family_name: Ibe
+given_name: Pierre
+pid: xyzrins:persons/pierre-ibe
+schema_type: xyzri:XYZPerson

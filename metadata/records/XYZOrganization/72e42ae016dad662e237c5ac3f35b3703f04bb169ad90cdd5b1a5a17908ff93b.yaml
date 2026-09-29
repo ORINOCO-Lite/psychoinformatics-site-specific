@@ -1,0 +1,15 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-03T07:31:51.179162'
+editorial_notes:
+- 'The identifier is a EUID (https://euid.eu) taken from the european business register
+  that can be queried at https://e-justice.europa.eu/topics/registers-business-insolvency-land/business-registers-search-company-eu_en
+
+
+  This is a self-managed ID that isn''t really issued by anyone.'
+identifiers:
+- notation: BEKBOBCE.0843.708.374
+  schema_type: dlthings:Identifier
+name: Altertox
+pid: xyzrins:organizations/4985786a-5a4b-4b86-8fff-0b7be76a6227
+schema_type: xyzri:XYZOrganization

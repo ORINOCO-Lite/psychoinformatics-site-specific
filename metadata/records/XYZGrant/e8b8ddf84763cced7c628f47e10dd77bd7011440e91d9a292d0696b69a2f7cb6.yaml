@@ -1,0 +1,8 @@
+identifiers:
+- creator: ror:00k4n6c32
+  notation: '604102'
+  schema_type: dlthings:Identifier
+pid: xyzrins:grants/ff4d1947-f1ad-4e9f-88fc-57af7b7cfc85
+schema_type: xyzri:XYZGrant
+short_name: HBP
+title: The Human Brain Project

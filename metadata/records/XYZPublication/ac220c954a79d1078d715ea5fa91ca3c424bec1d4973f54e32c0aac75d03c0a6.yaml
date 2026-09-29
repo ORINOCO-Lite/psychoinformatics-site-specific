@@ -1,0 +1,64 @@
+attributed_to:
+- object: xyzrins:persons/ad58139b-57cd-4e0d-a698-2d80463a4d93
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/02317164-fe5d-4a7a-b5ee-1b30a542a188
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Sex differences in intrinsic functional cortical organization reflect differences
+    in network topology rather than cortical morphometry
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Brain size robustly differs between sexes. However, the consequences of this
+    anatomical dimorphism on sex differences in intrinsic brain function remain unclear.
+    We investigated the extent to which sex differences in intrinsic cortical functional
+    organization may be explained by differences in cortical morphometry, namely brain
+    size, microstructure, and the geodesic distances of connectivity profiles. For
+    this, we computed a low dimensional representation of functional cortical organization,
+    the sensory-association axis, and identified widespread sex differences. Contrary
+    to our expectations, observed sex differences in functional organization were
+    not fundamentally associated with differences in brain size, microstructural organization,
+    or geodesic distances, despite these morphometric properties being per se associated
+    with functional organization and differing between sexes. Instead, functional
+    sex differences in the sensory-association axis were associated with differences
+    in functional connectivity profiles and network topology. Collectively, our findings
+    suggest that sex differences in functional cortical organization extend beyond
+    sex differences in cortical morphometry.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Brain size robustly differs between sexes. However, the consequences
+  of this anatomical dimorphism on sex differences in intrinsic brain function remain
+  unclear. We investigated the extent to which sex differences in intrinsic cortical
+  functional organization may be explained by differences in cortical morphometry,
+  namely brain size, microstructure, and the geodesic distances of connectivity profiles.
+  For this, we computed a low dimensional representation of functional cortical organization,
+  the sensory-association axis, and identified widespread sex differences. Contrary
+  to our expectations, observed sex differences in functional organization were not
+  fundamentally associated with differences in brain size, microstructural organization,
+  or geodesic distances, despite these morphometric properties being per se associated
+  with functional organization and differing between sexes. Instead, functional sex
+  differences in the sensory-association axis were associated with differences in
+  functional connectivity profiles and network topology. Collectively, our findings
+  suggest that sex differences in functional cortical organization extend beyond sex
+  differences in cortical morphometry.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2023.11.23.568437
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/1b672d57-42dc-45dc-ba4d-ed675581c262
+schema_type: xyzri:XYZPublication
+title: Sex differences in intrinsic functional cortical organization reflect differences
+  in network topology rather than cortical morphometry

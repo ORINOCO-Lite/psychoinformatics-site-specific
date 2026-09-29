@@ -1,0 +1,35 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Lightweight data publishing on Jülich Data with DataLad
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Jülich DATA is the central institutional repository for research data of
+    the Research Center Jülich and supports sharing, preserving, citing, exploring,
+    and analyzing research data with descriptive metadata, without hosting large files.
+    In this tutorial, participants will discover how DataLad can integrate with Dataverse
+    and have the best of both worlds: Discoverability and metadata with Jülich DATA,
+    and actionable data tracking with DataLad. With conceptual and hands-on elements,
+    we will learn how to publish or clone lightweight DataLad datasets to and from
+    Jülich DATA.'
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+description: 'Jülich DATA is the central institutional repository for research data
+  of the Research Center Jülich and supports sharing, preserving, citing, exploring,
+  and analyzing research data with descriptive metadata, without hosting large files.
+  In this tutorial, participants will discover how DataLad can integrate with Dataverse
+  and have the best of both worlds: Discoverability and metadata with Jülich DATA,
+  and actionable data tracking with DataLad. With conceptual and hands-on elements,
+  we will learn how to publish or clone lightweight DataLad datasets to and from Jülich
+  DATA.'
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/ZENODO.10010615
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/95696be1-d693-4f64-8076-111858d61b2e
+schema_type: xyzri:XYZPublication
+title: Lightweight data publishing on Jülich Data with DataLad

@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Longer scans boost prediction and cut costs in brain-wide association studies
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: A pervasive dilemma in brain-wide association studies1 (BWAS) is whether
+    to prioritize functional magnetic resonance imaging (fMRI) scan time or sample
+    size. We derive a theoretical model showing that individual-level phenotypic prediction
+    accuracy increases with sample size and total scan duration (sample size × scan
+    time per participant). The model explains empirical prediction accuracies well
+    across 76 phenotypes from nine resting-fMRI and task-fMRI datasets (R2 = 0.89),
+    spanning diverse scanners, acquisitions, racial groups, disorders and ages. For
+    scans of ≤20 min, accuracy increases linearly with the logarithm of the total
+    scan duration, suggesting that sample size and scan time are initially interchangeable.
+    However, sample size is ultimately more important. Nevertheless, when accounting
+    for the overhead costs of each participant (such as recruitment), longer scans
+    can be substantially cheaper than larger sample size for improving prediction
+    performance. To achieve high prediction performance, 10 min scans are cost inefficient.
+    In most scenarios, the optimal scan time is at least 20 min. On average, 30 min
+    scans are the most cost-effective, yielding 22% savings over 10 min scans. Overshooting
+    the optimal scan time is cheaper than undershooting it, so we recommend a scan
+    time of at least 30 min. Compared with resting-state whole-brain BWAS, the most
+    cost-effective scan time is shorter for task-fMRI and longer for subcortical-to-whole-brain
+    BWAS. In contrast to standard power calculations, our results suggest that jointly
+    optimizing sample size and scan time can boost prediction accuracy while cutting
+    costs. Our empirical reference is available online for future study design (https://thomasyeolab.github.io/OptimalScanTimeCalculator/index.html).
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: A pervasive dilemma in brain-wide association studies1 (BWAS) is whether
+  to prioritize functional magnetic resonance imaging (fMRI) scan time or sample size.
+  We derive a theoretical model showing that individual-level phenotypic prediction
+  accuracy increases with sample size and total scan duration (sample size × scan
+  time per participant). The model explains empirical prediction accuracies well across
+  76 phenotypes from nine resting-fMRI and task-fMRI datasets (R2 = 0.89), spanning
+  diverse scanners, acquisitions, racial groups, disorders and ages. For scans of
+  ≤20 min, accuracy increases linearly with the logarithm of the total scan duration,
+  suggesting that sample size and scan time are initially interchangeable. However,
+  sample size is ultimately more important. Nevertheless, when accounting for the
+  overhead costs of each participant (such as recruitment), longer scans can be substantially
+  cheaper than larger sample size for improving prediction performance. To achieve
+  high prediction performance, 10 min scans are cost inefficient. In most scenarios,
+  the optimal scan time is at least 20 min. On average, 30 min scans are the most
+  cost-effective, yielding 22% savings over 10 min scans. Overshooting the optimal
+  scan time is cheaper than undershooting it, so we recommend a scan time of at least
+  30 min. Compared with resting-state whole-brain BWAS, the most cost-effective scan
+  time is shorter for task-fMRI and longer for subcortical-to-whole-brain BWAS. In
+  contrast to standard power calculations, our results suggest that jointly optimizing
+  sample size and scan time can boost prediction accuracy while cutting costs. Our
+  empirical reference is available online for future study design (https://thomasyeolab.github.io/OptimalScanTimeCalculator/index.html).
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0028-0836
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41586-025-09250-1
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/403a4527-ffbd-4a51-82c1-ea6cac00bf6c
+schema_type: xyzri:XYZPublication
+title: Longer scans boost prediction and cut costs in brain-wide association studies

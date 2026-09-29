@@ -1,0 +1,9 @@
+display_note: ISSN:2314-6141
+identifiers:
+- creator: ror:026ytr635
+  notation: 2314-6141
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:2314-6141
+schema_type: xyzri:XYZPublicationVenue
+title: BioMed Research International

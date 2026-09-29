@@ -1,0 +1,5 @@
+description: A person or organization primarily responsible for performing or initiating
+  a process, such as is done with the collection of metadata sets
+display_label: Process contact
+pid: marcrel:prc
+schema_type: xyzri:XYZAgentRole

@@ -1,0 +1,34 @@
+assertions:
+- assertion_sha256: sha256:17c77354d0f7412f53017e16374eefc695b1566565b89f48e347cd07c5e92c64
+  path: /attributed_to
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/861113
+- assertion_sha256: sha256:5ae3ef12376ebd83e8645c65b7c653bbb317a60e38b3cb8ad2c24b70899b7b94
+  path: /attributed_to
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/861113
+- assertion_sha256: sha256:eefaf9de7630ed53e778c323c3b273eeeb2c3a4f5a7392d81a91444075afe2b6
+  path: /attributed_to
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/861113
+- assertion_sha256: sha256:be26be2463a2642f91e2b3dc656813a4f658e194f0fa2da5922ef7f24679f216
+  path: /attributes
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/861113
+- assertion_sha256: sha256:dd15568b33b6f330e0899e0b9f8fd20ca04261de536dc00d168d7fe553563a22
+  path: /attributes
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/861113
+- assertion_sha256: sha256:daaf525b6f3d3378a5630d6cee38e0b0b19098a51ceab864edf5e50321977190
+  path: /characterized_by
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/861113
+- assertion_sha256: sha256:712b53fa10f398b7d1425c1a225c59b84d98225785d66aaf437c865838a8e86d
+  path: /generated_by
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/861113
+- assertion_sha256: sha256:a5f0abf9e20020c0bd08cd3d1227f0c7700caf06d117da8950a474ed3bdd1bf2
+  path: /identifiers
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/861113
+record: xyzrins:publications/9f601e78-e4c7-48f5-bc4e-37a65e983694

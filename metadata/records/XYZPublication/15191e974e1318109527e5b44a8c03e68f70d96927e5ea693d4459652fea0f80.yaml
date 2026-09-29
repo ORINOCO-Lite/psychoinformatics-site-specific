@@ -1,0 +1,76 @@
+attributed_to:
+- object: xyzrins:persons/9fe30b8c-a331-4166-bd1c-f407b6e06ecc
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Comparison of Vaginal Pessaries to Standard Care or Pelvic Floor Muscle
+    Training for Treating Postpartum Urinary Incontinence: a Pragmatic Randomized
+    Controlled Trial'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Introduction: To compare three conservative treatment options, standard
+    care, pelvic floor muscle training (PFMT), and vaginal pessaries, for postpartum
+    urinary incontinence (UI) that are accessible to most patients and practitioners
+    in a generalizable cohort.Materials and methods: A multicenter, open-label, parallel
+    group, pragmatic randomized controlled clinical trial comparing standard care,
+    PFMT, and vaginal cube pessary for postpartum urinary incontinence was conducted
+    in six outpatient clinics. Sample size was based on large treatment effects (Cramers''
+    V > 0.35) with a power of 80% and an alpha of 0.05 for a 3 × 3 contingency table,
+    44 patients needed to be included in the trial. Outcomes were analyzed according
+    to the intention-to-treat principle. Group comparisons were made using analysis
+    of variance (ANOVA), Kruskal-Wallis, and chi-square test as appropriate. P < 0.05
+    was considered statistically significant.Results: Of the 516 women screened, 111
+    presented with postpartum UI. Of these, 52 were randomized to one of three treatment
+    groups: standard care (n = 17), pelvic floor muscle training (n = 17), or vaginal
+    cube pessary (n = 18). After 12 weeks of treatment, treatment success, as measured
+    by patient satisfaction, was significantly higher in the vaginal pessary group
+    (77.8%, n = 14/18), compared to the standard care group (41.2%, n = 7/17), and
+    the PFMT (23.5%, n = 4/17; χ 2 2,n = 52 = 14.55; p = 0.006, Cramer-V = 0.374).
+    No adverse events were reported. SUI and MUI accounted for 88.4% of postpartum
+    UI.Conclusion: Vaginal pessaries were superior to standard care or PFMT to satisfyingly
+    reduce postpartum UI symptoms. No complications were found.Keywords: pelvic floor
+    muscle training; postpartum; randomized controlled trial; standard care; urinary
+    incontinence; vaginal pessary.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Introduction: To compare three conservative treatment options, standard
+  care, pelvic floor muscle training (PFMT), and vaginal pessaries, for postpartum
+  urinary incontinence (UI) that are accessible to most patients and practitioners
+  in a generalizable cohort.Materials and methods: A multicenter, open-label, parallel
+  group, pragmatic randomized controlled clinical trial comparing standard care, PFMT,
+  and vaginal cube pessary for postpartum urinary incontinence was conducted in six
+  outpatient clinics. Sample size was based on large treatment effects (Cramers''
+  V > 0.35) with a power of 80% and an alpha of 0.05 for a 3 × 3 contingency table,
+  44 patients needed to be included in the trial. Outcomes were analyzed according
+  to the intention-to-treat principle. Group comparisons were made using analysis
+  of variance (ANOVA), Kruskal-Wallis, and chi-square test as appropriate. P < 0.05
+  was considered statistically significant.Results: Of the 516 women screened, 111
+  presented with postpartum UI. Of these, 52 were randomized to one of three treatment
+  groups: standard care (n = 17), pelvic floor muscle training (n = 17), or vaginal
+  cube pessary (n = 18). After 12 weeks of treatment, treatment success, as measured
+  by patient satisfaction, was significantly higher in the vaginal pessary group (77.8%,
+  n = 14/18), compared to the standard care group (41.2%, n = 7/17), and the PFMT
+  (23.5%, n = 4/17; χ 2 2,n = 52 = 14.55; p = 0.006, Cramer-V = 0.374). No adverse
+  events were reported. SUI and MUI accounted for 88.4% of postpartum UI.Conclusion:
+  Vaginal pessaries were superior to standard care or PFMT to satisfyingly reduce
+  postpartum UI symptoms. No complications were found.Keywords: pelvic floor muscle
+  training; postpartum; randomized controlled trial; standard care; urinary incontinence;
+  vaginal pessary.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0016-5751
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1055/a-2243-3784
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/96577560-93fd-429c-932c-654557d4de0a
+schema_type: xyzri:XYZPublication
+title: 'Comparison of Vaginal Pessaries to Standard Care or Pelvic Floor Muscle Training
+  for Treating Postpartum Urinary Incontinence: a Pragmatic Randomized Controlled
+  Trial'

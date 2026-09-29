@@ -1,0 +1,7 @@
+description: A person or organization performing the work, i.e., the name of a person
+  or organization associated with the intellectual content of the work. This category
+  does not include the publisher or personal affiliation, or sponsor except where
+  it is also the corporate author
+display_label: Originator
+pid: marcrel:org
+schema_type: xyzri:XYZAgentRole

@@ -1,0 +1,33 @@
+about:
+- xyzrins:topics/naturalistic-neuroimaging
+- xyzrins:topics/predictive-data-analysis
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-18T13:05:02.451421'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+close_mappings:
+- https://doi.org/10.48550/arXiv.1606.02627
+description: We developed task-optimized deep neural networks (DNNs) that achieved
+  state-of-the-art performance in different evaluation scenarios for automatic music
+  tagging. These DNNs were subsequently used to probe the neural representations of
+  music. Representational similarity analysis revealed the existence of a representational
+  gradient across the superior temporal gyrus (STG). Anterior STG was shown to be
+  more sensitive to low-level stimulus features encoded in shallow DNN layers whereas
+  posterior STG was shown to be more sensitive to high-level stimulus features encoded
+  in deep DNN layers.
+generated_by:
+- at_time: '2016-01-01'
+  description: 'Published in Advances in Neural Information Processing Systems 29
+    (NIPS 2016)
+
+    '
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/e3acf3af-3b8b-40ea-87dc-18d29446ced8
+schema_type: xyzri:XYZPublication
+title: Brains on beats

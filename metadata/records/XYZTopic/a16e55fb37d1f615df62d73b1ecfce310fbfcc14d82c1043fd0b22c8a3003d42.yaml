@@ -1,0 +1,13 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-06-25T11:12:58.878563'
+description: Interdisciplinary field that studies how people (and other intelligent
+  systems) perceive, learn, think, understand language, and make decisions. It draws
+  from psychology, neuroscience, linguistics, computer science, philosophy, and anthropology,
+  aiming to explain the mind using methods like experiments, brain imaging, and computational
+  models.
+display_label: Cognitive science
+part_of:
+- xyzrins:topics/research
+pid: xyzrins:topics/cognitive-science
+schema_type: xyzri:XYZTopic

@@ -1,0 +1,81 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Brain Motor Network Changes in Parkinson''s Disease: Evidence from Meta‐Analytic
+    Modeling'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Background: Motor-related brain activity in Parkinson''s disease has been
+    investigated in a multitude of functional neuroimaging studies, which often yielded
+    apparently conflicting results. Our previous meta-analysis did not resolve inconsistencies
+    regarding cortical activation differences in Parkinson''s disease, which might
+    be related to the limited number of studies that could be included. Therefore,
+    we conducted a revised meta-analysis including a larger number of studies. The
+    objectives of this study were to elucidate brain areas that consistently show
+    abnormal motor-related activation in Parkinson''s disease and to reveal their
+    functional connectivity profiles using meta-analytic approaches.Methods: We applied
+    a quantitative meta-analysis of functional neuroimaging studies testing limb movements
+    in Parkinson''s disease comprising data from 39 studies, of which 15 studies (285
+    of 571 individual patients) were published after the previous meta-analysis. We
+    also conducted meta-analytic connectivity modeling to elucidate the connectivity
+    profiles of areas showing abnormal activation.Results: We found consistent motor-related
+    underactivation of bilateral posterior putamen and cerebellum in Parkinson''s
+    disease. Primary motor cortex and the supplementary motor area also showed deficient
+    activation, whereas cortical regions localized directly anterior to these areas
+    expressed overactivation. Connectivity modeling revealed that areas showing decreased
+    activation shared a common pathway through the posterior putamen, whereas areas
+    showing increased activation were connected to the anterior putamen.Conclusions:
+    Despite conflicting results in individual neuroimaging studies, this revised meta-analytic
+    approach identified consistent patterns of abnormal motor-related activation in
+    Parkinson''s disease. The distinct patterns of decreased and increased activity
+    might be determined by their connectivity with different subregions of the putamen.
+    © 2021 The Authors. Movement Disorders published by Wiley Periodicals LLC on behalf
+    of International Parkinson and Movement Disorder Society.Keywords: Parkinson''s
+    disease; functional neuroimaging; meta-analysis; motor.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Background: Motor-related brain activity in Parkinson''s disease has
+  been investigated in a multitude of functional neuroimaging studies, which often
+  yielded apparently conflicting results. Our previous meta-analysis did not resolve
+  inconsistencies regarding cortical activation differences in Parkinson''s disease,
+  which might be related to the limited number of studies that could be included.
+  Therefore, we conducted a revised meta-analysis including a larger number of studies.
+  The objectives of this study were to elucidate brain areas that consistently show
+  abnormal motor-related activation in Parkinson''s disease and to reveal their functional
+  connectivity profiles using meta-analytic approaches.Methods: We applied a quantitative
+  meta-analysis of functional neuroimaging studies testing limb movements in Parkinson''s
+  disease comprising data from 39 studies, of which 15 studies (285 of 571 individual
+  patients) were published after the previous meta-analysis. We also conducted meta-analytic
+  connectivity modeling to elucidate the connectivity profiles of areas showing abnormal
+  activation.Results: We found consistent motor-related underactivation of bilateral
+  posterior putamen and cerebellum in Parkinson''s disease. Primary motor cortex and
+  the supplementary motor area also showed deficient activation, whereas cortical
+  regions localized directly anterior to these areas expressed overactivation. Connectivity
+  modeling revealed that areas showing decreased activation shared a common pathway
+  through the posterior putamen, whereas areas showing increased activation were connected
+  to the anterior putamen.Conclusions: Despite conflicting results in individual neuroimaging
+  studies, this revised meta-analytic approach identified consistent patterns of abnormal
+  motor-related activation in Parkinson''s disease. The distinct patterns of decreased
+  and increased activity might be determined by their connectivity with different
+  subregions of the putamen. © 2021 The Authors. Movement Disorders published by Wiley
+  Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.Keywords:
+  Parkinson''s disease; functional neuroimaging; meta-analysis; motor.'
+generated_by:
+- at_location: ISSN:0885-3185
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/mds.28468
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/26f2f380-c95d-4fc3-9e84-6215338a07b8
+schema_type: xyzri:XYZPublication
+title: 'Brain Motor Network Changes in Parkinson''s Disease: Evidence from Meta‐Analytic
+  Modeling'

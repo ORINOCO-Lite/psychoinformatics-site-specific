@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Individual identifiability following Procrustes alignment of functional
+    gradients: effect of subspace dimensionality'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Functional connectivity (FC) gradients derived from fMRI provide valuable
+    insights into individual differences in brain organisation, yet aligning these
+    gradients across individuals poses challenges for meaningful group comparisons.
+    Procrustes alignment is often employed to standardize gradients, but the choice
+    of the number of gradients used in alignment introduces complexities that may
+    affect the validity of individual-level analyses. In this study, we systematically
+    investigate the impact of varying gradient counts in Procrustes alignment on the
+    principal FC gradient, using data from four high-quality fMRI datasets, including
+    the Human Connectome Project (HCP-YA), Amsterdam Open MRI Collection (AOMIC) PIOP1
+    and PIOP2, and Cambridge Centre for Ageing and Neuroscience (Cam-CAN). We find
+    that increasing the number of gradients used in alignment enhances subject identification.
+    To further probe these effects, we use machine learning to predict fluid intelligence
+    and age, and a motion prediction analysis, revealing that higher alignment gradient
+    counts may introduce information from lower gradients into the principal gradient
+    with implications for the interpretation of individual-level analyses.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Functional connectivity (FC) gradients derived from fMRI provide valuable
+  insights into individual differences in brain organisation, yet aligning these gradients
+  across individuals poses challenges for meaningful group comparisons. Procrustes
+  alignment is often employed to standardize gradients, but the choice of the number
+  of gradients used in alignment introduces complexities that may affect the validity
+  of individual-level analyses. In this study, we systematically investigate the impact
+  of varying gradient counts in Procrustes alignment on the principal FC gradient,
+  using data from four high-quality fMRI datasets, including the Human Connectome
+  Project (HCP-YA), Amsterdam Open MRI Collection (AOMIC) PIOP1 and PIOP2, and Cambridge
+  Centre for Ageing and Neuroscience (Cam-CAN). We find that increasing the number
+  of gradients used in alignment enhances subject identification. To further probe
+  these effects, we use machine learning to predict fluid intelligence and age, and
+  a motion prediction analysis, revealing that higher alignment gradient counts may
+  introduce information from lower gradients into the principal gradient with implications
+  for the interpretation of individual-level analyses.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2399-3642
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s42003-025-09509-3
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/15e70971-a310-4683-84c3-6d08f088dde5
+schema_type: xyzri:XYZPublication
+title: 'Individual identifiability following Procrustes alignment of functional gradients:
+  effect of subspace dimensionality'

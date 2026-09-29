@@ -1,0 +1,34 @@
+attributed_to:
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/bf32d86f-0cc6-4bee-994f-b7283d38361b
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b55ca6ad-784a-42e2-aae2-632272bebf23
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/e83f7e43-be81-49eb-a1b7-901ed46ef53f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Toward next-generation primate neuroscience: A collaboration-based strategic
+    plan for integrative neuroimaging'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0896-6273
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuron.2021.10.015
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/fcec7537-1490-43bf-bd51-21086d8253af
+schema_type: xyzri:XYZPublication
+title: 'Toward next-generation primate neuroscience: A collaboration-based strategic
+  plan for integrative neuroimaging'

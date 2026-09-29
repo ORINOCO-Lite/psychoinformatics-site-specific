@@ -1,0 +1,12 @@
+about:
+- xyzrins:projects/trr379
+description: TRR379 logo
+distributions:
+- dldi:SHA256E-s17460--05cb8e200e755515c46011947fdedd89249df98d799dcd989fd224feed2d2352.svg
+generated_by:
+  object: xyzrins:projects/trr379
+  schema_type: dlthings:Generation
+kind: schema:logo
+pid: xyzrins:depictions/logo_trr379
+schema_type: xyzri:XYZDepiction
+title: TRR379 logo

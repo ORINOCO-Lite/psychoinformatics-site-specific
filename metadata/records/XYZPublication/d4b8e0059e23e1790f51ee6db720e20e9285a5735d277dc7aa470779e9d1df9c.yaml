@@ -1,0 +1,57 @@
+attributed_to:
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Convergence of cortical types and functional motifs in the human mesiotemporal
+    lobe
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The mesiotemporal lobe (MTL) is implicated in many cognitive processes, is
+    compromised in numerous brain disorders, and exhibits a gradual cytoarchitectural
+    transition from six-layered parahippocampal isocortex to three-layered hippocampal
+    allocortex. Leveraging an ultra-high-resolution histological reconstruction of
+    a human brain, our study showed that the dominant axis of MTL cytoarchitectural
+    differentiation follows the iso-to-allocortical transition and depth-specific
+    variations in neuronal density. Projecting the histology-derived MTL model to
+    in-vivo functional MRI, we furthermore determined how its cytoarchitecture underpins
+    its intrinsic effective connectivity and association to large-scale networks.
+    Here, the cytoarchitectural gradient was found to underpin intrinsic effective
+    connectivity of the MTL, but patterns differed along the anterior-posterior axis.
+    Moreover, while the iso-to-allocortical gradient parametrically represented the
+    multiple-demand relative to task-negative networks, anterior-posterior gradients
+    represented transmodal versus unimodal networks. Our findings establish that the
+    combination of micro- and macrostructural features allow the MTL to represent
+    dominant motifs of whole-brain functional organisation.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The mesiotemporal lobe (MTL) is implicated in many cognitive processes,
+  is compromised in numerous brain disorders, and exhibits a gradual cytoarchitectural
+  transition from six-layered parahippocampal isocortex to three-layered hippocampal
+  allocortex. Leveraging an ultra-high-resolution histological reconstruction of a
+  human brain, our study showed that the dominant axis of MTL cytoarchitectural differentiation
+  follows the iso-to-allocortical transition and depth-specific variations in neuronal
+  density. Projecting the histology-derived MTL model to in-vivo functional MRI, we
+  furthermore determined how its cytoarchitecture underpins its intrinsic effective
+  connectivity and association to large-scale networks. Here, the cytoarchitectural
+  gradient was found to underpin intrinsic effective connectivity of the MTL, but
+  patterns differed along the anterior-posterior axis. Moreover, while the iso-to-allocortical
+  gradient parametrically represented the multiple-demand relative to task-negative
+  networks, anterior-posterior gradients represented transmodal versus unimodal networks.
+  Our findings establish that the combination of micro- and macrostructural features
+  allow the MTL to represent dominant motifs of whole-brain functional organisation.
+generated_by:
+- at_location: ISSN:2050-084X
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.7554/eLife.60673
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/abab8e41-710b-4bd9-90b2-812ec46accb1
+schema_type: xyzri:XYZPublication
+title: Convergence of cortical types and functional motifs in the human mesiotemporal
+  lobe

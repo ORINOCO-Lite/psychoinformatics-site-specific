@@ -1,0 +1,30 @@
+attributed_to:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: The expectant brain–pregnancy leads to changes in brain morphology in the
+    early postpartum period
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1047-3211
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/cercor/bhab463
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/f1d33aa0-7fa3-4eec-b8f3-63425cc0af82
+schema_type: xyzri:XYZPublication
+title: The expectant brain–pregnancy leads to changes in brain morphology in the early
+  postpartum period

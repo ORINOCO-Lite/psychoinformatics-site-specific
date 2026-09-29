@@ -1,0 +1,55 @@
+attributed_to:
+- object: xyzrins:persons/924c0245-6ca4-468e-9291-a0e312ce3c49
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/459e1cd0-3caf-436b-8031-df3b4592a994
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/e95c4807-bcd7-47ca-8b6a-5c1da2125330
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'SpEx: a German-language dataset of speech and executive function performance'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2045-2322
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41598-024-58617-3
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2027-12-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/2b40e9ef-d9d2-42f8-a502-2e6efa86a1f7
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2023-09-30'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/hbp-sga3
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2020-04-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/35282b84-6ba9-43a8-91e1-8cd12b76f0f7
+schema_type: xyzri:XYZPublication
+title: 'SpEx: a German-language dataset of speech and executive function performance'

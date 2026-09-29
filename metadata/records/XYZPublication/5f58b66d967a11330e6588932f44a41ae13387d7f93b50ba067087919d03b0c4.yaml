@@ -1,0 +1,50 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Exploring the neural correlates of (altered) moral cognition in psychopaths
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Research into the neurofunctional mechanisms of psychop-athy has gathered
+    momentum over the last years. Previous neuroimaging studies have identified general
+    changes in brain activity of psychopaths. In an exploratory meta-analysis,  we
+    here investigated the neural correlates of impaired moral  cognition in psychopaths.
+    Our analyses replicated general effects in the dorsomedial prefrontal cortex,
+    lateral pre-frontal cortex, fronto-insular cortex, and amygdala, which have been
+    reported recently. In addition, we found aberrant brain activity in the midbrain
+    and inferior parietal cortex. Our preliminary findings suggest that alterations
+    in both re-gions may represent more specific functional brain changes related
+    to (altered) moral cognition in psychopaths. Further-more, future studies including
+    a more comprehensive corpus of neuroimaging studies on moral cognition in psychopaths
+    should re-examine this notion.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Research into the neurofunctional mechanisms of psychop-athy has gathered
+  momentum over the last years. Previous neuroimaging studies have identified general
+  changes in brain activity of psychopaths. In an exploratory meta-analysis,  we here
+  investigated the neural correlates of impaired moral  cognition in psychopaths.
+  Our analyses replicated general effects in the dorsomedial prefrontal cortex, lateral
+  pre-frontal cortex, fronto-insular cortex, and amygdala, which have been reported
+  recently. In addition, we found aberrant brain activity in the midbrain and inferior
+  parietal cortex. Our preliminary findings suggest that alterations in both re-gions
+  may represent more specific functional brain changes related to (altered) moral
+  cognition in psychopaths. Further-more, future studies including a more comprehensive
+  corpus of neuroimaging studies on moral cognition in psychopaths should re-examine
+  this notion.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0735-3936
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/bsl.2539
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/dcca5e3c-4035-4efd-8a78-3192cb7e2441
+schema_type: xyzri:XYZPublication
+title: Exploring the neural correlates of (altered) moral cognition in psychopaths

@@ -1,0 +1,50 @@
+attributed_to:
+- object: xyzrins:persons/3764fca4-0337-4395-a553-9be5d479df80
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/60feb346-954c-4625-93d6-1b8bd1ca0dfa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Can we read minds by imaging brains?
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Will brain imaging technology soon enable neuroscientists to read minds?
+    We cannot answer this question without some understanding of the state of the
+    art in neuroimaging. But neither can we answer this question without some understanding
+    of the concept invoked by the term “mind reading.” This article is an attempt
+    to develop such understanding. Our analysis proceeds in two stages. In the first
+    stage, we provide a categorical explication of mind reading. The categorical explication
+    articulates empirical conditions that must be satisfied if mind reading is to
+    be achieved. In the second stage, we develop a metric for judging the proficiency
+    of mind reading experiments. The conception of mind reading that emerges helps
+    to reconcile folk psychological judgments about what mind reading must involve
+    with the constraints imposed by empirical strategies for achieving it.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Will brain imaging technology soon enable neuroscientists to read minds?
+  We cannot answer this question without some understanding of the state of the art
+  in neuroimaging. But neither can we answer this question without some understanding
+  of the concept invoked by the term “mind reading.” This article is an attempt to
+  develop such understanding. Our analysis proceeds in two stages. In the first stage,
+  we provide a categorical explication of mind reading. The categorical explication
+  articulates empirical conditions that must be satisfied if mind reading is to be
+  achieved. In the second stage, we develop a metric for judging the proficiency of
+  mind reading experiments. The conception of mind reading that emerges helps to reconcile
+  folk psychological judgments about what mind reading must involve with the constraints
+  imposed by empirical strategies for achieving it.
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:0951-5089
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1080/09515089.2022.2041590
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/1a731176-bca0-4399-a2cc-28c18198f2ba
+schema_type: xyzri:XYZPublication
+title: Can we read minds by imaging brains?

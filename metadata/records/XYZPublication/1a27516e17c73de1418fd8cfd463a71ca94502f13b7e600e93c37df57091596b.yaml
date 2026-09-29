@@ -1,0 +1,64 @@
+attributed_to:
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/e83f7e43-be81-49eb-a1b7-901ed46ef53f
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Imaging evolution of the primate brain: the next frontier?'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Evolution, as we currently understand it, strikes a delicate balance between
+    animals’ ancestral history and adaptations to their current niche. Similarities
+    between species are generally considered inherited from a common ancestor whereas
+    observed differences are considered as more recent evolution. Hence comparing
+    species can provide insights into the evolutionary history. Comparative neuroimaging
+    has recently emerged as a novel subdiscipline, which uses magnetic resonance imaging
+    (MRI) to identify similarities and differences in brain structure and function
+    across species. Whereas invasive histological and molecular techniques are superior
+    in spatial resolution, they are laborious, post-mortem, and oftentimes limited
+    to specific species. Neuroimaging, by comparison, has the advantages of being
+    applicable across species and allows for fast, whole-brain, repeatable, and multi-modal
+    measurements of the structure and function in living brains and post-mortem tissue.
+    In this review, we summarise the current state of the art in comparative anatomy
+    and function of the brain and gather together the main scientific questions to
+    be explored in the future of the fascinating new field of brain evolution derived
+    from comparative neuroimaging.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Evolution, as we currently understand it, strikes a delicate balance
+  between animals’ ancestral history and adaptations to their current niche. Similarities
+  between species are generally considered inherited from a common ancestor whereas
+  observed differences are considered as more recent evolution. Hence comparing species
+  can provide insights into the evolutionary history. Comparative neuroimaging has
+  recently emerged as a novel subdiscipline, which uses magnetic resonance imaging
+  (MRI) to identify similarities and differences in brain structure and function across
+  species. Whereas invasive histological and molecular techniques are superior in
+  spatial resolution, they are laborious, post-mortem, and oftentimes limited to specific
+  species. Neuroimaging, by comparison, has the advantages of being applicable across
+  species and allows for fast, whole-brain, repeatable, and multi-modal measurements
+  of the structure and function in living brains and post-mortem tissue. In this review,
+  we summarise the current state of the art in comparative anatomy and function of
+  the brain and gather together the main scientific questions to be explored in the
+  future of the fascinating new field of brain evolution derived from comparative
+  neuroimaging.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2020.117685
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/3ef82eb2-0401-463c-a36c-0b9427ed39c2
+schema_type: xyzri:XYZPublication
+title: 'Imaging evolution of the primate brain: the next frontier?'

@@ -1,0 +1,87 @@
+attributed_to:
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Diagnosis-informed connectivity subtyping discovers subgroups of autism with
+    reproducible symptom profiles
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Clinical heterogeneity has been one of the main barriers to develop effective
+    biomarkers and therapeutic strategies in autism spectrum disorder (ASD). Recognizing
+    this challenge, much effort has been made in recent neuroimaging studies to find
+    biologically more homogeneous subgroups (called ‘neurosubtypes’) in autism. However,
+    most approaches have rarely evaluated how much the employed features in subtyping
+    represent the core anomalies of ASD, obscuring its utility in actual clinical
+    diagnosis. To address this, we combined two data-driven methods, ‘connectome-based
+    gradient’ and ‘functional random forest’, collectively allowing to discover reproducible
+    neurosubtypes based on resting-state functional connectivity profiles that are
+    specific to ASD. Indeed, the former technique provides the features (as input
+    for subtyping) that effectively summarize whole-brain connectome variations in
+    both normal and ASD conditions, while the latter leverages a supervised random
+    forest algorithm to inform diagnostic labels to clustering, which makes neurosubtyping
+    driven by the features of ASD core anomalies. Applying this framework to the open-sharing
+    Autism Brain Imaging Data Exchange repository data (discovery, n = 103/108 for
+    ASD/typically developing [TD]; replication, n = 44/42 for ASD/TD), we found three
+    dominant subtypes of functional gradients in ASD and three subtypes in TD. The
+    subtypes in ASD revealed distinct connectome profiles in multiple brain areas,
+    which are associated with different Neurosynth-derived cognitive functions previously
+    implicated in autism studies. Moreover, these subtypes showed different symptom
+    severity, which degree co-varies with the extent of functional gradient changes
+    observed across the groups. The subtypes in the discovery and replication datasets
+    showed similar symptom profiles in social interaction and communication domains,
+    confirming a largely reproducible brain-behavior relationship. Finally, the connectome
+    gradients in ASD subtypes present both common and distinct patterns compared to
+    those in TD, reflecting their potential overlap and divergence in terms of developmental
+    mechanisms involved in the manifestation of large-scale functional networks. Our
+    study demonstrated a potential of the diagnosis-informed subtyping approach in
+    developing a clinically useful brain-based classification system for future ASD
+    research.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Clinical heterogeneity has been one of the main barriers to develop effective
+  biomarkers and therapeutic strategies in autism spectrum disorder (ASD). Recognizing
+  this challenge, much effort has been made in recent neuroimaging studies to find
+  biologically more homogeneous subgroups (called ‘neurosubtypes’) in autism. However,
+  most approaches have rarely evaluated how much the employed features in subtyping
+  represent the core anomalies of ASD, obscuring its utility in actual clinical diagnosis.
+  To address this, we combined two data-driven methods, ‘connectome-based gradient’
+  and ‘functional random forest’, collectively allowing to discover reproducible neurosubtypes
+  based on resting-state functional connectivity profiles that are specific to ASD.
+  Indeed, the former technique provides the features (as input for subtyping) that
+  effectively summarize whole-brain connectome variations in both normal and ASD conditions,
+  while the latter leverages a supervised random forest algorithm to inform diagnostic
+  labels to clustering, which makes neurosubtyping driven by the features of ASD core
+  anomalies. Applying this framework to the open-sharing Autism Brain Imaging Data
+  Exchange repository data (discovery, n = 103/108 for ASD/typically developing [TD];
+  replication, n = 44/42 for ASD/TD), we found three dominant subtypes of functional
+  gradients in ASD and three subtypes in TD. The subtypes in ASD revealed distinct
+  connectome profiles in multiple brain areas, which are associated with different
+  Neurosynth-derived cognitive functions previously implicated in autism studies.
+  Moreover, these subtypes showed different symptom severity, which degree co-varies
+  with the extent of functional gradient changes observed across the groups. The subtypes
+  in the discovery and replication datasets showed similar symptom profiles in social
+  interaction and communication domains, confirming a largely reproducible brain-behavior
+  relationship. Finally, the connectome gradients in ASD subtypes present both common
+  and distinct patterns compared to those in TD, reflecting their potential overlap
+  and divergence in terms of developmental mechanisms involved in the manifestation
+  of large-scale functional networks. Our study demonstrated a potential of the diagnosis-informed
+  subtyping approach in developing a clinically useful brain-based classification
+  system for future ASD research.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2022.119212
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8a47acc6-8d41-462c-84a5-103a91bb6c33
+schema_type: xyzri:XYZPublication
+title: Diagnosis-informed connectivity subtyping discovers subgroups of autism with
+  reproducible symptom profiles

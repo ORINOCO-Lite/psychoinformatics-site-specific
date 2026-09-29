@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d25533c9-aef7-428e-a9e9-f2cbc5acf3a1
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Neural correlates of insomnia with depression and anxiety from a neuroimaging
+    perspective: A systematic review'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Insomnia affects a substantial proportion of the population and frequently
+    co-occurs with mental illnesses including depression and anxiety. However, the
+    neurobiological correlates of these disorders remain unclear. Here we review magnetic
+    resonance imaging (MRI) studies assessing structural and functional brain associations
+    with depressive and anxiety symptoms in insomnia disorder (ID; n = 38), insomnia
+    symptoms in depressive and anxiety disorders (n = 14), and these symptoms in the
+    general populations (n = 3). The studies on insomnia disorder consistently showed
+    overlapping (salience network: insula and anterior cingulate cortex) and differential
+    MRI correlation patterns between depressive (thalamus, orbitofrontal cortex and
+    its associated functional connectivity) and anxiety (functional connectivity associated
+    with default mode network) symptoms. The insula was also consistently identified
+    as indicating the severity of insomnia symptoms in depressive disorder. In contrast,
+    findings for other regions related to insomnia symptoms in both depressive and
+    anxiety disorders were generally inconsistent across studies, partly due to variations
+    in methods and patient cohorts. In the general population, brain regions in the
+    default mode network provided a functional link between insomnia and depressive
+    symptoms. These findings underscore both the shared and distinct neural correlates
+    among depression, anxiety, and insomnia, providing potential avenues for the clinical
+    management of these conditions.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Insomnia affects a substantial proportion of the population and frequently
+  co-occurs with mental illnesses including depression and anxiety. However, the neurobiological
+  correlates of these disorders remain unclear. Here we review magnetic resonance
+  imaging (MRI) studies assessing structural and functional brain associations with
+  depressive and anxiety symptoms in insomnia disorder (ID; n = 38), insomnia symptoms
+  in depressive and anxiety disorders (n = 14), and these symptoms in the general
+  populations (n = 3). The studies on insomnia disorder consistently showed overlapping
+  (salience network: insula and anterior cingulate cortex) and differential MRI correlation
+  patterns between depressive (thalamus, orbitofrontal cortex and its associated functional
+  connectivity) and anxiety (functional connectivity associated with default mode
+  network) symptoms. The insula was also consistently identified as indicating the
+  severity of insomnia symptoms in depressive disorder. In contrast, findings for
+  other regions related to insomnia symptoms in both depressive and anxiety disorders
+  were generally inconsistent across studies, partly due to variations in methods
+  and patient cohorts. In the general population, brain regions in the default mode
+  network provided a functional link between insomnia and depressive symptoms. These
+  findings underscore both the shared and distinct neural correlates among depression,
+  anxiety, and insomnia, providing potential avenues for the clinical management of
+  these conditions.'
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:1087-0792
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.smrv.2025.102093
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/15a33223-8343-4507-b837-727a1242a518
+schema_type: xyzri:XYZPublication
+title: 'Neural correlates of insomnia with depression and anxiety from a neuroimaging
+  perspective: A systematic review'

@@ -1,0 +1,71 @@
+attributed_to:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Temporal dissociation between local and global functional adaptations of
+    the maternal brain to childbirth: a longitudinal assessment'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'The maternal brain undergoes significant reorganization during birth and
+    the postpartum period. However, the temporal dynamics of these changes remain
+    unclear. Using resting-state functional magnetic resonance imaging, we report
+    on local and global brain function alterations in 75 mothers in their first postpartum
+    week, compared to 23 nulliparous women. In a subsample followed longitudinally
+    for the next six months, we observed a temporal and spatial dissociation between
+    changes observed at baseline (cluster mass permutation: pFWE < 0.05). Local activity
+    and connectivity changes in widespread neocortical regions persisted throughout
+    the studied time period (ANCOVAs vs. controls: pFDR < 0.05), with preliminary
+    evidence linking these alterations to behavioral and psychological adaptations
+    (interaction effect with postpartum time: uncorrected p < 0.05). In contrast,
+    the initially reduced whole-brain connectivity of putamen-centered subcortical
+    areas returned to control levels within six to nine weeks postpartum (linear and
+    quadratic mixed linear models: pFDR < 0.05). The whole-brain spatial colocalization
+    with hormone receptor distributions (Spearman correlations: pFDR < 0.05) and preliminary
+    blood hormone associations (interaction effect with postpartum time: uncorrected
+    p < 0.05) suggested that the postpartum restoration of progesterone levels may
+    underlie this rapid normalization. These observations enhance our understanding
+    of healthy maternal brain function, contributing to the identification of potential
+    markers for pathological postpartum adaptation processes, which in turn could
+    underlie postpartum psychiatric disorders.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'The maternal brain undergoes significant reorganization during birth
+  and the postpartum period. However, the temporal dynamics of these changes remain
+  unclear. Using resting-state functional magnetic resonance imaging, we report on
+  local and global brain function alterations in 75 mothers in their first postpartum
+  week, compared to 23 nulliparous women. In a subsample followed longitudinally for
+  the next six months, we observed a temporal and spatial dissociation between changes
+  observed at baseline (cluster mass permutation: pFWE < 0.05). Local activity and
+  connectivity changes in widespread neocortical regions persisted throughout the
+  studied time period (ANCOVAs vs. controls: pFDR < 0.05), with preliminary evidence
+  linking these alterations to behavioral and psychological adaptations (interaction
+  effect with postpartum time: uncorrected p < 0.05). In contrast, the initially reduced
+  whole-brain connectivity of putamen-centered subcortical areas returned to control
+  levels within six to nine weeks postpartum (linear and quadratic mixed linear models:
+  pFDR < 0.05). The whole-brain spatial colocalization with hormone receptor distributions
+  (Spearman correlations: pFDR < 0.05) and preliminary blood hormone associations
+  (interaction effect with postpartum time: uncorrected p < 0.05) suggested that the
+  postpartum restoration of progesterone levels may underlie this rapid normalization.
+  These observations enhance our understanding of healthy maternal brain function,
+  contributing to the identification of potential markers for pathological postpartum
+  adaptation processes, which in turn could underlie postpartum psychiatric disorders.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0893-133X
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41386-024-01880-9
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/54e0fd14-09d0-4131-a4a6-5a80ebbc67dd
+schema_type: xyzri:XYZPublication
+title: 'Temporal dissociation between local and global functional adaptations of the
+  maternal brain to childbirth: a longitudinal assessment'

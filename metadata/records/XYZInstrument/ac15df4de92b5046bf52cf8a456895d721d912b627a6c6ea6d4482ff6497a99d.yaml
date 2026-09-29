@@ -1,0 +1,18 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-09T21:05:15.389687'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+description: 'Git-annex is written in Haskell and plenty of installation methods are
+  available. However, for deploying git-annex as a dependency of a Python library/application,
+  like DataLad or AnnexRemote, system packages are a lot less flexible than Python''s
+  virtual environments, and other methods are more complex and fragile.
+
+
+  With git-annex being available from PyPi, versioned dependencies and deployment
+  in application-specific environments are possible via standard means of Python packaging.'
+kind: obo:IAO_0000010
+name: git-annex wheel
+pid: xyzrins:instruments/git-annex-wheel
+schema_type: xyzri:XYZInstrument

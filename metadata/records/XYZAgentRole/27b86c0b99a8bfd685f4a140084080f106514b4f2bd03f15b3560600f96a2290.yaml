@@ -1,0 +1,7 @@
+description: A person or organization relevant to a resource, who is engaged specifically
+  to provide an intellectual overview of a strategic or operational task and by analysis,
+  specification, or instruction, to create or propose a cost-effective course of action
+  or solution
+display_label: Consultant to a project
+pid: marcrel:csp
+schema_type: xyzri:XYZAgentRole

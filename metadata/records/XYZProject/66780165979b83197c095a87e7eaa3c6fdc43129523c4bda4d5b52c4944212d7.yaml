@@ -1,0 +1,32 @@
+associated_with:
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+description: The project aims (1) to investigate the extent to which geometric attributes
+  of brain structures capture individual-level information and (2) to enhance the
+  interpretability of mathematical descriptors, particularly the Laplace-Beltrami
+  operator (LBO) spectrum or LB Shape Descriptor (LBSD), in order to gain novel insights
+  into the brain's geometry and its relation to individual characteristics.
+ended:
+  at_time: '2027-01-31'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2027-01-31'
+    schema_type: dlthings:End
+  object: xyzrins:grants/a9fab6a8-7854-41e8-869f-0cec467875c2
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2024-02-01'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/315bb3fe-bfc9-498b-83d3-f655a1eb2f48
+schema_type: xyzri:XYZProject
+short_name: BrainShapes
+started:
+  at_time: '2024-02-01'
+  schema_type: dlthings:Start
+title: 'Laplace-Beltrami shape descriptors of brain structures: Comparative optimization
+  and genetic dissection'

@@ -1,0 +1,5 @@
+display_label: Research data
+part_of:
+- xyzrins:topics/research
+pid: xyzrins:topics/research-data
+schema_type: xyzri:XYZTopic

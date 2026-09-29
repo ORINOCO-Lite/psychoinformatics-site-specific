@@ -1,0 +1,7 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-03T13:57:15.894149'
+description: A document with blank spaces to be filled in with particulars.
+display_label: Form
+pid: xyzrins:bibliographic-types/67d65212-cfaf-45a7-819b-6db326dcc817
+schema_type: xyzri:XYZBibliographicType

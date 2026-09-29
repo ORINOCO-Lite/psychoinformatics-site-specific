@@ -1,0 +1,5 @@
+description: A periodical of documents, usually issued daily or weekly, containing
+  current news, editorials, feature articles, and usually advertising.
+display_label: Newspaper
+pid: bibo:Newspaper
+schema_type: xyzri:XYZBibliographicType

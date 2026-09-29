@@ -1,0 +1,7 @@
+description: A periodical of magazine Articles. A magazine is a publication that is
+  issued periodically, usually bound in a paper cover, and typically contains essays,
+  stories, poems, etc., by many writers, and often photographs and drawings, frequently
+  specializing in a particular subject or area, as hobbies, news, or sports.
+display_label: Magazine
+pid: bibo:Magazine
+schema_type: xyzri:XYZBibliographicType

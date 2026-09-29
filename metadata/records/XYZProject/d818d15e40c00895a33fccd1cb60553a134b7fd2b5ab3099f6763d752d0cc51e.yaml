@@ -1,0 +1,36 @@
+associated_with:
+- object: xyzrins:persons/81b3a1a2-cde7-46c2-8edd-87145adc579e
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+description: The VINNIE project develops a blended therapy approach for children aged
+  7 to 12, which combines digital learning resources with a smart therapeutic toy.
+  Via an online platform, the children work alongside a virtual character to learn
+  about their condition and develop coping strategies designed to help them in everyday
+  life. These strategies are transferred to a smart soft toy, which offers practical
+  support in stressful situations and uses biofeedback (e.g. heart rate variability)
+  to visualise learning progress. Supported by neuroethical expertise, the aim is
+  to create effective, practical and potentially transdiagnostic support for psychosomatic,
+  anxiety and obsessive-compulsive disorders.
+ended:
+  at_time: '2027-12-31'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2027-12-31'
+    schema_type: dlthings:End
+  object: xyzrins:grants/6f185c4c-8fc6-4e37-9c1d-34228c4281e1
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2025-01-01'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/f81c957f-7042-4983-ac62-eb90a78b747c
+schema_type: xyzri:XYZProject
+short_name: VINNIE
+started:
+  at_time: '2025-01-01'
+  schema_type: dlthings:Start
+title: Verhaltenstherapeutisches KI-Spielzeug für KiNder und JugeNdliche mIt psychosomatischen
+  BeschwerdEn (VINNIE)

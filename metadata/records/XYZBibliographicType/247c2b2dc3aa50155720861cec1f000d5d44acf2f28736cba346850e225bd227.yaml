@@ -1,0 +1,5 @@
+description: A document describing an account or statement describing in detail an
+  event, situation, or the like, usually as the result of observation, inquiry, etc..
+display_label: Report
+pid: bibo:Report
+schema_type: xyzri:XYZBibliographicType

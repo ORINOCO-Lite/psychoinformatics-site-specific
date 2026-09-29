@@ -1,0 +1,54 @@
+attributed_to:
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Atypical functional connectome hierarchy in autism
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: One paradox of autism is the co-occurrence of deficits in sensory and higher-order
+    socio-cognitive processing. Here, we examined whether these phenotypical patterns
+    may relate to an overarching system-level imbalance-specifically a disruption
+    in macroscale hierarchy affecting integration and segregation of unimodal and
+    transmodal networks. Combining connectome gradient and stepwise connectivity analysis
+    based on task-free functional magnetic resonance imaging (fMRI), we demonstrated
+    atypical connectivity transitions between sensory and higher-order default mode
+    regions in a large cohort of individuals with autism relative to typically-developing
+    controls. Further analyses indicated that reduced differentiation related to perturbed
+    stepwise connectivity from sensory towards transmodal areas, as well as atypical
+    long-range rich-club connectivity. Supervised pattern learning revealed that hierarchical
+    features predicted deficits in social cognition and low-level behavioral symptoms,
+    but not communication-related symptoms. Our findings provide new evidence for
+    imbalances in network hierarchy in autism, which offers a parsimonious reference
+    frame to consolidate its diverse features.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: One paradox of autism is the co-occurrence of deficits in sensory and
+  higher-order socio-cognitive processing. Here, we examined whether these phenotypical
+  patterns may relate to an overarching system-level imbalance-specifically a disruption
+  in macroscale hierarchy affecting integration and segregation of unimodal and transmodal
+  networks. Combining connectome gradient and stepwise connectivity analysis based
+  on task-free functional magnetic resonance imaging (fMRI), we demonstrated atypical
+  connectivity transitions between sensory and higher-order default mode regions in
+  a large cohort of individuals with autism relative to typically-developing controls.
+  Further analyses indicated that reduced differentiation related to perturbed stepwise
+  connectivity from sensory towards transmodal areas, as well as atypical long-range
+  rich-club connectivity. Supervised pattern learning revealed that hierarchical features
+  predicted deficits in social cognition and low-level behavioral symptoms, but not
+  communication-related symptoms. Our findings provide new evidence for imbalances
+  in network hierarchy in autism, which offers a parsimonious reference frame to consolidate
+  its diverse features.
+generated_by:
+- at_location: ISSN:2041-1723
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41467-019-08944-1
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/1b5314a3-14a5-464f-aa09-ca7dd64b13af
+schema_type: xyzri:XYZPublication
+title: Atypical functional connectome hierarchy in autism

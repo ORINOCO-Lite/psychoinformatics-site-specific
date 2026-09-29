@@ -1,0 +1,4 @@
+description: Draft legislation presented for discussion to a legal body.
+display_label: Bill
+pid: bibo:Bill
+schema_type: xyzri:XYZBibliographicType

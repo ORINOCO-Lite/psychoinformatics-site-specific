@@ -1,0 +1,38 @@
+associated_with:
+- object: xyzrins:persons/3764fca4-0337-4395-a553-9be5d479df80
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+description: BRAINTREE investigates the ethical aspects of machine learning-based
+  brain age estimation. Conveniently, the difference between estimated brain age and
+  chronological age – the brain age gap – is generally interpreted as relevant to
+  individuals’ health and as an indicator of disease progression. A growing body of
+  evidence supports the potential utility of brain age for diagnosis, prognosis and
+  as a tool for monitoring treatment. However, there are still significant ethical
+  and interpretative questions that remain unanswered. The BrainTree project aims
+  to systematically address these outstanding questions in order to provide an ethical
+  framework for clinically relevant applications of brain age estimates. The consortium
+  project comprises three work packages, each led by a different partner. Forschungszentrum
+  Jülich acts as coordinator and leads Work Package 3.
+ended:
+  at_time: '2027-04-30'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2027-04-30'
+    schema_type: dlthings:End
+  object: xyzrins:grants/9a16e66c-c8c0-4321-9932-5f1e68a8a1d9
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2024-05-01'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/f57f4405-347a-40de-9ab2-8cf60c9124c9
+schema_type: xyzri:XYZProject
+short_name: BRAINTREE
+started:
+  at_time: '2024-05-01'
+  schema_type: dlthings:Start
+title: Gehirnalterermittlung- Diagnoseverfahren oder Neukonzeptionierung von Alter
+  – Medizinische und politische Ethik der Brain Age Prediction (BRAINTREE)

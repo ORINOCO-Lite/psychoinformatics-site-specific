@@ -1,0 +1,49 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Brain connectomics: time for a molecular imaging perspective?'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: In the past two decades brain connectomics has evolved into a major concept
+    in neuroscience. However, the current perspective on brain connectivity and how
+    it underpins brain function relies mainly on the hemodynamic signal of functional
+    magnetic resonance imaging (MRI). Molecular imaging provides unique information
+    inaccessible to MRI-based and electrophysiological techniques. Thus, positron
+    emission tomography (PET) has been successfully applied to measure neural activity,
+    neurotransmission, and proteinopathies in normal and pathological cognition. Here,
+    we position molecular imaging within the brain connectivity framework from the
+    perspective of timeliness, validity, reproducibility, and resolution. We encourage
+    the neuroscientific community to take an integrative approach whereby MRI-based,
+    electrophysiological techniques, and molecular imaging contribute to our understanding
+    of the brain connectome.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: In the past two decades brain connectomics has evolved into a major concept
+  in neuroscience. However, the current perspective on brain connectivity and how
+  it underpins brain function relies mainly on the hemodynamic signal of functional
+  magnetic resonance imaging (MRI). Molecular imaging provides unique information
+  inaccessible to MRI-based and electrophysiological techniques. Thus, positron emission
+  tomography (PET) has been successfully applied to measure neural activity, neurotransmission,
+  and proteinopathies in normal and pathological cognition. Here, we position molecular
+  imaging within the brain connectivity framework from the perspective of timeliness,
+  validity, reproducibility, and resolution. We encourage the neuroscientific community
+  to take an integrative approach whereby MRI-based, electrophysiological techniques,
+  and molecular imaging contribute to our understanding of the brain connectome.
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:1364-6613
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.tics.2022.11.015
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/b29eecbd-9913-48b3-97c9-f60d323e1279
+schema_type: xyzri:XYZPublication
+title: 'Brain connectomics: time for a molecular imaging perspective?'

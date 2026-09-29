@@ -1,0 +1,75 @@
+attributed_to:
+- object: xyzrins:persons/b1340c22-8c5d-4983-84ed-36d950c130cc
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Multilayer meta-matching: Translating phenotypic prediction models from
+    multiple datasets to small data'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Resting-state functional connectivity (RSFC) is widely used to predict phenotypic
+    traits in individuals. Large sample sizes can significantly improve prediction
+    accuracies. However, for studies of certain clinical populations or focused neuroscience
+    inquiries, small-scale datasets often remain a necessity. We have previously proposed
+    a “meta-matching” approach to translate prediction models from large datasets
+    to predict new phenotypes in small datasets. We demonstrated a large improvement
+    over classical kernel ridge regression (KRR) when translating models from a single
+    source dataset (UK Biobank) to the Human Connectome Project Young Adults (HCP-YA)
+    dataset. In the current study, we propose two meta-matching variants (“meta-matching
+    with dataset stacking” and “multilayer meta-matching”) to translate models from
+    multiple source datasets across disparate sample sizes to predict new phenotypes
+    in small target datasets. We evaluate both approaches by translating models trained
+    from five source datasets (with sample sizes ranging from 862 participants to
+    36,834 participants) to predict phenotypes in the HCP-YA and HCP-Aging datasets.
+    We find that multilayer meta-matching modestly outperforms meta-matching with
+    dataset stacking. Both meta-matching variants perform better than the original
+    “meta-matching with stacking” approach trained only on the UK Biobank. All meta-matching
+    variants outperform classical KRR and transfer learning by a large margin. In
+    fact, KRR is better than classical transfer learning when less than 50 participants
+    are available for finetuning, suggesting the difficulty of classical transfer
+    learning in the very small sample regime. The multilayer meta-matching model is
+    publicly available at https://github.com/ThomasYeoLab/Meta_matching_models/tree/main/rs-fMRI/v2.0.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Resting-state functional connectivity (RSFC) is widely used to predict
+  phenotypic traits in individuals. Large sample sizes can significantly improve prediction
+  accuracies. However, for studies of certain clinical populations or focused neuroscience
+  inquiries, small-scale datasets often remain a necessity. We have previously proposed
+  a “meta-matching” approach to translate prediction models from large datasets to
+  predict new phenotypes in small datasets. We demonstrated a large improvement over
+  classical kernel ridge regression (KRR) when translating models from a single source
+  dataset (UK Biobank) to the Human Connectome Project Young Adults (HCP-YA) dataset.
+  In the current study, we propose two meta-matching variants (“meta-matching with
+  dataset stacking” and “multilayer meta-matching”) to translate models from multiple
+  source datasets across disparate sample sizes to predict new phenotypes in small
+  target datasets. We evaluate both approaches by translating models trained from
+  five source datasets (with sample sizes ranging from 862 participants to 36,834
+  participants) to predict phenotypes in the HCP-YA and HCP-Aging datasets. We find
+  that multilayer meta-matching modestly outperforms meta-matching with dataset stacking.
+  Both meta-matching variants perform better than the original “meta-matching with
+  stacking” approach trained only on the UK Biobank. All meta-matching variants outperform
+  classical KRR and transfer learning by a large margin. In fact, KRR is better than
+  classical transfer learning when less than 50 participants are available for finetuning,
+  suggesting the difficulty of classical transfer learning in the very small sample
+  regime. The multilayer meta-matching model is publicly available at https://github.com/ThomasYeoLab/Meta_matching_models/tree/main/rs-fMRI/v2.0.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2837-6056
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1162/imag_a_00233
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/448145d9-9778-4eee-9438-bc2d51a49a55
+schema_type: xyzri:XYZPublication
+title: 'Multilayer meta-matching: Translating phenotypic prediction models from multiple
+  datasets to small data'

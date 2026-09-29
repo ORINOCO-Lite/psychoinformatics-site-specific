@@ -1,0 +1,96 @@
+attributed_to:
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/086e45ca-472d-4419-ad35-9082b142c638
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/8f836375-520c-43d7-afb6-29abea72c0ab
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Advanced brain aging in Parkinson’s disease is related to disease duration
+    and individual impairment
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Machine-learning can reliably predict individual age from MRI data, revealing
+    that patients with neurodegenerative disorders show an elevated biological age.
+    A surprising gap in the literature, however, pertains to Parkinson’s disease.
+    Here we evaluate brain age in two cohorts of Parkinson’s patients and investigated
+    the relationship between individual brain age and clinical characteristicsWe assessed
+    372 patients with idiopathic Parkinson’s disease, newly diagnosed cases from the
+    Parkinson’s Progression Marker Initiative database and a more chronic local sample,
+    as well as age- and sex-matched healthy controls. Following morphometric preprocessing
+    and atlas-based compression, individual brain age was predicted using a multivariate
+    machine-learning model trained on an independent, multi-site reference sample.Across
+    cohorts, healthy controls were well predicted with a mean error of 4.4 years.
+    In turn, Parkinson’s patients showed a significant (controlling for age, gender
+    & site) increase in brain age of ∼3 years. While this effect was already present
+    in the newly diagnosed PPMI sample, advanced biological age was significantly
+    related to disease duration as well as worse cognitive and motor impairment.While
+    biological age is increased in patients with Parkinson’s disease, the effect is
+    at the lower end of what is found for other neurological and psychiatric disorders.
+    We argue that this may reflect a heterochronicity between forebrain atrophy and
+    small but behaviourally salient midbrain pathology. Finally, we point to the need
+    to disentangle physiological aging trajectories, lifestyle effects and core pathological
+    changes.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Machine-learning can reliably predict individual age from MRI data, revealing
+  that patients with neurodegenerative disorders show an elevated biological age.
+  A surprising gap in the literature, however, pertains to Parkinson’s disease. Here
+  we evaluate brain age in two cohorts of Parkinson’s patients and investigated the
+  relationship between individual brain age and clinical characteristicsWe assessed
+  372 patients with idiopathic Parkinson’s disease, newly diagnosed cases from the
+  Parkinson’s Progression Marker Initiative database and a more chronic local sample,
+  as well as age- and sex-matched healthy controls. Following morphometric preprocessing
+  and atlas-based compression, individual brain age was predicted using a multivariate
+  machine-learning model trained on an independent, multi-site reference sample.Across
+  cohorts, healthy controls were well predicted with a mean error of 4.4 years. In
+  turn, Parkinson’s patients showed a significant (controlling for age, gender & site)
+  increase in brain age of ∼3 years. While this effect was already present in the
+  newly diagnosed PPMI sample, advanced biological age was significantly related to
+  disease duration as well as worse cognitive and motor impairment.While biological
+  age is increased in patients with Parkinson’s disease, the effect is at the lower
+  end of what is found for other neurological and psychiatric disorders. We argue
+  that this may reflect a heterochronicity between forebrain atrophy and small but
+  behaviourally salient midbrain pathology. Finally, we point to the need to disentangle
+  physiological aging trajectories, lifestyle effects and core pathological changes.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2632-1297
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/braincomms/fcab191
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2023-09-30'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/hbp-sga3
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2020-04-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2027-12-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/2b40e9ef-d9d2-42f8-a502-2e6efa86a1f7
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/e4400064-3950-4275-b062-6f516c18a926
+schema_type: xyzri:XYZPublication
+title: Advanced brain aging in Parkinson’s disease is related to disease duration
+  and individual impairment

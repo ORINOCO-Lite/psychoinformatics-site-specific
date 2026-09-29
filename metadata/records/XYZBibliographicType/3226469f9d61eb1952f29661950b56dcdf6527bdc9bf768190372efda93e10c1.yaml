@@ -1,0 +1,5 @@
+description: A written or printed work of fiction or nonfiction, usually on sheets
+  of paper fastened or bound together within covers.
+display_label: Book
+pid: bibo:Book
+schema_type: xyzri:XYZBibliographicType

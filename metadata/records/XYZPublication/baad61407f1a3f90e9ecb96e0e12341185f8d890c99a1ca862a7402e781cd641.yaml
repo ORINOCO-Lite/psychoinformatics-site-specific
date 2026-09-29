@@ -1,0 +1,71 @@
+attributed_to:
+- object: xyzrins:persons/47c0e74e-1ee7-4473-872b-3f08acae7899
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Insomnia and emotion dysregulation: a meta-analytical perspective integrating
+    regulatory strategies and dispositional difficulties'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Insomnia and emotion dysregulation are intricately related, yet their aggregate
+    association across different domains of emotion dysregulation and the effect of
+    moderating factors including health-related status, age, and gender remain unclear.
+    This systematic review and meta-analysis synthesized data from 57 studies, pooling
+    119 effect sizes from correlational and 55 effect sizes from group comparison
+    studies. By separate analyses, we assessed both the strength of the association
+    and whether clinically significant insomnia symptoms exacerbate difficulty in
+    regulating emotion. Correlational analyses revealed a significant association
+    between insomnia symptoms and emotion dysregulation, primarily in individuals
+    with serious health-related conditions (Fisher Zno-serious condition = 0.22, Fisher
+    Zserious-conditions = 0.37, p < 0.00001). Group comparison analyses indicated
+    that clinically significant insomnia symptoms present worse emotion dysregulation
+    regardless of health-related status (Hedges’ g = 0.99, p = 0.01). The reliance
+    on maladaptive emotion regulation strategies and difficulties in dispositional
+    domains of emotion regulation, particularly impulsivity, were more strongly associated
+    with insomnia than challenges related to adaptive strategies. Age and gender did
+    not impact these associations in either type of study. These findings underscore
+    a robust link between insomnia and emotion dysregulation, suggesting the potential
+    benefits of integrating emotion regulation skills into insomnia management to
+    improve therapeutic outcomes.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Insomnia and emotion dysregulation are intricately related, yet their
+  aggregate association across different domains of emotion dysregulation and the
+  effect of moderating factors including health-related status, age, and gender remain
+  unclear. This systematic review and meta-analysis synthesized data from 57 studies,
+  pooling 119 effect sizes from correlational and 55 effect sizes from group comparison
+  studies. By separate analyses, we assessed both the strength of the association
+  and whether clinically significant insomnia symptoms exacerbate difficulty in regulating
+  emotion. Correlational analyses revealed a significant association between insomnia
+  symptoms and emotion dysregulation, primarily in individuals with serious health-related
+  conditions (Fisher Zno-serious condition = 0.22, Fisher Zserious-conditions = 0.37,
+  p < 0.00001). Group comparison analyses indicated that clinically significant insomnia
+  symptoms present worse emotion dysregulation regardless of health-related status
+  (Hedges’ g = 0.99, p = 0.01). The reliance on maladaptive emotion regulation strategies
+  and difficulties in dispositional domains of emotion regulation, particularly impulsivity,
+  were more strongly associated with insomnia than challenges related to adaptive
+  strategies. Age and gender did not impact these associations in either type of study.
+  These findings underscore a robust link between insomnia and emotion dysregulation,
+  suggesting the potential benefits of integrating emotion regulation skills into
+  insomnia management to improve therapeutic outcomes.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1087-0792
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.smrv.2025.102111
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/cef96e3d-a4bb-41ff-93c6-4556bcea9bcf
+schema_type: xyzri:XYZPublication
+title: 'Insomnia and emotion dysregulation: a meta-analytical perspective integrating
+  regulatory strategies and dispositional difficulties'

@@ -1,0 +1,59 @@
+attributed_to:
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Gene transcription, neurotransmitter, and neurocognition signatures of brain
+    structural-functional coupling variability
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The relationship between brain structure and function, known as structural-functional
+    coupling (SFC), is highly dynamic. However, the temporal variability of this relationship,
+    referring to the fluctuating extent to which functional profiles interact with
+    anatomy over time, remains poorly elucidated. Here, we propose a framework to
+    quantify SFC temporal variability and determine its neurocognitive map, genetic
+    architecture, and neurochemical basis in 1206 healthy human participants. Results
+    reveal regional heterogeneity in SFC variability and a composite emotion dimension
+    co-varying with variability patterns involving the dorsal attention, somatomotor,
+    and visual networks. The transcriptomic signatures of SFC variability are enriched
+    in synapse- and cell cycle-related biological processes and implicated in emotion-related
+    disorders. Moreover, regional densities of serotonin, glutamate, γ-aminobutyric
+    acid, and opioid systems are predictive of SFC variability across the cortex.
+    Collectively, SFC variability mapping provides a biologically plausible framework
+    for understanding how SFC fluctuates over time to support macroscale neurocognitive
+    specialization.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The relationship between brain structure and function, known as structural-functional
+  coupling (SFC), is highly dynamic. However, the temporal variability of this relationship,
+  referring to the fluctuating extent to which functional profiles interact with anatomy
+  over time, remains poorly elucidated. Here, we propose a framework to quantify SFC
+  temporal variability and determine its neurocognitive map, genetic architecture,
+  and neurochemical basis in 1206 healthy human participants. Results reveal regional
+  heterogeneity in SFC variability and a composite emotion dimension co-varying with
+  variability patterns involving the dorsal attention, somatomotor, and visual networks.
+  The transcriptomic signatures of SFC variability are enriched in synapse- and cell
+  cycle-related biological processes and implicated in emotion-related disorders.
+  Moreover, regional densities of serotonin, glutamate, γ-aminobutyric acid, and opioid
+  systems are predictive of SFC variability across the cortex. Collectively, SFC variability
+  mapping provides a biologically plausible framework for understanding how SFC fluctuates
+  over time to support macroscale neurocognitive specialization.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2041-1723
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41467-025-63000-5
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/45116ce6-8a81-42a4-9719-eff35afdb70d
+schema_type: xyzri:XYZPublication
+title: Gene transcription, neurotransmitter, and neurocognition signatures of brain
+  structural-functional coupling variability

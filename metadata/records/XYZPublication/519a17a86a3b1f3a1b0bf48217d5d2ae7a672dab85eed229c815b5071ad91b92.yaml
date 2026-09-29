@@ -1,0 +1,70 @@
+about:
+- xyzrins:topics/naturalistic-neuroimaging
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-04-01T09:57:02.419955'
+attributed_to:
+- object: xyzrins:persons/alex-waite
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/a7087531-9bed-4ad3-9a0a-f048510ade2e
+  roles:
+  - obo:MS_1002035
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ayan-sengupta
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/falko-kaule
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/vittorio-iacovella
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/daniel-kottke
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002034
+  schema_type: dlthings:Attribution
+description: "\n                    Here we present an update of the\n           \
+  \         studyforrest\n                    (\n                    <http://studyforrest.org>\n\
+  \                    ) dataset that complements the previously released functional\
+  \ magnetic resonance imaging (fMRI) data for natural language processing with a\
+  \ new two-hour 3 Tesla fMRI acquisition while 15 of the original participants were\
+  \ shown an\n                    audio-visual\n                    version of the\
+  \ stimulus motion picture. We demonstrate with two validation analyses that these\
+  \ new data support modeling specific properties of the complex natural stimulus,\
+  \ as well as a substantial within-subject BOLD response congruency in brain areas\
+  \ related to the processing of auditory inputs, speech, and narrative when compared\
+  \ to the existing fMRI data for audio-only stimulation. In addition, we provide\
+  \ participants' eye gaze location as recorded simultaneously with fMRI, and an additional\
+  \ sample of 15 control participants whose eye gaze trajectories for the entire movie\
+  \ were recorded in a lab setting—to enable studies on attentional processes and\
+  \ comparative investigations on the potential impact of the stimulation setting\
+  \ on these processes."
+generated_by:
+- at_location: ISSN:2052-4463
+  at_time: '2016-10-25'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/14419ccc-b340-45ea-b0f4-bccc25c9e34d
+  schema_type: dlthings:Generation
+- at_time: '2016-10-25'
+  object: xyzrins:projects/studyforrest
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/sdata.2016.92
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/06688308-2c40-49a6-88e3-ba7bfca73a1e
+rules:
+- spdxlic:CC-BY-4.0
+schema_type: xyzri:XYZPublication
+title: A studyforrest extension, simultaneous fMRI and eye gaze recordings during
+  prolonged natural stimulation

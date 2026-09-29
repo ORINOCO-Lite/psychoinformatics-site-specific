@@ -1,0 +1,12 @@
+attributes:
+- predicate: spdx:isOsiApproved
+  schema_type: dlthings:AttributeSpecification
+  value: obo:NCIT_C68851
+- predicate: spdx:isFsfLibre
+  schema_type: dlthings:AttributeSpecification
+  value: obo:NCIT_C68850
+broad_mappings:
+- dcterms:LicenseDocument
+display_label: BSD 3-Clause Clear License
+pid: spdxlic:BSD-3-Clause-Clear
+schema_type: dlthings:Rule

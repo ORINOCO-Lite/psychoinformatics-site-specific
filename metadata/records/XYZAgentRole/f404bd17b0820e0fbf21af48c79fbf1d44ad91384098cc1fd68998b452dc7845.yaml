@@ -1,0 +1,7 @@
+description: A person, family, or organization contributing to a collective or aggregate
+  work by selecting and putting together works, or parts of works, by one or more
+  creators. For compilations of data, information, etc., that result in new works,
+  see compiler
+display_label: Editor of compilation
+pid: marcrel:edc
+schema_type: xyzri:XYZAgentRole

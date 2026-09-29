@@ -1,0 +1,63 @@
+attributed_to:
+- object: xyzrins:persons/60feb346-954c-4625-93d6-1b8bd1ca0dfa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Prediction and explainability in AI: Striking a new balance?'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The debate regarding prediction and explainability in artificial intelligence
+    (AI) centers around the trade-off between achieving high-performance accurate
+    models and the ability to understand and interpret the decisionmaking process
+    of those models. In recent years, this debate has gained significant attention
+    due to the increasing adoption of AI systems in various domains, including healthcare,
+    finance, and criminal justice. While prediction and explainability are desirable
+    goals in principle, the recent spread of high accuracy yet opaque machine learning
+    (ML) algorithms has highlighted the trade-off between the two, marking this debate
+    as an inter-disciplinary, inter-professional arena for negotiating expertise.
+    There is no longer an agreement about what should be the “default” balance of
+    prediction and explainability, with various positions reflecting claims for professional
+    jurisdiction. Overall, there appears to be a growing schism between the regulatory
+    and ethics-based call for explainability as a condition for trustworthy AI, and
+    how it is being designed, assimilated, and negotiated. The impetus for writing
+    this commentary comes from recent suggestions that explainability is overrated,
+    including the argument that explainability is not guaranteed in human healthcare
+    experts either. To shed light on this debate, its premises, and its recent twists,
+    we provide an overview of key arguments representing different frames, focusing
+    on AI in healthcare.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The debate regarding prediction and explainability in artificial intelligence
+  (AI) centers around the trade-off between achieving high-performance accurate models
+  and the ability to understand and interpret the decisionmaking process of those
+  models. In recent years, this debate has gained significant attention due to the
+  increasing adoption of AI systems in various domains, including healthcare, finance,
+  and criminal justice. While prediction and explainability are desirable goals in
+  principle, the recent spread of high accuracy yet opaque machine learning (ML) algorithms
+  has highlighted the trade-off between the two, marking this debate as an inter-disciplinary,
+  inter-professional arena for negotiating expertise. There is no longer an agreement
+  about what should be the “default” balance of prediction and explainability, with
+  various positions reflecting claims for professional jurisdiction. Overall, there
+  appears to be a growing schism between the regulatory and ethics-based call for
+  explainability as a condition for trustworthy AI, and how it is being designed,
+  assimilated, and negotiated. The impetus for writing this commentary comes from
+  recent suggestions that explainability is overrated, including the argument that
+  explainability is not guaranteed in human healthcare experts either. To shed light
+  on this debate, its premises, and its recent twists, we provide an overview of key
+  arguments representing different frames, focusing on AI in healthcare.
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:2053-9517
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1177/20539517241235871
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/2c297ffd-14e0-4ac8-8d6c-6b3ea232f7b8
+schema_type: xyzri:XYZPublication
+title: 'Prediction and explainability in AI: Striking a new balance?'

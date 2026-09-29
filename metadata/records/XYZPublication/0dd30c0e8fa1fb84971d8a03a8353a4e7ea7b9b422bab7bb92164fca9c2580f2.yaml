@@ -1,0 +1,62 @@
+attributed_to:
+- object: xyzrins:persons/d4e23096-f9d8-47e0-bb48-a25ba181f202
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Predicting Hair Cortisol and Cortisone Concentration in Postpartum Women
+    through Repeated Measurements of Perceived Stress
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: To investigate whether hair cortisol (HCC) and hair cortisone (HCNC) can
+    be predicted by repeated stress reports from postpartum women in different mental
+    health conditions (non-depressed, ND, adjustment disorder, AD, postpartum depression,
+    PPD), 240 mothers (mean age 31.8 years; SD = 4.7) were monitored from within 1
+    to 6 days of childbirth over a period of three months. HCC and HCNC in 3 cm hair
+    samples were assessed via triple mass spectrometry after liquid chromatographic
+    separation. Every second day, participants reported their stress levels online.
+    The summed perceived stress scores were not found to be predictive of HCC. However,
+    perceived stress predicted a decrease in HCNC (rSpearman = -0.153, p = 0.035)
+    and an increase in the HCC/HCNC ratio (rSpearman = 0.304, p < 0.001) in the ND
+    group. With AD in the first few weeks after childbirth, an inverse effect appeared
+    for HCNC (rSpearman = 0.318, p = 0.011), suggesting an overall downregulation
+    of the HPA axis owing to the stressful experience of adjusting to the new situation.
+    No effects were found for mothers developing PPD. The indirect results of HPA-axis
+    activity are better indicators of the experience of psychological stress in postpartum
+    women than the absolute HCC value.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: To investigate whether hair cortisol (HCC) and hair cortisone (HCNC)
+  can be predicted by repeated stress reports from postpartum women in different mental
+  health conditions (non-depressed, ND, adjustment disorder, AD, postpartum depression,
+  PPD), 240 mothers (mean age 31.8 years; SD = 4.7) were monitored from within 1 to
+  6 days of childbirth over a period of three months. HCC and HCNC in 3 cm hair samples
+  were assessed via triple mass spectrometry after liquid chromatographic separation.
+  Every second day, participants reported their stress levels online. The summed perceived
+  stress scores were not found to be predictive of HCC. However, perceived stress
+  predicted a decrease in HCNC (rSpearman = -0.153, p = 0.035) and an increase in
+  the HCC/HCNC ratio (rSpearman = 0.304, p < 0.001) in the ND group. With AD in the
+  first few weeks after childbirth, an inverse effect appeared for HCNC (rSpearman
+  = 0.318, p = 0.011), suggesting an overall downregulation of the HPA axis owing
+  to the stressful experience of adjusting to the new situation. No effects were found
+  for mothers developing PPD. The indirect results of HPA-axis activity are better
+  indicators of the experience of psychological stress in postpartum women than the
+  absolute HCC value.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2218-1989
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3390/metabo11120815
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/c83ef681-4da1-45a4-8d36-6e0e39841980
+schema_type: xyzri:XYZPublication
+title: Predicting Hair Cortisol and Cortisone Concentration in Postpartum Women through
+  Repeated Measurements of Perceived Stress

@@ -1,0 +1,54 @@
+attributed_to:
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Inter-individual body mass variations relate to fractionated functional brain
+    hierarchies
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Variations in body mass index (BMI) have been suggested to relate to atypical
+    brain organization, yet connectome-level substrates of BMI and their neurobiological
+    underpinnings remain unclear. Studying 325 healthy young adults, we examined associations
+    between functional connectivity and inter-individual BMI variations. We utilized
+    non-linear connectome manifold learning techniques to represent macroscale functional
+    organization along continuous hierarchical axes that dissociate low level and
+    higher order brain systems. We observed an increased differentiation between unimodal
+    and heteromodal association networks in individuals with higher BMI, indicative
+    of a disrupted modular architecture and hierarchy of the brain. Transcriptomic
+    decoding and gene enrichment analyses identified genes previously implicated in
+    genome-wide associations to BMI and specific cortical, striatal, and cerebellar
+    cell types. These findings illustrate functional connectome substrates of BMI
+    variations in healthy young adults and point to potential molecular associations.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Variations in body mass index (BMI) have been suggested to relate to
+  atypical brain organization, yet connectome-level substrates of BMI and their neurobiological
+  underpinnings remain unclear. Studying 325 healthy young adults, we examined associations
+  between functional connectivity and inter-individual BMI variations. We utilized
+  non-linear connectome manifold learning techniques to represent macroscale functional
+  organization along continuous hierarchical axes that dissociate low level and higher
+  order brain systems. We observed an increased differentiation between unimodal and
+  heteromodal association networks in individuals with higher BMI, indicative of a
+  disrupted modular architecture and hierarchy of the brain. Transcriptomic decoding
+  and gene enrichment analyses identified genes previously implicated in genome-wide
+  associations to BMI and specific cortical, striatal, and cerebellar cell types.
+  These findings illustrate functional connectome substrates of BMI variations in
+  healthy young adults and point to potential molecular associations.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2399-3642
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s42003-021-02268-x
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/2858bc06-3ff2-4a3c-826b-d891c78daa13
+schema_type: xyzri:XYZPublication
+title: Inter-individual body mass variations relate to fractionated functional brain
+  hierarchies

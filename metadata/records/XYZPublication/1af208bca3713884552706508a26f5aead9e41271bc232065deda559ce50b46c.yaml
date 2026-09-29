@@ -1,0 +1,72 @@
+attributed_to:
+- object: xyzrins:persons/michal-szczepanik
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/christian-moench
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c40116c8-e88f-4c06-96f0-f22ddc6efac9
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: How to establish and maintain a multimodal animal research dataset using
+    DataLad
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Sharing of data, processing tools, and workflows require open data hosting
+    services and management tools. Despite FAIR guidelines and the increasing demand
+    from funding agencies and publishers, only a few animal studies share all experimental
+    data and processing tools. We present a step-by-step protocol to perform version
+    control and remote collaboration for large multimodal datasets. A data management
+    plan was introduced to ensure data security in addition to a homogeneous file
+    and folder structure. Changes to the data were automatically tracked using DataLad
+    and all data was shared on the research data platform GIN. This simple and cost-effective
+    workflow facilitates the adoption of FAIR data logistics and processing workflows
+    by making the raw and processed data available and providing the technical infrastructure
+    to independently reproduce the data processing steps. It enables the community
+    to collect heterogeneously acquired and stored datasets not limited to a specific
+    category of data and serves as a technical infrastructure blueprint with rich
+    potential to improve data handling at other sites and extend to other research
+    areas.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Sharing of data, processing tools, and workflows require open data hosting
+  services and management tools. Despite FAIR guidelines and the increasing demand
+  from funding agencies and publishers, only a few animal studies share all experimental
+  data and processing tools. We present a step-by-step protocol to perform version
+  control and remote collaboration for large multimodal datasets. A data management
+  plan was introduced to ensure data security in addition to a homogeneous file and
+  folder structure. Changes to the data were automatically tracked using DataLad and
+  all data was shared on the research data platform GIN. This simple and cost-effective
+  workflow facilitates the adoption of FAIR data logistics and processing workflows
+  by making the raw and processed data available and providing the technical infrastructure
+  to independently reproduce the data processing steps. It enables the community to
+  collect heterogeneously acquired and stored datasets not limited to a specific category
+  of data and serves as a technical infrastructure blueprint with rich potential to
+  improve data handling at other sites and extend to other research areas.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41597-023-02242-8
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2028-12-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/sfb1451
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/0c83d26c-d493-42e8-b50f-72feaf09bf62
+schema_type: xyzri:XYZPublication
+title: How to establish and maintain a multimodal animal research dataset using DataLad

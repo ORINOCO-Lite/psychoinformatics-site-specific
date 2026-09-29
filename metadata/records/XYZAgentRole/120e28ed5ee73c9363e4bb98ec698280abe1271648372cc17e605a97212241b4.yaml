@@ -1,0 +1,5 @@
+description: A person or organization who writes or presents reports of news or current
+  events on air or in print
+display_label: Reporter
+pid: marcrel:rpt
+schema_type: xyzri:XYZAgentRole

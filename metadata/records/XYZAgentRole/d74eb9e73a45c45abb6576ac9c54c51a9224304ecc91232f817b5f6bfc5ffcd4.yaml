@@ -1,0 +1,5 @@
+description: A person or organization responsible for the production of books and
+  other print media
+display_label: Book producer
+pid: marcrel:bkp
+schema_type: xyzri:XYZAgentRole

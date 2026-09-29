@@ -1,0 +1,67 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/269a3b65-df26-4c0d-a6a9-2c4410750dc8
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Functional brain alterations in acute sleep deprivation: An activation likelihoodestimation
+    meta-analysis'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Sleep deprivation (SD) is a common problem in modern societies, which leads
+    to cognitive dysfunctions includingattention lapses, impaired working memory,
+    hindering decision making, impaired emotional processing, and motorvehicle accidents.
+    Numerous neuroimaging studies have investigated the neural correlates of SD, but
+    these studieshave reported inconsistent results. Thus, we aimed to identify convergent
+    patterns of abnormal brain functions due toacute SD. Based on the preferred reporting
+    for systematic reviews and meta-analyses statement, we searched thePubMed database
+    and performed reference tracking and finally retrieved 31 eligible functional
+    neuroimaging studies.Then, we applied activation estimation likelihood meta-analysis
+    and found reduced activity mainly in the rightintraparietal sulcus and superior
+    parietal lobule. The functional decoding analysis using the BrainMap databaseindicated
+    that this region is mostly related to visuospatial perception, memory and reasoning.
+    The significant coactivationof this region using the BrainMap database were found
+    in the left superior parietal lobule, intraparietalsulcus, bilateral occipital
+    cortex, left fusiform gyrus and thalamus. This region also connected with the
+    superior parietallobule, intraparietal sulcus, insula, inferior frontal gyrus,
+    precentral, occipital and cerebellum through resting-statefunctional connectivity
+    in healthy subjects. Taken together, our findings highlight the role of superior
+    parietal cortex inSD.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Sleep deprivation (SD) is a common problem in modern societies, which
+  leads to cognitive dysfunctions includingattention lapses, impaired working memory,
+  hindering decision making, impaired emotional processing, and motorvehicle accidents.
+  Numerous neuroimaging studies have investigated the neural correlates of SD, but
+  these studieshave reported inconsistent results. Thus, we aimed to identify convergent
+  patterns of abnormal brain functions due toacute SD. Based on the preferred reporting
+  for systematic reviews and meta-analyses statement, we searched thePubMed database
+  and performed reference tracking and finally retrieved 31 eligible functional neuroimaging
+  studies.Then, we applied activation estimation likelihood meta-analysis and found
+  reduced activity mainly in the rightintraparietal sulcus and superior parietal lobule.
+  The functional decoding analysis using the BrainMap databaseindicated that this
+  region is mostly related to visuospatial perception, memory and reasoning. The significant
+  coactivationof this region using the BrainMap database were found in the left superior
+  parietal lobule, intraparietalsulcus, bilateral occipital cortex, left fusiform
+  gyrus and thalamus. This region also connected with the superior parietallobule,
+  intraparietal sulcus, insula, inferior frontal gyrus, precentral, occipital and
+  cerebellum through resting-statefunctional connectivity in healthy subjects. Taken
+  together, our findings highlight the role of superior parietal cortex inSD.
+generated_by:
+- at_location: ISSN:1087-0792
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.smrv.2019.03.008
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/43b09e6a-4b48-4063-bd32-aca36dca7825
+schema_type: xyzri:XYZPublication
+title: 'Functional brain alterations in acute sleep deprivation: An activation likelihoodestimation
+  meta-analysis'

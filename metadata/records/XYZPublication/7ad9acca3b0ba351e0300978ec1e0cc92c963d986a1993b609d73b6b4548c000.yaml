@@ -1,0 +1,60 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/269a3b65-df26-4c0d-a6a9-2c4410750dc8
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Practical recommendations to conduct a neuroimaging meta‐analysis for neuropsychiatric
+    disorders
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Over the past decades, neuroimaging has become widely used to investigate
+    structural and functional brain abnormality in neuropsychiatric disorders. The
+    results of individual neuroimaging studies, however, are frequently inconsistent
+    due to small and heterogeneous samples, analytical flexibility, and publication
+    bias toward positive findings. To consolidate the emergent findings toward clinically
+    useful insight, meta-analyses have been developed to integrate the results of
+    studies and identify areas that are consistently involved in pathophysiology of
+    particular neuropsychiatric disorders. However, it should be considered that the
+    results of meta-analyses could also be divergent due to heterogeneity in search
+    strategy, selection criteria, imaging modalities, behavioral tasks, number of
+    experiments, data organization methods, and statistical analysis with different
+    multiple comparison thresholds. Following an introduction to the problem and the
+    concepts of quantitative summaries of neuroimaging findings, we propose practical
+    recommendations for clinicians and researchers for conducting transparent and
+    methodologically sound neuroimaging meta-analyses. This should help to consolidate
+    the search for convergent regional brain abnormality in neuropsychiatric disorders.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Over the past decades, neuroimaging has become widely used to investigate
+  structural and functional brain abnormality in neuropsychiatric disorders. The results
+  of individual neuroimaging studies, however, are frequently inconsistent due to
+  small and heterogeneous samples, analytical flexibility, and publication bias toward
+  positive findings. To consolidate the emergent findings toward clinically useful
+  insight, meta-analyses have been developed to integrate the results of studies and
+  identify areas that are consistently involved in pathophysiology of particular neuropsychiatric
+  disorders. However, it should be considered that the results of meta-analyses could
+  also be divergent due to heterogeneity in search strategy, selection criteria, imaging
+  modalities, behavioral tasks, number of experiments, data organization methods,
+  and statistical analysis with different multiple comparison thresholds. Following
+  an introduction to the problem and the concepts of quantitative summaries of neuroimaging
+  findings, we propose practical recommendations for clinicians and researchers for
+  conducting transparent and methodologically sound neuroimaging meta-analyses. This
+  should help to consolidate the search for convergent regional brain abnormality
+  in neuropsychiatric disorders.
+generated_by:
+- at_location: ISSN:1065-9471
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/hbm.24746
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/119b0d42-4b5e-498c-b2d4-56ff33f47566
+schema_type: xyzri:XYZPublication
+title: Practical recommendations to conduct a neuroimaging meta‐analysis for neuropsychiatric
+  disorders

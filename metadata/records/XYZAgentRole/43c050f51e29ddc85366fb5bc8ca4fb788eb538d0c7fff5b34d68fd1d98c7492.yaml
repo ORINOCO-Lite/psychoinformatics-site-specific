@@ -1,0 +1,4 @@
+description: A person or organization responsible for performing research
+display_label: Researcher
+pid: marcrel:res
+schema_type: xyzri:XYZAgentRole

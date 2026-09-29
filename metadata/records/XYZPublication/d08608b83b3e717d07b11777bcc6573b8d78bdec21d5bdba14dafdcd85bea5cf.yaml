@@ -1,0 +1,63 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Exploring sex-specific neuroendocrine influences on the sensorimotor-association
+    axis in single individuals
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Human neuroimaging studies consistently show multimodal patterns of variability
+    along a key principle of macroscale cortical organization – the sensorimotor-association
+    (S-A) axis. However, little is known about day-to-day fluctuations in functional
+    activity along this axis within an individual, including sex-specific neuroendocrine
+    factors contributing to such transient changes. We leveraged data from two densely
+    sampled healthy young adults, one female and one male, to investigate intra-individual
+    daily variability along the S-A axis, which we computed as our measure of functional
+    cortical organization by reducing the dimensionality of functional connectivity
+    matrices. Daily variability was greatest in temporal limbic and ventral prefrontal
+    regions in both participants, and was more strongly pronounced in the male subject.
+    Next, we probed local and system-level effects of steroid hormones and self-reported
+    perceived stress on functional organization. Our findings revealed modest effects
+    that differed between participants, hinting at subtle –potentially sex-specific–
+    associations between neuroendocrine fluctuations and intra-individual variability
+    along the S-A axis. In sum, our study points to neuroendocrine factors as possible
+    modulators of intra-individual variability in functional brain organization, highlighting
+    the need for further research in larger samples.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Human neuroimaging studies consistently show multimodal patterns of variability
+  along a key principle of macroscale cortical organization – the sensorimotor-association
+  (S-A) axis. However, little is known about day-to-day fluctuations in functional
+  activity along this axis within an individual, including sex-specific neuroendocrine
+  factors contributing to such transient changes. We leveraged data from two densely
+  sampled healthy young adults, one female and one male, to investigate intra-individual
+  daily variability along the S-A axis, which we computed as our measure of functional
+  cortical organization by reducing the dimensionality of functional connectivity
+  matrices. Daily variability was greatest in temporal limbic and ventral prefrontal
+  regions in both participants, and was more strongly pronounced in the male subject.
+  Next, we probed local and system-level effects of steroid hormones and self-reported
+  perceived stress on functional organization. Our findings revealed modest effects
+  that differed between participants, hinting at subtle –potentially sex-specific–
+  associations between neuroendocrine fluctuations and intra-individual variability
+  along the S-A axis. In sum, our study points to neuroendocrine factors as possible
+  modulators of intra-individual variability in functional brain organization, highlighting
+  the need for further research in larger samples.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2024.05.04.592501
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/cfcb7b77-fecf-4a8a-96c4-59eb0d755eac
+schema_type: xyzri:XYZPublication
+title: Exploring sex-specific neuroendocrine influences on the sensorimotor-association
+  axis in single individuals

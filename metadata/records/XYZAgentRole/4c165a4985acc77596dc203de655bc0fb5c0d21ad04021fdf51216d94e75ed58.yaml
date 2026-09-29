@@ -1,0 +1,5 @@
+description: A person, family, or organization responsible for creating a photographic
+  work
+display_label: Photographer
+pid: marcrel:pht
+schema_type: xyzri:XYZAgentRole

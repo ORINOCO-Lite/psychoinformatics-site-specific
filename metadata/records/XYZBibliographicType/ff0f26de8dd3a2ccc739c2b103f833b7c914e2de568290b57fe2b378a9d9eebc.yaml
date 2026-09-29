@@ -1,0 +1,4 @@
+description: A legal document proposing or enacting a law or a group of laws.
+display_label: Legislation
+pid: bibo:Legislation
+schema_type: xyzri:XYZBibliographicType

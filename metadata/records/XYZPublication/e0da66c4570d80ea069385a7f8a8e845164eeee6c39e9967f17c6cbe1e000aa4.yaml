@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Separate neural networks of implicit emotional processing between pictures
+    and words: A coordinate-based meta-analysis of brain imaging studies'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Both pictures and words are frequently employed as experimental stimuli to
+    investigate the neurocognitive mechanisms of emotional processing. However, it
+    remains unclear whether emotional picture processing and emotional word processing
+    share neural underpinnings. To address this issue, we focus on neuroimaging studies
+    examining the implicit processing of affective words and pictures, which require
+    participants to meet cognitive task demands under the implicit influence of emotional
+    pictorial or verbal stimuli. A coordinate-based activation likelihood estimation
+    meta-analysis was conducted on these studies, which revealed no common activation
+    maximum between the picture and word conditions. Specifically, implicit negative
+    picture processing (35 experiments, 393 foci, and 932 subjects) engages the bilateral
+    amygdala, left hippocampus, fusiform gyri, and right insula, which are mainly
+    located in the subcortical network and visual network associated with bottom-up
+    emotional responses. In contrast, implicit negative word processing (34 experiments,
+    316 foci, and 799 subjects) engages the default mode network and fronto-parietal
+    network including the ventrolateral prefrontal cortex, dorsolateral prefrontal
+    cortex, and dorsomedial prefrontal cortex, indicating the involvement of top-down
+    semantic processing and emotion regulation. Our findings indicate that affective
+    pictures (that intrinsically have an affective valence) and affective words (that
+    inherit the affective valence from their object) modulate implicit emotional processing
+    in different ways, and therefore recruit distinct brain systems.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Both pictures and words are frequently employed as experimental stimuli
+  to investigate the neurocognitive mechanisms of emotional processing. However, it
+  remains unclear whether emotional picture processing and emotional word processing
+  share neural underpinnings. To address this issue, we focus on neuroimaging studies
+  examining the implicit processing of affective words and pictures, which require
+  participants to meet cognitive task demands under the implicit influence of emotional
+  pictorial or verbal stimuli. A coordinate-based activation likelihood estimation
+  meta-analysis was conducted on these studies, which revealed no common activation
+  maximum between the picture and word conditions. Specifically, implicit negative
+  picture processing (35 experiments, 393 foci, and 932 subjects) engages the bilateral
+  amygdala, left hippocampus, fusiform gyri, and right insula, which are mainly located
+  in the subcortical network and visual network associated with bottom-up emotional
+  responses. In contrast, implicit negative word processing (34 experiments, 316 foci,
+  and 799 subjects) engages the default mode network and fronto-parietal network including
+  the ventrolateral prefrontal cortex, dorsolateral prefrontal cortex, and dorsomedial
+  prefrontal cortex, indicating the involvement of top-down semantic processing and
+  emotion regulation. Our findings indicate that affective pictures (that intrinsically
+  have an affective valence) and affective words (that inherit the affective valence
+  from their object) modulate implicit emotional processing in different ways, and
+  therefore recruit distinct brain systems.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0149-7634
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2021.09.041
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/28661263-093e-4fdf-b47c-3f84438c7883
+schema_type: xyzri:XYZPublication
+title: 'Separate neural networks of implicit emotional processing between pictures
+  and words: A coordinate-based meta-analysis of brain imaging studies'

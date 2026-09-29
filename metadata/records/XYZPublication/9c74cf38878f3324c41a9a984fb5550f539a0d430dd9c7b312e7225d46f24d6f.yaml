@@ -1,0 +1,65 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Neural substrates of the executive function construct, age‐related changes,
+    and task materials in adolescents and adults: ALE meta‐analyses of 408 fMRI studies'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'To explore the neural substrates of executive function (EF), we conducted
+    an activation likelihood estimation meta-analysis of 408 functional magnetic resonance
+    imaging studies (9639 participants, 7587 activation foci, 518 experimental contrasts)
+    covering three fundamental EF subcomponents: inhibition, switching, and working
+    memory. Our results found that activation common to all three EF subcomponents
+    converged in the multiple-demand network across adolescence and adulthood. The
+    function of EF with the multiple-demand network involved, especially for the prefrontal
+    cortex and the parietal regions, could not be mature until adulthood. In adolescents,
+    only working memory could be separable from common EF, whereas in adults, the
+    three EF subcomponents could be separable from common EF. However, findings of
+    switching in adolescents should be treated with substantial caution and may be
+    exploratory due to limited data available on switching tasks. For task materials,
+    inhibition and working memory showed both domain generality and domain specificity,
+    undergirded by the multiple-demand network, as well as different brain regions
+    in response to verbal and nonverbal task materials, respectively. In contrast,
+    switching showed only domain generality with no activation specialized for either
+    verbal or nonverbal task materials. These findings, taken together, support and
+    contribute to the unitary–diverse nature of EF such that EF should be interpreted
+    in an integrative model that relies on the integration of the EF construct, development,
+    and task materials.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'To explore the neural substrates of executive function (EF), we conducted
+  an activation likelihood estimation meta-analysis of 408 functional magnetic resonance
+  imaging studies (9639 participants, 7587 activation foci, 518 experimental contrasts)
+  covering three fundamental EF subcomponents: inhibition, switching, and working
+  memory. Our results found that activation common to all three EF subcomponents converged
+  in the multiple-demand network across adolescence and adulthood. The function of
+  EF with the multiple-demand network involved, especially for the prefrontal cortex
+  and the parietal regions, could not be mature until adulthood. In adolescents, only
+  working memory could be separable from common EF, whereas in adults, the three EF
+  subcomponents could be separable from common EF. However, findings of switching
+  in adolescents should be treated with substantial caution and may be exploratory
+  due to limited data available on switching tasks. For task materials, inhibition
+  and working memory showed both domain generality and domain specificity, undergirded
+  by the multiple-demand network, as well as different brain regions in response to
+  verbal and nonverbal task materials, respectively. In contrast, switching showed
+  only domain generality with no activation specialized for either verbal or nonverbal
+  task materials. These findings, taken together, support and contribute to the unitary–diverse
+  nature of EF such that EF should be interpreted in an integrative model that relies
+  on the integration of the EF construct, development, and task materials.'
+generated_by:
+- at_location: ISSN:1363-755X
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1111/desc.13111
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/27ad94b4-77ad-4bc8-92cf-0f5b253c762a
+schema_type: xyzri:XYZPublication
+title: 'Neural substrates of the executive function construct, age‐related changes,
+  and task materials in adolescents and adults: ALE meta‐analyses of 408 fMRI studies'

@@ -1,0 +1,9 @@
+display_note: ISSN:0893-133X
+identifiers:
+- creator: ror:026ytr635
+  notation: 0893-133X
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:0893-133X
+schema_type: xyzri:XYZPublicationVenue
+title: Neuropsychopharmacology

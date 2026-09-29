@@ -1,0 +1,4 @@
+description: A place where an event such as a conference or a concert took place
+display_label: Event place
+pid: marcrel:evp
+schema_type: xyzri:XYZAgentRole

@@ -1,0 +1,57 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/659e2c63-bcaa-4348-bf2c-2d6176dfad96
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Linking interindividual variability in brain structure to behaviour
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: What are the brain structural correlates of interindividual differences in
+    behaviour? More than a decade ago, advances in structural MRI opened promising
+    new avenues to address this question. The initial wave of research then progressively
+    led to substantial conceptual and methodological shifts, and a replication crisis
+    unveiled the limitations of traditional approaches, which involved searching for
+    associations between local measurements of neuroanatomy and behavioural variables
+    in small samples of healthy individuals. Given these methodological issues and
+    growing scepticism regarding the idea of one-to-one mapping of psychological constructs
+    to brain regions, new perspectives emerged. These not only embrace the multivariate
+    nature of brain structure-behaviour relationships and promote generalizability
+    but also embrace the representation of the relationships between brain structure
+    and behavioural data by latent dimensions of interindividual variability. Here,
+    we examine the past and present of the study of brain structure-behaviour associations
+    in healthy populations and address current challenges and open questions for future
+    investigations.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: What are the brain structural correlates of interindividual differences
+  in behaviour? More than a decade ago, advances in structural MRI opened promising
+  new avenues to address this question. The initial wave of research then progressively
+  led to substantial conceptual and methodological shifts, and a replication crisis
+  unveiled the limitations of traditional approaches, which involved searching for
+  associations between local measurements of neuroanatomy and behavioural variables
+  in small samples of healthy individuals. Given these methodological issues and growing
+  scepticism regarding the idea of one-to-one mapping of psychological constructs
+  to brain regions, new perspectives emerged. These not only embrace the multivariate
+  nature of brain structure-behaviour relationships and promote generalizability but
+  also embrace the representation of the relationships between brain structure and
+  behavioural data by latent dimensions of interindividual variability. Here, we examine
+  the past and present of the study of brain structure-behaviour associations in healthy
+  populations and address current challenges and open questions for future investigations.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1471-003X
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41583-022-00584-7
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/ce91d5a3-22a8-4eb6-b562-4745437161bf
+schema_type: xyzri:XYZPublication
+title: Linking interindividual variability in brain structure to behaviour

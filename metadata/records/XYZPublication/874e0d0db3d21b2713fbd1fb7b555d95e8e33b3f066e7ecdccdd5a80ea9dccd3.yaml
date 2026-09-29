@@ -1,0 +1,64 @@
+attributed_to:
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Neural processing of emotional stimuli before and after cognitive behavioural
+    therapy for insomnia
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: BackgroundPrevious research has suggested an association between insomnia
+    disorder (ID) and alterations in emotion processing. Therefore, it is crucial
+    to investigate neurobiological changes in emotion processing in patients with
+    ID before and after Cognitive Behavioral Therapy for Insomnia (CBT-I) and to compare
+    them with healthy controls (HC) with task-based functional magnetic resonance
+    imaging (fMRI).Methods20 patients with ID and 20 HC were included in this study
+    to view five different blocks of pictures with varying emotional arousal, valence,
+    and content (sleep-relatedness) in the fMRI scanner.ResultsA significant Group
+    × Session interaction was identified in the amygdala for both the sleep-related
+    negative contrast (F(1,38) = 4.19, p = .048) and the neutral moderate contrast
+    (F(1,38) = 5.39, p = .026). Post-hoc tests revealed that patients with ID had
+    a significantly higher average amygdala reactivity to sleep-related stimuli at
+    T0, whereas no significant difference was observed between the groups at T1. However,
+    the analysis of Intraclass Correlation Coefficients (ICC) in the control group
+    suggests a very low retest reliability across all fMRI measures.ConclusionsCBT-I
+    may normalise amygdala responses to sleep-related negative stimuli, which may
+    reflect a shift toward improved emotional processing. However, the very low retest
+    reliability of fMRI measures warrants cautious interpretation of these results.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: BackgroundPrevious research has suggested an association between insomnia
+  disorder (ID) and alterations in emotion processing. Therefore, it is crucial to
+  investigate neurobiological changes in emotion processing in patients with ID before
+  and after Cognitive Behavioral Therapy for Insomnia (CBT-I) and to compare them
+  with healthy controls (HC) with task-based functional magnetic resonance imaging
+  (fMRI).Methods20 patients with ID and 20 HC were included in this study to view
+  five different blocks of pictures with varying emotional arousal, valence, and content
+  (sleep-relatedness) in the fMRI scanner.ResultsA significant Group × Session interaction
+  was identified in the amygdala for both the sleep-related negative contrast (F(1,38)
+  = 4.19, p = .048) and the neutral moderate contrast (F(1,38) = 5.39, p = .026).
+  Post-hoc tests revealed that patients with ID had a significantly higher average
+  amygdala reactivity to sleep-related stimuli at T0, whereas no significant difference
+  was observed between the groups at T1. However, the analysis of Intraclass Correlation
+  Coefficients (ICC) in the control group suggests a very low retest reliability across
+  all fMRI measures.ConclusionsCBT-I may normalise amygdala responses to sleep-related
+  negative stimuli, which may reflect a shift toward improved emotional processing.
+  However, the very low retest reliability of fMRI measures warrants cautious interpretation
+  of these results.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1389-9457
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.sleep.2026.108964
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/c47f772e-6629-498f-95e1-725a74045eaa
+schema_type: xyzri:XYZPublication
+title: Neural processing of emotional stimuli before and after cognitive behavioural
+  therapy for insomnia

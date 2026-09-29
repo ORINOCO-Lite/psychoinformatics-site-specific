@@ -1,0 +1,9 @@
+display_note: ISSN:2399-3642
+identifiers:
+- creator: ror:026ytr635
+  notation: 2399-3642
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:2399-3642
+schema_type: xyzri:XYZPublicationVenue
+title: Communications Biology

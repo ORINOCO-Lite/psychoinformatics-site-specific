@@ -1,0 +1,37 @@
+attributed_to:
+- object: xyzrins:persons/c3e4db14-5d1c-4156-bb3e-ffc905751e98
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'The toll of 24/7 societal demands: the brain health risks of shift work'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0161-8105
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/sleep/zsae134
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2028-12-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/sfb1451
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/0af410ca-1373-4220-a101-cf287786d7cc
+schema_type: xyzri:XYZPublication
+title: 'The toll of 24/7 societal demands: the brain health risks of shift work'

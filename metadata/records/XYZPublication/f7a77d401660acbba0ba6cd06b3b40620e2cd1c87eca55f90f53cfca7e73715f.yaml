@@ -1,0 +1,66 @@
+attributed_to:
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'BrainAGE : Revisited and reframed machine learning workflow'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Since the introduction of the BrainAGE method, novel machine learning methods
+    for brain age prediction have continued to emerge. The idea of estimating the
+    chronological age from magnetic resonance images proved to be an interesting field
+    of research due to the relative simplicity of its interpretation and its potential
+    use as a biomarker of brain health. We revised our previous BrainAGE approach,
+    originally utilising relevance vector regression (RVR), and substituted it with
+    Gaussian process regression (GPR), which enables more stable processing of larger
+    datasets, such as the UK Biobank (UKB). In addition, we extended the global BrainAGE
+    approach to regional BrainAGE, providing spatially specific scores for five brain
+    lobes per hemisphere. We tested the performance of the new algorithms under several
+    different conditions and investigated their validity on the ADNI and schizophrenia
+    samples, as well as on a synthetic dataset of neocortical thinning. The results
+    show an improved performance of the reframed global model on the UKB sample with
+    a mean absolute error (MAE) of less than 2 years and a significant difference
+    in BrainAGE between healthy participants and patients with Alzheimer's disease
+    and schizophrenia. Moreover, the workings of the algorithm show meaningful effects
+    for a simulated neocortical atrophy dataset. The regional BrainAGE model performed
+    well on two clinical samples, showing disease-specific patterns for different
+    levels of impairment. The results demonstrate that the new improved algorithms
+    provide reliable and valid brain age estimations.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Since the introduction of the BrainAGE method, novel machine learning
+  methods for brain age prediction have continued to emerge. The idea of estimating
+  the chronological age from magnetic resonance images proved to be an interesting
+  field of research due to the relative simplicity of its interpretation and its potential
+  use as a biomarker of brain health. We revised our previous BrainAGE approach, originally
+  utilising relevance vector regression (RVR), and substituted it with Gaussian process
+  regression (GPR), which enables more stable processing of larger datasets, such
+  as the UK Biobank (UKB). In addition, we extended the global BrainAGE approach to
+  regional BrainAGE, providing spatially specific scores for five brain lobes per
+  hemisphere. We tested the performance of the new algorithms under several different
+  conditions and investigated their validity on the ADNI and schizophrenia samples,
+  as well as on a synthetic dataset of neocortical thinning. The results show an improved
+  performance of the reframed global model on the UKB sample with a mean absolute
+  error (MAE) of less than 2 years and a significant difference in BrainAGE between
+  healthy participants and patients with Alzheimer's disease and schizophrenia. Moreover,
+  the workings of the algorithm show meaningful effects for a simulated neocortical
+  atrophy dataset. The regional BrainAGE model performed well on two clinical samples,
+  showing disease-specific patterns for different levels of impairment. The results
+  demonstrate that the new improved algorithms provide reliable and valid brain age
+  estimations.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1065-9471
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/hbm.26632
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/bb16b194-356d-48d7-a4b5-1b001ae6f562
+schema_type: xyzri:XYZPublication
+title: 'BrainAGE : Revisited and reframed machine learning workflow'

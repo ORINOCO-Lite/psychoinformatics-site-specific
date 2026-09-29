@@ -1,0 +1,17 @@
+about:
+- xyzrins:topics/free-and-open-culture
+- xyzrins:topics/naturalistic-neuroimaging
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-19T10:45:22.329018'
+attributes:
+- predicate: CiTO:isDescribedBy
+  schema_type: dlthings:AttributeSpecification
+  value: http://heise.de/-2210869
+description: The initial data release of our studyforrest.org project has been reported
+  on the German tech news site heise.de
+kind: bibo:Newspaper
+pid: xyzrins:publications/62a1b9d2-6b1d-4bca-b616-82210f855cf1
+schema_type: xyzri:XYZPublication
+title: ' Open Science: Forschungsdaten frei zugänglich. Magdeburger Hirnforscher veröffentlichen
+  den bislang umfangreichsten Rohdatensatz über die Verarbeitung von Sprache im Gehirn.'

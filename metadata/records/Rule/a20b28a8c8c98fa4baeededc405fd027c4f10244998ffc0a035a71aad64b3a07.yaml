@@ -1,0 +1,12 @@
+attributes:
+- predicate: spdx:isOsiApproved
+  schema_type: dlthings:AttributeSpecification
+  value: obo:NCIT_C68851
+- predicate: spdx:isFsfLibre
+  schema_type: dlthings:AttributeSpecification
+  value: obo:NCIT_C68851
+broad_mappings:
+- dcterms:LicenseDocument
+display_label: Do What The F*ck You Want To But It's Not My Fault Public License
+pid: spdxlic:WTFNMFPL
+schema_type: dlthings:Rule

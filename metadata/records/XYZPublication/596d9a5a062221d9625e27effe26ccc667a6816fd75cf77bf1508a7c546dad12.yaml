@@ -1,0 +1,84 @@
+attributed_to:
+- object: xyzrins:persons/11bba584-d08e-47f2-b3d4-980c5472dca3
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/793614cb-5fd7-4baf-bd60-6d2bd4de273a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Not All Stroop-Type Tasks Are Alike: Assessing the Impact of Stimulus Material,
+    Task Design, and Cognitive Demand via Meta-analyses Across Neuroimaging Studies'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'The Stroop effect is one of the most often studied examples of cognitive
+    conflict processing. Over time, many variants of the classic Stroop task were
+    used, including versions with different stimulus material, control conditions,
+    presentation design, and combinations with additional cognitive demands. The neural
+    and behavioral impact of this experimental variety, however, has never been systematically
+    assessed. We used activation likelihood meta-analysis to summarize neuroimaging
+    findings with Stroop-type tasks and to investigate whether involvement of the
+    multiple-demand network (anterior insula, lateral frontal cortex, intraparietal
+    sulcus, superior/inferior parietal lobules, midcingulate cortex, and pre-supplementary
+    motor area) can be attributed to resolving some higher-order conflict that all
+    of the tasks have in common, or if aspects that vary between task versions lead
+    to specialization within this network. Across 133 neuroimaging experiments, incongruence
+    processing in the color-word Stroop variant consistently recruited regions of
+    the multiple-demand network, with modulation of spatial convergence by task variants.
+    In addition, the neural patterns related to solving Stroop-like interference differed
+    between versions of the task that use different stimulus material, with the only
+    overlap between color-word, emotional picture-word, and other types of stimulus
+    material in the posterior medial frontal cortex and right anterior insula. Follow-up
+    analyses on behavior reported in these studies (in total 164 effect sizes) revealed
+    only little impact of task variations on the mean effect size of reaction time.
+    These results suggest qualitative processing differences among the family of Stroop
+    variants, despite similar task difficulty levels, and should carefully be considered
+    when planning or interpreting Stroop-type neuroimaging experiments.Keywords: Activation
+    likelihood estimation; Cognitive control; Interference resolution; Neuroimaging
+    meta-analysis; Stroop.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'The Stroop effect is one of the most often studied examples of cognitive
+  conflict processing. Over time, many variants of the classic Stroop task were used,
+  including versions with different stimulus material, control conditions, presentation
+  design, and combinations with additional cognitive demands. The neural and behavioral
+  impact of this experimental variety, however, has never been systematically assessed.
+  We used activation likelihood meta-analysis to summarize neuroimaging findings with
+  Stroop-type tasks and to investigate whether involvement of the multiple-demand
+  network (anterior insula, lateral frontal cortex, intraparietal sulcus, superior/inferior
+  parietal lobules, midcingulate cortex, and pre-supplementary motor area) can be
+  attributed to resolving some higher-order conflict that all of the tasks have in
+  common, or if aspects that vary between task versions lead to specialization within
+  this network. Across 133 neuroimaging experiments, incongruence processing in the
+  color-word Stroop variant consistently recruited regions of the multiple-demand
+  network, with modulation of spatial convergence by task variants. In addition, the
+  neural patterns related to solving Stroop-like interference differed between versions
+  of the task that use different stimulus material, with the only overlap between
+  color-word, emotional picture-word, and other types of stimulus material in the
+  posterior medial frontal cortex and right anterior insula. Follow-up analyses on
+  behavior reported in these studies (in total 164 effect sizes) revealed only little
+  impact of task variations on the mean effect size of reaction time. These results
+  suggest qualitative processing differences among the family of Stroop variants,
+  despite similar task difficulty levels, and should carefully be considered when
+  planning or interpreting Stroop-type neuroimaging experiments.Keywords: Activation
+  likelihood estimation; Cognitive control; Interference resolution; Neuroimaging
+  meta-analysis; Stroop.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1040-7308
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s11065-024-09647-1
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/0179142f-8775-40d8-b79c-b083baee684f
+schema_type: xyzri:XYZPublication
+title: 'Not All Stroop-Type Tasks Are Alike: Assessing the Impact of Stimulus Material,
+  Task Design, and Cognitive Demand via Meta-analyses Across Neuroimaging Studies'

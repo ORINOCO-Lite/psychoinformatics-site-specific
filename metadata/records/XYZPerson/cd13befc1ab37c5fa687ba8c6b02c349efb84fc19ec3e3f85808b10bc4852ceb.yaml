@@ -1,0 +1,16 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: s.heunis@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-06-02T11:51:25.915369'
+depiction:
+- xyzrins:depictions/264d05ed-a306-4f33-9a1a-97a1329dacc2
+family_name: Poldrack
+given_name: Benjamin
+identifiers:
+- notation: 0000-0001-7628-0801
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/benjamin-poldrack
+schema_type: xyzri:XYZPerson

@@ -1,0 +1,99 @@
+attributed_to:
+- object: xyzrins:persons/c6d47fbc-8b3c-46d1-9558-1f3b94ec9141
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/086e45ca-472d-4419-ad35-9082b142c638
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'White Matter Bundle Reconstruction From Single‐Shell Diffusion Magnetic
+    Resonance Imaging: Test–Retest Reliability and Predictive Capability Across Orientation
+    Distribution Function Reconstruction Methods'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Deriving white matter (WM) bundles in vivo has thus far mainly been applied
+    in research settings, leveraging high angular resolution, multi-shell diffusion
+    MRI (dMRI) acquisitions that enable modern reconstruction methods. However, these
+    advanced acquisitions are both time-consuming and costly to acquire. The ability
+    to reconstruct WM bundles in the massive amounts of existing single-shelled, lower
+    angular resolution data from legacy research studies and healthcare systems would
+    offer much broader clinical applications and population-level generalizability.
+    While legacy scans may offer a valuable, large-scale complement to contemporary
+    research datasets, the reliability of white matter bundles derived from these
+    scans remains unclear. Here, we leverage a large research dataset where each 64-direction
+    dMRI scan was acquired as two independent 32-direction runs per subject. To investigate
+    how a state-of-the-art bundle-specific reconstruction method generalizes to this
+    data, we evaluated the test–retest reliability of WM bundles reconstructed from
+    the two 32-direction scans across three orientation distribution function (ODF)
+    reconstruction methods: generalized q-sampling imaging (GQI), constrained spherical
+    deconvolution (CSD), and single-shell three-tissue CSD (SS3T). We found that the
+    majority of WM bundles could be reliably extracted from dMRI scans that were acquired
+    using the 32-direction, single-shell acquisition scheme. The mean Dice coefficient
+    of reconstructed WM bundles was consistently higher within subject than between
+    subject for all WM bundles and ODF reconstruction methods, illustrating preservation
+    of person-specific anatomy. Further, when using features of the bundles to predict
+    complex reasoning assessed using a computerized cognitive battery, we observed
+    stable prediction accuracies (r: 0.15–0.36) across the test–retest data. Among
+    the three ODF reconstruction methods, SS3T had a good balance between sensitivity
+    and specificity when comparing the reconstructed bundles to atlas bundles, a high
+    intra-class correlation of extracted features, more plausible bundles, and strong
+    predictive performance. More broadly, these results demonstrate that bundle-specific
+    reconstruction can achieve robust performance even on lower angular resolution,
+    single-shell dMRI, with particular advantages for ODF methods optimized for single-shell
+    data. This highlights the considerable potential for dMRI collected in healthcare
+    settings and legacy research datasets to accelerate and expand the scope of WM
+    research.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Deriving white matter (WM) bundles in vivo has thus far mainly been
+  applied in research settings, leveraging high angular resolution, multi-shell diffusion
+  MRI (dMRI) acquisitions that enable modern reconstruction methods. However, these
+  advanced acquisitions are both time-consuming and costly to acquire. The ability
+  to reconstruct WM bundles in the massive amounts of existing single-shelled, lower
+  angular resolution data from legacy research studies and healthcare systems would
+  offer much broader clinical applications and population-level generalizability.
+  While legacy scans may offer a valuable, large-scale complement to contemporary
+  research datasets, the reliability of white matter bundles derived from these scans
+  remains unclear. Here, we leverage a large research dataset where each 64-direction
+  dMRI scan was acquired as two independent 32-direction runs per subject. To investigate
+  how a state-of-the-art bundle-specific reconstruction method generalizes to this
+  data, we evaluated the test–retest reliability of WM bundles reconstructed from
+  the two 32-direction scans across three orientation distribution function (ODF)
+  reconstruction methods: generalized q-sampling imaging (GQI), constrained spherical
+  deconvolution (CSD), and single-shell three-tissue CSD (SS3T). We found that the
+  majority of WM bundles could be reliably extracted from dMRI scans that were acquired
+  using the 32-direction, single-shell acquisition scheme. The mean Dice coefficient
+  of reconstructed WM bundles was consistently higher within subject than between
+  subject for all WM bundles and ODF reconstruction methods, illustrating preservation
+  of person-specific anatomy. Further, when using features of the bundles to predict
+  complex reasoning assessed using a computerized cognitive battery, we observed stable
+  prediction accuracies (r: 0.15–0.36) across the test–retest data. Among the three
+  ODF reconstruction methods, SS3T had a good balance between sensitivity and specificity
+  when comparing the reconstructed bundles to atlas bundles, a high intra-class correlation
+  of extracted features, more plausible bundles, and strong predictive performance.
+  More broadly, these results demonstrate that bundle-specific reconstruction can
+  achieve robust performance even on lower angular resolution, single-shell dMRI,
+  with particular advantages for ODF methods optimized for single-shell data. This
+  highlights the considerable potential for dMRI collected in healthcare settings
+  and legacy research datasets to accelerate and expand the scope of WM research.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:1065-9471
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/hbm.70429
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/b6a519b5-4f14-463f-b3ae-86b9ad1651d7
+schema_type: xyzri:XYZPublication
+title: 'White Matter Bundle Reconstruction From Single‐Shell Diffusion Magnetic Resonance
+  Imaging: Test–Retest Reliability and Predictive Capability Across Orientation Distribution
+  Function Reconstruction Methods'

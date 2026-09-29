@@ -1,0 +1,32 @@
+attributed_to:
+- object: ror:04pz7b180
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/81b3a1a2-cde7-46c2-8edd-87145adc579e
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Attribution
+description: Das Projekt VINNIE adressiert den steigenden Bedarf an psychotherapeutischer
+  Unterstützung für Kinder mit psychosomatischen Beschwerden während langer Wartezeiten
+  auf eine stationäre Behandlung. Es entwickelt einen Blended-Therapy-Ansatz für Kinder
+  im Alter von 7 bis 12 Jahren, der digitale Lernangebote mit einem intelligenten
+  Therapiespielzeug kombiniert. Über eine Online-Plattform erlernen die Kinder gemeinsam
+  mit einem virtuellen Charakter Krankheitsverständnis und Bewältigungsstrategien,
+  die im Alltag helfen sollen. Diese Strategien werden auf ein smartes Kuscheltier
+  übertragen, das in belastenden Situationen konkrete Hilfen anbietet und über Biofeedback
+  (z. B. Herzratenvariabilität) Lernerfolge sichtbar macht. Begleitet durch neuroethische
+  Expertise soll so eine wirksame, alltagsnahe und potenziell transdiagnostische Unterstützung
+  für psychosomatische, angst- und zwangsspezifische Störungen geschaffen werden.
+identifiers:
+- creator: xyzrins:organizations/fzj
+  notation: DB002677
+  schema_type: dlthings:Identifier
+- creator: ror:04pz7b180
+  notation: 16SV9391
+  schema_type: dlthings:Identifier
+pid: xyzrins:grants/6f185c4c-8fc6-4e37-9c1d-34228c4281e1
+schema_type: xyzri:XYZGrant
+short_name: VINNIE
+title: Verhaltenstherapeutisches KI-Spielzeug für KiNder und JugeNdliche mIt psychosomatischen
+  BeschwerdEn

@@ -1,0 +1,80 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Transcription factor motifs associated with anterior insula gene-expression
+    underlying mood disorder phenotypes
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Background: Mood disorders represent a major cause of morbidity and mortality
+    worldwide but the brain-related molecular pathophysiology in mood disorders remains
+    largely undefined. Methods: Because the anterior insula is reduced in volume in
+    patients with mood disorders, RNA was extracted from postmortem mood disorder
+    samples and compared with unaffected control samples for RNA-sequencing identification
+    of differentially expressed genes (DEGs) in a) bipolar disorder (BD; n=37) versus
+    (vs.) controls (n=33), and b) major depressive disorder (MDD n=30) vs controls,
+    and c) low vs. high Axis-I comorbidity (a measure of cumulative psychiatric disease
+    burden). Given the regulatory role of transcription factors (TFs) in gene expression
+    via specific-DNA-binding domains (motifs), we used JASPAR TF binding database
+    to identify TF-motifs. Results: We found that DEGs in BD vs. controls, MDD vs.
+    controls, and high vs. low Axis-I comorbidity were associated with TF-motifs that
+    are known to regulate expression of toll-like receptor genes, cellular homeostatic-control
+    genes, and genes involved in embryonic, cellular/organ and brain development.
+    Discussion: Robust imaging-guided transcriptomics (i.e., using meta-analytic imaging
+    results to guide independent post-mortem dissection for RNA-sequencing) was applied
+    by targeting the gray matter volume reduction in the anterior insula in mood disorders,
+    to guide independent postmortem identification of TF motifs regulating DEG. TF
+    motifs were identified for immune, cellular, embryonic and neurodevelopmental
+    processes. Conclusion: Our findings of TF-motifs that regulate the expression
+    of immune, cellular homeostatic-control, and developmental genes provides novel
+    information about the hierarchical .CC-BY-NC-ND 4.0 International licenseunder
+    anot certified by peer review) is the author/funder, who has granted bioRxiv a
+    license to display the preprint in perpetuity. It is made available The copyright
+    holder for this preprint (which wasthis version posted September 28, 2020. ; https://doi.org/10.1101/864900doi:
+    bioRxiv preprint 3 relationship between gene regulatory networks, the TFs that
+    control them, and proximate underlying neuroanatomical phenotypes in mood disorders.'
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: 'Background: Mood disorders represent a major cause of morbidity and
+  mortality worldwide but the brain-related molecular pathophysiology in mood disorders
+  remains largely undefined. Methods: Because the anterior insula is reduced in volume
+  in patients with mood disorders, RNA was extracted from postmortem mood disorder
+  samples and compared with unaffected control samples for RNA-sequencing identification
+  of differentially expressed genes (DEGs) in a) bipolar disorder (BD; n=37) versus
+  (vs.) controls (n=33), and b) major depressive disorder (MDD n=30) vs controls,
+  and c) low vs. high Axis-I comorbidity (a measure of cumulative psychiatric disease
+  burden). Given the regulatory role of transcription factors (TFs) in gene expression
+  via specific-DNA-binding domains (motifs), we used JASPAR TF binding database to
+  identify TF-motifs. Results: We found that DEGs in BD vs. controls, MDD vs. controls,
+  and high vs. low Axis-I comorbidity were associated with TF-motifs that are known
+  to regulate expression of toll-like receptor genes, cellular homeostatic-control
+  genes, and genes involved in embryonic, cellular/organ and brain development. Discussion:
+  Robust imaging-guided transcriptomics (i.e., using meta-analytic imaging results
+  to guide independent post-mortem dissection for RNA-sequencing) was applied by targeting
+  the gray matter volume reduction in the anterior insula in mood disorders, to guide
+  independent postmortem identification of TF motifs regulating DEG. TF motifs were
+  identified for immune, cellular, embryonic and neurodevelopmental processes. Conclusion:
+  Our findings of TF-motifs that regulate the expression of immune, cellular homeostatic-control,
+  and developmental genes provides novel information about the hierarchical .CC-BY-NC-ND
+  4.0 International licenseunder anot certified by peer review) is the author/funder,
+  who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+  available The copyright holder for this preprint (which wasthis version posted September
+  28, 2020. ; https://doi.org/10.1101/864900doi: bioRxiv preprint 3 relationship between
+  gene regulatory networks, the TFs that control them, and proximate underlying neuroanatomical
+  phenotypes in mood disorders.'
+generated_by:
+- at_location: ISSN:0893-7648
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/864900
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/b0216032-748b-48fe-ad4b-e11768f4fa4f
+schema_type: xyzri:XYZPublication
+title: Transcription factor motifs associated with anterior insula gene-expression
+  underlying mood disorder phenotypes

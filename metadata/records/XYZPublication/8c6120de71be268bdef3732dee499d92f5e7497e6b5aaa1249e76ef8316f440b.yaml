@@ -1,0 +1,60 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: How Machine Learning is Powering Neuroimaging to Improve Brain Health
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: This report presents an overview of how machine learning is rapidly advancing
+    clinical translational imaging in ways that will aid in the early detection, prediction,
+    and treatment of diseases that threaten brain health. Towards this goal, we aresharing
+    the information presented at a symposium, “Neuroimaging Indicators of Brain Structure
+    and Function - Closing the Gap Between Research and Clinical Application”, co-hosted
+    by the McCance Center for Brain Health at Mass General Hospital and the MIT HST
+    Neuroimaging Training Program on February 12, 2021. The symposium focused on the
+    potential for machine learning approaches, applied to increasingly large-scale
+    neuroimaging datasets, to transform healthcare delivery and change the trajectory
+    of brain health by addressing brain care earlier in the lifespan. While not exhaustive,
+    this overview uniquely addresses many of the technical challenges from image formation,
+    to analysis and visualization, to synthesis and incorporation into the clinical
+    workflow. Some of the ethical challenges inherent to this work are also explored,
+    as are some of the regulatory requirements for implementation. We seek to educate,
+    motivate, and inspire graduate students, postdoctoral fellows, and early career
+    investigators to contribute to a future where neuroimaging meaningfully contributes
+    to the maintenance of brain health.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: This report presents an overview of how machine learning is rapidly advancing
+  clinical translational imaging in ways that will aid in the early detection, prediction,
+  and treatment of diseases that threaten brain health. Towards this goal, we aresharing
+  the information presented at a symposium, “Neuroimaging Indicators of Brain Structure
+  and Function - Closing the Gap Between Research and Clinical Application”, co-hosted
+  by the McCance Center for Brain Health at Mass General Hospital and the MIT HST
+  Neuroimaging Training Program on February 12, 2021. The symposium focused on the
+  potential for machine learning approaches, applied to increasingly large-scale neuroimaging
+  datasets, to transform healthcare delivery and change the trajectory of brain health
+  by addressing brain care earlier in the lifespan. While not exhaustive, this overview
+  uniquely addresses many of the technical challenges from image formation, to analysis
+  and visualization, to synthesis and incorporation into the clinical workflow. Some
+  of the ethical challenges inherent to this work are also explored, as are some of
+  the regulatory requirements for implementation. We seek to educate, motivate, and
+  inspire graduate students, postdoctoral fellows, and early career investigators
+  to contribute to a future where neuroimaging meaningfully contributes to the maintenance
+  of brain health.
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:1539-2791
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s12021-022-09572-9
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/1668fd16-2cd5-4b03-a8f1-27ed741462f4
+schema_type: xyzri:XYZPublication
+title: How Machine Learning is Powering Neuroimaging to Improve Brain Health

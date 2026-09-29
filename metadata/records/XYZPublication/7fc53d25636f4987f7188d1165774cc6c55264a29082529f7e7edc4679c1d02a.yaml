@@ -1,0 +1,64 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: CT-Based Prediction of Liver Function and Post-PVE Hypertrophy Using an Artificial
+    Neural Network
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Background: This study aimed to evaluate whether hypertrophy after portal
+    vein embolization (PVE) and maximum liver function capacity (LiMAx) are predictable
+    by an artificial neural network (ANN) model based on computed tomography (CT)
+    texture features.Methods: We report a retrospective analysis on 118 patients undergoing
+    preoperative assessment by CT before and after PVE for subsequent extended liver
+    resection due to a malignant tumor at RWTH Aachen University Hospital. The LiMAx
+    test was carried out in a subgroup of 55 patients prior to PVE. Associations between
+    CT texture features and hypertrophy as well as liver function were assessed by
+    a multilayer perceptron ANN model.Results: Liver volumetry showed a median hypertrophy
+    degree of 33.9% (16.5-60.4%) after PVE. Non-response, defined as a hypertrophy
+    grade lower than 25%, was found in 36.5% (43/118) of the cases. The ANN prediction
+    of the hypertrophy response showed a sensitivity of 95.8%, specificity of 44.4%
+    and overall prediction accuracy of 74.6% (p < 0.001). The observed median LiMAx
+    was 327 (248-433) μg/kg/h and was strongly correlated with the predicted LiMAx
+    (R2 = 0.89).Conclusion: Our study shows that an ANN model based on CT texture
+    features is able to predict the maximum liver function capacity and may be useful
+    to assess potential hypertrophy after performing PVE.Keywords: artificial neural
+    network; computed tomography; liver function; liver volume; portal vein embolization.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Background: This study aimed to evaluate whether hypertrophy after portal
+  vein embolization (PVE) and maximum liver function capacity (LiMAx) are predictable
+  by an artificial neural network (ANN) model based on computed tomography (CT) texture
+  features.Methods: We report a retrospective analysis on 118 patients undergoing
+  preoperative assessment by CT before and after PVE for subsequent extended liver
+  resection due to a malignant tumor at RWTH Aachen University Hospital. The LiMAx
+  test was carried out in a subgroup of 55 patients prior to PVE. Associations between
+  CT texture features and hypertrophy as well as liver function were assessed by a
+  multilayer perceptron ANN model.Results: Liver volumetry showed a median hypertrophy
+  degree of 33.9% (16.5-60.4%) after PVE. Non-response, defined as a hypertrophy grade
+  lower than 25%, was found in 36.5% (43/118) of the cases. The ANN prediction of
+  the hypertrophy response showed a sensitivity of 95.8%, specificity of 44.4% and
+  overall prediction accuracy of 74.6% (p < 0.001). The observed median LiMAx was
+  327 (248-433) μg/kg/h and was strongly correlated with the predicted LiMAx (R2 =
+  0.89).Conclusion: Our study shows that an ANN model based on CT texture features
+  is able to predict the maximum liver function capacity and may be useful to assess
+  potential hypertrophy after performing PVE.Keywords: artificial neural network;
+  computed tomography; liver function; liver volume; portal vein embolization.'
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:2077-0383
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3390/jcm10143079
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8611fcb8-3c0a-4ad7-9d95-51cbb5c74f8d
+schema_type: xyzri:XYZPublication
+title: CT-Based Prediction of Liver Function and Post-PVE Hypertrophy Using an Artificial
+  Neural Network

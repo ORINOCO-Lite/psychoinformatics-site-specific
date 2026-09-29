@@ -1,0 +1,9 @@
+display_note: ISSN:1618-8519
+identifiers:
+- creator: ror:026ytr635
+  notation: 1618-8519
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:1618-8519
+schema_type: xyzri:XYZPublicationVenue
+title: Gehirn & Geist

@@ -1,0 +1,9 @@
+display_note: ISSN:0031-9007
+identifiers:
+- creator: ror:026ytr635
+  notation: 0031-9007
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:0031-9007
+schema_type: xyzri:XYZPublicationVenue
+title: Physical Review Letters

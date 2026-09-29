@@ -1,0 +1,58 @@
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Macroscopic information-based taste representations in insular cortex are
+    shaped by stimulus concentration
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Taste processing is an essential ability in all animals signaling potential
+    harm or benefit of ingestive behavior. However, current evidence for cortical
+    taste representations remains contradictory. To address this issue, high-resolution
+    functional MRI (fMRI) and multivariate pattern analysis were used to characterize
+    taste-related informational content in human insular cortex, which contains primary
+    gustatory cortex. Human participants judged pleasantness and intensity of low-
+    and high-concentration tastes (salty, sweet, sour, and bitter) in two fMRI experiments
+    on two different days to test for task- and concentration-invariant taste representations.
+    We observed patterns of fMRI activity within insular cortex narrowly tuned to
+    specific tastants consistently across tasks in all participants. Fewer patterns
+    responded to more than one taste category. Importantly, changes in taste concentration
+    altered the spatial layout of putative taste-specific patterns with distinct,
+    almost nonoverlapping patterns for each taste category at different concentration
+    levels. Together, our results point at macroscopic representations in human insular
+    cortex as a complex function of taste category and concentration rather than representations
+    based solely on taste identity.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Taste processing is an essential ability in all animals signaling potential
+  harm or benefit of ingestive behavior. However, current evidence for cortical taste
+  representations remains contradictory. To address this issue, high-resolution functional
+  MRI (fMRI) and multivariate pattern analysis were used to characterize taste-related
+  informational content in human insular cortex, which contains primary gustatory
+  cortex. Human participants judged pleasantness and intensity of low- and high-concentration
+  tastes (salty, sweet, sour, and bitter) in two fMRI experiments on two different
+  days to test for task- and concentration-invariant taste representations. We observed
+  patterns of fMRI activity within insular cortex narrowly tuned to specific tastants
+  consistently across tasks in all participants. Fewer patterns responded to more
+  than one taste category. Importantly, changes in taste concentration altered the
+  spatial layout of putative taste-specific patterns with distinct, almost nonoverlapping
+  patterns for each taste category at different concentration levels. Together, our
+  results point at macroscopic representations in human insular cortex as a complex
+  function of taste category and concentration rather than representations based solely
+  on taste identity.
+generated_by:
+- at_location: ISSN:0027-8424
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1073/pnas.1916329117
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/412cbf0f-250a-45ec-a7f2-86bd6a3fa9e1
+schema_type: xyzri:XYZPublication
+title: Macroscopic information-based taste representations in insular cortex are shaped
+  by stimulus concentration

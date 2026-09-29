@@ -1,0 +1,34 @@
+assertions:
+- assertion_sha256: sha256:4064784feeedcdacfbabdaf6c70a0917e1e7e3cf70ea6943e8e0109df71a1857
+  path: /attributed_to
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/1045525
+- assertion_sha256: sha256:5ae3ef12376ebd83e8645c65b7c653bbb317a60e38b3cb8ad2c24b70899b7b94
+  path: /attributed_to
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/1045525
+- assertion_sha256: sha256:04fd5ed8bcdf7787bf0000e144fc1e20a83247ac5ada40e137f99a3e95a675d5
+  path: /attributes
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/1045525
+- assertion_sha256: sha256:6e920bee1b370668cf6dd3bc48d9b67607ee262cf40460edeff58346ca193fe2
+  path: /attributes
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/1045525
+- assertion_sha256: sha256:daaf525b6f3d3378a5630d6cee38e0b0b19098a51ceab864edf5e50321977190
+  path: /characterized_by
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/1045525
+- assertion_sha256: sha256:029ca72661ed1b75797529649b12fc7e114879a1baaee326c6df95a6c26d4c30
+  path: /generated_by
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/1045525
+- assertion_sha256: sha256:7be35aa80d51d1d97dbbd999e0b0fd05d62fb62239045e59f293c997a7d247d7
+  path: /generated_by
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/1045525
+- assertion_sha256: sha256:c4ce54f3342310348bd0115ff7cb8ec87ef5ccc741b8d7b14ee202b5ee2ea827
+  path: /identifiers
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/1045525
+record: xyzrins:publications/45116ce6-8a81-42a4-9719-eff35afdb70d

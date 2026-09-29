@@ -1,0 +1,7 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2025-12-11T21:28:30.167602'
+family_name: Bayer
+given_name: Manuel
+pid: xyzrins:persons/manuel-bayer
+schema_type: xyzri:XYZPerson

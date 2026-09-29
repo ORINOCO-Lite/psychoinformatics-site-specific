@@ -1,0 +1,27 @@
+assertions:
+- assertion_sha256: sha256:7a368df75e876ad23b935573a87e2d6b0dc89bc61e8b8caf13127b80a8a9105c
+  path: /attributes
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://webmail.fz-juelich.de/owa/calendar/d61ec0ce8d704cb293df97fbb3c8fe23@fz-juelich.de/a7ad1dee32cf49749872136f3a9223191125633822045414026/calendar.ics
+  source_annotations:
+    http://purl.org/pav/importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+    http://purl.org/pav/importedFrom: https://webmail.fz-juelich.de/owa/calendar/d61ec0ce8d704cb293df97fbb3c8fe23@fz-juelich.de/a7ad1dee32cf49749872136f3a9223191125633822045414026/calendar.ics
+- assertion_sha256: sha256:b7fd497f8afe7546ac650195eb404a7183f295de53b8310a2cf807ae3bd5ee24
+  path: /attributes
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://webmail.fz-juelich.de/owa/calendar/d61ec0ce8d704cb293df97fbb3c8fe23@fz-juelich.de/a7ad1dee32cf49749872136f3a9223191125633822045414026/calendar.ics
+  source_annotations:
+    http://purl.org/pav/importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+    http://purl.org/pav/importedFrom: https://webmail.fz-juelich.de/owa/calendar/d61ec0ce8d704cb293df97fbb3c8fe23@fz-juelich.de/a7ad1dee32cf49749872136f3a9223191125633822045414026/calendar.ics
+- assertion_sha256: sha256:bd7ee386cfae4190836319b91478750d0f32abfcae79778be3bd75866cfeba7b
+  path: /attributes
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://webmail.fz-juelich.de/owa/calendar/d61ec0ce8d704cb293df97fbb3c8fe23@fz-juelich.de/a7ad1dee32cf49749872136f3a9223191125633822045414026/calendar.ics
+  source_annotations:
+    http://purl.org/pav/importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+    http://purl.org/pav/importedFrom: https://webmail.fz-juelich.de/owa/calendar/d61ec0ce8d704cb293df97fbb3c8fe23@fz-juelich.de/a7ad1dee32cf49749872136f3a9223191125633822045414026/calendar.ics
+- assertion_sha256: sha256:fb0efa1e703382e84ff59841d8daba2d98dfe893964c1f376dfc3c3abaa0a7bc
+  path: /characterized_by
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://webmail.fz-juelich.de/owa/calendar/d61ec0ce8d704cb293df97fbb3c8fe23@fz-juelich.de/a7ad1dee32cf49749872136f3a9223191125633822045414026/calendar.ics
+record: xyzrins:competition/040000008200E00074C5B7101A82E00800000000639F2035DD98DB01000000000000000010000000F005638ECA90E44DAB962D204CE08EED

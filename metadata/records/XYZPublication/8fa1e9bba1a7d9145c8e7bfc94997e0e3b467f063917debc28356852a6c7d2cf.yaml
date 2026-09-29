@@ -1,0 +1,61 @@
+attributed_to:
+- object: xyzrins:persons/91cb3ecc-1778-47b5-bce4-efc570225b9e
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/524cfe09-be4c-4e65-9886-4c3b7d4c0237
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/66215f11-0863-4820-85d8-8d700f85a5fa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Empirical Comparison Between Cross-Validation and Mutation-Validation in Model
+    Selection
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Mutation validation (MV) is a recently proposed approach for model selection,
+    garnering significant interest due to its unique characteristics and potential
+    benefits compared to the widely used cross-validation (CV) method. In this study,
+    we empirically compared MV and k-fold CV using benchmark and real-world datasets.
+    By employing Bayesian tests, we compared generalization estimates yielding three
+    posterior probabilities: practical equivalence, CV superiority, and MV superiority.
+    We also evaluated the differences in the capacity of the selected models and computational
+    efficiency. We found that both MV and CV select models with practically equivalent
+    generalization performance across various machine learning algorithms and the
+    majority of benchmark datasets. MV exhibited advantages in terms of selecting
+    simpler models and lower computational costs. However, in some cases MV selected
+    overly simplistic models leading to underfitting and showed instability in hyperparameter
+    selection. These limitations of MV became more evident in the evaluation of a
+    real-world neuroscientific task of predicting sex at birth using brain functional
+    connectivity.'
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+description: 'Mutation validation (MV) is a recently proposed approach for model selection,
+  garnering significant interest due to its unique characteristics and potential benefits
+  compared to the widely used cross-validation (CV) method. In this study, we empirically
+  compared MV and k-fold CV using benchmark and real-world datasets. By employing
+  Bayesian tests, we compared generalization estimates yielding three posterior probabilities:
+  practical equivalence, CV superiority, and MV superiority. We also evaluated the
+  differences in the capacity of the selected models and computational efficiency.
+  We found that both MV and CV select models with practically equivalent generalization
+  performance across various machine learning algorithms and the majority of benchmark
+  datasets. MV exhibited advantages in terms of selecting simpler models and lower
+  computational costs. However, in some cases MV selected overly simplistic models
+  leading to underfitting and showed instability in hyperparameter selection. These
+  limitations of MV became more evident in the evaluation of a real-world neuroscientific
+  task of predicting sex at birth using brain functional connectivity.'
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/978-3-031-58553-1_5
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/0930267a-4029-49f8-99c3-381101516d02
+schema_type: xyzri:XYZPublication
+title: Empirical Comparison Between Cross-Validation and Mutation-Validation in Model
+  Selection

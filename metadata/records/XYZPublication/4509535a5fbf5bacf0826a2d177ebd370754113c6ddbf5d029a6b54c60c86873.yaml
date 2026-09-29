@@ -1,0 +1,67 @@
+attributed_to:
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Data harmonizing via interpolation applied to brain age prediction
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Brain age estimation using magnetic resonance imaging is a promising biomarker
+    for detecting accelerated aging and neurodegenerative disorders. However, the
+    development of robust clinical models is severely hampered by the “Effects of
+    Site”, where scanner-specific biases obscure biological signals in multi-center
+    datasets. In this study, we propose a novel harmonization strategy, Inter-Site
+    SMOTE, which generates synthetic training data by interpolating between age- and
+    gender-matched participants from different sites. We hypothesize that these synthetic
+    samples populate the sparse regions between site distributions, effectively bridging
+    domain gaps while preserving biological integrity. We systematically evaluated
+    this approach using four large neuroimaging datasets () in a leave-one-site-out
+    regression task. Our results demonstrate that Inter-Site SMOTE significantly improves
+    generalization to unseen scanners compared to standard data pooling. Crucially,
+    we show that standard statistical harmonization (ComBat) fails to improve predictive
+    performance in this setting due to inference-time assumptions, whereas our data-centric
+    approach enhances robustness. Furthermore, we provide empirical evidence that
+    the improvement is driven by the specific geometry of cross-site interpolation,
+    as intra-site augmentation failed to yield comparable gains. This work presents
+    a simple, effective solution for multi-site harmonization that circumvents the
+    limitations of statistical adjustment methods, paving the way for more generalizable
+    prediction models.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Brain age estimation using magnetic resonance imaging is a promising
+  biomarker for detecting accelerated aging and neurodegenerative disorders. However,
+  the development of robust clinical models is severely hampered by the “Effects of
+  Site”, where scanner-specific biases obscure biological signals in multi-center
+  datasets. In this study, we propose a novel harmonization strategy, Inter-Site SMOTE,
+  which generates synthetic training data by interpolating between age- and gender-matched
+  participants from different sites. We hypothesize that these synthetic samples populate
+  the sparse regions between site distributions, effectively bridging domain gaps
+  while preserving biological integrity. We systematically evaluated this approach
+  using four large neuroimaging datasets () in a leave-one-site-out regression task.
+  Our results demonstrate that Inter-Site SMOTE significantly improves generalization
+  to unseen scanners compared to standard data pooling. Crucially, we show that standard
+  statistical harmonization (ComBat) fails to improve predictive performance in this
+  setting due to inference-time assumptions, whereas our data-centric approach enhances
+  robustness. Furthermore, we provide empirical evidence that the improvement is driven
+  by the specific geometry of cross-site interpolation, as intra-site augmentation
+  failed to yield comparable gains. This work presents a simple, effective solution
+  for multi-site harmonization that circumvents the limitations of statistical adjustment
+  methods, paving the way for more generalizable prediction models.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2731-6955
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s44248-026-00100-7
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/5b1db6d4-7c87-41de-9257-e94392307390
+schema_type: xyzri:XYZPublication
+title: Data harmonizing via interpolation applied to brain age prediction

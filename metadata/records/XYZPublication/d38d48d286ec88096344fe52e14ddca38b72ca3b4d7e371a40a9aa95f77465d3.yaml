@@ -1,0 +1,75 @@
+attributed_to:
+- object: xyzrins:persons/76d00263-6096-472f-8487-5d7b495d8cb5
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Alterations of neurofluid transport in patients with obstructive sleep apnea
+    and insomnia disorder
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Sleep appears to modulate brain-wide neurofluid transport, encompassing
+    the movement and exchange of cerebrospinal and interstitial fluids via perivascular
+    pathways. However, neurofluid transport in common sleep disorders, such as insomnia
+    disorder and obstructive sleep apnea, requires further assessment. In this study,
+    we recruited 159 participants: patients with moderate to severe obstructive sleep
+    apnea (n = 36) or chronic insomnia disorder (n = 62), and healthy controls (n
+    = 61). Participants underwent structural magnetic resonance imaging, polysomnography,
+    the Pittsburgh Sleep Quality Index, and the STOP-Bang questionnaires. Here, neurofluid
+    transport is indirectly assessed using two noninvasive MRI indices (i.e., the
+    perivascular space volume fraction and diffusion tensor imaging along perivascular
+    spaces). Patients with obstructive sleep apnea exhibited a significantly larger
+    perivascular space volume fraction compared with patients with insomnia disorder
+    (p = 0.042) and healthy controls (p = 0.032), whereas no group differences were
+    observed for the diffusion-based index. Partial correlation analyses, adjusted
+    for age, sex, and body mass index, revealed that in obstructive sleep apnea, a
+    larger perivascular space volume fraction was associated with less sleep disturbance
+    (r = −0.35, p = 0.04), and diffusion measures increased with snoring severity
+    (r = 0.38, p = 0.03). In insomnia disorder, a larger perivascular space volume
+    fraction was associated with a higher nocturnal wake index (r = 0.38, p = 0.006)
+    and an elevated risk of blood pressure (r = 0.50, p < 0.001), while inversely
+    relating to subjective sleep quality (r = −0.35, p = 0.01). Our results highlight
+    different patterns of neurofluid transport alterations across obstructive sleep
+    apnea and insomnia disorder.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Sleep appears to modulate brain-wide neurofluid transport, encompassing
+  the movement and exchange of cerebrospinal and interstitial fluids via perivascular
+  pathways. However, neurofluid transport in common sleep disorders, such as insomnia
+  disorder and obstructive sleep apnea, requires further assessment. In this study,
+  we recruited 159 participants: patients with moderate to severe obstructive sleep
+  apnea (n = 36) or chronic insomnia disorder (n = 62), and healthy controls (n =
+  61). Participants underwent structural magnetic resonance imaging, polysomnography,
+  the Pittsburgh Sleep Quality Index, and the STOP-Bang questionnaires. Here, neurofluid
+  transport is indirectly assessed using two noninvasive MRI indices (i.e., the perivascular
+  space volume fraction and diffusion tensor imaging along perivascular spaces). Patients
+  with obstructive sleep apnea exhibited a significantly larger perivascular space
+  volume fraction compared with patients with insomnia disorder (p = 0.042) and healthy
+  controls (p = 0.032), whereas no group differences were observed for the diffusion-based
+  index. Partial correlation analyses, adjusted for age, sex, and body mass index,
+  revealed that in obstructive sleep apnea, a larger perivascular space volume fraction
+  was associated with less sleep disturbance (r = −0.35, p = 0.04), and diffusion
+  measures increased with snoring severity (r = 0.38, p = 0.03). In insomnia disorder,
+  a larger perivascular space volume fraction was associated with a higher nocturnal
+  wake index (r = 0.38, p = 0.006) and an elevated risk of blood pressure (r = 0.50,
+  p < 0.001), while inversely relating to subjective sleep quality (r = −0.35, p =
+  0.01). Our results highlight different patterns of neurofluid transport alterations
+  across obstructive sleep apnea and insomnia disorder.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1389-9457
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.sleep.2025.108687
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/1cff3636-3d3d-4986-83d6-0940a2174242
+schema_type: xyzri:XYZPublication
+title: Alterations of neurofluid transport in patients with obstructive sleep apnea
+  and insomnia disorder

@@ -1,0 +1,79 @@
+attributed_to:
+- object: xyzrins:persons/39e91aa8-3e7e-4e72-9977-ae6941e9e142
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b1340c22-8c5d-4983-84ed-36d950c130cc
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/15a9b2f2-d2a0-47f1-aaa6-ca8d4ed541b0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/1f7470c6-4dd9-494b-94b9-e4f88e377185
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Exposome-wide patterns predict brain health in aging
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Promoting brain health is vital for well-being and reducing healthcare burdens.
+    Brain health as measured with the Brain Age Gap (BAG) - the difference between
+    chronological and predicted brain age- relates to many factors. However, a holistic
+    view, integrating the range of factors an individual brain is exposed to, is missing
+    for understanding how the exposome shapes brain health. After computing BAG as
+    an indicator of grey matter (GM) health, we predicted it using machine learning
+    based on 261 exposome variables (spanning biomedical, environmental, lifestyle,
+    socio-affective, and early life domains) in UK Biobank participants. Exposome
+    data can predict GM health with factors pertaining to cardiovascular and bone
+    health, along with alcohol and smoking, nutrition and diabetes showing greater
+    contribution to the prediction. In such domains, life period and duration of exposure
+    appeared crucial. These findings call for early prevention in cardiovascular and
+    metabolic health to promote life-long brain health. '
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Promoting brain health is vital for well-being and reducing healthcare
+  burdens. Brain health as measured with the Brain Age Gap (BAG) - the difference
+  between chronological and predicted brain age- relates to many factors. However,
+  a holistic view, integrating the range of factors an individual brain is exposed
+  to, is missing for understanding how the exposome shapes brain health. After computing
+  BAG as an indicator of grey matter (GM) health, we predicted it using machine learning
+  based on 261 exposome variables (spanning biomedical, environmental, lifestyle,
+  socio-affective, and early life domains) in UK Biobank participants. Exposome data
+  can predict GM health with factors pertaining to cardiovascular and bone health,
+  along with alcohol and smoking, nutrition and diabetes showing greater contribution
+  to the prediction. In such domains, life period and duration of exposure appeared
+  crucial. These findings call for early prevention in cardiovascular and metabolic
+  health to promote life-long brain health. '
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2041-1723
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41467-026-71271-9
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2028-12-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/sfb1451
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/75a83a16-b083-4337-82a8-5f70e4f610ca
+schema_type: xyzri:XYZPublication
+title: Exposome-wide patterns predict brain health in aging

@@ -1,0 +1,67 @@
+attributed_to:
+- object: xyzrins:persons/9fe30b8c-a331-4166-bd1c-f407b6e06ecc
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Cognitive Stress Regulation in Schizophrenia Patients and Healthy Individuals:
+    Brain and Behavior'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Stress is an important factor in the development, triggering, and maintenance
+    of psychotic symptoms. Still, little is known about the neural correlates of cognitively
+    regulating stressful events in schizophrenia. The current study aimed at investigating
+    the cognitive down-regulation of negative, stressful reactions during a neuroimaging
+    psychosocial stress paradigm (non-regulated stress versus cognitively regulated
+    stress). In a randomized, repeated-measures within-subject design, we assessed
+    subjective reactions and neural activation in schizophrenia patients (SZP) and
+    matched healthy controls in a neuroimaging psychosocial stress paradigm. In general,
+    SZP exhibited an increased anticipation of stress compared to controls (p = 0.020).
+    During non-regulated stress, SZP showed increased negative affect (p = 0.033)
+    and stronger activation of the left parietal operculum/posterior insula (p < 0.001)
+    and right inferior frontal gyrus/anterior insula (p = 0.005) than controls. Contrarily,
+    stress regulation compared to non-regulated stress led to increased subjective
+    reactions in controls (p = 0.003) but less deactivation in SZP in the ventral
+    anterior cingulate cortex (p = 0.027). Our data demonstrate stronger reactions
+    to and anticipation of stress in patients and difficulties with cognitive stress
+    regulation in both groups. Considering the strong association between mental health
+    and stress, the investigation of cognitive regulation in individuals vulnerable
+    to stress, including SZP, has crucial implications for improving stress intervention
+    trainings.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Stress is an important factor in the development, triggering, and maintenance
+  of psychotic symptoms. Still, little is known about the neural correlates of cognitively
+  regulating stressful events in schizophrenia. The current study aimed at investigating
+  the cognitive down-regulation of negative, stressful reactions during a neuroimaging
+  psychosocial stress paradigm (non-regulated stress versus cognitively regulated
+  stress). In a randomized, repeated-measures within-subject design, we assessed subjective
+  reactions and neural activation in schizophrenia patients (SZP) and matched healthy
+  controls in a neuroimaging psychosocial stress paradigm. In general, SZP exhibited
+  an increased anticipation of stress compared to controls (p = 0.020). During non-regulated
+  stress, SZP showed increased negative affect (p = 0.033) and stronger activation
+  of the left parietal operculum/posterior insula (p < 0.001) and right inferior frontal
+  gyrus/anterior insula (p = 0.005) than controls. Contrarily, stress regulation compared
+  to non-regulated stress led to increased subjective reactions in controls (p = 0.003)
+  but less deactivation in SZP in the ventral anterior cingulate cortex (p = 0.027).
+  Our data demonstrate stronger reactions to and anticipation of stress in patients
+  and difficulties with cognitive stress regulation in both groups. Considering the
+  strong association between mental health and stress, the investigation of cognitive
+  regulation in individuals vulnerable to stress, including SZP, has crucial implications
+  for improving stress intervention trainings.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2077-0383
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3390/jcm12072749
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8f2a0f59-0705-4375-a310-307a41c3967f
+schema_type: xyzri:XYZPublication
+title: 'Cognitive Stress Regulation in Schizophrenia Patients and Healthy Individuals:
+  Brain and Behavior'

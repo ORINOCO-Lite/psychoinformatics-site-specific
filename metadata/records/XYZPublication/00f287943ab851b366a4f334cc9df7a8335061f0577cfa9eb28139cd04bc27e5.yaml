@@ -1,0 +1,62 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Brain volume patterns in corticobasal syndrome versus idiopathic Parkinson's
+    disease
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'AbstractBackground and purpose: Patients with a corticobasal syndrome (CBS)
+    present a rare form of atypical parkinsonism characterized by asymmetric clinical
+    symptoms and progressive motor and nonmotor impairment, such as apraxia, alien
+    limb phenomenon, aphasia, myoclonus, dystonia, and cognitive impairment. At early
+    stages, clinical differentiation between CBS and idiopathic Parkinson''s disease
+    (IPD) can be challenging.Methods: Using high-resolution T1-weighted images and
+    voxel-based morphometry (VBM), we sought to identify disease-specific patterns
+    of brain atrophy in a small sample of CBS and IPD patients at early stages of
+    disease. We acquired MR images of 17 patients diagnosed with CBS and compared
+    them with MR images of 17 subjects affected by IPD. Images were preprocessed and
+    analyzed using VBM.Results: When compared to each other, the CBS and IPD patients
+    of our cohort showed differences in regional gray and white matter volume depending
+    on the diagnosis, specifically in the superior longitudinal fascicle.Conclusions:
+    In our small patients'' group, VBM was able to detect changes in regional gray
+    and white matter volume between patients affected by CBS and patients with IPD
+    as early as 1.5-2 years after the onset of the first motor symptoms.Keywords:
+    Corticobasal syndrome; brain atrophy; idiopathic Parkinson syndrome; voxel-based
+    morphometry.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'AbstractBackground and purpose: Patients with a corticobasal syndrome
+  (CBS) present a rare form of atypical parkinsonism characterized by asymmetric clinical
+  symptoms and progressive motor and nonmotor impairment, such as apraxia, alien limb
+  phenomenon, aphasia, myoclonus, dystonia, and cognitive impairment. At early stages,
+  clinical differentiation between CBS and idiopathic Parkinson''s disease (IPD) can
+  be challenging.Methods: Using high-resolution T1-weighted images and voxel-based
+  morphometry (VBM), we sought to identify disease-specific patterns of brain atrophy
+  in a small sample of CBS and IPD patients at early stages of disease. We acquired
+  MR images of 17 patients diagnosed with CBS and compared them with MR images of
+  17 subjects affected by IPD. Images were preprocessed and analyzed using VBM.Results:
+  When compared to each other, the CBS and IPD patients of our cohort showed differences
+  in regional gray and white matter volume depending on the diagnosis, specifically
+  in the superior longitudinal fascicle.Conclusions: In our small patients'' group,
+  VBM was able to detect changes in regional gray and white matter volume between
+  patients affected by CBS and patients with IPD as early as 1.5-2 years after the
+  onset of the first motor symptoms.Keywords: Corticobasal syndrome; brain atrophy;
+  idiopathic Parkinson syndrome; voxel-based morphometry.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1111/jon.12971
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/e37286ea-6815-481e-8fa3-ad354cb643de
+schema_type: xyzri:XYZPublication
+title: Brain volume patterns in corticobasal syndrome versus idiopathic Parkinson's
+  disease

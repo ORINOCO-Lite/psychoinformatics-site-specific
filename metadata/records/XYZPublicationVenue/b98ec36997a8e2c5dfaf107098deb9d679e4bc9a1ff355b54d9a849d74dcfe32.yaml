@@ -1,0 +1,9 @@
+display_note: ISSN:1432-0711
+identifiers:
+- creator: ror:026ytr635
+  notation: 1432-0711
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:1432-0711
+schema_type: xyzri:XYZPublicationVenue
+title: Archives Of Gynecology And Obstetrics

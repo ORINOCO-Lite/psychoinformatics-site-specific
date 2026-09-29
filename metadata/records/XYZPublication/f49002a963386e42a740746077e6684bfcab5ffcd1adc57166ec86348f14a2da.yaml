@@ -1,0 +1,93 @@
+attributed_to:
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Enhancing Cognitive Performance Prediction through White Matter Hyperintensity
+    Disconnectivity Assessment: A Multicenter Lesion Network Mapping Analysis of 3,485
+    Memory Clinic Patients'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Introduction: White matter hyperintensities of presumed vascular origin
+    (WMH) are associated with cognitive impairment and are a key imaging marker in
+    evaluating cognitive health. However, WMH volume alone does not fully account
+    for the extent of cognitive deficits and the mechanisms linking WMH to these deficits
+    remain unclear. We propose that lesion network mapping (LNM), enabling the inference
+    of brain networks disconnected by lesions, represents a promising technique for
+    enhancing our understanding of the role of WMH in cognitive disorders. Our study
+    employed this approach to test the following hypotheses: (1) LNM-informed markers
+    surpass WMH volumes in predicting cognitive performance, and (2) WMH contributing
+    to cognitive impairment map to specific brain networks.Methods & results: We analyzed
+    cross-sectional data of 3,485 patients from 10 memory clinic cohorts within the
+    Meta VCI Map Consortium, using harmonized test results in 4 cognitive domains
+    and WMH segmentations. WMH segmentations were registered to a standard space and
+    mapped onto existing normative structural and functional brain connectome data.
+    We employed LNM to quantify WMH connectivity across 480 atlas-based gray and white
+    matter regions of interest (ROI), resulting in ROI-level structural and functional
+    LNM scores. The capacity of total and regional WMH volumes and LNM scores in predicting
+    cognitive function was compared using ridge regression models in a nested cross-validation.
+    LNM scores predicted performance in three cognitive domains (attention and executive
+    function, information processing speed, and verbal memory) significantly better
+    than WMH volumes. LNM scores did not improve prediction for language functions.
+    ROI-level analysis revealed that higher LNM scores, representing greater disruptive
+    effects of WMH on regional connectivity, in gray and white matter regions of the
+    dorsal and ventral attention networks were associated with lower cognitive performance.Conclusion:
+    WMH-related brain network disconnectivity significantly improves the prediction
+    of current cognitive performance in memory clinic patients compared to WMH volume
+    as a traditional imaging marker of cerebrovascular disease. This highlights the
+    crucial role of network effects, particularly in attention-related brain regions,
+    improving our understanding of vascular contributions to cognitive impairment.
+    Moving forward, refining WMH information with connectivity data could contribute
+    to patient-tailored therapeutic interventions and facilitate the identification
+    of subgroups at risk of cognitive disorders.'
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: 'Introduction: White matter hyperintensities of presumed vascular origin
+  (WMH) are associated with cognitive impairment and are a key imaging marker in evaluating
+  cognitive health. However, WMH volume alone does not fully account for the extent
+  of cognitive deficits and the mechanisms linking WMH to these deficits remain unclear.
+  We propose that lesion network mapping (LNM), enabling the inference of brain networks
+  disconnected by lesions, represents a promising technique for enhancing our understanding
+  of the role of WMH in cognitive disorders. Our study employed this approach to test
+  the following hypotheses: (1) LNM-informed markers surpass WMH volumes in predicting
+  cognitive performance, and (2) WMH contributing to cognitive impairment map to specific
+  brain networks.Methods & results: We analyzed cross-sectional data of 3,485 patients
+  from 10 memory clinic cohorts within the Meta VCI Map Consortium, using harmonized
+  test results in 4 cognitive domains and WMH segmentations. WMH segmentations were
+  registered to a standard space and mapped onto existing normative structural and
+  functional brain connectome data. We employed LNM to quantify WMH connectivity across
+  480 atlas-based gray and white matter regions of interest (ROI), resulting in ROI-level
+  structural and functional LNM scores. The capacity of total and regional WMH volumes
+  and LNM scores in predicting cognitive function was compared using ridge regression
+  models in a nested cross-validation. LNM scores predicted performance in three cognitive
+  domains (attention and executive function, information processing speed, and verbal
+  memory) significantly better than WMH volumes. LNM scores did not improve prediction
+  for language functions. ROI-level analysis revealed that higher LNM scores, representing
+  greater disruptive effects of WMH on regional connectivity, in gray and white matter
+  regions of the dorsal and ventral attention networks were associated with lower
+  cognitive performance.Conclusion: WMH-related brain network disconnectivity significantly
+  improves the prediction of current cognitive performance in memory clinic patients
+  compared to WMH volume as a traditional imaging marker of cerebrovascular disease.
+  This highlights the crucial role of network effects, particularly in attention-related
+  brain regions, improving our understanding of vascular contributions to cognitive
+  impairment. Moving forward, refining WMH information with connectivity data could
+  contribute to patient-tailored therapeutic interventions and facilitate the identification
+  of subgroups at risk of cognitive disorders.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2024.03.28.24305007
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/6b25538d-d47b-4434-8ee1-863e059656dc
+schema_type: xyzri:XYZPublication
+title: 'Enhancing Cognitive Performance Prediction through White Matter Hyperintensity
+  Disconnectivity Assessment: A Multicenter Lesion Network Mapping Analysis of 3,485
+  Memory Clinic Patients'

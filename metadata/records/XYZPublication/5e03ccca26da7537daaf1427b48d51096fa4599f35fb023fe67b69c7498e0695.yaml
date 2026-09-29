@@ -1,0 +1,58 @@
+attributed_to:
+- object: xyzrins:persons/269a3b65-df26-4c0d-a6a9-2c4410750dc8
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Functional imaging studies of acute administration of classic psychedelics,
+    ketamine, and MDMA: Methodological limitations and convergent results'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Functional magnetic resonance imaging (fMRI) is increasingly used to non-invasively
+    study the acute impact of psychedelics on the human brain. While fMRI is a promising
+    tool for measuring brain function in response to psychedelics, it also has known
+    methodological challenges. We conducted a systematic review of fMRI studies examining
+    acute responses to experimentally administered psychedelics in order to identify
+    convergent findings and characterize heterogeneity in the literature. We reviewed
+    91 full-text papers; these studies were notable for substantial heterogeneity
+    in design, task, dosage, drug timing, and statistical approach. Data recycling
+    was common, with 51 unique samples across 91 studies. Fifty-seven studies (54%)
+    did not meet contemporary standards for Type I error correction or control of
+    motion artifact. Psilocybin and LSD were consistently reported to moderate the
+    connectivity architecture of the sensorimotor-association cortical axis. Studies
+    also consistently reported that ketamine administration increased activation in
+    the dorsomedial prefrontal cortex. Moving forward, use of best practices such
+    as pre-registration, standardized image processing and statistical testing, and
+    data sharing will be important in this rapidly developing field.
+description: Functional magnetic resonance imaging (fMRI) is increasingly used to
+  non-invasively study the acute impact of psychedelics on the human brain. While
+  fMRI is a promising tool for measuring brain function in response to psychedelics,
+  it also has known methodological challenges. We conducted a systematic review of
+  fMRI studies examining acute responses to experimentally administered psychedelics
+  in order to identify convergent findings and characterize heterogeneity in the literature.
+  We reviewed 91 full-text papers; these studies were notable for substantial heterogeneity
+  in design, task, dosage, drug timing, and statistical approach. Data recycling was
+  common, with 51 unique samples across 91 studies. Fifty-seven studies (54%) did
+  not meet contemporary standards for Type I error correction or control of motion
+  artifact. Psilocybin and LSD were consistently reported to moderate the connectivity
+  architecture of the sensorimotor-association cortical axis. Studies also consistently
+  reported that ketamine administration increased activation in the dorsomedial prefrontal
+  cortex. Moving forward, use of best practices such as pre-registration, standardized
+  image processing and statistical testing, and data sharing will be important in
+  this rapidly developing field.
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:0149-7634
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2023.105421
+  schema_type: dlthings:DOI
+pid: xyzrins:publications/7937d80a-7974-4f8d-adc1-298f20269d0d
+schema_type: xyzri:XYZPublication
+title: 'Functional imaging studies of acute administration of classic psychedelics,
+  ketamine, and MDMA: Methodological limitations and convergent results'

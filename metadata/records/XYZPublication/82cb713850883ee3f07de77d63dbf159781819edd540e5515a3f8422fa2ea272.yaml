@@ -1,0 +1,64 @@
+attributed_to:
+- object: xyzrins:persons/6d29fdfd-96c0-4c78-9c13-4dfa39cc1b17
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Large‐Area Synthesis of Ferromagnetic Fe 5− x GeTe 2 /Graphene van der Waals
+    Heterostructures with Curie Temperature above Room Temperature
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Van der Waals (vdW) heterostructures combining layered ferromagnets and other
+    2D crystals are promising building blocks for the realization of ultracompact
+    devices with integrated magnetic, electronic, and optical functionalities. Their
+    implementation in various technologies depends strongly on the development of
+    a bottom-up scalable synthesis approach allowing for realizing highly uniform
+    heterostructures with well-defined interfaces between different 2D-layered materials.
+    It is also required that each material component of the heterostructure remains
+    functional, which ideally includes ferromagnetic order above room temperature
+    for 2D ferromagnets. Here, it is demonstrated that the large-area growth of Fe5−xGeTe2/graphene
+    heterostructures is achieved by vdW epitaxy of Fe5−xGeTe2 on epitaxial graphene.
+    Structural characterization confirms the realization of a continuous vdW heterostructure
+    film with a sharp interface between Fe5−xGeTe2 and graphene. Magnetic and transport
+    studies reveal that the ferromagnetic order persists well above 300 K with a perpendicular
+    magnetic anisotropy. In addition, epitaxial graphene on SiC(0001) continues to
+    exhibit a high electronic quality. These results represent an important advance
+    beyond nonscalable flake exfoliation and stacking methods, thus marking a crucial
+    step toward the implementation of ferromagnetic 2D materials in practical applications.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Van der Waals (vdW) heterostructures combining layered ferromagnets and
+  other 2D crystals are promising building blocks for the realization of ultracompact
+  devices with integrated magnetic, electronic, and optical functionalities. Their
+  implementation in various technologies depends strongly on the development of a
+  bottom-up scalable synthesis approach allowing for realizing highly uniform heterostructures
+  with well-defined interfaces between different 2D-layered materials. It is also
+  required that each material component of the heterostructure remains functional,
+  which ideally includes ferromagnetic order above room temperature for 2D ferromagnets.
+  Here, it is demonstrated that the large-area growth of Fe5−xGeTe2/graphene heterostructures
+  is achieved by vdW epitaxy of Fe5−xGeTe2 on epitaxial graphene. Structural characterization
+  confirms the realization of a continuous vdW heterostructure film with a sharp interface
+  between Fe5−xGeTe2 and graphene. Magnetic and transport studies reveal that the
+  ferromagnetic order persists well above 300 K with a perpendicular magnetic anisotropy.
+  In addition, epitaxial graphene on SiC(0001) continues to exhibit a high electronic
+  quality. These results represent an important advance beyond nonscalable flake exfoliation
+  and stacking methods, thus marking a crucial step toward the implementation of ferromagnetic
+  2D materials in practical applications.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:1613-6810
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/smll.202302387
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/08d657fd-db01-4862-9393-ba7d8c5fb486
+schema_type: xyzri:XYZPublication
+title: Large‐Area Synthesis of Ferromagnetic Fe 5− x GeTe 2 /Graphene van der Waals
+  Heterostructures with Curie Temperature above Room Temperature

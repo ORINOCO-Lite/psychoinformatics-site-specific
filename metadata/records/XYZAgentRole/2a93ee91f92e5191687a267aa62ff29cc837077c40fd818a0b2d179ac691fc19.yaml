@@ -1,0 +1,6 @@
+description: A person, family or organization responsible for creating or contributing
+  to a resource by responding to an interviewer, usually a reporter, pollster, or
+  some other information gathering agent
+display_label: Interviewee
+pid: marcrel:ive
+schema_type: xyzri:XYZAgentRole

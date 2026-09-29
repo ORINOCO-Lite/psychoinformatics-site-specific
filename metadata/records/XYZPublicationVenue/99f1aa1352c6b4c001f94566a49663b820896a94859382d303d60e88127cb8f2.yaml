@@ -1,0 +1,9 @@
+display_note: ISSN:1477-7525
+identifiers:
+- creator: ror:026ytr635
+  notation: 1477-7525
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:1477-7525
+schema_type: xyzri:XYZPublicationVenue
+title: Health And Quality Of Life Outcomes

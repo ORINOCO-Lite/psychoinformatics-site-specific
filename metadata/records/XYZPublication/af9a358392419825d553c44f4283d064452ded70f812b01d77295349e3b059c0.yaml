@@ -1,0 +1,79 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'From correlational approaches to meta-analytical symptom reading in individual
+    patients: Bilateral lesions in the inferior frontal junction specifically cause
+    dysexecutive syndrome'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: BACKGROUND:Executive functions describe a wide variety of higher order cognitive
+    processes allowing the modification of thought and behavior in response to changing
+    contexts. Recent comprehensive quantitative and systematic meta-analyses on functional
+    imaging studies in healthy subjects identified the inferior frontal junction (IFJ),
+    located at the junction of the inferior frontal sulcus and the inferior precentral
+    sulcus, as essential for executive functions. Lesion studies in patients are necessary
+    for confirmation of this finding.CASE PRESENTATION:We present, as a proof of concept,
+    a 56 year old woman with bilateral ischemic lesions in the IFJ caused by multiple
+    stroke-related brain infarcts in the bilateral territory of the middle cerebral
+    artery. Comprehensive neuropsychological testing revealed specific deficits in
+    executive functions, namely working memory, task switching, inhibitory control,
+    interference resolution, fluency, and complex executive function tests focusing
+    on action planning and problem solving abilities. Memory functions were within
+    the normal range. Furthermore, we applied comprehensive meta-analyses to validate
+    the importance of the IFJ for executive functions. (i) Lesions in the patient's
+    brain in the IFJ coincide with regional activation in functional imaging studies
+    for working memory, task switching, and the Stroop task. (ii) Lesions in the patient's
+    IFJ should affect a frontoparietal network as shown with connectivity analyses.
+    (iii) We introduce a new analysis tool - Meta-Analytical Reading of Symptoms (MARS)
+    - that enables prediction of clinical symptoms from imaging data in individual
+    patients.CONCLUSIONS:Our study confirms the importance of the IFJ as the causal
+    agent, in a frontoparietal network, for dysexecutive syndrome. As a lesion study,
+    it goes beyond correlational imaging approaches. The new meta-analytical symptom
+    reading approach can be applied in other patients and diseases. It has a high
+    potential to foster individualized diagnosis and therapy in clinical settings
+    in the framework of personalized medicine.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: BACKGROUND:Executive functions describe a wide variety of higher order
+  cognitive processes allowing the modification of thought and behavior in response
+  to changing contexts. Recent comprehensive quantitative and systematic meta-analyses
+  on functional imaging studies in healthy subjects identified the inferior frontal
+  junction (IFJ), located at the junction of the inferior frontal sulcus and the inferior
+  precentral sulcus, as essential for executive functions. Lesion studies in patients
+  are necessary for confirmation of this finding.CASE PRESENTATION:We present, as
+  a proof of concept, a 56 year old woman with bilateral ischemic lesions in the IFJ
+  caused by multiple stroke-related brain infarcts in the bilateral territory of the
+  middle cerebral artery. Comprehensive neuropsychological testing revealed specific
+  deficits in executive functions, namely working memory, task switching, inhibitory
+  control, interference resolution, fluency, and complex executive function tests
+  focusing on action planning and problem solving abilities. Memory functions were
+  within the normal range. Furthermore, we applied comprehensive meta-analyses to
+  validate the importance of the IFJ for executive functions. (i) Lesions in the patient's
+  brain in the IFJ coincide with regional activation in functional imaging studies
+  for working memory, task switching, and the Stroop task. (ii) Lesions in the patient's
+  IFJ should affect a frontoparietal network as shown with connectivity analyses.
+  (iii) We introduce a new analysis tool - Meta-Analytical Reading of Symptoms (MARS)
+  - that enables prediction of clinical symptoms from imaging data in individual patients.CONCLUSIONS:Our
+  study confirms the importance of the IFJ as the causal agent, in a frontoparietal
+  network, for dysexecutive syndrome. As a lesion study, it goes beyond correlational
+  imaging approaches. The new meta-analytical symptom reading approach can be applied
+  in other patients and diseases. It has a high potential to foster individualized
+  diagnosis and therapy in clinical settings in the framework of personalized medicine.
+generated_by:
+- at_location: ISSN:0010-9452
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.cortex.2020.03.010
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/7a107672-9a31-46d0-b578-94a34b306a94
+schema_type: xyzri:XYZPublication
+title: 'From correlational approaches to meta-analytical symptom reading in individual
+  patients: Bilateral lesions in the inferior frontal junction specifically cause
+  dysexecutive syndrome'

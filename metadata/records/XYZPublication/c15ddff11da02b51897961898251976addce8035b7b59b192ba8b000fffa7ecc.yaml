@@ -1,0 +1,32 @@
+about:
+- xyzrins:topics/neuroimaging
+- xyzrins:topics/predictive-data-analysis
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-04-01T13:37:27.540169'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002035
+  schema_type: dlthings:Attribution
+- object: orcid:0000-0001-5840-5658
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ayan-sengupta
+  roles:
+  - obo:MS_1002034
+  schema_type: dlthings:Attribution
+generated_by:
+- at_location: ISSN:2352-3409
+  at_time: 2017-08
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.dib.2017.05.014
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/046a581f-9715-4b00-880a-5027b37f0f6b
+schema_type: xyzri:XYZPublication
+title: Ultra high-field multi-resolution fMRI data for orientation decoding in visual
+  cortex

@@ -1,0 +1,9 @@
+display_note: ISSN:0947-0875
+identifiers:
+- creator: ror:026ytr635
+  notation: 0947-0875
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:0947-0875
+schema_type: xyzri:XYZPublicationVenue
+title: Neuroforum

@@ -1,0 +1,63 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Cooperating yet distinct brain networks engaged during naturalistic paradigms:
+    A meta-analysis of functional MRI results'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Cognitive processes do not occur by pure insertion and instead depend on
+    the full complement of co-occurring mental processes, including perceptual and
+    motor functions. As such, there is limited ecological validity to human neuroimaging
+    experiments that use highly controlled tasks to isolate mental processes of interest.
+    However, a growing literature shows how dynamic, interactive tasks have allowed
+    researchers to study cognition as it more naturally occurs. Collective analysis
+    across such neuroimaging experiments may answer broader questions regarding how
+    naturalistic cognition is biologically distributed throughout the brain. We applied
+    an unbiased, data-driven, meta-analytic approach that uses k-means clustering
+    to identify core brain networks engaged across the naturalistic functional neuroimaging
+    literature. Functional decoding allowed us to, then, delineate how information
+    is distributed between these networks throughout the execution of dynamical cognition
+    in realistic settings. This analysis revealed six recurrent patterns of brain
+    activation, representing sensory, domain-specific, and attentional neural networks
+    that support the cognitive demands of naturalistic paradigms. Though gaps in the
+    literature remain, these results suggest that naturalistic fMRI paradigms recruit
+    a common set of networks that that allow both separate processing of different
+    streams of information and integration of relevant information to enable flexible
+    cognition and complex behavior.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Cognitive processes do not occur by pure insertion and instead depend
+  on the full complement of co-occurring mental processes, including perceptual and
+  motor functions. As such, there is limited ecological validity to human neuroimaging
+  experiments that use highly controlled tasks to isolate mental processes of interest.
+  However, a growing literature shows how dynamic, interactive tasks have allowed
+  researchers to study cognition as it more naturally occurs. Collective analysis
+  across such neuroimaging experiments may answer broader questions regarding how
+  naturalistic cognition is biologically distributed throughout the brain. We applied
+  an unbiased, data-driven, meta-analytic approach that uses k-means clustering to
+  identify core brain networks engaged across the naturalistic functional neuroimaging
+  literature. Functional decoding allowed us to, then, delineate how information is
+  distributed between these networks throughout the execution of dynamical cognition
+  in realistic settings. This analysis revealed six recurrent patterns of brain activation,
+  representing sensory, domain-specific, and attentional neural networks that support
+  the cognitive demands of naturalistic paradigms. Though gaps in the literature remain,
+  these results suggest that naturalistic fMRI paradigms recruit a common set of networks
+  that that allow both separate processing of different streams of information and
+  integration of relevant information to enable flexible cognition and complex behavior.
+generated_by:
+- at_location: ISSN:2472-1751
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/165951
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/32f4a4c9-dbf7-4efe-bc94-fac32cb70de6
+schema_type: xyzri:XYZPublication
+title: 'Cooperating yet distinct brain networks engaged during naturalistic paradigms:
+  A meta-analysis of functional MRI results'

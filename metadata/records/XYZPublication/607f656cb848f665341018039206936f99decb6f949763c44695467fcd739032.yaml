@@ -1,0 +1,31 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Culpability, Control, and Brain-Computer Interfaces
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: When actions are mediated by means of a brain-computer interface, it seems
+    that we cannot assess whether the user is culpable for the action without determining
+    whether the brain-computer interface correctly decoded the intentions of the user.
+    Here I argue that this requirement is confused. I also argue that, at least for
+    the purposes of assessing moral culpability, BCI-mediated action should be viewed
+    on the model of action mediated by ordinary (albeit complex) tools.
+characterized_by:
+- object: bibo:Chapter
+  predicate: dcterms:type
+description: When actions are mediated by means of a brain-computer interface, it
+  seems that we cannot assess whether the user is culpable for the action without
+  determining whether the brain-computer interface correctly decoded the intentions
+  of the user. Here I argue that this requirement is confused. I also argue that,
+  at least for the purposes of assessing moral culpability, BCI-mediated action should
+  be viewed on the model of action mediated by ordinary (albeit complex) tools.
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/978-3-662-68362-0_6
+  schema_type: dlthings:DOI
+kind: bibo:Chapter
+pid: xyzrins:publications/bc4d9f61-3ae2-4498-9117-122c37a0890f
+schema_type: xyzri:XYZPublication
+title: Culpability, Control, and Brain-Computer Interfaces

@@ -1,0 +1,18 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-06-29T14:47:30.194798'
+delegated_by:
+- object: ror:006k2kk72
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+description: Chief Physician of the Department of General Psychiatry II and Deputy
+  Medical Director.
+family_name: Schilbach
+given_name: Leonhard
+honorific_name_prefix: Prof. Dr.
+identifiers:
+- notation: 0000-0001-5547-8309
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/fe4c3a56-8607-4806-abfe-18312f3ebde7
+schema_type: xyzri:XYZPerson

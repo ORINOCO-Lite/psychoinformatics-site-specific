@@ -1,0 +1,21 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2025-12-11T21:49:50.214175'
+description: 'Dieses Projekt untersucht die Wahrnehmung und neuronale Repräsentation
+  von Primärverstärkern (Geschmack), deren visuelle Pendants (Sekundärverstärker)
+  und deren (in)kongruente Kombination im menschlichen Gehirn. Ziele sind: (1) Identifikation
+  der motivationalen, hedonischen und katego-riespezifischen (süß, sauer etc.) Repräsentationen
+  von Primärverstärkern, (2) Identifikation des Einflusses von Sekundärverstärken
+  auf diese Repräsentationen und (3) Identifikation der Effekte von neuen und überlernten
+  visuogustatorischen Kombinationen und deren funktionales Zusammenspiel mit univariaten
+  fMRT-Analysen, Konnektivatitäts-, Klassifikationsanalysen und Hyperalignment.'
+part_of:
+- xyzrins:grants/sfb779
+pid: xyzrins:grants/sfb779-a15n
+schema_type: xyzri:XYZGrant
+short_name: A15N
+title: Anticipation, Processing and Control of primary rewards

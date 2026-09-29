@@ -1,0 +1,12 @@
+additional_names:
+- R.
+display_label: Patil, Kaustubh R.
+family_name: Patil
+given_name: Kaustubh
+honorific_name_prefix: Dr.
+identifiers:
+- creator: ror:04fa4r544
+  notation: 0000-0002-0289-5480
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+schema_type: xyzri:XYZPerson

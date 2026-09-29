@@ -1,0 +1,36 @@
+attributed_to:
+- object: xyzrins:persons/ff23ec7a-70b5-4e55-a552-9437e362add2
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b2492a83-9b60-431a-99d1-d8274d43999a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/8f836375-520c-43d7-afb6-29abea72c0ab
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/09d6f7b4-83ac-48bd-a783-cb6187cf47be
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: System Comparison for Gait and Balance Monitoring Used for the Evaluation
+    of a Home-Based Training
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1424-8220
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3390/s22134975
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/ecfce9e7-26ea-4d0e-8c08-8c2c9ba64bb5
+schema_type: xyzri:XYZPublication
+title: System Comparison for Gait and Balance Monitoring Used for the Evaluation of
+  a Home-Based Training

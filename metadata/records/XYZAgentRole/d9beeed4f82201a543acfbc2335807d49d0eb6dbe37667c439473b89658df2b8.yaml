@@ -1,0 +1,8 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-08T20:39:04.802357'
+description: A person that is enrolled or attends classes at a school, college, or
+  university.
+name: Student
+pid: obo:AGRO_00000374
+schema_type: xyzri:XYZAgentRole

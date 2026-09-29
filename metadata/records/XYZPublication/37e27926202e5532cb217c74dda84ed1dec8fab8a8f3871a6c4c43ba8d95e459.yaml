@@ -1,0 +1,66 @@
+attributed_to:
+- object: xyzrins:persons/69ecde4d-415d-4c33-8225-8f761863ebe6
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Local activity alterations in individuals with autism correlate with neurotransmitter
+    properties and ketamine-induced brain changes
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Autism is a neurodevelopmental condition associated with altered resting-state
+    brain function. An increased excitation-inhibition ratio is discussed as a pathomechanism
+    but in-vivo evidence of disturbed neurotransmission underlying functional alterations
+    remains scarce. We compare local resting-state brain activity and neurotransmitter
+    co-localizations between autism (N = 405, N = 395) and neurotypical controls (N
+    = 473, N = 474) in two independent cohorts and correlate them with excitation-inhibition
+    changes induced by glutamatergic (ketamine) and GABAergic (midazolam) medication.
+    Autistic individuals exhibit consistent reductions in local activity, particularly
+    in default mode network regions. The whole-brain differences spatially overlap
+    with glutamatergic and GABAergic, as well as dopaminergic and cholinergic neurotransmission.
+    Functional changes induced by NMDA-antagonist ketamine resemble the spatial pattern
+    observed in autism. Our findings suggest that consistent local activity alterations
+    in autism reflect widespread disruptions in neurotransmission and may be resembled
+    by pharmacological modulation of the excitation-inhibition balance. These findings
+    advance understanding of the neurophysiological basis of autism. Trial registration
+    number: ACTRN12616000281493.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Autism is a neurodevelopmental condition associated with altered resting-state
+  brain function. An increased excitation-inhibition ratio is discussed as a pathomechanism
+  but in-vivo evidence of disturbed neurotransmission underlying functional alterations
+  remains scarce. We compare local resting-state brain activity and neurotransmitter
+  co-localizations between autism (N = 405, N = 395) and neurotypical controls (N
+  = 473, N = 474) in two independent cohorts and correlate them with excitation-inhibition
+  changes induced by glutamatergic (ketamine) and GABAergic (midazolam) medication.
+  Autistic individuals exhibit consistent reductions in local activity, particularly
+  in default mode network regions. The whole-brain differences spatially overlap with
+  glutamatergic and GABAergic, as well as dopaminergic and cholinergic neurotransmission.
+  Functional changes induced by NMDA-antagonist ketamine resemble the spatial pattern
+  observed in autism. Our findings suggest that consistent local activity alterations
+  in autism reflect widespread disruptions in neurotransmission and may be resembled
+  by pharmacological modulation of the excitation-inhibition balance. These findings
+  advance understanding of the neurophysiological basis of autism. Trial registration
+  number: ACTRN12616000281493.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2041-1723
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41467-025-63857-6
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/dffae6a3-c438-4b77-a839-42c9595b9735
+schema_type: xyzri:XYZPublication
+title: Local activity alterations in individuals with autism correlate with neurotransmitter
+  properties and ketamine-induced brain changes

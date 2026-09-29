@@ -1,0 +1,53 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Normativity and AI moral agency
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'The meanings of the concepts of moral agency in application to AI technologies
+    differ vastly from the ones we use for humanagents. Minimal definitions of AI
+    moral agency are often connected with other normative agency-related concepts,
+    such asrationality or intelligence, autonomy, or responsibility. This paper discusses
+    the problematic application of minimal conceptsof moral agency to AI. I explore
+    why any comprehensive account of AI moral agency has to consider the interconnections
+    toother normative agency-related concepts and beware of four basic detrimental
+    mistakes in the current debate. The results ofthe analysis are: (1) speaking about
+    AI agency may lead to serious demarcation problems and confusing assumptions aboutthe
+    abilities and prospects of AI technologies; (2) the talk of AI moral agency is
+    based on confusing assumptions and turnsout to be senseless in the current prevalent
+    versions. As one possible solution, I propose to replace the concept of AI agencywith
+    the concept of AI automated performance (AIAP).Keywords AI agency · AI moral agency
+    · Artificial moral agents · Philosophy of artificial intelligence'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'The meanings of the concepts of moral agency in application to AI technologies
+  differ vastly from the ones we use for humanagents. Minimal definitions of AI moral
+  agency are often connected with other normative agency-related concepts, such asrationality
+  or intelligence, autonomy, or responsibility. This paper discusses the problematic
+  application of minimal conceptsof moral agency to AI. I explore why any comprehensive
+  account of AI moral agency has to consider the interconnections toother normative
+  agency-related concepts and beware of four basic detrimental mistakes in the current
+  debate. The results ofthe analysis are: (1) speaking about AI agency may lead to
+  serious demarcation problems and confusing assumptions aboutthe abilities and prospects
+  of AI technologies; (2) the talk of AI moral agency is based on confusing assumptions
+  and turnsout to be senseless in the current prevalent versions. As one possible
+  solution, I propose to replace the concept of AI agencywith the concept of AI automated
+  performance (AIAP).Keywords AI agency · AI moral agency · Artificial moral agents
+  · Philosophy of artificial intelligence'
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:2730-5953
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s43681-024-00566-8
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/3a66e4b1-f529-42b0-afd9-24be6bcc8a4b
+schema_type: xyzri:XYZPublication
+title: Normativity and AI moral agency

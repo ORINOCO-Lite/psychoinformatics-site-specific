@@ -1,0 +1,71 @@
+attributed_to:
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/8f836375-520c-43d7-afb6-29abea72c0ab
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b86edddd-1b83-43dd-b863-e724cebfef1d
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/969235eb-06f6-4eb4-857c-1681a660220a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/f7b317bf-6e66-45c2-a6d6-1cb71078bc98
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Linking brain structure and genetic risk in large-scale data: A comparison
+    of shared versus predominantly disorder-specific genetic risk for neuropsychiatric
+    disorders'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Shared and predominantly disorder-specific common genetic risk variants for
+    neuropsychiatric disorders have been identified in previous studies. In particular,
+    a large-scale genome-wide association study meta-analysis across eight neuropsychiatric
+    disorders reported 23 highly pleiotropic single-nucleotide polymorphisms (SNPs)
+    that are associated with at least four disorders as well as 22 SNPs that were
+    predominantly associated with schizophrenia (SCZ) risk. Yet, their influences
+    on brain structure which might be relevant for the increased vulnerability to
+    multiple or specific neuropsychiatric disorders is not fully understood. In this
+    study, we investigated and compared the cumulative influences of highly pleiotropic
+    and predominantly SCZ-specific SNPs at the level of brain structure in the general
+    population. Comparing their brain structural associations might point to brain
+    regions of high transdiagnostic value as well as brain regions relevant to SCZ-specific
+    risk pathways.
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+description: Shared and predominantly disorder-specific common genetic risk variants
+  for neuropsychiatric disorders have been identified in previous studies. In particular,
+  a large-scale genome-wide association study meta-analysis across eight neuropsychiatric
+  disorders reported 23 highly pleiotropic single-nucleotide polymorphisms (SNPs)
+  that are associated with at least four disorders as well as 22 SNPs that were predominantly
+  associated with schizophrenia (SCZ) risk. Yet, their influences on brain structure
+  which might be relevant for the increased vulnerability to multiple or specific
+  neuropsychiatric disorders is not fully understood. In this study, we investigated
+  and compared the cumulative influences of highly pleiotropic and predominantly SCZ-specific
+  SNPs at the level of brain structure in the general population. Comparing their
+  brain structural associations might point to brain regions of high transdiagnostic
+  value as well as brain regions relevant to SCZ-specific risk pathways.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1388-2457
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.clinph.2023.12.074
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/57a08de0-c504-4d3e-87c9-268fa953520a
+schema_type: xyzri:XYZPublication
+title: 'Linking brain structure and genetic risk in large-scale data: A comparison
+  of shared versus predominantly disorder-specific genetic risk for neuropsychiatric
+  disorders'

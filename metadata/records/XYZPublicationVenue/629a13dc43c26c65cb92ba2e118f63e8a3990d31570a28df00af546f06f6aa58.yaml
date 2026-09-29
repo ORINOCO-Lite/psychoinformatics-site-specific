@@ -1,0 +1,9 @@
+display_note: ISSN:1863-2661
+identifiers:
+- creator: ror:026ytr635
+  notation: 1863-2661
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:1863-2661
+schema_type: xyzri:XYZPublicationVenue
+title: Brain Structure & Function

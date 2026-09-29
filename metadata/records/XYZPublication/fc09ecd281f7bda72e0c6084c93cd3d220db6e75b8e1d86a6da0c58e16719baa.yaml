@@ -1,0 +1,66 @@
+attributed_to:
+- object: xyzrins:persons/60189876-7d04-48db-9586-9171fae8ee2b
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/fe50911d-edc5-4a36-8ba3-54e986170003
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/laura-waite
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Test–retest reliability of meta analytic networks during naturalistic viewing
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Functional connectivity analyses have given considerable insights into human
+    brain function and organization. As research moves towards clinical application,
+    test-retest reliability has become a main focus of the field. So far, the majority
+    of studies have relied on resting-state paradigms to examine brain connectivity,
+    based on its low demand and ease of implementation. However, the reliability of
+    resting-state measures is mostly poor to fair, potentially due to its unconstrained
+    nature. Recently, naturalistic viewing paradigms have gained popularity because
+    they probe the human brain under more ecologically valid conditions, possibly
+    increasing reliability. We here compared the reliability of graph metrics extracted
+    from resting-state and naturalistic viewing in functional networks, across two
+    sessions. We show that naturalistic viewing can increase reliability over resting-state,
+    but that its effect varies between stimuli and networks. Furthermore, we demonstrate
+    that the effect of naturalistic viewing differs between two cohorts with Asian
+    and European cultural backgrounds. Taken together, our study encourages the use
+    of naturalistic viewing to increase reliability, but emphasizes the need to carefully
+    select the appropriate stimulus for the network at hand.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Functional connectivity analyses have given considerable insights into
+  human brain function and organization. As research moves towards clinical application,
+  test-retest reliability has become a main focus of the field. So far, the majority
+  of studies have relied on resting-state paradigms to examine brain connectivity,
+  based on its low demand and ease of implementation. However, the reliability of
+  resting-state measures is mostly poor to fair, potentially due to its unconstrained
+  nature. Recently, naturalistic viewing paradigms have gained popularity because
+  they probe the human brain under more ecologically valid conditions, possibly increasing
+  reliability. We here compared the reliability of graph metrics extracted from resting-state
+  and naturalistic viewing in functional networks, across two sessions. We show that
+  naturalistic viewing can increase reliability over resting-state, but that its effect
+  varies between stimuli and networks. Furthermore, we demonstrate that the effect
+  of naturalistic viewing differs between two cohorts with Asian and European cultural
+  backgrounds. Taken together, our study encourages the use of naturalistic viewing
+  to increase reliability, but emphasizes the need to carefully select the appropriate
+  stimulus for the network at hand.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1932-6203
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1371/journal.pone.0346967
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/6f0a3cec-3e46-4edc-9ab5-bea75c29e368
+schema_type: xyzri:XYZPublication
+title: Test–retest reliability of meta analytic networks during naturalistic viewing

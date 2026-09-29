@@ -1,0 +1,54 @@
+attributed_to:
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: '10Kin1day: A Bottom-Up Neuroimaging Initiative'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: We organized 10Kin1day, a pop-up scientific event with the goal to bring
+    together neuroimaging groups from around the world to jointly analyze 10,000+
+    existing MRI connectivity datasets during a 3-day workshop. In this report, we
+    describe the motivation and principles of 10Kin1day, together with a public release
+    of 8,000+ MRI connectome maps of the human brain.Ongoing grand-scale projects
+    like the European Human Brain Project (1), the US Brain Initiative (2), the Human
+    Connectome Project (3), the Chinese Brainnetome (4) and exciting world-wide neuroimaging
+    collaborations such as ENIGMA (5) herald the new era of big neuroscience. In conjunction
+    with these major undertakings, there is an emerging trend for bottom-up initiatives,
+    starting with small-scale projects built upon existing collaborations and infrastructures.
+    As described by Mainen et al. (6), these initiatives are centralized around self-organized
+    groups of researchers working on the same challenges and sharing interests and
+    specialized expertise. These projects could scale and open up to a larger audience
+    and other disciplines over time, eventually lining up and merging their findings
+    with other programs to make the bigger picture.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: We organized 10Kin1day, a pop-up scientific event with the goal to bring
+  together neuroimaging groups from around the world to jointly analyze 10,000+ existing
+  MRI connectivity datasets during a 3-day workshop. In this report, we describe the
+  motivation and principles of 10Kin1day, together with a public release of 8,000+
+  MRI connectome maps of the human brain.Ongoing grand-scale projects like the European
+  Human Brain Project (1), the US Brain Initiative (2), the Human Connectome Project
+  (3), the Chinese Brainnetome (4) and exciting world-wide neuroimaging collaborations
+  such as ENIGMA (5) herald the new era of big neuroscience. In conjunction with these
+  major undertakings, there is an emerging trend for bottom-up initiatives, starting
+  with small-scale projects built upon existing collaborations and infrastructures.
+  As described by Mainen et al. (6), these initiatives are centralized around self-organized
+  groups of researchers working on the same challenges and sharing interests and specialized
+  expertise. These projects could scale and open up to a larger audience and other
+  disciplines over time, eventually lining up and merging their findings with other
+  programs to make the bigger picture.
+generated_by:
+- at_location: ISSN:1664-2295
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3389/fneur.2019.00425
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/9d4791e1-cf98-4806-9be6-597973389a98
+schema_type: xyzri:XYZPublication
+title: '10Kin1day: A Bottom-Up Neuroimaging Initiative'

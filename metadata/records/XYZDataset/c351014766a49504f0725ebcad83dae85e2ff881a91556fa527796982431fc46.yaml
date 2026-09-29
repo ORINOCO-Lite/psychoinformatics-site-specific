@@ -1,0 +1,37 @@
+about:
+- xyzrins:topics/naturalistic-stimulation
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-05-26T10:38:21.016101'
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/10847cce-cba3-415e-aa84-e681e9727697
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: obo:APOLLO_SV_00000488
+  schema_type: dlthings:AttributeSpecification
+  value: https://hub.psychoinformatics.de/studyforrest/data-eyemovementlabels
+derived_from:
+- generated_by:
+    object: xyzrins:activities/ea7c69e4-7871-4438-859a-060a8f678ed8
+    schema_type: dlthings:Generation
+  object: xyzrins:datasets/e511f0bb-9baf-4c29-88e0-079836868273
+  schema_type: dlthings:Derivation
+display_label: 'Studyforrest: Eye movement events '
+generated_by:
+- object: xyzrins:projects/studyforrest
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/14419ccc-b340-45ea-b0f4-bccc25c9e34d
+  schema_type: dlthings:Generation
+part_of:
+- xyzrins:datasets/studyforrest
+pid: xyzrins:datasets/1646e2e6-0d08-49ee-a1d3-4ebc342c73f6
+schema_type: xyzri:XYZDataset
+title: studyforrest-data-eyemovementlabels

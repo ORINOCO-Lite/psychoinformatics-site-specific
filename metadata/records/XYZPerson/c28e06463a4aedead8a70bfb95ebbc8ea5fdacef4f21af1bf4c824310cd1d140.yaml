@@ -1,0 +1,16 @@
+delegated_by:
+- object: xyzrins:organizations/fzj
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+description: Team leader at the Institute of Neuroscience and Medicine (INM-7) and
+  research software engineer for various software projects, among them julearn.
+family_name: Raimondo
+given_name: Fede
+honorific_name_prefix: Dr.
+identifiers:
+- creator: ror:04fa4r544
+  notation: 0000-0003-4087-8259
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+schema_type: xyzri:XYZPerson

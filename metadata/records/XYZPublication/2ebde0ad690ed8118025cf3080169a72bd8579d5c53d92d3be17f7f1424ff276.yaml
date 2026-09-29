@@ -1,0 +1,78 @@
+attributed_to:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Temporal dynamics of the pharmacological MRI response to subanaesthetic
+    ketamine in healthy volunteers: A simultaneous EEG/fMRI study'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Background:Pharmacological magnetic resonance imaging has been used to investigate
+    the neural effects of subanaesthetic ketamine in healthy volunteers. However,
+    the effect of ketamine has been modelled with a single time course and without
+    consideration of physiological noise.Aims:This study aimed to investigate ketamine-induced
+    alterations in resting neural activity using conventional pharmacological magnetic
+    resonance imaging analysis techniques with physiological noise correction, and
+    a novel analysis utilising simultaneously recorded electroencephalography data.Methods:Simultaneous
+    electroencephalography/functional magnetic resonance imaging and physiological
+    data were collected from 30 healthy male participants before and during a subanaesthetic
+    intravenous ketamine infusion.Results:Consistent with previous literature, we
+    show widespread cortical blood-oxygen-level dependent signal increases and decreased
+    blood-oxygen-level dependent signals in the subgenual anterior cingulate cortex
+    following ketamine. However, the latter effect was attenuated by the inclusion
+    of motion regressors and physiological correction in the model. In a novel analysis,
+    we modelled the pharmacological magnetic resonance imaging response with the power
+    time series of seven electroencephalography frequency bands. This showed evidence
+    for distinct temporal time courses of neural responses to ketamine. No electroencephalography
+    power time series correlated with decreased blood-oxygen-level dependent signal
+    in the subgenual anterior cingulate cortex.Conclusions:We suggest the decrease
+    in blood-oxygen-level dependent signals in the subgenual anterior cingulate cortex
+    typically seen in the literature is the result of physiological noise, in particular
+    cardiac pulsatility. Furthermore, modelling the pharmacological magnetic resonance
+    imaging response with a single temporal model does not completely capture the
+    full spectrum of neuronal dynamics. The use of electroencephalography regressors
+    to model the response can increase confidence that the pharmacological magnetic
+    resonance imaging is directly related to underlying neural activity.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Background:Pharmacological magnetic resonance imaging has been used to
+  investigate the neural effects of subanaesthetic ketamine in healthy volunteers.
+  However, the effect of ketamine has been modelled with a single time course and
+  without consideration of physiological noise.Aims:This study aimed to investigate
+  ketamine-induced alterations in resting neural activity using conventional pharmacological
+  magnetic resonance imaging analysis techniques with physiological noise correction,
+  and a novel analysis utilising simultaneously recorded electroencephalography data.Methods:Simultaneous
+  electroencephalography/functional magnetic resonance imaging and physiological data
+  were collected from 30 healthy male participants before and during a subanaesthetic
+  intravenous ketamine infusion.Results:Consistent with previous literature, we show
+  widespread cortical blood-oxygen-level dependent signal increases and decreased
+  blood-oxygen-level dependent signals in the subgenual anterior cingulate cortex
+  following ketamine. However, the latter effect was attenuated by the inclusion of
+  motion regressors and physiological correction in the model. In a novel analysis,
+  we modelled the pharmacological magnetic resonance imaging response with the power
+  time series of seven electroencephalography frequency bands. This showed evidence
+  for distinct temporal time courses of neural responses to ketamine. No electroencephalography
+  power time series correlated with decreased blood-oxygen-level dependent signal
+  in the subgenual anterior cingulate cortex.Conclusions:We suggest the decrease in
+  blood-oxygen-level dependent signals in the subgenual anterior cingulate cortex
+  typically seen in the literature is the result of physiological noise, in particular
+  cardiac pulsatility. Furthermore, modelling the pharmacological magnetic resonance
+  imaging response with a single temporal model does not completely capture the full
+  spectrum of neuronal dynamics. The use of electroencephalography regressors to model
+  the response can increase confidence that the pharmacological magnetic resonance
+  imaging is directly related to underlying neural activity.
+generated_by:
+- at_location: ISSN:0269-8811
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1177/0269881118822263
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/03882791-d542-466e-90d0-26c9954dd018
+schema_type: xyzri:XYZPublication
+title: 'Temporal dynamics of the pharmacological MRI response to subanaesthetic ketamine
+  in healthy volunteers: A simultaneous EEG/fMRI study'

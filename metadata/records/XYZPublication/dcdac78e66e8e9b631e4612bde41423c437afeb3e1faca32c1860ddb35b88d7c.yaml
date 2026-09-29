@@ -1,0 +1,32 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Corrigendum to “Opposite changes in morphometric similarity of medial reward
+    and lateral non-reward orbitofrontal cortex circuits in obesity” [NeuroImage,
+    290 (2024) 120574]
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: '-'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: '-'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2026.121897
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8125e331-f8a6-4ee1-b703-cf40db06a66b
+schema_type: xyzri:XYZPublication
+title: Corrigendum to “Opposite changes in morphometric similarity of medial reward
+  and lateral non-reward orbitofrontal cortex circuits in obesity” [NeuroImage, 290
+  (2024) 120574]

@@ -1,0 +1,59 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Phenotypical predictors of pregnancy-related restless legs syndrome and their
+    association with basal ganglia and the limbic circuits
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Restless legs syndrome (RLS) in pregnancy is a common disorder with a multifactorial
+    etiology. A neurological and obstetrical cohort of 308 postpartum women was screened
+    for RLS within 1 to 6 days of childbirth and 12 weeks postpartum. Of the 308 young
+    mothers, 57 (prevalence rate 19%) were identified as having been affected by RLS
+    symptoms in the recently completed pregnancy. Structural and functional MRI was
+    obtained from 25 of these 57 participants. A multivariate two-window algorithm
+    was employed to systematically chart the relationship between brain structures
+    and phenotypical predictors of RLS. A decreased volume of the parietal, orbitofrontal
+    and frontal areas shortly after delivery was found to be linked to persistent
+    RLS symptoms up to 12 weeks postpartum, the symptoms' severity and intensity in
+    the most recent pregnancy, and a history of RLS in previous pregnancies. The same
+    negative relationship was observed between brain volume and not being married,
+    not receiving any iron supplement and higher numbers of stressful life events.
+    High cortisol levels, being married and receiving iron supplements, on the other
+    hand, were found to be associated with increased volumes in the bilateral striatum.
+    Investigating RLS symptoms in pregnancy within a brain-phenotype framework may
+    help shed light on the heterogeneity of the condition.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Restless legs syndrome (RLS) in pregnancy is a common disorder with a
+  multifactorial etiology. A neurological and obstetrical cohort of 308 postpartum
+  women was screened for RLS within 1 to 6 days of childbirth and 12 weeks postpartum.
+  Of the 308 young mothers, 57 (prevalence rate 19%) were identified as having been
+  affected by RLS symptoms in the recently completed pregnancy. Structural and functional
+  MRI was obtained from 25 of these 57 participants. A multivariate two-window algorithm
+  was employed to systematically chart the relationship between brain structures and
+  phenotypical predictors of RLS. A decreased volume of the parietal, orbitofrontal
+  and frontal areas shortly after delivery was found to be linked to persistent RLS
+  symptoms up to 12 weeks postpartum, the symptoms' severity and intensity in the
+  most recent pregnancy, and a history of RLS in previous pregnancies. The same negative
+  relationship was observed between brain volume and not being married, not receiving
+  any iron supplement and higher numbers of stressful life events. High cortisol levels,
+  being married and receiving iron supplements, on the other hand, were found to be
+  associated with increased volumes in the bilateral striatum. Investigating RLS symptoms
+  in pregnancy within a brain-phenotype framework may help shed light on the heterogeneity
+  of the condition.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2045-2322
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41598-021-89360-8
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/80f857a7-a340-458e-b5f9-05d63a292d38
+schema_type: xyzri:XYZPublication
+title: Phenotypical predictors of pregnancy-related restless legs syndrome and their
+  association with basal ganglia and the limbic circuits

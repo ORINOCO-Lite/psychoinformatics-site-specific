@@ -1,0 +1,46 @@
+attributed_to:
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Neuroimaging-based prediction of mental traits: Road to utopia or Orwell?'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Predicting individual mental traits and behavioral dispositions from brain
+    imaging data through machine-learning approaches is becoming a rapidly evolving
+    field in neuroscience. Beyond scientific and clinical applications, such approaches
+    also hold the potential to gain substantial influence in fields such as human
+    resource management, education, or criminal law. Although several challenges render
+    real-life applications of such tools difficult, future conflicts of individual,
+    economic, and public interests are preprogrammed, given the prospect of improved
+    personalized predictions across many domains. In this Perspective paper, we thus
+    argue for the need to engage in a discussion on the ethical, legal, and societal
+    implications of the emergent possibilities for brain-based predictions and outline
+    some of the aspects for this discourse.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Predicting individual mental traits and behavioral dispositions from
+  brain imaging data through machine-learning approaches is becoming a rapidly evolving
+  field in neuroscience. Beyond scientific and clinical applications, such approaches
+  also hold the potential to gain substantial influence in fields such as human resource
+  management, education, or criminal law. Although several challenges render real-life
+  applications of such tools difficult, future conflicts of individual, economic,
+  and public interests are preprogrammed, given the prospect of improved personalized
+  predictions across many domains. In this Perspective paper, we thus argue for the
+  need to engage in a discussion on the ethical, legal, and societal implications
+  of the emergent possibilities for brain-based predictions and outline some of the
+  aspects for this discourse.
+generated_by:
+- at_location: ISSN:1544-9173
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1371/journal.pbio.3000497
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/639773c1-2a9f-44d7-b2a1-6b5d1b48a8ab
+schema_type: xyzri:XYZPublication
+title: 'Neuroimaging-based prediction of mental traits: Road to utopia or Orwell?'

@@ -1,0 +1,67 @@
+attributed_to:
+- object: xyzrins:persons/9667ad1d-d904-4eea-9d86-7af45f176cb4
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Regional patterns of human cortex development correlate with underlying neurobiology
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Human brain morphology undergoes complex changes over the lifespan. Despite
+    recent progress in tracking brain development via normative models, current knowledge
+    of underlying biological mechanisms is highly limited. We demonstrate that human
+    cortical thickness development and aging trajectories unfold along patterns of
+    molecular and cellular brain organization, traceable from population-level to
+    individual developmental trajectories. During childhood and adolescence, cortex-wide
+    spatial distributions of dopaminergic receptors, inhibitory neurons, glial cell
+    populations, and brain-metabolic features explain up to 50% of the variance associated
+    with a lifespan model of regional cortical thickness trajectories. In contrast,
+    modeled cortical thickness change patterns during adulthood are best explained
+    by cholinergic and glutamatergic neurotransmitter receptor and transporter distributions.
+    These relationships are supported by developmental gene expression trajectories
+    and translate to individual longitudinal data from over 8000 adolescents, explaining
+    up to 59% of developmental change at cohort- and 18% at single-subject level.
+    Integrating neurobiological brain atlases with normative modeling and population
+    neuroimaging provides a biologically meaningful path to understand brain development
+    and aging in living humans.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Human brain morphology undergoes complex changes over the lifespan. Despite
+  recent progress in tracking brain development via normative models, current knowledge
+  of underlying biological mechanisms is highly limited. We demonstrate that human
+  cortical thickness development and aging trajectories unfold along patterns of molecular
+  and cellular brain organization, traceable from population-level to individual developmental
+  trajectories. During childhood and adolescence, cortex-wide spatial distributions
+  of dopaminergic receptors, inhibitory neurons, glial cell populations, and brain-metabolic
+  features explain up to 50% of the variance associated with a lifespan model of regional
+  cortical thickness trajectories. In contrast, modeled cortical thickness change
+  patterns during adulthood are best explained by cholinergic and glutamatergic neurotransmitter
+  receptor and transporter distributions. These relationships are supported by developmental
+  gene expression trajectories and translate to individual longitudinal data from
+  over 8000 adolescents, explaining up to 59% of developmental change at cohort- and
+  18% at single-subject level. Integrating neurobiological brain atlases with normative
+  modeling and population neuroimaging provides a biologically meaningful path to
+  understand brain development and aging in living humans.
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2041-1723
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41467-024-52366-7
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/a4d99181-870f-42a5-bf02-855f036a86c4
+schema_type: xyzri:XYZPublication
+title: Regional patterns of human cortex development correlate with underlying neurobiology

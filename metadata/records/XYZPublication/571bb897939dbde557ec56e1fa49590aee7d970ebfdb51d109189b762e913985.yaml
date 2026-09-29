@@ -1,0 +1,66 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'The cue-reactivity paradigm: An ensemble of networks driving attention and
+    cognition when viewing drug and natural reward-related stimuli'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The cue-reactivity paradigm is a widely adopted neuroimaging probe engendering
+    brain activity linked with attentional, affective, and reward processes following
+    presentation of appetitive stimuli. Given the multiple mental operations invoked,
+    we sought to decompose cue-related brain activity into constituent components
+    employing emergent meta-analytic techniques when considering drug and natural
+    reward-related cues. We conducted coordinate-based meta-analyses delineating common
+    and distinct brain activity convergence across cue-reactivity studies (N = 196
+    articles) involving drug (n = 133) or natural (n = 63) visual stimuli. Across
+    all studies, convergence was observed in limbic, cingulate, insula, and fronto-parieto-occipital
+    regions. Drug-distinct convergence was observed in posterior cingulate, dorsolateral
+    prefrontal, and temporo-parietal regions, whereas distinct-natural convergence
+    was observed in thalamic, insular, orbitofrontal, and occipital regions. We characterized
+    connectivity profiles of identified regions by leveraging task-independent and
+    task-dependent MRI datasets, grouped these profiles into subnetworks, and linked
+    each with putative mental operations. Outcomes suggest multifaceted brain activity
+    during cue-reactivity can be decomposed into elemental processes and indicate
+    that while drugs of abuse usurp the brain's natural-reward-processing system,
+    some regions appear distinct to drug cue-reactivity.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The cue-reactivity paradigm is a widely adopted neuroimaging probe engendering
+  brain activity linked with attentional, affective, and reward processes following
+  presentation of appetitive stimuli. Given the multiple mental operations invoked,
+  we sought to decompose cue-related brain activity into constituent components employing
+  emergent meta-analytic techniques when considering drug and natural reward-related
+  cues. We conducted coordinate-based meta-analyses delineating common and distinct
+  brain activity convergence across cue-reactivity studies (N = 196 articles) involving
+  drug (n = 133) or natural (n = 63) visual stimuli. Across all studies, convergence
+  was observed in limbic, cingulate, insula, and fronto-parieto-occipital regions.
+  Drug-distinct convergence was observed in posterior cingulate, dorsolateral prefrontal,
+  and temporo-parietal regions, whereas distinct-natural convergence was observed
+  in thalamic, insular, orbitofrontal, and occipital regions. We characterized connectivity
+  profiles of identified regions by leveraging task-independent and task-dependent
+  MRI datasets, grouped these profiles into subnetworks, and linked each with putative
+  mental operations. Outcomes suggest multifaceted brain activity during cue-reactivity
+  can be decomposed into elemental processes and indicate that while drugs of abuse
+  usurp the brain's natural-reward-processing system, some regions appear distinct
+  to drug cue-reactivity.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0149-7634
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2021.08.010
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/507d0f32-91de-47c0-8c45-3b33e3a759cf
+schema_type: xyzri:XYZPublication
+title: 'The cue-reactivity paradigm: An ensemble of networks driving attention and
+  cognition when viewing drug and natural reward-related stimuli'

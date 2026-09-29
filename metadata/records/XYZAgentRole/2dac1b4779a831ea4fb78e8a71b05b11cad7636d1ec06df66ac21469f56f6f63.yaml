@@ -1,0 +1,5 @@
+description: A person or organization in charge of the description and appraisal of
+  the value of goods, particularly rare items, works of art, etc.
+display_label: Expert
+pid: marcrel:exp
+schema_type: xyzri:XYZAgentRole

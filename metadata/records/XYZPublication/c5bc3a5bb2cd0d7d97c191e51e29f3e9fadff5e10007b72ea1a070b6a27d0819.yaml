@@ -1,0 +1,60 @@
+attributed_to:
+- object: xyzrins:persons/c5630bae-5817-4599-a579-aa4fcadec6e9
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 3 - Brain networks atlases
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The human brain consists of multiple areas and networks with distinct functions.
+    To better understand the functional organization of human brain, methods including
+    independent component analysis and graph theory have been applied to resting-state
+    fMRI (rs-fMRI) data to delineate functional networks and parcellate the brain.
+    An important discovery that motivated the study of brain networks with rs-fMRI
+    was the so-called default mode network, referring to a set of regions that tend
+    to deactivate in response to a wide range of goal-directed task conditions, and
+    which was also observed by decomposing rs-fMRI data. Following upon studies that
+    extracted additional, core brain networks from rs-fMRI, several functional atlases
+    were developed by partitioning the brain into different numbers of regions or
+    networks. From these predefined brain atlases, rs-fMRI features can be extracted
+    for a range of applications, such as to study functional organization across development
+    and aging and for predicting behavior from functional connectivity in healthy
+    populations. In clinical applications, brain atlases have been used to facilitate
+    the prediction of disease symptoms and treatment outcomes, as well as to investigate
+    dysfunctions in patients. Nevertheless, several challenges remain in building
+    and applying brain atlases, in particular with regard to interindividual variability,
+    a topic that will likely remain under investigation in the future.
+characterized_by:
+- object: bibo:Chapter
+  predicate: dcterms:type
+description: The human brain consists of multiple areas and networks with distinct
+  functions. To better understand the functional organization of human brain, methods
+  including independent component analysis and graph theory have been applied to resting-state
+  fMRI (rs-fMRI) data to delineate functional networks and parcellate the brain. An
+  important discovery that motivated the study of brain networks with rs-fMRI was
+  the so-called default mode network, referring to a set of regions that tend to deactivate
+  in response to a wide range of goal-directed task conditions, and which was also
+  observed by decomposing rs-fMRI data. Following upon studies that extracted additional,
+  core brain networks from rs-fMRI, several functional atlases were developed by partitioning
+  the brain into different numbers of regions or networks. From these predefined brain
+  atlases, rs-fMRI features can be extracted for a range of applications, such as
+  to study functional organization across development and aging and for predicting
+  behavior from functional connectivity in healthy populations. In clinical applications,
+  brain atlases have been used to facilitate the prediction of disease symptoms and
+  treatment outcomes, as well as to investigate dysfunctions in patients. Nevertheless,
+  several challenges remain in building and applying brain atlases, in particular
+  with regard to interindividual variability, a topic that will likely remain under
+  investigation in the future.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/B978-0-323-91688-2.00001-1
+  schema_type: dlthings:DOI
+kind: bibo:Chapter
+pid: xyzrins:publications/a2f6109b-c403-452b-a39c-d24fd20e0770
+schema_type: xyzri:XYZPublication
+title: 3 - Brain networks atlases

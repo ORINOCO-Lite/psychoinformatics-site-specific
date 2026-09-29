@@ -1,0 +1,66 @@
+attributed_to:
+- object: xyzrins:persons/9fe30b8c-a331-4166-bd1c-f407b6e06ecc
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d4e23096-f9d8-47e0-bb48-a25ba181f202
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Stressor-Specific Sex Differences in Amygdala - Frontal Cortex Networks
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Females and males differ in stress reactivity, coping, and the prevalence
+    rates of stress-related disorders. According to a neurocognitive framework of
+    stress coping, the functional connectivity between the amygdala and frontal regions
+    (including the dorsolateral prefrontal cortex (dlPFC), ventral anterior cingulate
+    cortex (vACC), and medial prefrontal cortex (mPFC)) plays a key role in how people
+    deal with stress. In the current study, we investigated the effects of sex and
+    stressor type in a within-subject counterbalanced design on the resting-state
+    functional connectivity (rsFC) of the amygdala and these frontal regions in 77
+    healthy participants (40 females). Both stressor types led to changes in subjective
+    ratings, with decreasing positive affect and increasing negative affect and anger.
+    Females showed higher amygdala-vACC and amygdala-mPFC rsFC for social exclusion
+    than for achievement stress, and compared to males. Whereas a higher amygdala-vACC
+    rsFC indicates the activation of emotion processing and coping, a higher amygdala-mPFC
+    rsFC indicates feelings of reward and social gain, highlighting the positive effects
+    of social affiliation. Thus, for females, feeling socially affiliated might be
+    more fundamental than for males. Our data indicate interactions of sex and stressor
+    in amygdala-frontal coupling, which translationally contributes to a better understanding
+    of the sex differences in prevalence rates and stress coping.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Females and males differ in stress reactivity, coping, and the prevalence
+  rates of stress-related disorders. According to a neurocognitive framework of stress
+  coping, the functional connectivity between the amygdala and frontal regions (including
+  the dorsolateral prefrontal cortex (dlPFC), ventral anterior cingulate cortex (vACC),
+  and medial prefrontal cortex (mPFC)) plays a key role in how people deal with stress.
+  In the current study, we investigated the effects of sex and stressor type in a
+  within-subject counterbalanced design on the resting-state functional connectivity
+  (rsFC) of the amygdala and these frontal regions in 77 healthy participants (40
+  females). Both stressor types led to changes in subjective ratings, with decreasing
+  positive affect and increasing negative affect and anger. Females showed higher
+  amygdala-vACC and amygdala-mPFC rsFC for social exclusion than for achievement stress,
+  and compared to males. Whereas a higher amygdala-vACC rsFC indicates the activation
+  of emotion processing and coping, a higher amygdala-mPFC rsFC indicates feelings
+  of reward and social gain, highlighting the positive effects of social affiliation.
+  Thus, for females, feeling socially affiliated might be more fundamental than for
+  males. Our data indicate interactions of sex and stressor in amygdala-frontal coupling,
+  which translationally contributes to a better understanding of the sex differences
+  in prevalence rates and stress coping.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2077-0383
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3390/jcm12030865
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/70c035f4-bce4-4791-b653-08044148af10
+schema_type: xyzri:XYZPublication
+title: Stressor-Specific Sex Differences in Amygdala - Frontal Cortex Networks

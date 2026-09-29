@@ -1,0 +1,107 @@
+attributed_to:
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/459e1cd0-3caf-436b-8031-df3b4592a994
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/60189876-7d04-48db-9586-9171fae8ee2b
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/0550e52d-af85-4f44-81ef-85e3a2af3696
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/02317164-fe5d-4a7a-b5ee-1b30a542a188
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Is it left or is it right? A classification approach for investigating hemispheric
+    differences in low and high dimensionality
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Hemispheric asymmetries, i.e., differences between the two halves of the
+    brain, have extensively been studied with respect to both structure and function.
+    Commonly employed pairwise comparisons between left and right are suitable for
+    finding differences between the hemispheres, but they come with several caveats
+    when assessing multiple asymmetries. What is more, they are not designed for identifying
+    the characterizing features of each hemisphere. Here, we present a novel data-driven
+    framework-based on machine learning-based classification-for identifying the characterizing
+    features that underlie hemispheric differences. Using voxel-based morphometry
+    data from two different samples (n = 226, n = 216), we separated the hemispheres
+    along the midline and used two different pipelines: First, for investigating global
+    differences, we embedded the hemispheres into a two-dimensional space and applied
+    a classifier to assess if the hemispheres are distinguishable in their low-dimensional
+    representation. Second, to investigate which voxels show systematic hemispheric
+    differences, we employed two classification approaches promoting feature selection
+    in high dimensions. The two hemispheres were accurately classifiable in both their
+    low-dimensional (accuracies: dataset 1 = 0.838; dataset 2 = 0.850) and high-dimensional
+    (accuracies: dataset 1 = 0.966; dataset 2 = 0.959) representations. In low dimensions,
+    classification of the right hemisphere showed higher precision (dataset 1 = 0.862;
+    dataset 2 = 0.894) compared to the left hemisphere (dataset 1 = 0.818; dataset
+    2 = 0.816). A feature selection algorithm in the high-dimensional analysis identified
+    voxels that most contribute to accurate classification. In addition, the map of
+    contributing voxels showed a better overlap with moderate to highly lateralized
+    voxels, whereas conventional t test with threshold-free cluster enhancement best
+    resembled the LQ map at lower thresholds. Both the low- and high-dimensional classifiers
+    were capable of identifying the hemispheres in subsamples of the datasets, such
+    as males, females, right-handed, or non-right-handed participants. Our study indicates
+    that hemisphere classification is capable of identifying the hemisphere in their
+    low- and high-dimensional representation as well as delineating brain asymmetries.
+    The concept of hemisphere classifiability thus allows a change in perspective,
+    from asking what differs between the hemispheres towards focusing on the features
+    needed to identify the left and right hemispheres. Taking this perspective on
+    hemispheric differences may contribute to our understanding of what makes each
+    hemisphere special.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Hemispheric asymmetries, i.e., differences between the two halves of
+  the brain, have extensively been studied with respect to both structure and function.
+  Commonly employed pairwise comparisons between left and right are suitable for finding
+  differences between the hemispheres, but they come with several caveats when assessing
+  multiple asymmetries. What is more, they are not designed for identifying the characterizing
+  features of each hemisphere. Here, we present a novel data-driven framework-based
+  on machine learning-based classification-for identifying the characterizing features
+  that underlie hemispheric differences. Using voxel-based morphometry data from two
+  different samples (n = 226, n = 216), we separated the hemispheres along the midline
+  and used two different pipelines: First, for investigating global differences, we
+  embedded the hemispheres into a two-dimensional space and applied a classifier to
+  assess if the hemispheres are distinguishable in their low-dimensional representation.
+  Second, to investigate which voxels show systematic hemispheric differences, we
+  employed two classification approaches promoting feature selection in high dimensions.
+  The two hemispheres were accurately classifiable in both their low-dimensional (accuracies:
+  dataset 1 = 0.838; dataset 2 = 0.850) and high-dimensional (accuracies: dataset
+  1 = 0.966; dataset 2 = 0.959) representations. In low dimensions, classification
+  of the right hemisphere showed higher precision (dataset 1 = 0.862; dataset 2 =
+  0.894) compared to the left hemisphere (dataset 1 = 0.818; dataset 2 = 0.816). A
+  feature selection algorithm in the high-dimensional analysis identified voxels that
+  most contribute to accurate classification. In addition, the map of contributing
+  voxels showed a better overlap with moderate to highly lateralized voxels, whereas
+  conventional t test with threshold-free cluster enhancement best resembled the LQ
+  map at lower thresholds. Both the low- and high-dimensional classifiers were capable
+  of identifying the hemispheres in subsamples of the datasets, such as males, females,
+  right-handed, or non-right-handed participants. Our study indicates that hemisphere
+  classification is capable of identifying the hemisphere in their low- and high-dimensional
+  representation as well as delineating brain asymmetries. The concept of hemisphere
+  classifiability thus allows a change in perspective, from asking what differs between
+  the hemispheres towards focusing on the features needed to identify the left and
+  right hemispheres. Taking this perspective on hemispheric differences may contribute
+  to our understanding of what makes each hemisphere special.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1863-2653
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00429-021-02418-1
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/53e58232-935a-4eb4-8208-1d4949d9b80c
+schema_type: xyzri:XYZPublication
+title: Is it left or is it right? A classification approach for investigating hemispheric
+  differences in low and high dimensionality

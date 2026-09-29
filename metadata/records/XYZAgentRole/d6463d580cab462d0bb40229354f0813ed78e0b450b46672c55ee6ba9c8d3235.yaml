@@ -1,0 +1,5 @@
+description: A person or organization legally responsible for the content of the published
+  material
+display_label: Responsible party
+pid: marcrel:rpy
+schema_type: xyzri:XYZAgentRole

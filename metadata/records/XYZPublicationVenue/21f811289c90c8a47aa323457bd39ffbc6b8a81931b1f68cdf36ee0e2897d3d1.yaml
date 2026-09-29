@@ -1,0 +1,9 @@
+display_note: ISSN:1357-650X
+identifiers:
+- creator: ror:026ytr635
+  notation: 1357-650X
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:1357-650X
+schema_type: xyzri:XYZPublicationVenue
+title: Laterality

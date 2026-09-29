@@ -1,0 +1,34 @@
+associated_with:
+- object: xyzrins:persons/c6d47fbc-8b3c-46d1-9558-1f3b94ec9141
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Association
+description: 'The Joint Lab (JL) Supercomputing and Modeling for the Human Brain (SMHB)
+  addresses key issues regarding the analysis, simulation and visualization of extremely
+  large and complex data sets derived from the human brain, and thus will contribute
+  to solving the scientific, societal and technical challenges of the digitization.
+  The highly interdisciplinary character of the SMHB will leverage synergy potentials
+  at the interface of supercomputing, machine learning, neuroscience and brain medicine. '
+ended:
+  at_time: '2027-12-31'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2027-12-31'
+    schema_type: dlthings:End
+  object: xyzrins:grants/2b40e9ef-d9d2-42f8-a502-2e6efa86a1f7
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/8b97de96-48ce-4ea2-a131-34d15124cabc
+schema_type: xyzri:XYZProject
+short_name: SMHB
+started:
+  at_time: '2021-01-01'
+  schema_type: dlthings:Start
+title: Supercomputing and Modeling for the Human Brain (SMHB)

@@ -1,0 +1,9 @@
+display_note: ISSN:1392-1932
+identifiers:
+- creator: ror:026ytr635
+  notation: 1392-1932
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:1392-1932
+schema_type: xyzri:XYZPublicationVenue
+title: Lithuanian Journal Of Physics

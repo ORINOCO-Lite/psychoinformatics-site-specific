@@ -1,0 +1,58 @@
+attributed_to:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Multiscale characterization of cortical signatures in positive and negative
+    schizotypy: A worldwide ENIGMA study'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Positive and negative schizotypy reflect distinct patterns of subclinical
+    traits in the general population associated with neurodevelopmental and schizophrenia-spectrum
+    pathologies. Yet, a comprehensive characterization of the unique and shared neuroanatomical
+    signatures of these schizotypy dimensions is lacking. Leveraging 3D brain MRI
+    data from 2,730 unmedicated healthy individuals, we identified neuroanatomical
+    profiles of positive and negative schizotypy and systematically compared them
+    to disorder-specific, micro-architectural, connectome, and neurotransmitter-level
+    measures. Positive and negative schizotypy were associated with thinner frontal
+    and thicker paralimbic cortical areas, respectively, and were differentially linked
+    to cortical patterns of schizophrenia-spectrum and neurodevelopmental conditions.
+    Furthermore, these schizotypal cortical patterns mapped onto local attributes
+    of gene expression, cortical myelination, D1 and histamine receptor distributions.
+    Network models identified cortical hub vulnerability to schizotypy-related thickness
+    reduction and epicenters in sensorimotor-to-association and paralimbic areas.
+    This study yields insights into the complex cortical signatures of schizotypy
+    and their relationship to diverse features of cortical organization.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Positive and negative schizotypy reflect distinct patterns of subclinical
+  traits in the general population associated with neurodevelopmental and schizophrenia-spectrum
+  pathologies. Yet, a comprehensive characterization of the unique and shared neuroanatomical
+  signatures of these schizotypy dimensions is lacking. Leveraging 3D brain MRI data
+  from 2,730 unmedicated healthy individuals, we identified neuroanatomical profiles
+  of positive and negative schizotypy and systematically compared them to disorder-specific,
+  micro-architectural, connectome, and neurotransmitter-level measures. Positive and
+  negative schizotypy were associated with thinner frontal and thicker paralimbic
+  cortical areas, respectively, and were differentially linked to cortical patterns
+  of schizophrenia-spectrum and neurodevelopmental conditions. Furthermore, these
+  schizotypal cortical patterns mapped onto local attributes of gene expression, cortical
+  myelination, D1 and histamine receptor distributions. Network models identified
+  cortical hub vulnerability to schizotypy-related thickness reduction and epicenters
+  in sensorimotor-to-association and paralimbic areas. This study yields insights
+  into the complex cortical signatures of schizotypy and their relationship to diverse
+  features of cortical organization.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2024.05.03.24306736
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/fd3ad9a9-4e5d-40e6-9e3e-ef891db350b2
+schema_type: xyzri:XYZPublication
+title: 'Multiscale characterization of cortical signatures in positive and negative
+  schizotypy: A worldwide ENIGMA study'

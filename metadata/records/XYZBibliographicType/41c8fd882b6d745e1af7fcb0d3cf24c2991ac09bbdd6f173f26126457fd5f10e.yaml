@@ -1,0 +1,4 @@
+description: A chapter of a book.
+display_label: Chapter
+pid: bibo:Chapter
+schema_type: xyzri:XYZBibliographicType

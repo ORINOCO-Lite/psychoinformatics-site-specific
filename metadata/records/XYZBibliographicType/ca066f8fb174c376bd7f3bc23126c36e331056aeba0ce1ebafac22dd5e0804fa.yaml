@@ -1,0 +1,4 @@
+description: A slide in a slideshow
+display_label: Slide
+pid: bibo:Slide
+schema_type: xyzri:XYZBibliographicType

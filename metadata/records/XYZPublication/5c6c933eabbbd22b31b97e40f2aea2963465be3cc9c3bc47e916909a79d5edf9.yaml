@@ -1,0 +1,47 @@
+about:
+- xyzrins:topics/naturalistic-stimulation
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-20T11:52:40.591022'
+attributed_to:
+- object: xyzrins:persons/ayan-sengupta
+  roles:
+  - obo:MS_1002034
+  schema_type: dlthings:Attribution
+- object: orcid:0000-0001-5840-5658
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002035
+  schema_type: dlthings:Attribution
+description: 'Multivariate pattern classification methods have been successfully applied
+  to decode orientation of visual grating stimuli from BOLD fMRI activity recorded
+  in human visual cortex (Kamitani and Tong, 2005; Haynes and Rees, 2005) [12], [10].
+  Though there has been extensive research investigating the true spatial scale of
+  the orientation specific signals (Op de Beeck, 2010; Swisher et al., 2010; Alink
+  et al., 2013; Freeman et al., 2011, 2013) [2], [15], [1], [4], [5], it remained
+  inconclusive what spatial acquisition resolution is required, or is optimal, for
+  decoding analyses. The research article entitled “The effect of acquisition resolution
+  on orientation decoding from V1 BOLD fMRI at 7 T” Sengupta et al. (2017) [14] studied
+  the effect of spatial acquisition resolution and also analyzed the strength and
+  spatial scale of orientation discriminating signals. In this article, for the first
+  time, we present empirical ultra high-field fMRI data, obtained as a part of the
+  aforementioned study, which were recorded at four spatial resolutions (0.8 mm, 1.4
+  mm, 2 mm, and 3 mm isotropic voxel size) for orientation decoding in visual cortex.
+  The dataset is compliant with the BIDS (Brain Imaging Data Structure) format, and
+  freely available from the OpenfMRI portal (dataset accession number: http://openfmri.org/dataset/ds000113c
+  ds000113c).'
+generated_by:
+- object: xyzrins:projects/studyforrest
+  schema_type: dlthings:Generation
+- at_location: ISSN:2352-3409
+  at_time: '2017-08-01'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/9bbeb960-f3b3-4120-a3b6-101aabdc8fe4
+schema_type: xyzri:XYZPublication
+title: Ultra high-field (7 T) multi-resolution fMRI data for orientation decoding
+  in visual cortex

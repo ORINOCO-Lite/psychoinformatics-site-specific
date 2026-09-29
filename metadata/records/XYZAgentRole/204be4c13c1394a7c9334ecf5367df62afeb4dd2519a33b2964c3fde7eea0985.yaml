@@ -1,0 +1,5 @@
+description: A person or organization that reviews, examines and interprets data or
+  information in a specific area
+display_label: Analyst
+pid: marcrel:anl
+schema_type: xyzri:XYZAgentRole

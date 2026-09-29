@@ -1,0 +1,7 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2025-12-11T21:48:30.655587'
+pid: xyzrins:grants/hyperalignment
+schema_type: xyzri:XYZGrant
+title: 'US-German collaboration: Building common high-dimensional models of neural
+  representational spaces'

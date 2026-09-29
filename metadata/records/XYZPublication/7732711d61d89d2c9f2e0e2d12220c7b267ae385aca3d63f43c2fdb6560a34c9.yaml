@@ -1,0 +1,62 @@
+attributed_to:
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Variations of autonomic arousal mediate the reportability of mind-blanking
+    occurrences
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Mind-blanking (MB) is the inability to report mental events during unconstraint
+    thinking. Previous work shows that MB is linked to decreased levels of cortical
+    arousal, indicating dominance of cerebral mechanisms when reporting mental states.
+    What remains inconclusive is whether MB can also ensue from autonomic arousal
+    manipulations, pointing to the implication of peripheral physiology to mental
+    events. Using experience-sampling, neural, and physiological measurements in 26
+    participants, we first show that MB was reported more frequently in low arousal
+    conditions, elicited by sleep deprivation. Also, there was partial evidence for
+    a higher number of MB reports in high arousal conditions, elicited by intense
+    physical exercise. Transition probabilities revealed that, after sleep deprivation,
+    mind-wandering was more likely to be followed by MB and less likely to be followed
+    by more mind-wandering reports. Using classification schemes, we show higher performance
+    of a balanced random forest classifier trained on both neural and physiological
+    markers in comparison to performance when solely neural or physiological were
+    used. Collectively, we show that both cortical and autonomic arousal affect MB
+    report occurrences. Our results establish that MB is supported by combined brain-body
+    configurations, and, by linking mental and physiological states they pave the
+    way for novel, embodied accounts of spontaneous thinking.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Mind-blanking (MB) is the inability to report mental events during unconstraint
+  thinking. Previous work shows that MB is linked to decreased levels of cortical
+  arousal, indicating dominance of cerebral mechanisms when reporting mental states.
+  What remains inconclusive is whether MB can also ensue from autonomic arousal manipulations,
+  pointing to the implication of peripheral physiology to mental events. Using experience-sampling,
+  neural, and physiological measurements in 26 participants, we first show that MB
+  was reported more frequently in low arousal conditions, elicited by sleep deprivation.
+  Also, there was partial evidence for a higher number of MB reports in high arousal
+  conditions, elicited by intense physical exercise. Transition probabilities revealed
+  that, after sleep deprivation, mind-wandering was more likely to be followed by
+  MB and less likely to be followed by more mind-wandering reports. Using classification
+  schemes, we show higher performance of a balanced random forest classifier trained
+  on both neural and physiological markers in comparison to performance when solely
+  neural or physiological were used. Collectively, we show that both cortical and
+  autonomic arousal affect MB report occurrences. Our results establish that MB is
+  supported by combined brain-body configurations, and, by linking mental and physiological
+  states they pave the way for novel, embodied accounts of spontaneous thinking.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2024.03.26.586648
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/9cb17302-918f-4912-b9e7-1682d1163f55
+schema_type: xyzri:XYZPublication
+title: Variations of autonomic arousal mediate the reportability of mind-blanking
+  occurrences

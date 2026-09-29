@@ -1,0 +1,9 @@
+display_note: ISSN:0722-1541
+identifiers:
+- creator: ror:026ytr635
+  notation: 0722-1541
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:0722-1541
+schema_type: xyzri:XYZPublicationVenue
+title: Nervenheilkunde

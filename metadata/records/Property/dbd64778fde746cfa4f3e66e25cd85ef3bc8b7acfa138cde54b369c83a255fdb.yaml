@@ -1,0 +1,8 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-01-07T13:42:36.957229'
+description: The citing entity cites the cited entity as one that provides an authoritative
+  description or definition of the subject under discussion.
+display_label: cites as authority
+pid: CiTO:citesAsAuthority
+schema_type: dlthings:Property

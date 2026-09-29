@@ -1,0 +1,12 @@
+about:
+- xyzrins:projects/sfb1451
+description: SFB1451 logo
+distributions:
+- dldi:SHA256E-s18846--15936a17e294bf9017dcfec46f889eb82d1873c074fd02f5c34f46aa54c02a22.webp
+generated_by:
+  object: xyzrins:projects/sfb1451
+  schema_type: dlthings:Generation
+kind: schema:logo
+pid: xyzrins:depictions/logo_sfb1451
+schema_type: xyzri:XYZDepiction
+title: SFB1451 logo

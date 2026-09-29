@@ -1,0 +1,83 @@
+attributed_to:
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/11bba584-d08e-47f2-b3d4-980c5472dca3
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7fe402d2-c44a-4d7f-91a2-e11ba61da3a2
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/44b7c6a3-3595-4f36-9a08-b80b2240d22c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Age differences in predicting working memory performance from network-based
+    functional connectivity
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Deterioration in working memory capacity (WMC) has been associated with
+    normal aging, but it remains unknown how age affects the relationship between
+    WMC and connectivity within functional brain networks. We therefore examined the
+    predictability of WMC from fMRI-based resting-state functional connectivity (RSFC)
+    within eight meta-analytically defined functional brain networks and the connectome
+    in young and old adults using relevance vector machine in a robust cross-validation
+    scheme. Particular brain networks have been associated with mental functions linked
+    to WMC to a varying degree and are associated with age-related differences in
+    performance. Comparing prediction performance between the young and old sample
+    revealed age-specific effects: In young adults, we found a general unpredictability
+    of WMC from RSFC in networks subserving WM, cognitive action control, vigilant
+    attention, theory-of-mind cognition, and semantic memory, whereas in older adults
+    each network significantly predicted WMC. Moreover, both WM-related and WM-unrelated
+    networks were differently predictive in older adults with low versus high WMC.
+    These results indicate that the within-network functional coupling during task-free
+    states is specifically related to individual task performance in advanced age,
+    suggesting neural-level reorganization. In particular, our findings support the
+    notion of a decreased segregation of functional brain networks, deterioration
+    of network integrity within different networks and/or compensation by reorganization
+    as factors driving associations between individual WMC and within-network RSFC
+    in older adults. Thus, using multivariate pattern regression provided novel insights
+    into age-related brain reorganization by linking cognitive capacity to brain network
+    integrity.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Deterioration in working memory capacity (WMC) has been associated with
+  normal aging, but it remains unknown how age affects the relationship between WMC
+  and connectivity within functional brain networks. We therefore examined the predictability
+  of WMC from fMRI-based resting-state functional connectivity (RSFC) within eight
+  meta-analytically defined functional brain networks and the connectome in young
+  and old adults using relevance vector machine in a robust cross-validation scheme.
+  Particular brain networks have been associated with mental functions linked to WMC
+  to a varying degree and are associated with age-related differences in performance.
+  Comparing prediction performance between the young and old sample revealed age-specific
+  effects: In young adults, we found a general unpredictability of WMC from RSFC in
+  networks subserving WM, cognitive action control, vigilant attention, theory-of-mind
+  cognition, and semantic memory, whereas in older adults each network significantly
+  predicted WMC. Moreover, both WM-related and WM-unrelated networks were differently
+  predictive in older adults with low versus high WMC. These results indicate that
+  the within-network functional coupling during task-free states is specifically related
+  to individual task performance in advanced age, suggesting neural-level reorganization.
+  In particular, our findings support the notion of a decreased segregation of functional
+  brain networks, deterioration of network integrity within different networks and/or
+  compensation by reorganization as factors driving associations between individual
+  WMC and within-network RSFC in older adults. Thus, using multivariate pattern regression
+  provided novel insights into age-related brain reorganization by linking cognitive
+  capacity to brain network integrity.'
+generated_by:
+- at_location: ISSN:0010-9452
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.cortex.2020.08.012
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/a36e5b15-0ffc-4ba2-a8b2-39a98742a57c
+schema_type: xyzri:XYZPublication
+title: Age differences in predicting working memory performance from network-based
+  functional connectivity

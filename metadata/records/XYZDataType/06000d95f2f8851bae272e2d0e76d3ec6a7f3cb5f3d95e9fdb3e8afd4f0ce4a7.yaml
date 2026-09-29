@@ -1,0 +1,10 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-26T14:24:03.807956'
+broad_mappings:
+- http://purl.obolibrary.org/obo/NCIT_C49059
+description: Medical image format corresponding to the Digital Imaging and Communications
+  in Medicine (DICOM) standard.
+display_label: DICOM format
+pid: http://edamontology.org/format_3548
+schema_type: xyzri:XYZDataType

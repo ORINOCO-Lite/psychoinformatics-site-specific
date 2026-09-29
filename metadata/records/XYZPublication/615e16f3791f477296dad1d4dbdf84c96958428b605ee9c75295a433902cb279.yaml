@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d25533c9-aef7-428e-a9e9-f2cbc5acf3a1
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Leveraging Stacked Classifiers for Multi-task Executive Function in Schizophrenia
+    Yields Diagnostic and Prognostic Insights
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Cognitive impairment is a central characteristic of schizophrenia. Executive
+    functioning (EF) impairments are often seen in mental disorders, particularly
+    schizophrenia, where they relate to adverse outcomes. As a heterogeneous construct,
+    how specifically each dimension of EF to characterize the diagnostic and prognostic
+    aspects of schizophrenia remains opaque. We used classification models with a
+    stacking approach on systematically measured EFs to discriminate 195 patients
+    with schizophrenia from healthy individuals. Baseline EF measurements were moreover
+    employed to predict symptomatically remitted or non-remitted prognostic subgroups.
+    EF feature importance was determined at the group-level and the ensuing individual
+    importance scores were associated with four symptom dimensions. EF assessments
+    of inhibitory control (interference and response inhibitions), followed by working
+    memory, evidently predicted schizophrenia diagnosis (area under the curve [AUC]=0.87)
+    and remission status (AUC=0.81). The models highlighted the importance of interference
+    inhibition or working memory updating in accurately identifying individuals with
+    schizophrenia or those in remission. These identified patients had high-level
+    negative symptoms at baseline and those who remitted showed milder cognitive symptoms
+    at follow-up, without differences in baseline EF or symptom severity compared
+    to non-remitted patients. Our work indicates that impairments in specific EF dimensions
+    in schizophrenia are differentially linked to individual symptom-load and prognostic
+    outcomes. Thus, assessments and models based on EF may be a promising tool that
+    can aid in the clinical evaluation of this disorder.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Cognitive impairment is a central characteristic of schizophrenia. Executive
+  functioning (EF) impairments are often seen in mental disorders, particularly schizophrenia,
+  where they relate to adverse outcomes. As a heterogeneous construct, how specifically
+  each dimension of EF to characterize the diagnostic and prognostic aspects of schizophrenia
+  remains opaque. We used classification models with a stacking approach on systematically
+  measured EFs to discriminate 195 patients with schizophrenia from healthy individuals.
+  Baseline EF measurements were moreover employed to predict symptomatically remitted
+  or non-remitted prognostic subgroups. EF feature importance was determined at the
+  group-level and the ensuing individual importance scores were associated with four
+  symptom dimensions. EF assessments of inhibitory control (interference and response
+  inhibitions), followed by working memory, evidently predicted schizophrenia diagnosis
+  (area under the curve [AUC]=0.87) and remission status (AUC=0.81). The models highlighted
+  the importance of interference inhibition or working memory updating in accurately
+  identifying individuals with schizophrenia or those in remission. These identified
+  patients had high-level negative symptoms at baseline and those who remitted showed
+  milder cognitive symptoms at follow-up, without differences in baseline EF or symptom
+  severity compared to non-remitted patients. Our work indicates that impairments
+  in specific EF dimensions in schizophrenia are differentially linked to individual
+  symptom-load and prognostic outcomes. Thus, assessments and models based on EF may
+  be a promising tool that can aid in the clinical evaluation of this disorder.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2024.12.05.24318587
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/ff433f05-a36a-4db6-baa6-971ad45e021c
+schema_type: xyzri:XYZPublication
+title: Leveraging Stacked Classifiers for Multi-task Executive Function in Schizophrenia
+  Yields Diagnostic and Prognostic Insights

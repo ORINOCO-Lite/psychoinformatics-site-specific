@@ -1,0 +1,5 @@
+description: A person, family or organization issuing a work, such as an official
+  organ of the body
+display_label: Issuing body
+pid: marcrel:isb
+schema_type: xyzri:XYZAgentRole

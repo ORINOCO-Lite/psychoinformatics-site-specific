@@ -1,0 +1,67 @@
+attributed_to:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Sender–receiver subdivisions of the default mode network in perceptual and
+    memory-guided cognition
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Everyday cognition depends on the brain’s capacity to shift between sensing
+    the external world and constructing it from memory. To achieve this, large-scale
+    cortical systems must flexibly integrate incoming sensory signals with internally
+    generated representations. Here, we show that this flexibility is reflected in
+    the macroscale architecture of the default mode network (DMN). Using convergent
+    analyses across three independent fMRI datasets spanning directional connectivity,
+    intrinsic organization, and task-evoked responses, we identify spatially distinct
+    DMN subregions that are preferentially engaged during perceptual decisions about
+    faces or memory-guided decisions based on previously seen images. These subregions
+    correspond to a microarchitectural distinction, captured via directional and intrinsic
+    connectivity profiles: regions preferentially engaged during face perception align
+    with receiver-like, afferent-biased zones that show strong intrinsic connectivity
+    across the heteromodal cortex, a profile that might support information integration
+    during perceptually guided decision-making. In contrast, memory-guided, perceptually
+    decoupled decisions differentially engage sender-like, efferent-biased zones that
+    show broader connectivity with perceptual-motor and attentional systems beyond
+    the DMN. This double dissociation demonstrates a systematic association between
+    DMN connectivity and engagement during perceptually coupled versus memory-guided
+    cognitive processes, providing an organizational account of how DMN architecture
+    relates to flexible human thought.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Everyday cognition depends on the brain’s capacity to shift between
+  sensing the external world and constructing it from memory. To achieve this, large-scale
+  cortical systems must flexibly integrate incoming sensory signals with internally
+  generated representations. Here, we show that this flexibility is reflected in the
+  macroscale architecture of the default mode network (DMN). Using convergent analyses
+  across three independent fMRI datasets spanning directional connectivity, intrinsic
+  organization, and task-evoked responses, we identify spatially distinct DMN subregions
+  that are preferentially engaged during perceptual decisions about faces or memory-guided
+  decisions based on previously seen images. These subregions correspond to a microarchitectural
+  distinction, captured via directional and intrinsic connectivity profiles: regions
+  preferentially engaged during face perception align with receiver-like, afferent-biased
+  zones that show strong intrinsic connectivity across the heteromodal cortex, a profile
+  that might support information integration during perceptually guided decision-making.
+  In contrast, memory-guided, perceptually decoupled decisions differentially engage
+  sender-like, efferent-biased zones that show broader connectivity with perceptual-motor
+  and attentional systems beyond the DMN. This double dissociation demonstrates a
+  systematic association between DMN connectivity and engagement during perceptually
+  coupled versus memory-guided cognitive processes, providing an organizational account
+  of how DMN architecture relates to flexible human thought.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0027-8424
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1073/pnas.2528851123
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/b3d9c72c-837b-4b0f-8bab-f6d7302ab8a1
+schema_type: xyzri:XYZPublication
+title: Sender–receiver subdivisions of the default mode network in perceptual and
+  memory-guided cognition

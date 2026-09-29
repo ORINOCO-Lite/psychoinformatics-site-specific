@@ -1,0 +1,82 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Brain grey matter volume reduction and anxiety-like behavior in lipopolysaccharide-induced
+    chronic pulmonary inflammation rats: A structural MRI study with histological
+    validation'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: While there have been multiple fMRI studies into the brain functional changes
+    after acutely stimulated peripheral infection, knowledge for the effect of chronic
+    peripheral infection on whole brain morphology is still quite limited. The present
+    study was designed to investigate the brain structural and emotional changes after
+    peripheral local infection initiated chronic systemic inflammation and the relationship
+    between circulating inflammatory markers and brain grey matter. Specifically,
+    in-vivo T2-weighted MRI was performed on rats with lipopolysaccharide (LPS)-induced
+    chronic pulmonary inflammation (CPI) for 4 months and those without. Grey matter
+    volume was quantified using diffeomorphic anatomical registration through exponentiated
+    lie (DARTEL) enhanced voxel-based morphometry followed by between-group comparison.
+    Open field experiment was conducted to test the potential anxiety-like behaviors
+    after CPI, along with the ELISA estimated inflammatory markers were correlated
+    to grey matter volume. Guided by image findings, we undertook a focused histological
+    investigation with immunefluorescence and Nissl staining. A widespread decrease
+    of grey matter volume in CPI-model rats was revealed. 8 of the 12 measured inflammatory
+    markers presented differential neuroanatomical correlation patterns with three
+    of the pro-inflammatory cytokines (IL-1β, IL-6 and TNF-α) and CRP being the most
+    notable. Lower grey matter volumes in some of the inflammatory markers related
+    regions (amygdala, CA2 and cingulate cortex) were associated with more-severe
+    anxiety-like behaviors. Furthermore, grey matter volumes in amygdala and CA3 were
+    correlated negatively with the expressions of glial proteins (S100β and Nogo-A),
+    while the grey matter volume in hypo-thalamus was changing positively with neural
+    cell area. Overall, the neuroanatomical association patterns and the histopathology
+    underpinning the MRI observations we demonstrated here would probably serve as
+    one explanation for the cerebral and emotional deficits presented in the patients
+    with CPI, which would furthermore yield new insights into the adverse effects
+    the many other systemic inflammation and inflammatory autoimmune diseases would
+    pose on brain morphology.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: While there have been multiple fMRI studies into the brain functional
+  changes after acutely stimulated peripheral infection, knowledge for the effect
+  of chronic peripheral infection on whole brain morphology is still quite limited.
+  The present study was designed to investigate the brain structural and emotional
+  changes after peripheral local infection initiated chronic systemic inflammation
+  and the relationship between circulating inflammatory markers and brain grey matter.
+  Specifically, in-vivo T2-weighted MRI was performed on rats with lipopolysaccharide
+  (LPS)-induced chronic pulmonary inflammation (CPI) for 4 months and those without.
+  Grey matter volume was quantified using diffeomorphic anatomical registration through
+  exponentiated lie (DARTEL) enhanced voxel-based morphometry followed by between-group
+  comparison. Open field experiment was conducted to test the potential anxiety-like
+  behaviors after CPI, along with the ELISA estimated inflammatory markers were correlated
+  to grey matter volume. Guided by image findings, we undertook a focused histological
+  investigation with immunefluorescence and Nissl staining. A widespread decrease
+  of grey matter volume in CPI-model rats was revealed. 8 of the 12 measured inflammatory
+  markers presented differential neuroanatomical correlation patterns with three of
+  the pro-inflammatory cytokines (IL-1β, IL-6 and TNF-α) and CRP being the most notable.
+  Lower grey matter volumes in some of the inflammatory markers related regions (amygdala,
+  CA2 and cingulate cortex) were associated with more-severe anxiety-like behaviors.
+  Furthermore, grey matter volumes in amygdala and CA3 were correlated negatively
+  with the expressions of glial proteins (S100β and Nogo-A), while the grey matter
+  volume in hypo-thalamus was changing positively with neural cell area. Overall,
+  the neuroanatomical association patterns and the histopathology underpinning the
+  MRI observations we demonstrated here would probably serve as one explanation for
+  the cerebral and emotional deficits presented in the patients with CPI, which would
+  furthermore yield new insights into the adverse effects the many other systemic
+  inflammation and inflammatory autoimmune diseases would pose on brain morphology.
+generated_by:
+- at_location: ISSN:0889-1591
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.bbi.2018.11.020
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/54554ea9-ec0e-4382-994a-99ea79f4818b
+schema_type: xyzri:XYZPublication
+title: 'Brain grey matter volume reduction and anxiety-like behavior in lipopolysaccharide-induced
+  chronic pulmonary inflammation rats: A structural MRI study with histological validation'

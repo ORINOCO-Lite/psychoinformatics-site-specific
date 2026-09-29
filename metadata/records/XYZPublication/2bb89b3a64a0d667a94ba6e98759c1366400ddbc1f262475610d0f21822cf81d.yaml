@@ -1,0 +1,91 @@
+attributed_to:
+- object: xyzrins:persons/c643dc9e-7b8a-4a32-aa1b-6f371c82880a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/af38e78f-3ae4-4ccc-bc7a-1d3bee12c601
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Resting state changes in aging and Parkinson’s disease are shaped by underlying
+    neurotransmission – a normative modeling study
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: BackgroundHuman healthy and pathological aging is linked to a steady decline
+    in brain resting-state activity and connectivity measures. The neurophysiological
+    mechanisms that underlie these changes remain poorly understood.MethodsMaking
+    use of recent developments in normative modeling and availability of in vivo maps
+    for various neurochemical systems, we tested in the UK Biobank cohort (n = 25,917)
+    whether and how age- and Parkinson’s disease–related resting-state changes in
+    commonly applied local and global activity and connectivity measures colocalize
+    with underlying neurotransmitter systems.ResultsWe found that the distributions
+    of several major neurotransmitter systems including serotonergic, dopaminergic,
+    noradrenergic, and glutamatergic neurotransmission correlated with age-related
+    changes across functional activity and connectivity measures. Colocalization patterns
+    in Parkinson’s disease deviated from normative aging trajectories for these, as
+    well as for cholinergic and GABAergic (gamma-aminobutyric acidergic) neurotransmission.
+    The deviation from normal colocalization of brain function and GABAA correlated
+    with disease duration.ConclusionsThese findings provide new insights into molecular
+    mechanisms underlying age- and Parkinson’s-related brain functional changes by
+    extending the existing evidence elucidating the vulnerability of specific neurochemical
+    attributes to normal aging and Parkinson’s disease. The results particularly indicate
+    that alongside dopamine and serotonin, increased vulnerability of glutamatergic,
+    cholinergic, and GABAergic systems may also contribute to Parkinson’s disease–related
+    functional alterations. Combining normative modeling and neurotransmitter mapping
+    may aid future research and drug development through deeper understanding of neurophysiological
+    mechanisms that underlie specific clinical conditions.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: BackgroundHuman healthy and pathological aging is linked to a steady
+  decline in brain resting-state activity and connectivity measures. The neurophysiological
+  mechanisms that underlie these changes remain poorly understood.MethodsMaking use
+  of recent developments in normative modeling and availability of in vivo maps for
+  various neurochemical systems, we tested in the UK Biobank cohort (n = 25,917) whether
+  and how age- and Parkinson’s disease–related resting-state changes in commonly applied
+  local and global activity and connectivity measures colocalize with underlying neurotransmitter
+  systems.ResultsWe found that the distributions of several major neurotransmitter
+  systems including serotonergic, dopaminergic, noradrenergic, and glutamatergic neurotransmission
+  correlated with age-related changes across functional activity and connectivity
+  measures. Colocalization patterns in Parkinson’s disease deviated from normative
+  aging trajectories for these, as well as for cholinergic and GABAergic (gamma-aminobutyric
+  acidergic) neurotransmission. The deviation from normal colocalization of brain
+  function and GABAA correlated with disease duration.ConclusionsThese findings provide
+  new insights into molecular mechanisms underlying age- and Parkinson’s-related brain
+  functional changes by extending the existing evidence elucidating the vulnerability
+  of specific neurochemical attributes to normal aging and Parkinson’s disease. The
+  results particularly indicate that alongside dopamine and serotonin, increased vulnerability
+  of glutamatergic, cholinergic, and GABAergic systems may also contribute to Parkinson’s
+  disease–related functional alterations. Combining normative modeling and neurotransmitter
+  mapping may aid future research and drug development through deeper understanding
+  of neurophysiological mechanisms that underlie specific clinical conditions.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.bpsc.2024.04.010
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2023-09-30'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/hbp-sga3
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2020-04-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/32a3aaa4-646d-491a-8a87-787bd5ba67d9
+schema_type: xyzri:XYZPublication
+title: Resting state changes in aging and Parkinson’s disease are shaped by underlying
+  neurotransmission – a normative modeling study

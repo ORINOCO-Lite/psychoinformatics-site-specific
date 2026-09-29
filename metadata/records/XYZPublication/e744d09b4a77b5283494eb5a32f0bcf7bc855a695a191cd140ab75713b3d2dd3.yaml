@@ -1,0 +1,30 @@
+attributed_to:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Neuroplasticity-Related Genes and Dopamine Receptors Associated with Regional
+    Cortical Thickness Increase Following Electroconvulsive Therapy for Major Depressive
+    Disorder
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0893-7648
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s12035-022-03132-7
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/a512d1c3-1050-4e61-b18d-92d38335b029
+schema_type: xyzri:XYZPublication
+title: Neuroplasticity-Related Genes and Dopamine Receptors Associated with Regional
+  Cortical Thickness Increase Following Electroconvulsive Therapy for Major Depressive
+  Disorder

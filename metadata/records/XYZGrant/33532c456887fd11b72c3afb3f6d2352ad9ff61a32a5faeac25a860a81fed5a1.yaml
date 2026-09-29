@@ -1,0 +1,52 @@
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2025-12-11T21:41:19.507826'
+attributed_to:
+- object: ror:018mejw64
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+description: 'Das Verständnis der Mechanismen motorischer Kontrolle ist essentiell,
+  da Motorik alle Interaktionen mit der Umwelt ermöglicht. Motorische Aktivitäten,
+  vom monosynaptischen Reflex bis zu komplexem Verhalten, basieren auf dem Zusammenspiel
+  von Neuronen und Muskeln. Motorische Kontrolle ermöglicht koordiniertes und sinnvolles
+  Handeln und wahrt die Integrität des Körpers. Motorische Kontrolle ist flexibel,
+  unterliegt ständiger Anpassung und ist bei vielen neuropsychiatrischen Erkrankungen
+  gestört. Sie wird auf verschiedenen anatomischen Ebenen molekular, zellulär und
+  systemisch umgesetzt, was die Komplexität der Aktivierung, Aufrechterhaltung und
+  Anpassung motorischer Kontrolle verdeutlicht. Dem Rechnung tragend bringt der SFB
+  Neurowissenschaftler aus Grundlagenforschung und Klinik zusammen, die molekulare,
+  zelluläre und systemische Prozesse in Fruchtfliege, Maus, Affe und Mensch untersuchen.
+  Im Gegensatz zu sensorischen, kognitiven oder affektiv-emotionalen Prozessen ist
+  Motorik quantifizierbar und artenübergreifend vergleichbar, was hilft, eine große
+  Herausforderung der Neurowissenschaften zu meistern: die molekulare, zelluläre und
+  Systemebene zu verbinden. Auf der Grundlage des in der ersten Förderperiode entwickelten
+  Konzeptes motorischer Kontrolle, das einen einheitlichen Ansatz über verschiedene
+  Ebenen und Arten hinweg ermöglicht, werden die Untersuchungen zu den Mechanismen
+  von Fortbewegung, Geschicklichkeit und Anpassung motorischer Kontrolle in der zweiten
+  FP ausgeweitet. Der SFB ist in drei interaktive Bereiche gegliedert. Nach der Identifizierung
+  relevanter Komponenten motorischer Kontrolle in der ersten FP werden die Projekte
+  des Bereichs A (Identifizierung kritischer Gene, Moleküle und Netzwerke) unser Verständnis
+  der Interaktion von Molekülen, Zellen und Netzwerken bei willkürlichen Bewegungen
+  verbessern. Bereich B (Schlüsselmechanismen motorischer Kontrolle über die gesamte
+  Lebensspanne) wird untersuchen, wie motorische Anpassung ermöglicht wird und wie
+  sie zur Reifung motorischer Kontrolle und ihrer Plastizität bei neurodegenerativen
+  Krankheiten oder Schlaganfall beiträgt. Bereich C (Funktion und Dysfunktion der
+  motorischen Kontrolle bei neuropsychiatrischen Störungen) untersucht gestörte motorischer
+  Kontrolle bei neuropsychiatrischen Erkrankungen als "Läsionsmodell" und vertieft
+  das neu entwickelte Thema einer zustandsabhängigen motorischen Kontrolle. Service-Projekte
+  tragen essentiell zum Forschungsprogramm bei, indem sie umfangreiche Verhaltensmessungen,
+  eine standardisierte Datenerfassung, -analyse und -modellierung artenübergreifend
+  ermöglichen. Bis zum Ende des maximalen Förderzeitraums wird der SFB ein umfassendes,
+  artenübergreifendes, die verschiedenen Ebenen abdeckendes Modell motorischer Kontrolle
+  entwickeln. Ein grundlegendes Verständnis motorischer Kontrolle wird neue Einsichten
+  in neuropsychiatrische Störungen mit gestörter Motorik und möglicherweise neue Perspektiven
+  für krankheitsmodifizierende Therapien ermöglichen.'
+pid: xyzrins:grants/sfb1451
+schema_type: xyzri:XYZGrant
+short_name: SFB 1451
+title: ' Key mechanisms of motor control in health and disease'

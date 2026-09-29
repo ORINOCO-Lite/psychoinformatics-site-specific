@@ -1,0 +1,55 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'The Emerging Neuroscience of Social Punishment: Meta-Analytic Evidence'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Social punishment (SOP)-third-party punishment (TPP) and second-party punishment
+    (SPP)-sanctions norm-deviant behavior. The hierarchical punishment model (HPM)
+    posits that TPP is an extension of SPP and both recruit common processes engaging
+    large-scale domain-general brain networks. Here, we provided meta-analytic evidence
+    to the HPM by combining the activation likelihood estimation approach with connectivity
+    analyses and hierarchical clustering analyses. Although both forms of SOP engaged
+    the dorsolateral prefrontal cortex and bilateral anterior insula (AI), a functional
+    differentiation also emerged with TPP preferentially engaging social cognitive
+    regions (temporoparietal junction) and SPP affective regions (AI). Further, although
+    both TPP and SPP recruit domain-general networks (salience, default-mode, and
+    central-executive networks), some specificity in network organization was observed.
+    By revealing differences and commonalities of the neural networks consistently
+    activated by different types of SOP, our findings contribute to a better understanding
+    of the neuropsychological mechanisms of social punishment behavior--one of the
+    most peculiar human behaviors.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Social punishment (SOP)-third-party punishment (TPP) and second-party
+  punishment (SPP)-sanctions norm-deviant behavior. The hierarchical punishment model
+  (HPM) posits that TPP is an extension of SPP and both recruit common processes engaging
+  large-scale domain-general brain networks. Here, we provided meta-analytic evidence
+  to the HPM by combining the activation likelihood estimation approach with connectivity
+  analyses and hierarchical clustering analyses. Although both forms of SOP engaged
+  the dorsolateral prefrontal cortex and bilateral anterior insula (AI), a functional
+  differentiation also emerged with TPP preferentially engaging social cognitive regions
+  (temporoparietal junction) and SPP affective regions (AI). Further, although both
+  TPP and SPP recruit domain-general networks (salience, default-mode, and central-executive
+  networks), some specificity in network organization was observed. By revealing differences
+  and commonalities of the neural networks consistently activated by different types
+  of SOP, our findings contribute to a better understanding of the neuropsychological
+  mechanisms of social punishment behavior--one of the most peculiar human behaviors.
+generated_by:
+- at_location: ISSN:0149-7634
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2020.04.011
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/f8594aae-4ef6-4826-b9ff-0358743a8c01
+schema_type: xyzri:XYZPublication
+title: 'The Emerging Neuroscience of Social Punishment: Meta-Analytic Evidence'

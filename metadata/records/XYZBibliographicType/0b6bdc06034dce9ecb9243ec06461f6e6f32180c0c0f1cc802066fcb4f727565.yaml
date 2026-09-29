@@ -1,0 +1,4 @@
+description: aka movie.
+display_label: Film
+pid: bibo:Film
+schema_type: xyzri:XYZBibliographicType

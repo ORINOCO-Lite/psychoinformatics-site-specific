@@ -1,0 +1,62 @@
+attributed_to:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Longitudinal trajectories of resilient psychosocial functioning link to ongoing
+    cortical myelination and functional reorganization during adolescence
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Adolescence is a period of dynamic brain remodeling and susceptibility to
+    psychiatric risk factors, mediated by the protracted consolidation of association
+    cortices. Here, we investigated whether intra-individual trajectories of psychosocial
+    functioning relative to environmental stressor exposure - including adverse life
+    events, dysfunctional family settings, and socio-economic status - are tied to
+    myeloarchitectural maturation and down-stream effects on intrinsic function. To
+    this end, we employed longitudinal myelin-sensitive Magnetic Transfer (MT) and
+    resting-state imaging in the NSPN cohort (aged 14-26y). Developing towards more
+    resilient psychosocial functioning was linked to increasing myelination in the
+    anterolateral prefrontal cortex, which exhibited stabilized functional connectivity.
+    Studying depth-specific intracortical MT profiles and the cortex-wide synchronization
+    of myeloarchitectural maturation, we further observed wide-spread myeloarchitectural
+    re-configuration of association cortices paralleled by attenuated functional reorganization
+    with increasingly resilient outcomes. Together, trajectories of resilient/susceptible
+    psychosocial functioning showed considerable intra-individual change reflected
+    in multi-modal cortical refinement processes at the local and system-level.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Adolescence is a period of dynamic brain remodeling and susceptibility
+  to psychiatric risk factors, mediated by the protracted consolidation of association
+  cortices. Here, we investigated whether intra-individual trajectories of psychosocial
+  functioning relative to environmental stressor exposure - including adverse life
+  events, dysfunctional family settings, and socio-economic status - are tied to myeloarchitectural
+  maturation and down-stream effects on intrinsic function. To this end, we employed
+  longitudinal myelin-sensitive Magnetic Transfer (MT) and resting-state imaging in
+  the NSPN cohort (aged 14-26y). Developing towards more resilient psychosocial functioning
+  was linked to increasing myelination in the anterolateral prefrontal cortex, which
+  exhibited stabilized functional connectivity. Studying depth-specific intracortical
+  MT profiles and the cortex-wide synchronization of myeloarchitectural maturation,
+  we further observed wide-spread myeloarchitectural re-configuration of association
+  cortices paralleled by attenuated functional reorganization with increasingly resilient
+  outcomes. Together, trajectories of resilient/susceptible psychosocial functioning
+  showed considerable intra-individual change reflected in multi-modal cortical refinement
+  processes at the local and system-level.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.31234/osf.io/2dv68
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/9906e558-5add-4397-a7e7-0bfd03e502e9
+schema_type: xyzri:XYZPublication
+title: Longitudinal trajectories of resilient psychosocial functioning link to ongoing
+  cortical myelination and functional reorganization during adolescence

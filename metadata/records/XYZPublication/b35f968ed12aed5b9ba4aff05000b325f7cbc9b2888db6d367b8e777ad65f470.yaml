@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Connectivity profile and function of uniquely human cortical areas
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Determining the brain specializations unique to humans requires directly
+    comparative anatomical information from other primates, especially our closest
+    relatives. Human (Homo sapiens) (m/f), chimpanzee (Pan troglodytes) (f), and rhesus
+    macaque (Macaca mulatta) (m/f) white matter atlases were used to create connectivity
+    blueprints, i.e., descriptions of the cortical grey matter in terms of the connectivity
+    with homologous white matter tracts. This allowed a quantitative comparative of
+    cortical organization across the species. We identified human-unique connectivity
+    profiles concentrated in temporal and parietal cortices, and hominid-unique organization
+    in prefrontal cortex. Functional decoding revealed human-unique hotspots correlated
+    with language processing and social cognition. Overall, our results counter models
+    that assign primacy to prefrontal cortex for human uniqueness.Significance statement
+    Understanding what makes the human brain unique requires direct comparisons with
+    other primates, particularly our closest relatives. Using connectivity blueprints,
+    we compared to cortical organization of the human to that of the macaque and,
+    for the first time, the chimpanzee. This approach revealed human-specific connectivity
+    patterns in the temporal and parietal lobes, regions linked to language and social
+    cognition. These findings challenge traditional views that prioritize the prefrontal
+    cortex in defining human cognitive uniqueness, emphasizing instead the importance
+    of temporal and parietal cortical evolution in shaping our species' abilities.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Determining the brain specializations unique to humans requires directly
+  comparative anatomical information from other primates, especially our closest relatives.
+  Human (Homo sapiens) (m/f), chimpanzee (Pan troglodytes) (f), and rhesus macaque
+  (Macaca mulatta) (m/f) white matter atlases were used to create connectivity blueprints,
+  i.e., descriptions of the cortical grey matter in terms of the connectivity with
+  homologous white matter tracts. This allowed a quantitative comparative of cortical
+  organization across the species. We identified human-unique connectivity profiles
+  concentrated in temporal and parietal cortices, and hominid-unique organization
+  in prefrontal cortex. Functional decoding revealed human-unique hotspots correlated
+  with language processing and social cognition. Overall, our results counter models
+  that assign primacy to prefrontal cortex for human uniqueness.Significance statement
+  Understanding what makes the human brain unique requires direct comparisons with
+  other primates, particularly our closest relatives. Using connectivity blueprints,
+  we compared to cortical organization of the human to that of the macaque and, for
+  the first time, the chimpanzee. This approach revealed human-specific connectivity
+  patterns in the temporal and parietal lobes, regions linked to language and social
+  cognition. These findings challenge traditional views that prioritize the prefrontal
+  cortex in defining human cognitive uniqueness, emphasizing instead the importance
+  of temporal and parietal cortical evolution in shaping our species' abilities.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0270-6474
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1523/JNEUROSCI.2017-24.2025
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/7e5d37b8-a204-49ca-859d-a3d3e65d47f7
+schema_type: xyzri:XYZPublication
+title: Connectivity profile and function of uniquely human cortical areas

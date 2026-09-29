@@ -1,0 +1,5 @@
+description: A place where a university that is associated with a resource is located,
+  for example, a university where an academic dissertation or thesis was presented
+display_label: University place
+pid: marcrel:uvp
+schema_type: xyzri:XYZAgentRole

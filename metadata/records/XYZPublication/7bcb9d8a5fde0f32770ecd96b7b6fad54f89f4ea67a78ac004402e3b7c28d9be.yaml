@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/534d28e8-d6e0-4a7f-8ba3-bf59298c9221
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/8f836375-520c-43d7-afb6-29abea72c0ab
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c643dc9e-7b8a-4a32-aa1b-6f371c82880a
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Functional network reorganization in older adults: Graph-theoretical analyses
+    of age, cognition and sex'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Healthy aging has been associated with a decrease in functional network specialization.
+    Importantly, variability of alterations of functional connectivity is especially
+    high across older adults. Whole-brain functional network reorganization, though,
+    and its impact on cognitive performance within particularly the older generation
+    is still a matter of debate. We assessed resting state functional connectivity
+    (RSFC) in 772 older adults (55-85 years, 421 males) using a graph-theoretical
+    approach. Results show overall age-related increases of between- and decreases
+    of within-network RSFC. With similar phenomena observed in young to middle-aged
+    adults, i.e. that RSFC reorganizes towards more pronounced functional network
+    integration, the current results amend such evidence for the old age. The results
+    furthermore indicate that RSFC reorganization in older adults particularly pertain
+    to early sensory networks (e.g. visual and sensorimotor network). Importantly,
+    RSFC differences of these early sensory networks were found to be a relevant mediator
+    in terms of the age-related cognitive performance differences. Further, we found
+    systematic sex-related network differences with females showing patterns of more
+    segregation (i.e. default mode and ventral attention network) and males showing
+    a higher integrated network system (particularly for the sensorimotor network).
+    These findings underpin the notion of sex-related connectivity differences, possibly
+    facilitating sex-related behavioral functioning.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Healthy aging has been associated with a decrease in functional network
+  specialization. Importantly, variability of alterations of functional connectivity
+  is especially high across older adults. Whole-brain functional network reorganization,
+  though, and its impact on cognitive performance within particularly the older generation
+  is still a matter of debate. We assessed resting state functional connectivity (RSFC)
+  in 772 older adults (55-85 years, 421 males) using a graph-theoretical approach.
+  Results show overall age-related increases of between- and decreases of within-network
+  RSFC. With similar phenomena observed in young to middle-aged adults, i.e. that
+  RSFC reorganizes towards more pronounced functional network integration, the current
+  results amend such evidence for the old age. The results furthermore indicate that
+  RSFC reorganization in older adults particularly pertain to early sensory networks
+  (e.g. visual and sensorimotor network). Importantly, RSFC differences of these early
+  sensory networks were found to be a relevant mediator in terms of the age-related
+  cognitive performance differences. Further, we found systematic sex-related network
+  differences with females showing patterns of more segregation (i.e. default mode
+  and ventral attention network) and males showing a higher integrated network system
+  (particularly for the sensorimotor network). These findings underpin the notion
+  of sex-related connectivity differences, possibly facilitating sex-related behavioral
+  functioning.
+generated_by:
+- at_location: ISSN:1053-8119
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2020.116756
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/65354f46-573e-4cb9-ad00-2753ed601db9
+schema_type: xyzri:XYZPublication
+title: 'Functional network reorganization in older adults: Graph-theoretical analyses
+  of age, cognition and sex'

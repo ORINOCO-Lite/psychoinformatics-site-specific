@@ -1,0 +1,6 @@
+annotations:
+  obo:NCIT_C54269: s.heunis@fz-juelich.de
+  sio:SIO_001083: '2026-04-23T10:28:03.775670'
+display_label: Source code repository
+pid: obo:APOLLO_SV_00000488
+schema_type: dlthings:Property

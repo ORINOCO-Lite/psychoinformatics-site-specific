@@ -1,0 +1,75 @@
+attributed_to:
+- object: xyzrins:persons/c3e4db14-5d1c-4156-bb3e-ffc905751e98
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Convergent abnormality in the subgenual anterior cingulate cortex in insomnia
+    disorder: A revisited neuroimaging meta-analysis of 39 studies'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The neurobiological underpinnings of insomnia disorder (ID) are still poorly
+    understood. A previous meta-analysis conducted by our research group in 2018 revealed
+    no consistent regional alterations based on the limited number of eligible studies.
+    Given the number of studies published during the last few years, we revisited
+    the meta-analysis to provide an update to the field. Following the best-practice
+    guidelines for conducting neuroimaging meta-analyses, we searched several databases
+    (PubMed, Web of Science, and BrainMap) and identified 39 eligible structural and
+    functional studies, reporting coordinates reﬂecting significant group differences
+    between ID patients and healthy controls. A significant convergent regional alteration
+    in the subgenual anterior cingulate cortex (sgACC) was observed using the activation
+    likelihood estimation algorithm. Behavioural decoding using the BrainMap database
+    indicated that this region is involved in fear-related emotional and cognitive
+    processing. The sgACC showed robust task-based co-activation in meta-analytic
+    connectivity modelling and task-free functional connectivity in a resting-state
+    functional connectivity analysis with the main hubs of the salience and default
+    mode networks, including the posterior cingulate cortex and dorsal ACC, amygdala,
+    hippocampus, and medial prefrontal cortex. Collectively, the findings from this
+    large-scale meta-analysis suggest a critical role of the sgACC in the pathophysiology
+    of ID.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The neurobiological underpinnings of insomnia disorder (ID) are still
+  poorly understood. A previous meta-analysis conducted by our research group in 2018
+  revealed no consistent regional alterations based on the limited number of eligible
+  studies. Given the number of studies published during the last few years, we revisited
+  the meta-analysis to provide an update to the field. Following the best-practice
+  guidelines for conducting neuroimaging meta-analyses, we searched several databases
+  (PubMed, Web of Science, and BrainMap) and identified 39 eligible structural and
+  functional studies, reporting coordinates reﬂecting significant group differences
+  between ID patients and healthy controls. A significant convergent regional alteration
+  in the subgenual anterior cingulate cortex (sgACC) was observed using the activation
+  likelihood estimation algorithm. Behavioural decoding using the BrainMap database
+  indicated that this region is involved in fear-related emotional and cognitive processing.
+  The sgACC showed robust task-based co-activation in meta-analytic connectivity modelling
+  and task-free functional connectivity in a resting-state functional connectivity
+  analysis with the main hubs of the salience and default mode networks, including
+  the posterior cingulate cortex and dorsal ACC, amygdala, hippocampus, and medial
+  prefrontal cortex. Collectively, the findings from this large-scale meta-analysis
+  suggest a critical role of the sgACC in the pathophysiology of ID.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1087-0792
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.smrv.2023.101821
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/6491d16e-ed16-471b-a827-ac34e887463d
+schema_type: xyzri:XYZPublication
+title: 'Convergent abnormality in the subgenual anterior cingulate cortex in insomnia
+  disorder: A revisited neuroimaging meta-analysis of 39 studies'

@@ -1,0 +1,33 @@
+associated_with:
+- object: xyzrins:persons/60feb346-954c-4625-93d6-1b8bd1ca0dfa
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+description: With the support of the Federal Ministry of Education and Research (BMBF),
+  the Research Hub Neuroethics (RHUNE) aims to help better connect research in the
+  field of neuroethics in Germany, increase its international visibility and provide
+  a contact point for policymakers, industry and civil society. On behalf of the University
+  of Mannheim, iRights.Lab supports the establishment of a digital information and
+  contact centre and facilitates networking activities to improve the integration
+  of relevant actors.
+ended:
+  at_time: '2028-02-29'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2028-02-29'
+    schema_type: dlthings:End
+  object: xyzrins:grants/927d6d5b-09f1-4432-97c2-ced899a19bff
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2024-10-01'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/3e30b1db-1b3a-4cd6-b3e1-426fa8912a08
+schema_type: xyzri:XYZProject
+short_name: RHUNE
+started:
+  at_time: '2024-03-01'
+  schema_type: dlthings:Start
+title: Research Hub Neuroethics

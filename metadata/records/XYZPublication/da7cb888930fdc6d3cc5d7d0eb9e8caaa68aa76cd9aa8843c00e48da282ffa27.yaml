@@ -1,0 +1,85 @@
+attributed_to:
+- object: xyzrins:persons/41666a91-143f-49f5-8e58-0a3bd6c4e10c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Mapping the interplay of atrial fibrillation, brain structure, and cognitive
+    dysfunction
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Introduction: Atrial fibrillation (AF) is associated with an elevated risk
+    of cognitive impairment and dementia. Understanding the cognitive sequelae and
+    brain structural changes associated with AF is vital for addressing ensuing health
+    care needs.Methods and results: We examined 1335 stroke-free individuals with
+    AF and 2683 matched controls using neuropsychological assessments and multimodal
+    neuroimaging. The analysis revealed that individuals with AF exhibited deficits
+    in executive function, processing speed, and reasoning, accompanied by reduced
+    cortical thickness, elevated extracellular free-water content, and widespread
+    white matter abnormalities, indicative of small vessel pathology. Notably, brain
+    structural differences statistically mediated the relationship between AF and
+    cognitive performance.Discussion: Integrating a comprehensive analysis approach
+    with extensive clinical and magnetic resonance imaging data, our study highlights
+    small vessel pathology as a possible unifying link among AF, cognitive decline,
+    and abnormal brain structure. These insights can inform diagnostic approaches
+    and motivate the ongoing implementation of effective therapeutic strategies. Highlights
+    We investigated neuropsychological and multimodal neuroimaging data of 1335 individuals
+    with atrial fibrillation (AF) and 2683 matched controls. Our analysis revealed
+    AF-associated deficits in cognitive domains of attention, executive function,
+    processing speed, and reasoning. Cognitive deficits in the AF group were accompanied
+    by structural brain alterations including reduced cortical thickness and gray
+    matter volume, alongside increased extracellular free-water content as well as
+    widespread differences of white matter integrity. Structural brain changes statistically
+    mediated the link between AF and cognitive performance, emphasizing the potential
+    of structural imaging markers as a diagnostic tool in AF-related cognitive decline.Keywords:
+    atrial fibrillation; diffusion magnetic resonance imaging; neuroimaging; neuropsychological
+    assessment; structural magnetic resonance imaging'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Introduction: Atrial fibrillation (AF) is associated with an elevated
+  risk of cognitive impairment and dementia. Understanding the cognitive sequelae
+  and brain structural changes associated with AF is vital for addressing ensuing
+  health care needs.Methods and results: We examined 1335 stroke-free individuals
+  with AF and 2683 matched controls using neuropsychological assessments and multimodal
+  neuroimaging. The analysis revealed that individuals with AF exhibited deficits
+  in executive function, processing speed, and reasoning, accompanied by reduced cortical
+  thickness, elevated extracellular free-water content, and widespread white matter
+  abnormalities, indicative of small vessel pathology. Notably, brain structural differences
+  statistically mediated the relationship between AF and cognitive performance.Discussion:
+  Integrating a comprehensive analysis approach with extensive clinical and magnetic
+  resonance imaging data, our study highlights small vessel pathology as a possible
+  unifying link among AF, cognitive decline, and abnormal brain structure. These insights
+  can inform diagnostic approaches and motivate the ongoing implementation of effective
+  therapeutic strategies. Highlights We investigated neuropsychological and multimodal
+  neuroimaging data of 1335 individuals with atrial fibrillation (AF) and 2683 matched
+  controls. Our analysis revealed AF-associated deficits in cognitive domains of attention,
+  executive function, processing speed, and reasoning. Cognitive deficits in the AF
+  group were accompanied by structural brain alterations including reduced cortical
+  thickness and gray matter volume, alongside increased extracellular free-water content
+  as well as widespread differences of white matter integrity. Structural brain changes
+  statistically mediated the link between AF and cognitive performance, emphasizing
+  the potential of structural imaging markers as a diagnostic tool in AF-related cognitive
+  decline.Keywords: atrial fibrillation; diffusion magnetic resonance imaging; neuroimaging;
+  neuropsychological assessment; structural magnetic resonance imaging'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1552-5260
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/alz.13870
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/f7ea24b9-0d52-486c-a2a6-b438d00f747e
+schema_type: xyzri:XYZPublication
+title: Mapping the interplay of atrial fibrillation, brain structure, and cognitive
+  dysfunction

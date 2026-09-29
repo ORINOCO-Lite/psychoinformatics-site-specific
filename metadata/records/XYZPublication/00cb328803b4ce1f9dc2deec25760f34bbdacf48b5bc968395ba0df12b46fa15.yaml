@@ -1,0 +1,67 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Spatial Topography of Individual-Specific Cortical Networks Predicts Human
+    Cognition, Personality, and Emotion
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Resting-state functional magnetic resonance imaging (rs-fMRI) offers the
+    opportunity to delineate individual-specific brain networks. A major question
+    is whether individual-specific network topography (i.e., location and spatial
+    arrangement) is behaviorally relevant. Here, we propose a multi-session hierarchical
+    Bayesian model (MS-HBM) for estimating individual-specific cortical networks and
+    investigate whether individual-specific network topography can predict human behavior.
+    The multiple layers of the MS-HBM explicitly differentiate intra-subject (within-subject)
+    from inter-subject (between-subject) network variability. By ignoring intra-subject
+    variability, previous network mappings might confuse intra-subject variability
+    for inter-subject differences. Compared with other approaches, MS-HBM parcellations
+    generalized better to new rs-fMRI and task-fMRI data from the same subjects. More
+    specifically, MS-HBM parcellations estimated from a single rs-fMRI session (10
+    min) showed comparable generalizability as parcellations estimated by 2 state-of-the-art
+    methods using 5 sessions (50 min). We also showed that behavioral phenotypes across
+    cognition, personality, and emotion could be predicted by individual-specific
+    network topography with modest accuracy, comparable to previous reports predicting
+    phenotypes based on connectivity strength. Network topography estimated by MS-HBM
+    was more effective for behavioral prediction than network size, as well as network
+    topography estimated by other parcellation approaches. Thus, similar to connectivity
+    strength, individual-specific network topography might also serve as a fingerprint
+    of human behavior.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Resting-state functional magnetic resonance imaging (rs-fMRI) offers
+  the opportunity to delineate individual-specific brain networks. A major question
+  is whether individual-specific network topography (i.e., location and spatial arrangement)
+  is behaviorally relevant. Here, we propose a multi-session hierarchical Bayesian
+  model (MS-HBM) for estimating individual-specific cortical networks and investigate
+  whether individual-specific network topography can predict human behavior. The multiple
+  layers of the MS-HBM explicitly differentiate intra-subject (within-subject) from
+  inter-subject (between-subject) network variability. By ignoring intra-subject variability,
+  previous network mappings might confuse intra-subject variability for inter-subject
+  differences. Compared with other approaches, MS-HBM parcellations generalized better
+  to new rs-fMRI and task-fMRI data from the same subjects. More specifically, MS-HBM
+  parcellations estimated from a single rs-fMRI session (10 min) showed comparable
+  generalizability as parcellations estimated by 2 state-of-the-art methods using
+  5 sessions (50 min). We also showed that behavioral phenotypes across cognition,
+  personality, and emotion could be predicted by individual-specific network topography
+  with modest accuracy, comparable to previous reports predicting phenotypes based
+  on connectivity strength. Network topography estimated by MS-HBM was more effective
+  for behavioral prediction than network size, as well as network topography estimated
+  by other parcellation approaches. Thus, similar to connectivity strength, individual-specific
+  network topography might also serve as a fingerprint of human behavior.
+generated_by:
+- at_location: ISSN:1047-3211
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/cercor/bhy123
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/cc97b00a-ee9d-4e55-810f-99480555055c
+schema_type: xyzri:XYZPublication
+title: Spatial Topography of Individual-Specific Cortical Networks Predicts Human
+  Cognition, Personality, and Emotion

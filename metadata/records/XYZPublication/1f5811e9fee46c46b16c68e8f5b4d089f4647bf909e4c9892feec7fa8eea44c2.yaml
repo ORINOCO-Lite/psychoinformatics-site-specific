@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: ERP-based interbrain causal model reveals closed-loop information interaction
+    in interpersonal negotiations
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: decision-making dynamics in resource allocation. In this study, we used EEG
+    hyperscanning alongside an iteratedultimatum game to investigate interbrain coupling
+    and dyadic exchange behavior during negotiation. Frontalcortex event-related potentials
+    (ERPs) revealed the distinct neural responses driven by partners’ behavioral cues:the
+    proposer’s N200 differed significantly for fair versus unfair offers, and the
+    responder’s feedback-relatednegativity (FRN) showed a trend toward significance
+    for the same contrast, while the proposer’s N500 variedbetween acceptance and
+    rejection feedback. Our analysis introduced a novel causal model based on directionalphase
+    transfer entropy (dPTE) and time-varying ERP amplitudes, illustrating directed
+    neural processes driven bysocial exchange, where the proposer’s brain activity
+    initially exerts a causal impact on the responder’s, whosefeedback in turn influences
+    the proposer, creating a closed-loop interaction that drives adaptive negotiationstrategies.
+    Additionally, our prediction model with autoregression with exogenous input, which
+    incorporatedthese causal links between brains, demonstrated higher accuracy than
+    single-brain or reverse causal models,underscoring the significance of dynamic
+    interbrain coupling in interpersonal coordination. This causal modelprovides a
+    mechanistic explanation of how proposer-responder pairs perceive and adapt to
+    each other’s de-cisions, facilitating shared attention and behavioral coordination
+    in reciprocal, asymmetric negotiations. Thesefindings offer a novel theoretical
+    framework for studying complex social behaviors through interbrain dynamicsand
+    may inspire future applications in enhancing cooperative decision-making processes.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: decision-making dynamics in resource allocation. In this study, we used
+  EEG hyperscanning alongside an iteratedultimatum game to investigate interbrain
+  coupling and dyadic exchange behavior during negotiation. Frontalcortex event-related
+  potentials (ERPs) revealed the distinct neural responses driven by partners’ behavioral
+  cues:the proposer’s N200 differed significantly for fair versus unfair offers, and
+  the responder’s feedback-relatednegativity (FRN) showed a trend toward significance
+  for the same contrast, while the proposer’s N500 variedbetween acceptance and rejection
+  feedback. Our analysis introduced a novel causal model based on directionalphase
+  transfer entropy (dPTE) and time-varying ERP amplitudes, illustrating directed neural
+  processes driven bysocial exchange, where the proposer’s brain activity initially
+  exerts a causal impact on the responder’s, whosefeedback in turn influences the
+  proposer, creating a closed-loop interaction that drives adaptive negotiationstrategies.
+  Additionally, our prediction model with autoregression with exogenous input, which
+  incorporatedthese causal links between brains, demonstrated higher accuracy than
+  single-brain or reverse causal models,underscoring the significance of dynamic interbrain
+  coupling in interpersonal coordination. This causal modelprovides a mechanistic
+  explanation of how proposer-responder pairs perceive and adapt to each other’s de-cisions,
+  facilitating shared attention and behavioral coordination in reciprocal, asymmetric
+  negotiations. Thesefindings offer a novel theoretical framework for studying complex
+  social behaviors through interbrain dynamicsand may inspire future applications
+  in enhancing cooperative decision-making processes.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2025.121541
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/d009830b-0388-48e4-a5f5-515d2d4dbe6f
+schema_type: xyzri:XYZPublication
+title: ERP-based interbrain causal model reveals closed-loop information interaction
+  in interpersonal negotiations

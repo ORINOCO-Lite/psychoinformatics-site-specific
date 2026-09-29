@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Gradients of Brain Organization: Smooth Sailing from Methods Development
+    to User Community'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Multimodal neuroimaging grants a powerful in vivo window into the structure
+    and function of the human brain. Recent methodological and conceptual advances
+    have enabled investigations of the interplay between large-scale spatial trends
+    – or gradients – in brain structure and function, offering a framework to unify
+    principles of brain organization across multiple scales. Strong community enthusiasm
+    for these techniques has been instrumental in their widespread adoption and implementation
+    to answer key questions in neuroscience. Following a brief review of current literature
+    on this framework, this perspective paper will highlight how pragmatic steps aiming
+    to make gradient methods more accessible to the community propelled these techniques
+    to the forefront of neuroscientific inquiry. More specifically, we will emphasize
+    how interest for gradient methods was catalyzed by data sharing, open-source software
+    development, as well as the organization of dedicated workshops led by a diverse
+    team of early career researchers. To this end, we argue that the growing excitement
+    for brain gradients is the result of coordinated and consistent efforts to build
+    an inclusive community and can serve as a case in point for future innovations
+    and conceptual advances in neuroinformatics. We close this perspective paper by
+    discussing challenges for the continuous refinement of neuroscientific theory,
+    methodological innovation, and real-world translation to maintain our collective
+    progress towards integrated models of brain organization.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Multimodal neuroimaging grants a powerful in vivo window into the structure
+  and function of the human brain. Recent methodological and conceptual advances have
+  enabled investigations of the interplay between large-scale spatial trends – or
+  gradients – in brain structure and function, offering a framework to unify principles
+  of brain organization across multiple scales. Strong community enthusiasm for these
+  techniques has been instrumental in their widespread adoption and implementation
+  to answer key questions in neuroscience. Following a brief review of current literature
+  on this framework, this perspective paper will highlight how pragmatic steps aiming
+  to make gradient methods more accessible to the community propelled these techniques
+  to the forefront of neuroscientific inquiry. More specifically, we will emphasize
+  how interest for gradient methods was catalyzed by data sharing, open-source software
+  development, as well as the organization of dedicated workshops led by a diverse
+  team of early career researchers. To this end, we argue that the growing excitement
+  for brain gradients is the result of coordinated and consistent efforts to build
+  an inclusive community and can serve as a case in point for future innovations and
+  conceptual advances in neuroinformatics. We close this perspective paper by discussing
+  challenges for the continuous refinement of neuroscientific theory, methodological
+  innovation, and real-world translation to maintain our collective progress towards
+  integrated models of brain organization.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1539-2791
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s12021-024-09660-y
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/198b4498-44eb-470c-b008-941912173378
+schema_type: xyzri:XYZPublication
+title: 'Gradients of Brain Organization: Smooth Sailing from Methods Development to
+  User Community'

@@ -1,0 +1,75 @@
+attributed_to:
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c3e4db14-5d1c-4156-bb3e-ffc905751e98
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: A quantitative account of how limited information sharing undermines comprehensive
+    literature syntheses
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Crucial aspects of reproducible, replicable and reusable science include
+    the responsiveness of study authors for clarifications and the availability of
+    research data and analysis results. Getting in contact with authors and obtaining
+    information or results is, however, not always straight-forward. Here we report
+    and discuss the issues and obstacles we faced when contacting authors of scientific
+    papers with such requests. Our investigation rests on the results of a retrospective
+    quantitative analysis of research data requests sent to authors of neuroimaging
+    studies for a series of meta-analyses. Overall, only 52% of the requests received
+    a reply, and only 29% contributed data or information that was relevant for the
+    respective meta-analysis. Obtaining a response was less likely if (i) the request
+    was sent to the contact e-mail address provided in the publication, (ii) behavioral
+    data was requested, (iii) reminders had to be sent, or (iv) there was no personal
+    acquaintance with the contacted author. As expected, obtaining unpublished data
+    or information from older publications was significantly more difficult than for
+    more recent ones. We discuss possible reasons for the observed low response rates
+    and limited sharing of information and conclude our account by providing suggestions
+    to improve open-science practices and by pointing to a need for change in the
+    academic system to foster better research data management for transparency and
+    efficient reuse of results.Keywords: Data sharing; Reproducibility; Research synthesis;
+    Systematic review; Transparency.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Crucial aspects of reproducible, replicable and reusable science include
+  the responsiveness of study authors for clarifications and the availability of research
+  data and analysis results. Getting in contact with authors and obtaining information
+  or results is, however, not always straight-forward. Here we report and discuss
+  the issues and obstacles we faced when contacting authors of scientific papers with
+  such requests. Our investigation rests on the results of a retrospective quantitative
+  analysis of research data requests sent to authors of neuroimaging studies for a
+  series of meta-analyses. Overall, only 52% of the requests received a reply, and
+  only 29% contributed data or information that was relevant for the respective meta-analysis.
+  Obtaining a response was less likely if (i) the request was sent to the contact
+  e-mail address provided in the publication, (ii) behavioral data was requested,
+  (iii) reminders had to be sent, or (iv) there was no personal acquaintance with
+  the contacted author. As expected, obtaining unpublished data or information from
+  older publications was significantly more difficult than for more recent ones. We
+  discuss possible reasons for the observed low response rates and limited sharing
+  of information and conclude our account by providing suggestions to improve open-science
+  practices and by pointing to a need for change in the academic system to foster
+  better research data management for transparency and efficient reuse of results.Keywords:
+  Data sharing; Reproducibility; Research synthesis; Systematic review; Transparency.'
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0149-7634
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2026.106693
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/4e7bd325-03d0-4dca-b64b-d920c3b73a2f
+schema_type: xyzri:XYZPublication
+title: A quantitative account of how limited information sharing undermines comprehensive
+  literature syntheses

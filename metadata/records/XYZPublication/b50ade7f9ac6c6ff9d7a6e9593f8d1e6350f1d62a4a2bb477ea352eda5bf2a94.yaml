@@ -1,0 +1,36 @@
+attributed_to:
+- object: xyzrins:persons/9667ad1d-d904-4eea-9d86-7af45f176cb4
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/269a3b65-df26-4c0d-a6a9-2c4410750dc8
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Is there any consistent structural and functional brain abnormality in narcolepsy?
+    A meta-analytic perspective
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0149-7634
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2021.10.034
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/d4398ba8-af6f-4174-9149-70df2dd36963
+schema_type: xyzri:XYZPublication
+title: Is there any consistent structural and functional brain abnormality in narcolepsy?
+  A meta-analytic perspective

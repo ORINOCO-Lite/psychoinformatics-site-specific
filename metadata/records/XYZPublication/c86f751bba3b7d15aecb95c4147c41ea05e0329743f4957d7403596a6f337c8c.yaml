@@ -1,0 +1,18 @@
+about:
+- xyzrins:topics/cognitive-science
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-04-01T09:57:03.959247'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+generated_by:
+- at_time: '2004'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/63212c2d-7d2a-4415-80f0-b1c9dd6a0488
+schema_type: xyzri:XYZPublication
+title: 'Wie die Bilder laufen lernten: Kognitive Prozesse bei der Bewegungswahrnehmung'

@@ -1,0 +1,41 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Is the Current Informed Consent Model Flawed?
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Informed consent is a widely acknowledged ethical principle that plays a
+    crucial role, both in research ethics and medical ethics. However, empirical findings
+    as well as theoretical considerations suggest that the current model of informed
+    consent might be flawed. In particular, the understanding of information disclosed
+    to patients and research participants during the consent process proves to be
+    limited. This, in turn, casts serious doubt on the validity of the consent. In
+    this paper, we will review the current state of research on informed consent and
+    discuss the charge of inadequacy. Subsequently, we will examine some suggestions
+    that have been presented in the literature to improve the current model of informed
+    consent. At the end, we will summarize the current state of the discussion and
+    give a brief outlook on future developments.
+characterized_by:
+- object: bibo:Chapter
+  predicate: dcterms:type
+description: Informed consent is a widely acknowledged ethical principle that plays
+  a crucial role, both in research ethics and medical ethics. However, empirical findings
+  as well as theoretical considerations suggest that the current model of informed
+  consent might be flawed. In particular, the understanding of information disclosed
+  to patients and research participants during the consent process proves to be limited.
+  This, in turn, casts serious doubt on the validity of the consent. In this paper,
+  we will review the current state of research on informed consent and discuss the
+  charge of inadequacy. Subsequently, we will examine some suggestions that have been
+  presented in the literature to improve the current model of informed consent. At
+  the end, we will summarize the current state of the discussion and give a brief
+  outlook on future developments.
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/978-3-030-99680-2_55
+  schema_type: dlthings:DOI
+kind: bibo:Chapter
+pid: xyzrins:publications/3384057e-dfc8-47d8-842e-e9406278633e
+schema_type: xyzri:XYZPublication
+title: Is the Current Informed Consent Model Flawed?

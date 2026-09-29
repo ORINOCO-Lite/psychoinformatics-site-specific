@@ -1,0 +1,66 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Functional Segregation of the Right Inferior Frontal Gyrus: Evidence From
+    Coactivation-Based Parcellation'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Previous studies helped unraveling the functional architecture of the human
+    cerebral cortex. However, a comprehensive functional segregation of right lateral
+    prefrontal cortex is missing. Here, we delineated cortical clusters in right area
+    44 and 45 based on their task-constrained whole-brain activation patterns across
+    neuroimaging experiments obtained from a large database. We identified 5 clusters
+    that differed with respect to their coactivation patterns, which were consistent
+    with resting-state functional connectivity patterns of an independent dataset.
+    Two clusters in the posterior inferior frontal gyrus (IFG) were functionally associated
+    with action inhibition and execution, while two anterior clusters were related
+    to reasoning and social cognitive processes. A fifth cluster was associated with
+    spatial attention. Strikingly, the functional organization of the right IFG can
+    thus be characterized by a posterior-to-anterior axis with action-related functions
+    on the posterior and cognition-related functions on the anterior end. We observed
+    further subdivisions along a dorsal-to-ventral axis in posterior IFG between action
+    execution and inhibition, and in anterior IFG between reasoning and social cognition.
+    The different clusters were integrated in distinct large-scale networks for various
+    cognitive processes. These results provide evidence for a general organization
+    of cognitive processes along axes spanning from more automatic to more complex
+    cognitive processes.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Previous studies helped unraveling the functional architecture of the
+  human cerebral cortex. However, a comprehensive functional segregation of right
+  lateral prefrontal cortex is missing. Here, we delineated cortical clusters in right
+  area 44 and 45 based on their task-constrained whole-brain activation patterns across
+  neuroimaging experiments obtained from a large database. We identified 5 clusters
+  that differed with respect to their coactivation patterns, which were consistent
+  with resting-state functional connectivity patterns of an independent dataset. Two
+  clusters in the posterior inferior frontal gyrus (IFG) were functionally associated
+  with action inhibition and execution, while two anterior clusters were related to
+  reasoning and social cognitive processes. A fifth cluster was associated with spatial
+  attention. Strikingly, the functional organization of the right IFG can thus be
+  characterized by a posterior-to-anterior axis with action-related functions on the
+  posterior and cognition-related functions on the anterior end. We observed further
+  subdivisions along a dorsal-to-ventral axis in posterior IFG between action execution
+  and inhibition, and in anterior IFG between reasoning and social cognition. The
+  different clusters were integrated in distinct large-scale networks for various
+  cognitive processes. These results provide evidence for a general organization of
+  cognitive processes along axes spanning from more automatic to more complex cognitive
+  processes.
+generated_by:
+- at_location: ISSN:1047-3211
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/cercor/bhy049
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/a755e6bc-c235-40db-aec6-01d130a80eae
+schema_type: xyzri:XYZPublication
+title: 'Functional Segregation of the Right Inferior Frontal Gyrus: Evidence From
+  Coactivation-Based Parcellation'

@@ -1,0 +1,14 @@
+attributed_to:
+- object: ror:0281dp749
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+identifiers:
+- creator: xyzrins:organizations/fzj
+  description: PSP Element Jülich
+  notation: D.B.002692
+  schema_type: dlthings:Identifier
+pid: xyzrins:grants/b705c302-2ec3-45a6-ab0d-a82f439a85f5
+schema_type: xyzri:XYZGrant
+short_name: NorMImag
+title: Normative Molecular Imaging for identifying disease heterogeneity

@@ -1,0 +1,99 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c643dc9e-7b8a-4a32-aa1b-6f371c82880a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b1340c22-8c5d-4983-84ed-36d950c130cc
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/269a3b65-df26-4c0d-a6a9-2c4410750dc8
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d25533c9-aef7-428e-a9e9-f2cbc5acf3a1
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/086e45ca-472d-4419-ad35-9082b142c638
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Functional parcellation of human and macaque striatum reveals human-specific
+    connectivity in the dorsal caudate
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: A wide homology between human and macaque striatum is often assumed as in
+    both the striatum is involved in cognition, emotion and executive functions. However,
+    differences in functional and structural organization between human and macaque
+    striatum may reveal evolutionary divergence and shed light on human vulnerability
+    to neuropsychiatric diseases. For instance, dopaminergic dysfunction of the human
+    striatum is considered to be a pathophysiological underpinning of different disorders,
+    such as Parkinson's disease (PD) and schizophrenia (SCZ). Previous investigations
+    have found a wide similarity in structural connectivity of the striatum between
+    human and macaque, leaving the cross-species comparison of its functional organization
+    unknown. In this study, resting-state functional connectivity (RSFC) derived striatal
+    parcels were compared based on their homologous cortico-striatal connectivity.
+    The goal here was to identify striatal parcels whose connectivity is human-specific
+    compared to macaque parcels. Functional parcellation revealed that the human striatum
+    was split into dorsal, dorsomedial, and rostral caudate and ventral, central,
+    and caudal putamen, while the macaque striatum was divided into dorsal, and rostral
+    caudate and rostral, and caudal putamen. Cross-species comparison indicated dissimilar
+    cortico-striatal RSFC of the topographically similar dorsal caudate. We probed
+    clinical relevance of the striatal clusters by examining differences in their
+    cortico-striatal RSFC and gray matter (GM) volume between patients (with PD and
+    SCZ) and healthy controls. We found abnormal RSFC not only between dorsal caudate,
+    but also between rostral caudate, ventral, central and caudal putamen and widespread
+    cortical regions for both PD and SCZ patients. Also, we observed significant structural
+    atrophy in rostral caudate, ventral and central putamen for both PD and SCZ while
+    atrophy in the dorsal caudate was specific to PD. Taken together, our cross-species
+    comparative results revealed shared and human-specific RSFC of different striatal
+    clusters reinforcing the complex organization and function of the striatum. In
+    addition, we provided a testable hypothesis that abnormalities in a region with
+    human-specific connectivity, i.e., dorsal caudate, might be associated with neuropsychiatric
+    disorders.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: A wide homology between human and macaque striatum is often assumed as
+  in both the striatum is involved in cognition, emotion and executive functions.
+  However, differences in functional and structural organization between human and
+  macaque striatum may reveal evolutionary divergence and shed light on human vulnerability
+  to neuropsychiatric diseases. For instance, dopaminergic dysfunction of the human
+  striatum is considered to be a pathophysiological underpinning of different disorders,
+  such as Parkinson's disease (PD) and schizophrenia (SCZ). Previous investigations
+  have found a wide similarity in structural connectivity of the striatum between
+  human and macaque, leaving the cross-species comparison of its functional organization
+  unknown. In this study, resting-state functional connectivity (RSFC) derived striatal
+  parcels were compared based on their homologous cortico-striatal connectivity. The
+  goal here was to identify striatal parcels whose connectivity is human-specific
+  compared to macaque parcels. Functional parcellation revealed that the human striatum
+  was split into dorsal, dorsomedial, and rostral caudate and ventral, central, and
+  caudal putamen, while the macaque striatum was divided into dorsal, and rostral
+  caudate and rostral, and caudal putamen. Cross-species comparison indicated dissimilar
+  cortico-striatal RSFC of the topographically similar dorsal caudate. We probed clinical
+  relevance of the striatal clusters by examining differences in their cortico-striatal
+  RSFC and gray matter (GM) volume between patients (with PD and SCZ) and healthy
+  controls. We found abnormal RSFC not only between dorsal caudate, but also between
+  rostral caudate, ventral, central and caudal putamen and widespread cortical regions
+  for both PD and SCZ patients. Also, we observed significant structural atrophy in
+  rostral caudate, ventral and central putamen for both PD and SCZ while atrophy in
+  the dorsal caudate was specific to PD. Taken together, our cross-species comparative
+  results revealed shared and human-specific RSFC of different striatal clusters reinforcing
+  the complex organization and function of the striatum. In addition, we provided
+  a testable hypothesis that abnormalities in a region with human-specific connectivity,
+  i.e., dorsal caudate, might be associated with neuropsychiatric disorders.
+generated_by:
+- at_location: ISSN:1053-8119
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2021.118006
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/4a1c0aa9-f80c-4c48-846e-828c6f0d8fcc
+schema_type: xyzri:XYZPublication
+title: Functional parcellation of human and macaque striatum reveals human-specific
+  connectivity in the dorsal caudate

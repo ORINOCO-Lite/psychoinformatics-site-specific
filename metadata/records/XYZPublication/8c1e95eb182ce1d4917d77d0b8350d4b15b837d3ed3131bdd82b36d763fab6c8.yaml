@@ -1,0 +1,64 @@
+attributed_to:
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Supplementary data to the article ''Beyond Volume: Unraveling the Genetics
+    of Human Brain Geometry'''
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Additional data and code of the article ''Beyond Volume: Unraveling the
+    Genetics of Human Brain Geometry'' including: FUMA SNP-to-Gene outputs Code for
+    Quality Control Laplace-Beltrami computation GWAS and post-GWAS-Analyses PCA of
+    Asymmetry CCA Heritability Replication  0_*.sh scripts show examples of how the
+    scripts were applied. The version 1.1.0 contains additionally archived packages,
+    which we used, including their corresponding licenses.Brain geometry impacts brain
+    function. A quantitative encoding of form is provided by the Laplace-Beltrami
+    operator’s spectrum of eigenvalues (LBS). We examined LBS genetics of 22 subcortical
+    brain structures and cerebellum in 19,862 healthy White-British UK Biobank participants
+    by multivariate GWAS on the first 49 eigenvalues each. Controlling for surface
+    and volume, we identified 80 unique variants influencing the shapes of one or
+    several structures, with the highest yield (37 variants) for brain stem. The previously
+    known influence of several of these loci on basic morphology, such as volume,
+    is thus shown to also influence complex shape. Known associations of observed
+    loci with blood pressure, neurodegeneration, alcohol consumption, and mental disorders
+    hint at preclinical stages of these conditions potentially mediating the genetic
+    effect on brain morphology. Significant correlations between LBS of several brain
+    structures and the polygenic risks of hypertension, ischemic stroke and schizophrenia
+    evince brain shapes as early biomarkers.'
+description: 'Additional data and code of the article ''Beyond Volume: Unraveling
+  the Genetics of Human Brain Geometry'' including: FUMA SNP-to-Gene outputs Code
+  for Quality Control Laplace-Beltrami computation GWAS and post-GWAS-Analyses PCA
+  of Asymmetry CCA Heritability Replication  0_*.sh scripts show examples of how the
+  scripts were applied. The version 1.1.0 contains additionally archived packages,
+  which we used, including their corresponding licenses.Brain geometry impacts brain
+  function. A quantitative encoding of form is provided by the Laplace-Beltrami operator’s
+  spectrum of eigenvalues (LBS). We examined LBS genetics of 22 subcortical brain
+  structures and cerebellum in 19,862 healthy White-British UK Biobank participants
+  by multivariate GWAS on the first 49 eigenvalues each. Controlling for surface and
+  volume, we identified 80 unique variants influencing the shapes of one or several
+  structures, with the highest yield (37 variants) for brain stem. The previously
+  known influence of several of these loci on basic morphology, such as volume, is
+  thus shown to also influence complex shape. Known associations of observed loci
+  with blood pressure, neurodegeneration, alcohol consumption, and mental disorders
+  hint at preclinical stages of these conditions potentially mediating the genetic
+  effect on brain morphology. Significant correlations between LBS of several brain
+  structures and the polygenic risks of hypertension, ischemic stroke and schizophrenia
+  evince brain shapes as early biomarkers.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/ZENODO.15040891
+  schema_type: dlthings:DOI
+pid: xyzrins:publications/eede265f-e551-45d6-93e1-943954a17c59
+schema_type: xyzri:XYZPublication
+title: 'Supplementary data to the article ''Beyond Volume: Unraveling the Genetics
+  of Human Brain Geometry'''

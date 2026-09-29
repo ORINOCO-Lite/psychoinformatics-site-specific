@@ -1,0 +1,69 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Modulation of simultaneously collected hemodynamic and electrophysiological
+    functional connectivity by ketamine and midazolam
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The pharmacological modulation of functional connectivity in the brain may
+    under-lie therapeutic efficacy for several neurological and psychiatric disorders.
+    Functionalmagnetic resonance imaging (fMRI) provides a noninvasive method of assessing
+    thismodulation, however, the indirect nature of the blood-oxygen level dependent
+    sig-nal restricts the discrimination of neural from physiological contributions.
+    Here wefollowed two approaches to assess the validity of fMRI functional connectivity
+    indeveloping drug biomarkers, using simultaneous electroencephalography (EEG)/fMRI
+    in a placebo-controlled, three-way crossover design with ketamine andmidazolam.
+    First, we compared seven different preprocessing pipelines to deter-mine their
+    impact on the connectivity of common resting-state networks. Indepen-dent components
+    analysis (ICA)-denoising resulted in stronger reductions inconnectivity after
+    ketamine, and weaker increases after midazolam, than pipelinesemploying physiological
+    noise modelling or averaged signals from cerebrospinalfluid or white matter. This
+    suggests that pipeline decisions should reflect a drug'sunique noise structure,
+    and if this is unknown then accepting possible signal losswhen choosing extensive
+    ICA denoising pipelines could engender more confidencein the remaining results.
+    We then compared the temporal correlation structure offMRI to that derived from
+    two connectivity metrics of EEG, which provides a directmeasure of neural activity.
+    While electrophysiological estimates based on thepower envelope were more closely
+    aligned to BOLD signal connectivity than thosebased on phase consistency, no significant
+    relationship between the change in electrophysiological and hemodynamic correlation
+    structures was found, implyingcaution should be used when making cross-modal comparisons
+    of pharmacologically-modulated functional connectivity.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The pharmacological modulation of functional connectivity in the brain
+  may under-lie therapeutic efficacy for several neurological and psychiatric disorders.
+  Functionalmagnetic resonance imaging (fMRI) provides a noninvasive method of assessing
+  thismodulation, however, the indirect nature of the blood-oxygen level dependent
+  sig-nal restricts the discrimination of neural from physiological contributions.
+  Here wefollowed two approaches to assess the validity of fMRI functional connectivity
+  indeveloping drug biomarkers, using simultaneous electroencephalography (EEG)/fMRI
+  in a placebo-controlled, three-way crossover design with ketamine andmidazolam.
+  First, we compared seven different preprocessing pipelines to deter-mine their impact
+  on the connectivity of common resting-state networks. Indepen-dent components analysis
+  (ICA)-denoising resulted in stronger reductions inconnectivity after ketamine, and
+  weaker increases after midazolam, than pipelinesemploying physiological noise modelling
+  or averaged signals from cerebrospinalfluid or white matter. This suggests that
+  pipeline decisions should reflect a drug'sunique noise structure, and if this is
+  unknown then accepting possible signal losswhen choosing extensive ICA denoising
+  pipelines could engender more confidencein the remaining results. We then compared
+  the temporal correlation structure offMRI to that derived from two connectivity
+  metrics of EEG, which provides a directmeasure of neural activity. While electrophysiological
+  estimates based on thepower envelope were more closely aligned to BOLD signal connectivity
+  than thosebased on phase consistency, no significant relationship between the change
+  in electrophysiological and hemodynamic correlation structures was found, implyingcaution
+  should be used when making cross-modal comparisons of pharmacologically-modulated
+  functional connectivity.
+generated_by:
+- at_location: ISSN:1065-9471
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/hbm.24889
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/7855c659-43ea-4a84-bbf1-5eb6371c7ecc
+schema_type: xyzri:XYZPublication
+title: Modulation of simultaneously collected hemodynamic and electrophysiological
+  functional connectivity by ketamine and midazolam

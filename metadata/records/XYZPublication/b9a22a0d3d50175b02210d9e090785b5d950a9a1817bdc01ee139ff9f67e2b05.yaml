@@ -1,0 +1,27 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Towards computational reproducibility when working with very large datasets
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'This archive contains the slides for a talk entitled ''Towards computational
+    reproducibility when working with very large datasets'', part of the special session
+    '' 10 years of reproducibility in biomedical research: How can we achieve generalizability
+    and fairness?'' at the ISBI 2023 .'
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+description: 'This archive contains the slides for a talk entitled ''Towards computational
+  reproducibility when working with very large datasets'', part of the special session
+  '' 10 years of reproducibility in biomedical research: How can we achieve generalizability
+  and fairness?'' at the ISBI 2023 .'
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/ZENODO.7835783
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/8e7269f7-9ad4-4fc3-9f0d-6feec4abfc56
+schema_type: xyzri:XYZPublication
+title: Towards computational reproducibility when working with very large datasets

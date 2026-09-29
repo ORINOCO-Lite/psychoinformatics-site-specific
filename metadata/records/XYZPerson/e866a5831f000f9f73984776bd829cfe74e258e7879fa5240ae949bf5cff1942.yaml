@@ -1,0 +1,10 @@
+display_label: Paquola, Casey
+family_name: Paquola
+given_name: Casey
+honorific_name_prefix: Dr.
+identifiers:
+- creator: ror:04fa4r544
+  notation: 0000-0002-0190-4103
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+schema_type: xyzri:XYZPerson

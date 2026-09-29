@@ -1,0 +1,72 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: A coordinate-based meta-analysis of human amygdala connectivity alterations
+    related to early life adversities
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 1ol.:(ͬͭͮͯͰͱͲͳʹ͵Scientific Reports | (2023) 13:16541 | https://doi.org/10.1038/s41598-023-43057-2www.nature.com/scientificreportsA
+    coordinate‑based meta‑analysisof human amygdala connectivityalterations related
+    to early lifeadversitiesEline J. Kraaijenvanger 1 , Tobias Banaschewski 1 , Simon
+    B. Eickhoff 2,3 & Nathalie E. Holz 1,4,5*By affecting core neurobiological systems
+    early in development, early life adversities (ELAs) mightconfer latent vulnerability
+    to future psychopathologies. This coordinate‑based meta‑analysis aimsto identify
+    significant convergent alterations in functional connectivity of the amygdala
+    related toELAs across resting‑state and task‑based fMRI‑studies. Five electronic
+    databases were systematicallysearched until 22 October 2020, retrieving 49 eligible
+    studies (n = 3162 participants). Convergentalterations in functional connectivity
+    related to ELAs between the amygdala and the anteriorcingulate cortex (ACC) and
+    left hippocampus were found. Sub‑analyses based on hemisphere anddirection showed
+    that connectivity seeded in the right amygdala was affected and, moreover,revealed
+    that connectivity with ACC was decreased. Analyses based on paradigm and age showedthat
+    amygdala‑ACC coupling was altered during resting state and that amygdala–left
+    hippocampusconnectivity was mostly affected during task‑based paradigms and in
+    adult participants. Whileboth regions showed altered connectivity during emotion
+    processing and following adverse socialpostnatal experiences such as maltreatment,
+    amygdala‑ACC coupling was mainly affected when ELAswere retrospectively assessed
+    through self‑report. We show that ELAs are associated with alteredfunctional connectivity
+    of the amygdala with the ACC and hippocampus. As such, ELAs may embedlatent vulnerability
+    to future psychopathologies by systematically affecting important neurocognitivesystems.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 1ol.:(ͬͭͮͯͰͱͲͳʹ͵Scientific Reports | (2023) 13:16541 | https://doi.org/10.1038/s41598-023-43057-2www.nature.com/scientificreportsA
+  coordinate‑based meta‑analysisof human amygdala connectivityalterations related
+  to early lifeadversitiesEline J. Kraaijenvanger 1 , Tobias Banaschewski 1 , Simon
+  B. Eickhoff 2,3 & Nathalie E. Holz 1,4,5*By affecting core neurobiological systems
+  early in development, early life adversities (ELAs) mightconfer latent vulnerability
+  to future psychopathologies. This coordinate‑based meta‑analysis aimsto identify
+  significant convergent alterations in functional connectivity of the amygdala related
+  toELAs across resting‑state and task‑based fMRI‑studies. Five electronic databases
+  were systematicallysearched until 22 October 2020, retrieving 49 eligible studies
+  (n = 3162 participants). Convergentalterations in functional connectivity related
+  to ELAs between the amygdala and the anteriorcingulate cortex (ACC) and left hippocampus
+  were found. Sub‑analyses based on hemisphere anddirection showed that connectivity
+  seeded in the right amygdala was affected and, moreover,revealed that connectivity
+  with ACC was decreased. Analyses based on paradigm and age showedthat amygdala‑ACC
+  coupling was altered during resting state and that amygdala–left hippocampusconnectivity
+  was mostly affected during task‑based paradigms and in adult participants. Whileboth
+  regions showed altered connectivity during emotion processing and following adverse
+  socialpostnatal experiences such as maltreatment, amygdala‑ACC coupling was mainly
+  affected when ELAswere retrospectively assessed through self‑report. We show that
+  ELAs are associated with alteredfunctional connectivity of the amygdala with the
+  ACC and hippocampus. As such, ELAs may embedlatent vulnerability to future psychopathologies
+  by systematically affecting important neurocognitivesystems.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2045-2322
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41598-023-43057-2
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/dceca1ef-f9e9-4735-a351-01cb65214aa5
+schema_type: xyzri:XYZPublication
+title: A coordinate-based meta-analysis of human amygdala connectivity alterations
+  related to early life adversities

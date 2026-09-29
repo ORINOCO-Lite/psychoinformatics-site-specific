@@ -1,0 +1,6 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2025-12-17T17:12:59.727829'
+display_label: Email address
+pid: vcard:Email
+schema_type: dlthings:Property

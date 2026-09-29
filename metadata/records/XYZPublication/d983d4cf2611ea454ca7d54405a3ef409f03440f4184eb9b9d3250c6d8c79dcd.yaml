@@ -1,0 +1,57 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Shared and unique brain network features predict cognitive, personality,
+    and mental health scores in the ABCD study
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: How individual differences in brain network organization track behavioral
+    variability is a fundamental question in systems neuroscience. Recent work suggests
+    that resting-state and task-state functional connectivity can predict specific
+    traits at the individual level. However, most studies focus on single behavioral
+    traits, thus not capturing broader relationships across behaviors. In a large
+    sample of 1858 typically developing children from the Adolescent Brain Cognitive
+    Development (ABCD) study, we show that predictive network features are distinct
+    across the domains of cognitive performance, personality scores and mental health
+    assessments. On the other hand, traits within each behavioral domain are predicted
+    by similar network features. Predictive network features and models generalize
+    to other behavioral measures within the same behavioral domain. Although tasks
+    are known to modulate the functional connectome, predictive network features are
+    similar between resting and task states. Overall, our findings reveal shared brain
+    network features that account for individual variation within broad domains of
+    behavior in childhood.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: How individual differences in brain network organization track behavioral
+  variability is a fundamental question in systems neuroscience. Recent work suggests
+  that resting-state and task-state functional connectivity can predict specific traits
+  at the individual level. However, most studies focus on single behavioral traits,
+  thus not capturing broader relationships across behaviors. In a large sample of
+  1858 typically developing children from the Adolescent Brain Cognitive Development
+  (ABCD) study, we show that predictive network features are distinct across the domains
+  of cognitive performance, personality scores and mental health assessments. On the
+  other hand, traits within each behavioral domain are predicted by similar network
+  features. Predictive network features and models generalize to other behavioral
+  measures within the same behavioral domain. Although tasks are known to modulate
+  the functional connectome, predictive network features are similar between resting
+  and task states. Overall, our findings reveal shared brain network features that
+  account for individual variation within broad domains of behavior in childhood.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2041-1723
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41467-022-29766-8
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/66329e22-8486-4849-83c6-fa39b82880c4
+schema_type: xyzri:XYZPublication
+title: Shared and unique brain network features predict cognitive, personality, and
+  mental health scores in the ABCD study

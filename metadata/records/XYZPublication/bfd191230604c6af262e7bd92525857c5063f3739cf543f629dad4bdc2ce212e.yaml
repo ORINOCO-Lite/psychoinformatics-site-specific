@@ -1,0 +1,81 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d25533c9-aef7-428e-a9e9-f2cbc5acf3a1
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/345660c6-c3e2-4fba-bc22-35cacaf13b3d
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: A machine learning approach for the factorization of psychometric data with
+    application to the Delis Kaplan Executive Function System
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: While a replicability crisis has shaken psychological sciences, the replicability
+    of multivariate approaches for psychometric data factorization has received little
+    attention. In particular, Exploratory Factor Analysis (EFA) is frequently promoted
+    as the gold standard in psychological sciences. However, the application of EFA
+    to executive functioning, a core concept in psychology and cognitive neuroscience,
+    has led to divergent conceptual models. This heterogeneity severely limits the
+    generalizability and replicability of findings. To tackle this issue, in this
+    study, we propose to capitalize on a machine learning approach, OPNMF (Orthonormal
+    Projective Non-Negative Factorization), and leverage internal cross-validation
+    to promote generalizability to an independent dataset. We examined its application
+    on the scores of 334 adults at the Delis-Kaplan Executive Function System (D-KEFS),
+    while comparing to standard EFA and Principal Component Analysis (PCA). We further
+    evaluated the replicability of the derived factorization across specific gender
+    and age subsamples. Overall, OPNMF and PCA both converge towards a two-factor
+    model as the best data-fit model. The derived factorization suggests a division
+    between low-level and high-level executive functioning measures, a model further
+    supported in subsamples. In contrast, EFA, highlighted a five-factor model which
+    reflects the segregation of the D-KEFS battery into its main tasks while still
+    clustering higher-level tasks together. However, this model was poorly supported
+    in the subsamples. Thus, the parsimonious two-factors model revealed by OPNMF
+    encompasses the more complex factorization yielded by EFA while enjoying higher
+    generalizability. Hence, OPNMF provides a conceptually meaningful, technically
+    robust, and generalizable factorization for psychometric tools.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: While a replicability crisis has shaken psychological sciences, the replicability
+  of multivariate approaches for psychometric data factorization has received little
+  attention. In particular, Exploratory Factor Analysis (EFA) is frequently promoted
+  as the gold standard in psychological sciences. However, the application of EFA
+  to executive functioning, a core concept in psychology and cognitive neuroscience,
+  has led to divergent conceptual models. This heterogeneity severely limits the generalizability
+  and replicability of findings. To tackle this issue, in this study, we propose to
+  capitalize on a machine learning approach, OPNMF (Orthonormal Projective Non-Negative
+  Factorization), and leverage internal cross-validation to promote generalizability
+  to an independent dataset. We examined its application on the scores of 334 adults
+  at the Delis-Kaplan Executive Function System (D-KEFS), while comparing to standard
+  EFA and Principal Component Analysis (PCA). We further evaluated the replicability
+  of the derived factorization across specific gender and age subsamples. Overall,
+  OPNMF and PCA both converge towards a two-factor model as the best data-fit model.
+  The derived factorization suggests a division between low-level and high-level executive
+  functioning measures, a model further supported in subsamples. In contrast, EFA,
+  highlighted a five-factor model which reflects the segregation of the D-KEFS battery
+  into its main tasks while still clustering higher-level tasks together. However,
+  this model was poorly supported in the subsamples. Thus, the parsimonious two-factors
+  model revealed by OPNMF encompasses the more complex factorization yielded by EFA
+  while enjoying higher generalizability. Hence, OPNMF provides a conceptually meaningful,
+  technically robust, and generalizable factorization for psychometric tools.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:2045-2322
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41598-021-96342-3
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/16a179ac-06ac-4c83-b09e-dd3d40c91302
+schema_type: xyzri:XYZPublication
+title: A machine learning approach for the factorization of psychometric data with
+  application to the Delis Kaplan Executive Function System

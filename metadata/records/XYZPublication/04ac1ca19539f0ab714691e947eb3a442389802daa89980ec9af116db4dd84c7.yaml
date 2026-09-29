@@ -1,0 +1,64 @@
+attributed_to:
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Approximation of bone mineral density and subcutaneous adiposity using T1-weighted
+    images of the human head
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Bones and brain are intricately connected and scientific interest in their
+    interaction is growing. This has become particularly evident in the framework
+    of clinical applications for various medical conditions, such as obesity and osteoporosis.
+    The adverse effects of obesity on brain health have long been recognised, but
+    few brain imaging studies provide sophisticated body composition measures. Here,
+    we propose to extract the following bone- and adiposity-related measures from
+    T1-weighted MR images of the head: an approximation of skull bone mineral density
+    (BMD), skull bone thickness, and two approximations of subcutaneous fat (i.e.,
+    the intensity and thickness of soft non-brain head tissue). The reliability and
+    validity of these four distinct measures were tested in two large-scale databases,
+    the UK Biobank and OASIS-3. The measures pertaining to skull BMD, skull bone thickness,
+    and intensity-based adiposity proxy proved to be reliable (ICC = .95/.83/.66,
+    p < .001) and valid, with high correlations to DXA-derived head BMD values (rho
+    = .70, p < .001) and MRI-derived abdominal subcutaneous adipose volume (rho =
+    .62, p < .001). Thickness-based adiposity proxy had only a low retest reliability
+    (ICC = .53, p < .001). The outcomes of this study constitute an important step
+    towards extracting relevant non-brain features from available brain scans.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Bones and brain are intricately connected and scientific interest in
+  their interaction is growing. This has become particularly evident in the framework
+  of clinical applications for various medical conditions, such as obesity and osteoporosis.
+  The adverse effects of obesity on brain health have long been recognised, but few
+  brain imaging studies provide sophisticated body composition measures. Here, we
+  propose to extract the following bone- and adiposity-related measures from T1-weighted
+  MR images of the head: an approximation of skull bone mineral density (BMD), skull
+  bone thickness, and two approximations of subcutaneous fat (i.e., the intensity
+  and thickness of soft non-brain head tissue). The reliability and validity of these
+  four distinct measures were tested in two large-scale databases, the UK Biobank
+  and OASIS-3. The measures pertaining to skull BMD, skull bone thickness, and intensity-based
+  adiposity proxy proved to be reliable (ICC = .95/.83/.66, p < .001) and valid, with
+  high correlations to DXA-derived head BMD values (rho = .70, p < .001) and MRI-derived
+  abdominal subcutaneous adipose volume (rho = .62, p < .001). Thickness-based adiposity
+  proxy had only a low retest reliability (ICC = .53, p < .001). The outcomes of this
+  study constitute an important step towards extracting relevant non-brain features
+  from available brain scans.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2837-6056
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1162/imag_a_00390
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/f6683fc1-8288-43dd-b26e-c11bbe5af2c5
+schema_type: xyzri:XYZPublication
+title: Approximation of bone mineral density and subcutaneous adiposity using T1-weighted
+  images of the human head

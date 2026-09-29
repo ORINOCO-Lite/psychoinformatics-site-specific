@@ -1,0 +1,60 @@
+attributed_to:
+- object: xyzrins:persons/8f8d626c-dba9-466f-ab66-c97ed7afe800
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Brain areas associated with clinical and cognitive insight in psychotic
+    disorders: A systematic review and meta-analysis'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: n the past years, ample interest in brain abnormalities related to clinical
+    and cognitive insight in psychosis has contributed several neuroimaging studies
+    to the literature. In the current study, published findings on the neural substrates
+    of clinical and cognitive insight in psychosis are integrated by performing a
+    systematic review and meta-analysis.Coordinate-based meta-analyses were performed
+    with the parametric coordinate-based meta-analysis approach, non-coordinate based
+    meta-analyses were conducted with the metafor package in R. Papers that could
+    not be included in the meta-analyses were systematically reviewed.Thirty-seven
+    studies were retrieved, of which 21 studies were included in meta-analyses. Poorer
+    clinical insight was related to smaller whole brain gray and white matter volume
+    and gray matter volume of the frontal gyri. Cognitive insight was predominantly
+    positively associated with structure and function of the hippocampus and ventrolateral
+    prefrontal cortex.Impaired clinical insight is not associated with abnormalities
+    of isolated brain regions, but with spatially diffuse global and frontal abnormalities
+    suggesting it might rely on a range of cognitive and self-evaluative processes.
+    Cognitive insight is associated with specific areas and appears to rely more on
+    retrieving and integrating self-related information.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: n the past years, ample interest in brain abnormalities related to clinical
+  and cognitive insight in psychosis has contributed several neuroimaging studies
+  to the literature. In the current study, published findings on the neural substrates
+  of clinical and cognitive insight in psychosis are integrated by performing a systematic
+  review and meta-analysis.Coordinate-based meta-analyses were performed with the
+  parametric coordinate-based meta-analysis approach, non-coordinate based meta-analyses
+  were conducted with the metafor package in R. Papers that could not be included
+  in the meta-analyses were systematically reviewed.Thirty-seven studies were retrieved,
+  of which 21 studies were included in meta-analyses. Poorer clinical insight was
+  related to smaller whole brain gray and white matter volume and gray matter volume
+  of the frontal gyri. Cognitive insight was predominantly positively associated with
+  structure and function of the hippocampus and ventrolateral prefrontal cortex.Impaired
+  clinical insight is not associated with abnormalities of isolated brain regions,
+  but with spatially diffuse global and frontal abnormalities suggesting it might
+  rely on a range of cognitive and self-evaluative processes. Cognitive insight is
+  associated with specific areas and appears to rely more on retrieving and integrating
+  self-related information.
+generated_by:
+- at_location: ISSN:0149-7634
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2020.06.022
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/63376f63-e1b3-411a-9400-ab734569d0dc
+schema_type: xyzri:XYZPublication
+title: 'Brain areas associated with clinical and cognitive insight in psychotic disorders:
+  A systematic review and meta-analysis'

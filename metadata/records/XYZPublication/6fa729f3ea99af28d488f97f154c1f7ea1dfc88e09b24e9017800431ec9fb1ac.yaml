@@ -1,0 +1,34 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Neural substrates of sexual arousal revisited: Dependent on sex'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Challenging previous work (1), a recent metaanalysis suggests “that the neuronal
+    circuitries activated by visual sexual stimuli are independent of biological sex”
+    (ref. 2, p. 15671). Neuroimaging metaanalyses are indispensable for robust conclusions
+    on neuronal correlates of mental functions (3). To attain this goal, best-practice
+    guidelines have been jointly proposed by the developers of all major analytic
+    approaches (3). A careful look at the aforementioned analysis reveals several
+    issues that may have affected the outcome in nontrivial ways.
+description: Challenging previous work (1), a recent metaanalysis suggests “that the
+  neuronal circuitries activated by visual sexual stimuli are independent of biological
+  sex” (ref. 2, p. 15671). Neuroimaging metaanalyses are indispensable for robust
+  conclusions on neuronal correlates of mental functions (3). To attain this goal,
+  best-practice guidelines have been jointly proposed by the developers of all major
+  analytic approaches (3). A careful look at the aforementioned analysis reveals several
+  issues that may have affected the outcome in nontrivial ways.
+generated_by:
+- at_location: ISSN:0027-8424
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1073/pnas.1915927117
+  schema_type: dlthings:DOI
+pid: xyzrins:publications/39566e54-2a59-432a-a5fa-351a69259088
+schema_type: xyzri:XYZPublication
+title: 'Neural substrates of sexual arousal revisited: Dependent on sex'

@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Temporal Lobe Epilepsy Perturbs the Brain‐Wide Excitation‐Inhibition Balance:
+    Associations with Microcircuit Organization, Clinical Parameters, and Cognitive
+    Dysfunction'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Excitation-inhibition (E/I) imbalance is theorized as a key mechanism in
+    thepathophysiology of epilepsy, with ample research focusing on elucidating itscellular
+    manifestations. However, few studies investigate E/I imbalance at themacroscale,
+    whole-brain level, and its microcircuit-level mechanisms and clin-ical signiﬁcance
+    remain incompletely understood. Here, the Hurst exponent,an index of the E/I ratio,
+    is computed from resting-state fMRI time series, andmicrocircuit parameters are
+    simulated using biophysical models. A broad de-crease in the Hurst exponent is
+    observed in pharmaco-resistant temporal lobeepilepsy (TLE), suggesting more excitable
+    network dynamics. Connectome de-coders point to temporolimbic and frontocentral
+    cortices as plausible networkepicenters of E/I imbalance. Furthermore, computational
+    simulations revealthat enhancing cortical excitability in TLE reﬂects atypical
+    increases in recurrentconnection strength of local neuronal ensembles. Mixed cross-sectional
+    andlongitudinal analyses show stronger E/I ratio elevation in patients with longerdisease
+    duration, more frequent electroclinical seizures as well as interictalepileptic
+    spikes, and worse cognitive functioning. Hurst exponent-informedclassiﬁers discriminate
+    patients from healthy controls with high accuracy(72.4% [57.5%–82.5%]). Replicated
+    in an independent dataset, this workprovides in vivo evidence of a macroscale
+    shift in E/I balance in TLE patientsand points to progressive functional imbalances
+    that relate to cognitive decline
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Excitation-inhibition (E/I) imbalance is theorized as a key mechanism
+  in thepathophysiology of epilepsy, with ample research focusing on elucidating itscellular
+  manifestations. However, few studies investigate E/I imbalance at themacroscale,
+  whole-brain level, and its microcircuit-level mechanisms and clin-ical signiﬁcance
+  remain incompletely understood. Here, the Hurst exponent,an index of the E/I ratio,
+  is computed from resting-state fMRI time series, andmicrocircuit parameters are
+  simulated using biophysical models. A broad de-crease in the Hurst exponent is observed
+  in pharmaco-resistant temporal lobeepilepsy (TLE), suggesting more excitable network
+  dynamics. Connectome de-coders point to temporolimbic and frontocentral cortices
+  as plausible networkepicenters of E/I imbalance. Furthermore, computational simulations
+  revealthat enhancing cortical excitability in TLE reﬂects atypical increases in
+  recurrentconnection strength of local neuronal ensembles. Mixed cross-sectional
+  andlongitudinal analyses show stronger E/I ratio elevation in patients with longerdisease
+  duration, more frequent electroclinical seizures as well as interictalepileptic
+  spikes, and worse cognitive functioning. Hurst exponent-informedclassiﬁers discriminate
+  patients from healthy controls with high accuracy(72.4% [57.5%–82.5%]). Replicated
+  in an independent dataset, this workprovides in vivo evidence of a macroscale shift
+  in E/I balance in TLE patientsand points to progressive functional imbalances that
+  relate to cognitive decline
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2198-3844
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/advs.202406835
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/b461a21f-f90a-439d-b88e-379155c67f4e
+schema_type: xyzri:XYZPublication
+title: 'Temporal Lobe Epilepsy Perturbs the Brain‐Wide Excitation‐Inhibition Balance:
+  Associations with Microcircuit Organization, Clinical Parameters, and Cognitive
+  Dysfunction'

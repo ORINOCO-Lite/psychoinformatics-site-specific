@@ -1,0 +1,60 @@
+attributed_to:
+- object: xyzrins:persons/659e2c63-bcaa-4348-bf2c-2d6176dfad96
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: The interrelation of sleep and mental and physical health is anchored in
+    grey-matter neuroanatomy and under genetic control
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Humans need about seven to nine hours of sleep per night. Sleep habits are
+    heritable, associated with brain function and structure, and intrinsically related
+    to well-being, mental, and physical health. However, the biological basis of the
+    interplay of sleep and health is incompletely understood. Here we show, by combining
+    neuroimaging and behavioral genetic approaches in two independent large-scale
+    datasets (HCP (n = 1106), age range: 22–37, eNKI (n = 783), age range: 12–85),
+    that sleep, mental, and physical health have a shared neurobiological basis in
+    grey matter anatomy; and that these relationships are driven by shared genetic
+    factors. Though local associations between sleep and cortical thickness were inconsistent
+    across samples, we identified two robust latent components, highlighting the multivariate
+    interdigitation of sleep, intelligence, BMI, depression, and macroscale cortical
+    structure. Our observations provide a system-level perspective on the interrelation
+    of sleep, mental, and physical conditions, anchored in grey-matter neuroanatomy.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Humans need about seven to nine hours of sleep per night. Sleep habits
+  are heritable, associated with brain function and structure, and intrinsically related
+  to well-being, mental, and physical health. However, the biological basis of the
+  interplay of sleep and health is incompletely understood. Here we show, by combining
+  neuroimaging and behavioral genetic approaches in two independent large-scale datasets
+  (HCP (n = 1106), age range: 22–37, eNKI (n = 783), age range: 12–85), that sleep,
+  mental, and physical health have a shared neurobiological basis in grey matter anatomy;
+  and that these relationships are driven by shared genetic factors. Though local
+  associations between sleep and cortical thickness were inconsistent across samples,
+  we identified two robust latent components, highlighting the multivariate interdigitation
+  of sleep, intelligence, BMI, depression, and macroscale cortical structure. Our
+  observations provide a system-level perspective on the interrelation of sleep, mental,
+  and physical conditions, anchored in grey-matter neuroanatomy.'
+generated_by:
+- at_location: ISSN:2399-3642
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s42003-020-0892-6
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/0733eaf1-d1d5-45af-9714-4a1a817b4867
+schema_type: xyzri:XYZPublication
+title: The interrelation of sleep and mental and physical health is anchored in grey-matter
+  neuroanatomy and under genetic control

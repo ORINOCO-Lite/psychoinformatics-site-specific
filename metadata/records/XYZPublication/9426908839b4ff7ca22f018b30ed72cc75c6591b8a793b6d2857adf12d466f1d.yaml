@@ -1,0 +1,60 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Love is analogous to money in human brain: Coordinate-based and functional
+    connectivity meta-analyses of social and monetary reward anticipation'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Both social and material rewards play a crucial role in daily life and function
+    as strong incentives for various goal-directed behaviors. However, it remains
+    unclear whether the incentive effects of social and material reward are supported
+    by common or distinct neural circuits. Here, we have addressed this issue by quantitatively
+    synthesizing and comparing neural signatures underlying social (21 contrasts,
+    207 foci, 696 subjects) and monetary (94 contrasts, 1083 foci, 2060 subjects)
+    reward anticipation. We demonstrated that social and monetary reward anticipation
+    engaged a common neural circuit consisting of the ventral tegmental area, ventral
+    striatum, anterior insula, and supplementary motor area, which are intensively
+    connected during both task and resting states. Functional decoding findings indicate
+    that this generic neural pathway mediates positive value, motivational relevance,
+    and action preparation during reward anticipation, which together motivate individuals
+    to prepare well for the response to the upcoming target. Our findings support
+    the common neural currency hypothesis by providing the first meta-analytic evidence
+    to quantitatively show the common involvement of brain regions in both social
+    and material reward anticipation.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Both social and material rewards play a crucial role in daily life and
+  function as strong incentives for various goal-directed behaviors. However, it remains
+  unclear whether the incentive effects of social and material reward are supported
+  by common or distinct neural circuits. Here, we have addressed this issue by quantitatively
+  synthesizing and comparing neural signatures underlying social (21 contrasts, 207
+  foci, 696 subjects) and monetary (94 contrasts, 1083 foci, 2060 subjects) reward
+  anticipation. We demonstrated that social and monetary reward anticipation engaged
+  a common neural circuit consisting of the ventral tegmental area, ventral striatum,
+  anterior insula, and supplementary motor area, which are intensively connected during
+  both task and resting states. Functional decoding findings indicate that this generic
+  neural pathway mediates positive value, motivational relevance, and action preparation
+  during reward anticipation, which together motivate individuals to prepare well
+  for the response to the upcoming target. Our findings support the common neural
+  currency hypothesis by providing the first meta-analytic evidence to quantitatively
+  show the common involvement of brain regions in both social and material reward
+  anticipation.
+generated_by:
+- at_location: ISSN:0149-7634
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2019.02.017
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8b2b4f99-3804-40a0-9e77-eb3ad1f4dc88
+schema_type: xyzri:XYZPublication
+title: 'Love is analogous to money in human brain: Coordinate-based and functional
+  connectivity meta-analyses of social and monetary reward anticipation'

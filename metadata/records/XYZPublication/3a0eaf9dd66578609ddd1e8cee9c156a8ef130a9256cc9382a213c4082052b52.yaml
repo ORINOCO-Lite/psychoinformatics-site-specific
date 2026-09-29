@@ -1,0 +1,85 @@
+attributed_to:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Trial of Prasinezumab in Early-Stage Parkinson’s Disease
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Background: Aggregated α-synuclein plays an important role in the pathogenesis
+    of Parkinson''s disease. The monoclonal antibody prasinezumab, directed at aggregated
+    α-synuclein, is being studied for its effect on Parkinson''s disease.Methods:
+    In this phase 2 trial, we randomly assigned participants with early-stage Parkinson''s
+    disease in a 1:1:1 ratio to receive intravenous placebo or prasinezumab at a dose
+    of 1500 mg or 4500 mg every 4 weeks for 52 weeks. The primary end point was the
+    change from baseline to week 52 in the sum of scores on parts I, II, and III of
+    the Movement Disorder Society-sponsored revision of the Unified Parkinson''s Disease
+    Rating Scale (MDS-UPDRS; range, 0 to 236, with higher scores indicating greater
+    impairment). Secondary end points included the dopamine transporter levels in
+    the putamen of the hemisphere ipsilateral to the clinically more affected side
+    of the body, as measured by 123I-ioflupane single-photon-emission computed tomography
+    (SPECT).Results: A total of 316 participants were enrolled; 105 were assigned
+    to receive placebo, 105 to receive 1500 mg of prasinezumab, and 106 to receive
+    4500 mg of prasinezumab. The baseline mean MDS-UPDRS scores were 32.0 in the placebo
+    group, 31.5 in the 1500-mg group, and 30.8 in the 4500-mg group, and mean (±SE)
+    changes from baseline to 52 weeks were 9.4±1.2 in the placebo group, 7.4±1.2 in
+    the 1500-mg group (difference vs. placebo, -2.0; 80% confidence interval [CI],
+    -4.2 to 0.2; P = 0.24), and 8.8±1.2 in the 4500-mg group (difference vs. placebo,
+    -0.6; 80% CI, -2.8 to 1.6; P = 0.72). There was no substantial difference between
+    the active-treatment groups and the placebo group in dopamine transporter levels
+    on SPECT. The results for most clinical secondary end points were similar in the
+    active-treatment groups and the placebo group. Serious adverse events occurred
+    in 6.7% of the participants in the 1500-mg group and in 7.5% of those in the 4500-mg
+    group; infusion reactions occurred in 19.0% and 34.0%, respectively.Conclusions:
+    Prasinezumab therapy had no meaningful effect on global or imaging measures of
+    Parkinson''s disease progression as compared with placebo and was associated with
+    infusion reactions. (Funded by F. Hoffmann-La Roche and Prothena Biosciences;
+    PASADENA ClinicalTrials.gov number, NCT03100149.).'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Background: Aggregated α-synuclein plays an important role in the pathogenesis
+  of Parkinson''s disease. The monoclonal antibody prasinezumab, directed at aggregated
+  α-synuclein, is being studied for its effect on Parkinson''s disease.Methods: In
+  this phase 2 trial, we randomly assigned participants with early-stage Parkinson''s
+  disease in a 1:1:1 ratio to receive intravenous placebo or prasinezumab at a dose
+  of 1500 mg or 4500 mg every 4 weeks for 52 weeks. The primary end point was the
+  change from baseline to week 52 in the sum of scores on parts I, II, and III of
+  the Movement Disorder Society-sponsored revision of the Unified Parkinson''s Disease
+  Rating Scale (MDS-UPDRS; range, 0 to 236, with higher scores indicating greater
+  impairment). Secondary end points included the dopamine transporter levels in the
+  putamen of the hemisphere ipsilateral to the clinically more affected side of the
+  body, as measured by 123I-ioflupane single-photon-emission computed tomography (SPECT).Results:
+  A total of 316 participants were enrolled; 105 were assigned to receive placebo,
+  105 to receive 1500 mg of prasinezumab, and 106 to receive 4500 mg of prasinezumab.
+  The baseline mean MDS-UPDRS scores were 32.0 in the placebo group, 31.5 in the 1500-mg
+  group, and 30.8 in the 4500-mg group, and mean (±SE) changes from baseline to 52
+  weeks were 9.4±1.2 in the placebo group, 7.4±1.2 in the 1500-mg group (difference
+  vs. placebo, -2.0; 80% confidence interval [CI], -4.2 to 0.2; P = 0.24), and 8.8±1.2
+  in the 4500-mg group (difference vs. placebo, -0.6; 80% CI, -2.8 to 1.6; P = 0.72).
+  There was no substantial difference between the active-treatment groups and the
+  placebo group in dopamine transporter levels on SPECT. The results for most clinical
+  secondary end points were similar in the active-treatment groups and the placebo
+  group. Serious adverse events occurred in 6.7% of the participants in the 1500-mg
+  group and in 7.5% of those in the 4500-mg group; infusion reactions occurred in
+  19.0% and 34.0%, respectively.Conclusions: Prasinezumab therapy had no meaningful
+  effect on global or imaging measures of Parkinson''s disease progression as compared
+  with placebo and was associated with infusion reactions. (Funded by F. Hoffmann-La
+  Roche and Prothena Biosciences; PASADENA ClinicalTrials.gov number, NCT03100149.).'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:0028-4793
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1056/NEJMoa2202867
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/d2d5aa68-5953-4a54-b86c-b639a71d0d74
+schema_type: xyzri:XYZPublication
+title: Trial of Prasinezumab in Early-Stage Parkinson’s Disease

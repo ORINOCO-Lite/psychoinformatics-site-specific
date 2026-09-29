@@ -1,0 +1,57 @@
+attributed_to:
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Spatial–rhythmic network as a biomarker of familial risk for psychotic bipolar
+    disorder
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Neuronal rhythms with different temporospatial dynamics are prominent signatures
+    of brain operation. Yet, the synchronous coupling across multiple rhythms and
+    spatially distributed subsystems, as well as its role in brain cognition and disease,
+    remains mysterious. Here we proposed a conceptually new framework to construct
+    the large-scale spatial–rhythmic network (SRN) and apply it to case–control P300
+    electroencephalogram datasets. Results show that SRN configurations are essential
+    substrates of attentional allocation and immediate memory for healthy controls
+    (N = 235), yielding prominent inter-rhythmic interactions between the δ-frontoparietal/δ-limbic
+    network and other rhythmic subnetworks during P300 generation. Importantly, SRN
+    deviances shared by patients with bipolar disorder (N = 188) and their first-degree
+    relatives (N = 201) might be putative electrophysiological biomarkers for clinical
+    screening of individuals at high familial risk of disease onset. The findings
+    emphasize that configurations of SRNs have a previously unrecognized role in cognitive
+    (dys)functions.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Neuronal rhythms with different temporospatial dynamics are prominent
+  signatures of brain operation. Yet, the synchronous coupling across multiple rhythms
+  and spatially distributed subsystems, as well as its role in brain cognition and
+  disease, remains mysterious. Here we proposed a conceptually new framework to construct
+  the large-scale spatial–rhythmic network (SRN) and apply it to case–control P300
+  electroencephalogram datasets. Results show that SRN configurations are essential
+  substrates of attentional allocation and immediate memory for healthy controls (N = 235),
+  yielding prominent inter-rhythmic interactions between the δ-frontoparietal/δ-limbic
+  network and other rhythmic subnetworks during P300 generation. Importantly, SRN
+  deviances shared by patients with bipolar disorder (N = 188) and their first-degree
+  relatives (N = 201) might be putative electrophysiological biomarkers for clinical
+  screening of individuals at high familial risk of disease onset. The findings emphasize
+  that configurations of SRNs have a previously unrecognized role in cognitive (dys)functions.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2731-6076
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s44220-023-00143-8
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/2b33ec30-f275-4393-a11d-588b164196a3
+schema_type: xyzri:XYZPublication
+title: Spatial–rhythmic network as a biomarker of familial risk for psychotic bipolar
+  disorder

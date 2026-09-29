@@ -1,0 +1,9 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-26T14:24:03.924664'
+description: A text file format that separates data elements with commas.
+display_label: CSV format
+exact_mappings:
+- http://edamontology.org/format_3752
+pid: obo:NCIT_C182456
+schema_type: xyzri:XYZDataType

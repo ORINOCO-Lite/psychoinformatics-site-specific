@@ -1,0 +1,71 @@
+attributed_to:
+- object: xyzrins:persons/f012978a-c0be-46ae-ba97-1e6f2abd5c7f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Vascular risk factors, white matter microstructure, and depressive symptoms:
+    A longitudinal analysis in the UK Biobank'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Cumulative burden from vascular risk factors (VRFs) has been associated with
+    an increased risk of depressive symptoms in mid- and later life, but the mechanisms
+    underlying this link are still unclear. One hypothesis is that VRFs disconnect
+    fronto-subcortical white matter tracts that underlie mood and emotion regulation,
+    which in turn puts older adults at higher risk of developing depressive symptoms.
+    However, evidence for the hypothesis that disconnection of white matter tracts
+    underlies the association between VRF burden and depressive symptoms from longitudinal
+    studies is scarce. This preregistered study analysed longitudinal data from 6,964
+    middle-aged and older adults from the UK Biobank who participated in consecutive
+    assessments of VRFs, brain imaging, and depressive symptoms. Using mediation modelling,
+    we directly tested to what extend white matter microstructure mediates the longitudinal
+    association between VRF burden and depressive symptoms. Our results showed small
+    associations between VRF burden and depressive symptoms at follow-up. However,
+    there was no evidence that fractional anisotropy (FA) of white matter tracts mediated
+    this association. Additional analyses also yielded no mediating effects using
+    alternative operationalisations of VRF burden, mean diffusivity (MD) of single
+    tracts, or overall average of tract-based white matter microstructure (global
+    FA, global MD, white matter hyperintensity volume). Taken together, these results
+    lend no support to the hypothesis that disconnection of white matter tracts underlies
+    the association between VRF burden and depressive symptoms, while highlighting
+    the relevance of using longitudinal data to directly test pathways linking vascular
+    and mental health. Future studies should examine alternative mechanisms and potentially
+    more fine-grained associations between VRFs and depressive symptoms using similar
+    longitudinal study designs.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Cumulative burden from vascular risk factors (VRFs) has been associated
+  with an increased risk of depressive symptoms in mid- and later life, but the mechanisms
+  underlying this link are still unclear. One hypothesis is that VRFs disconnect fronto-subcortical
+  white matter tracts that underlie mood and emotion regulation, which in turn puts
+  older adults at higher risk of developing depressive symptoms. However, evidence
+  for the hypothesis that disconnection of white matter tracts underlies the association
+  between VRF burden and depressive symptoms from longitudinal studies is scarce.
+  This preregistered study analysed longitudinal data from 6,964 middle-aged and older
+  adults from the UK Biobank who participated in consecutive assessments of VRFs,
+  brain imaging, and depressive symptoms. Using mediation modelling, we directly tested
+  to what extend white matter microstructure mediates the longitudinal association
+  between VRF burden and depressive symptoms. Our results showed small associations
+  between VRF burden and depressive symptoms at follow-up. However, there was no evidence
+  that fractional anisotropy (FA) of white matter tracts mediated this association.
+  Additional analyses also yielded no mediating effects using alternative operationalisations
+  of VRF burden, mean diffusivity (MD) of single tracts, or overall average of tract-based
+  white matter microstructure (global FA, global MD, white matter hyperintensity volume).
+  Taken together, these results lend no support to the hypothesis that disconnection
+  of white matter tracts underlies the association between VRF burden and depressive
+  symptoms, while highlighting the relevance of using longitudinal data to directly
+  test pathways linking vascular and mental health. Future studies should examine
+  alternative mechanisms and potentially more fine-grained associations between VRFs
+  and depressive symptoms using similar longitudinal study designs.
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.31234/osf.io/pvntx
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/69639c49-a061-415e-9351-5b113db6f9c1
+schema_type: xyzri:XYZPublication
+title: 'Vascular risk factors, white matter microstructure, and depressive symptoms:
+  A longitudinal analysis in the UK Biobank'

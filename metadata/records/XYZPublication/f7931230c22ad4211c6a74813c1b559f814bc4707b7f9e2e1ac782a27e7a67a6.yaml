@@ -1,0 +1,43 @@
+attributed_to:
+- object: xyzrins:persons/c10bb9a3-aeb5-476e-a08a-695384c22bec
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/534d28e8-d6e0-4a7f-8ba3-bf59298c9221
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c643dc9e-7b8a-4a32-aa1b-6f371c82880a
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Cross-sectional and longitudinal functional network alterations associated
+    with subthreshold depressive symptoms in healthy older adults
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1663-4365
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3389/fnagi.2026.1742371
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2026-12-01'
+    schema_type: dlthings:End
+  object: xyzrins:grants/ebrains-2.0
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2024-01-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/05ad0b56-08ef-4c35-9930-228a8d7e1501
+schema_type: xyzri:XYZPublication
+title: Cross-sectional and longitudinal functional network alterations associated
+  with subthreshold depressive symptoms in healthy older adults

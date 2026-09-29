@@ -1,0 +1,81 @@
+attributed_to:
+- object: xyzrins:persons/ad58139b-57cd-4e0d-a698-2d80463a4d93
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Multiscale neural gradients reflect transdiagnostic effects of major psychiatric
+    conditions on cortical morphology
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: It is increasingly recognized that multiple psychiatric conditions are underpinned
+    by shared neural pathways, affecting similar brain systems. Here, we carried out
+    a multiscale neural contextualization of shared alterations of cortical morphology
+    across six major psychiatric conditions (autism spectrum disorder, attention deficit/hyperactivity
+    disorder, major depression disorder, obsessive-compulsive disorder, bipolar disorder,
+    and schizophrenia). Our framework cross-referenced shared morphological anomalies
+    with respect to cortical myeloarchitecture and cytoarchitecture, as well as connectome
+    and neurotransmitter organization. Pooling disease-related effects on MRI-based
+    cortical thickness measures across six ENIGMA working groups, including a total
+    of 28,546 participants (12,876 patients and 15,670 controls), we identified a
+    cortex-wide dimension of morphological changes that described a sensory-fugal
+    pattern, with paralimbic regions showing the most consistent alterations across
+    conditions. The shared disease dimension was closely related to cortical gradients
+    of microstructure as well as neurotransmitter axes, specifically cortex-wide variations
+    in serotonin and dopamine. Multiple sensitivity analyses confirmed robustness
+    with respect to slight variations in analytical choices. Our findings embed shared
+    effects of common psychiatric conditions on brain structure in multiple scales
+    of brain organization, and may provide insights into neural mechanisms of transdiagnostic
+    vulnerability
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: It is increasingly recognized that multiple psychiatric conditions are
+  underpinned by shared neural pathways, affecting similar brain systems. Here, we
+  carried out a multiscale neural contextualization of shared alterations of cortical
+  morphology across six major psychiatric conditions (autism spectrum disorder, attention
+  deficit/hyperactivity disorder, major depression disorder, obsessive-compulsive
+  disorder, bipolar disorder, and schizophrenia). Our framework cross-referenced shared
+  morphological anomalies with respect to cortical myeloarchitecture and cytoarchitecture,
+  as well as connectome and neurotransmitter organization. Pooling disease-related
+  effects on MRI-based cortical thickness measures across six ENIGMA working groups,
+  including a total of 28,546 participants (12,876 patients and 15,670 controls),
+  we identified a cortex-wide dimension of morphological changes that described a
+  sensory-fugal pattern, with paralimbic regions showing the most consistent alterations across
+  conditions. The shared disease dimension was closely related to cortical gradients
+  of microstructure as well as neurotransmitter axes, specifically cortex-wide variations
+  in serotonin and dopamine. Multiple sensitivity analyses confirmed robustness with
+  respect to slight variations in analytical choices. Our findings embed shared effects
+  of common psychiatric conditions on brain structure in multiple scales of brain
+  organization, and may provide insights into neural mechanisms of transdiagnostic
+  vulnerability
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:2399-3642
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s42003-022-03963-z
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2025-03-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/391de57c-8040-4cf7-a515-a6791b9a0c89
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2020-04-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/9981da9a-6744-449a-8884-ccc56837c7b1
+schema_type: xyzri:XYZPublication
+title: Multiscale neural gradients reflect transdiagnostic effects of major psychiatric
+  conditions on cortical morphology

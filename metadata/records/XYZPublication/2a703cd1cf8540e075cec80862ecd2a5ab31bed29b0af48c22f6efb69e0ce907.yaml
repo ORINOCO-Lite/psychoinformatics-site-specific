@@ -1,0 +1,22 @@
+attributed_to:
+- object: xyzrins:persons/60feb346-954c-4625-93d6-1b8bd1ca0dfa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Bioethik
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:Chapter
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/978-3-476-05869-0_43
+  schema_type: dlthings:DOI
+kind: bibo:Chapter
+pid: xyzrins:publications/4023c141-eb69-44ed-8237-f6b8a26913af
+schema_type: xyzri:XYZPublication
+title: Bioethik

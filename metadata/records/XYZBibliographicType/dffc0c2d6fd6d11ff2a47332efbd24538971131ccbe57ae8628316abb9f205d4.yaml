@@ -1,0 +1,5 @@
+description: A chronological schedule of when activities or events occurred or will
+  occur.
+display_label: Timeline
+pid: obo:NCIT_C54576
+schema_type: xyzri:XYZBibliographicType

@@ -1,0 +1,38 @@
+associated_with:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+description: The I-CHECK-HEART collaborative project is developing an AI-powered app
+  for cardio-oncological follow-up care for cancer patients being treated with immune
+  checkpoint inhibitors. The aim is to detect cardiovascular side effects at an early
+  stage and to better assess individual risk using a data-driven risk score. To achieve
+  this, data from smartwatches, sensors, questionnaires, as well as clinical and laboratory
+  tests, are combined and analysed using machine learning. The resulting risk score
+  is presented using an easy-to-understand traffic-light system, integrated into the
+  electronic health record and guides risk-adapted follow-up care. At the same time,
+  the app enhances patients’ health literacy, self-management and quality of life,
+  whilst relieving pressure on the healthcare system through more efficient follow-up
+  processes.
+ended:
+  at_time: '2029-02-28'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2029-02-28'
+    schema_type: dlthings:End
+  object: xyzrins:grants/9b9d37cb-30fa-4e8c-9308-0afa4a4a2a50
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2026-03-01'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/0695351c-d792-4208-85a3-2932affeec28
+schema_type: xyzri:XYZProject
+short_name: I-CHECK-HEART
+started:
+  at_time: '2026-03-01'
+  schema_type: dlthings:Start
+title: 'I-CHECK-HEART: Immuncheckpoint-Inhibitor assoziierte kardio-onkologische Nachsorge
+  durch Künstliche-Intelligenz-gestützte Technologien'

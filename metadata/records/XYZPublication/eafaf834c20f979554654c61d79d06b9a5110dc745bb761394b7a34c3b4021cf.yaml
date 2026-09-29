@@ -1,0 +1,15 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: SpEx - Speech and executive function
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.26165/juelich-data/chwzdz
+  schema_type: dlthings:DOI
+pid: xyzrins:publications/f321a174-3be8-423b-8531-012f05d9f966
+schema_type: xyzri:XYZPublication
+title: SpEx - Speech and executive function

@@ -1,0 +1,59 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Spatio-molecular profiles shape the human cerebellar hierarchy along the
+    sensorimotor-association axis
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Cerebellar involvement in both motor and non-motor functions manifests in
+    specific regions of the human cerebellum, revealing the functional heterogeneity
+    within it. One compelling theory places the heterogeneity within the cerebellar
+    functional hierarchy along the sensorimotor-association (SA) axis. Despite extensive
+    neuroimaging studies, evidence for the cerebellar SA axis from different modalities
+    and scales was lacking. Thus, we establish a significant link between the cerebellar
+    SA axis and spatio-molecular profiles. Utilizing the gene set variation analysis,
+    we find the intermediate biological principles the significant genes leveraged
+    to scaffold the cerebellar SA axis. Interestingly, we find these spatio-molecular
+    profiles notably associated with neuropsychiatric dysfunction and recent evolution.
+    Furthermore, cerebello-cerebral interactions at genetic and functional connectivity
+    levels mirror the cerebral cortex and cerebellum''s SA axis. These findings can
+    provide a deeper understanding of how the human cerebellar SA axis is shaped and
+    its role in transitioning from sensorimotor to association functions.Keywords:
+    CP: Neuroscience; brain evolution; functional hierarchy; gene expression; human
+    cerebellum; neuropsychiatric disorder.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Cerebellar involvement in both motor and non-motor functions manifests
+  in specific regions of the human cerebellum, revealing the functional heterogeneity
+  within it. One compelling theory places the heterogeneity within the cerebellar
+  functional hierarchy along the sensorimotor-association (SA) axis. Despite extensive
+  neuroimaging studies, evidence for the cerebellar SA axis from different modalities
+  and scales was lacking. Thus, we establish a significant link between the cerebellar
+  SA axis and spatio-molecular profiles. Utilizing the gene set variation analysis,
+  we find the intermediate biological principles the significant genes leveraged to
+  scaffold the cerebellar SA axis. Interestingly, we find these spatio-molecular profiles
+  notably associated with neuropsychiatric dysfunction and recent evolution. Furthermore,
+  cerebello-cerebral interactions at genetic and functional connectivity levels mirror
+  the cerebral cortex and cerebellum''s SA axis. These findings can provide a deeper
+  understanding of how the human cerebellar SA axis is shaped and its role in transitioning
+  from sensorimotor to association functions.Keywords: CP: Neuroscience; brain evolution;
+  functional hierarchy; gene expression; human cerebellum; neuropsychiatric disorder.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2639-1856
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.celrep.2024.113770
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/af8d95e1-fed1-47d0-907c-c5af304a44c0
+schema_type: xyzri:XYZPublication
+title: Spatio-molecular profiles shape the human cerebellar hierarchy along the sensorimotor-association
+  axis

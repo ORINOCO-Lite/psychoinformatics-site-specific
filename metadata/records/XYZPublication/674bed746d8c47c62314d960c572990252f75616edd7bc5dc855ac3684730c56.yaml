@@ -1,0 +1,42 @@
+attributed_to:
+- object: xyzrins:persons/60feb346-954c-4625-93d6-1b8bd1ca0dfa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Four Notions of Autonomy. Pitfalls of Conceptual Pluralism in Contemporary
+    Debates
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The concept of autonomy is indispensable in the history of Western thought.
+    At least that’s how it seems to us nowadays. However, the notion has not always
+    had the outstanding significance that we ascribe to it today and its exact meaning
+    has also changed considerably over time. In this paper, we want to shed light
+    on different understandings of autonomy and clearly distinguish them from each
+    other. Our main aim is to contribute to conceptual clarity in (interdisciplinary)
+    discourses and to point out possible pitfalls of conceptual pluralism.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The concept of autonomy is indispensable in the history of Western thought.
+  At least that’s how it seems to us nowadays. However, the notion has not always
+  had the outstanding significance that we ascribe to it today and its exact meaning
+  has also changed considerably over time. In this paper, we want to shed light on
+  different understandings of autonomy and clearly distinguish them from each other.
+  Our main aim is to contribute to conceptual clarity in (interdisciplinary) discourses
+  and to point out possible pitfalls of conceptual pluralism.
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:2638-6038
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.30658/hmc.9.3
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/ade9328f-b5e1-4423-8556-29540208cf3d
+schema_type: xyzri:XYZPublication
+title: Four Notions of Autonomy. Pitfalls of Conceptual Pluralism in Contemporary
+  Debates

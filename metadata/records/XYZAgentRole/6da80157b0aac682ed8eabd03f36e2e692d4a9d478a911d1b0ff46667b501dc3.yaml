@@ -1,0 +1,5 @@
+description: A person or organization who is a recorder, redactor, or other person
+  responsible for expressing the views of a organization
+display_label: Secretary
+pid: marcrel:sec
+schema_type: xyzri:XYZAgentRole

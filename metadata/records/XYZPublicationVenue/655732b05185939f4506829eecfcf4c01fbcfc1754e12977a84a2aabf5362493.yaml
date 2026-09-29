@@ -1,0 +1,9 @@
+display_note: ISSN:1673-7067
+identifiers:
+- creator: ror:026ytr635
+  notation: 1673-7067
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:1673-7067
+schema_type: xyzri:XYZPublicationVenue
+title: Neuroscience Bulletin

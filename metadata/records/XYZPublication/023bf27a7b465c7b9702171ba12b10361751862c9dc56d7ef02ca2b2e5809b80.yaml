@@ -1,0 +1,72 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/535129e4-fc67-4e19-8f5e-0d4a43a4578c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Decoupling of regional neural activity and inter-regional functional connectivity
+    in Alzheimer’s disease: a simultaneous PET/MR study
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Purpose: Alzheimer''s disease (AD) and mild cognitive impairment (MCI) are
+    characterized by both aberrant regional neural activity and disrupted inter-regional
+    functional connectivity (FC). However, the effect of AD/MCI on the coupling between
+    regional neural activity (measured by regional fluorodeoxyglucose imaging (rFDG))
+    and inter-regional FC (measured by resting-state functional magnetic resonance
+    imaging (rs-fMRI)) is poorly understood.Methods: We scanned 19 patients with MCI,
+    33 patients with AD, and 26 healthy individuals by simultaneous FDG-PET/rs-fMRI
+    and assessed rFDG and inter-regional FC metrics (i.e., clustering coefficient
+    and degree centrality). Next, we examined the potential moderating effect of disease
+    status (MCI or AD) on the link between rFDG and inter-regional FC metrics using
+    hierarchical moderated multiple regression analysis. We also tested this effect
+    by considering interaction between disease status and inter-regional FC metrics,
+    as well as interaction between disease status and rFDG.Results: Our findings revealed
+    that both rFDG and inter-regional FC metrics were disrupted in MCI and AD. Moreover,
+    AD altered the relationship between rFDG and inter-regional FC metrics. In particular,
+    we found that AD moderated the effect of inter-regional FC metrics of the caudate,
+    parahippocampal gyrus, angular gyrus, supramarginal gyrus, frontal pole, inferior
+    temporal gyrus, middle frontal, lateral occipital, supramarginal gyrus, precuneus,
+    and thalamus on predicting their rFDG. On the other hand, AD moderated the effect
+    of rFDG of the parietal operculum on predicting its inter-regional FC metric.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Purpose: Alzheimer''s disease (AD) and mild cognitive impairment (MCI)
+  are characterized by both aberrant regional neural activity and disrupted inter-regional
+  functional connectivity (FC). However, the effect of AD/MCI on the coupling between
+  regional neural activity (measured by regional fluorodeoxyglucose imaging (rFDG))
+  and inter-regional FC (measured by resting-state functional magnetic resonance imaging
+  (rs-fMRI)) is poorly understood.Methods: We scanned 19 patients with MCI, 33 patients
+  with AD, and 26 healthy individuals by simultaneous FDG-PET/rs-fMRI and assessed
+  rFDG and inter-regional FC metrics (i.e., clustering coefficient and degree centrality).
+  Next, we examined the potential moderating effect of disease status (MCI or AD)
+  on the link between rFDG and inter-regional FC metrics using hierarchical moderated
+  multiple regression analysis. We also tested this effect by considering interaction
+  between disease status and inter-regional FC metrics, as well as interaction between
+  disease status and rFDG.Results: Our findings revealed that both rFDG and inter-regional
+  FC metrics were disrupted in MCI and AD. Moreover, AD altered the relationship between
+  rFDG and inter-regional FC metrics. In particular, we found that AD moderated the
+  effect of inter-regional FC metrics of the caudate, parahippocampal gyrus, angular
+  gyrus, supramarginal gyrus, frontal pole, inferior temporal gyrus, middle frontal,
+  lateral occipital, supramarginal gyrus, precuneus, and thalamus on predicting their
+  rFDG. On the other hand, AD moderated the effect of rFDG of the parietal operculum
+  on predicting its inter-regional FC metric.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1619-7070
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00259-022-05692-1
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/c4cef4d0-f6bc-4b0d-b35c-840391e3e8b5
+schema_type: xyzri:XYZPublication
+title: Decoupling of regional neural activity and inter-regional functional connectivity
+  in Alzheimer’s disease: a simultaneous PET/MR study

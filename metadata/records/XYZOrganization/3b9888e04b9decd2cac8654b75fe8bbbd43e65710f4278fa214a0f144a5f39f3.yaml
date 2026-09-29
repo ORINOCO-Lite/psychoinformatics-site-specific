@@ -1,0 +1,6 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-06-29T13:16:27.186175'
+name: Universitätsklinikum Aachen
+pid: ror:02gm5zw39
+schema_type: xyzri:XYZOrganization

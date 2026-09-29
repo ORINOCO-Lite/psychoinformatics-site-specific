@@ -1,0 +1,60 @@
+attributed_to:
+- object: xyzrins:persons/60feb346-954c-4625-93d6-1b8bd1ca0dfa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Learning to Live with Strange Error: Beyond Trustworthiness in Artificial
+    Intelligence Ethics'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Position papers on artificial intelligence (AI) ethics are often framed as
+    attempts to work out technical and regulatory strategies for attaining what is
+    commonly called trustworthy AI. In such papers, the technical and regulatory strategies
+    are frequently analyzed in detail, but the concept of trustworthy AI is not. As
+    a result, it remains unclear. This paper lays out a variety of possible interpretations
+    of the concept and concludes that none of them is appropriate. The central problem
+    is that, by framing the ethics of AI in terms of trustworthiness, we reinforce
+    unjustified anthropocentric assumptions that stand in the way of clear analysis.
+    Furthermore, even if we insist on a purely epistemic interpretation of the concept,
+    according to which trustworthiness just means measurable reliability, it turns
+    out that the analysis will, nevertheless, suffer from a subtle form of anthropocentrism.
+    The paper goes on to develop the concept of strange error, which serves both to
+    sharpen the initial diagnosis of the inadequacy of trustworthy AI and to articulate
+    the novel epistemological situation created by the use of AI. The paper concludes
+    with a discussion of how strange error puts pressure on standard practices of
+    assessing moral culpability, particularly in the context of medicine.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Position papers on artificial intelligence (AI) ethics are often framed
+  as attempts to work out technical and regulatory strategies for attaining what is
+  commonly called trustworthy AI. In such papers, the technical and regulatory strategies
+  are frequently analyzed in detail, but the concept of trustworthy AI is not. As
+  a result, it remains unclear. This paper lays out a variety of possible interpretations
+  of the concept and concludes that none of them is appropriate. The central problem
+  is that, by framing the ethics of AI in terms of trustworthiness, we reinforce unjustified
+  anthropocentric assumptions that stand in the way of clear analysis. Furthermore,
+  even if we insist on a purely epistemic interpretation of the concept, according
+  to which trustworthiness just means measurable reliability, it turns out that the
+  analysis will, nevertheless, suffer from a subtle form of anthropocentrism. The
+  paper goes on to develop the concept of strange error, which serves both to sharpen
+  the initial diagnosis of the inadequacy of trustworthy AI and to articulate the
+  novel epistemological situation created by the use of AI. The paper concludes with
+  a discussion of how strange error puts pressure on standard practices of assessing
+  moral culpability, particularly in the context of medicine.
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:0963-1801
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1017/S0963180122000688
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/c1297aba-ff48-40f4-a243-1f9e475beaad
+schema_type: xyzri:XYZPublication
+title: 'Learning to Live with Strange Error: Beyond Trustworthiness in Artificial
+  Intelligence Ethics'

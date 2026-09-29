@@ -1,0 +1,49 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Naturalizing psychopathology—towards a quantitative real-world psychiatry
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Psychiatric disorders continue to be on the rise around the globe. Meanwhile,
+    efforts and investments directed to early diagnosis and appropriate interventions
+    for mental health problems are lagging resulting in ‘substantial loss of human
+    capabilities and avoidable suffering’ [1]. A major component of our inability
+    to address mental health problems resides in the persistent lack of objective
+    measures for evaluating such difficulties in the daily life of individuals, complicating
+    the detection of clinically relevant changes in the patients’ well-being [2].
+    Similarly, most studies into the neurobiology of psychiatric disorders lack a
+    detailed description of individual functioning despite influential calls for quantitative
+    approaches to psychopathology.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Psychiatric disorders continue to be on the rise around the globe. Meanwhile,
+  efforts and investments directed to early diagnosis and appropriate interventions
+  for mental health problems are lagging resulting in ‘substantial loss of human capabilities
+  and avoidable suffering’ [1]. A major component of our inability to address mental
+  health problems resides in the persistent lack of objective measures for evaluating
+  such difficulties in the daily life of individuals, complicating the detection of
+  clinically relevant changes in the patients’ well-being [2]. Similarly, most studies
+  into the neurobiology of psychiatric disorders lack a detailed description of individual
+  functioning despite influential calls for quantitative approaches to psychopathology.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1359-4184
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41380-021-01322-8
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/a9a2a5ea-ddcb-442c-85ca-649e865d13e9
+schema_type: xyzri:XYZPublication
+title: Naturalizing psychopathology—towards a quantitative real-world psychiatry

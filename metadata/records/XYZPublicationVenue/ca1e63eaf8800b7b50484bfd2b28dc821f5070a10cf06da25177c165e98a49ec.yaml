@@ -1,0 +1,9 @@
+display_note: ISSN:1758-8928
+identifiers:
+- creator: ror:026ytr635
+  notation: 1758-8928
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:1758-8928
+schema_type: xyzri:XYZPublicationVenue
+title: Cognitive Neuroscience

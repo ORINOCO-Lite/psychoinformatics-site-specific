@@ -1,0 +1,5 @@
+description: A person or organization who is an original recipient of the right to
+  print or publish
+display_label: Licensee
+pid: marcrel:lse
+schema_type: xyzri:XYZAgentRole

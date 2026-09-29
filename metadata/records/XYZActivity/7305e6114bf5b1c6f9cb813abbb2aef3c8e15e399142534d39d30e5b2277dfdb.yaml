@@ -1,0 +1,10 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-26T14:24:03.745464'
+description: The neurophysiologic exploration of the electrical activity of the brain
+  by the application of electrodes to the scalp. The resulting traces are known as
+  an electroencephalogram (EEG). This test is used to assess brain damage, epilepsy
+  and other problems.
+name: Electroencephalography
+pid: obo:NCIT_C38054
+schema_type: xyzri:XYZActivity

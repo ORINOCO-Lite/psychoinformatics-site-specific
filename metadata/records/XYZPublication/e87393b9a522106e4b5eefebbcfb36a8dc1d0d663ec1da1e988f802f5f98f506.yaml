@@ -1,0 +1,58 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Risk‐taking in the human brain: An activation likelihood estimation meta‐analysis
+    of the balloon analog risk task (BART)'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The Balloon Analog Risk Task (BART) is increasingly used to assess risk-taking
+    behavior and brain function. However, the brain networks underlying risk-taking
+    during the BART and its reliability remain controversial. Here, we combined the
+    activation likelihood estimation (ALE) meta-analysis with both task-based and
+    task-free functional connectivity (FC) analysis to quantitatively synthesize brain
+    networks involved in risk-taking during the BART, and compared the differences
+    between adults and adolescents studies. Based on 22 pooled publications, the ALE
+    meta-analysis revealed multiple brain regions in the reward network, salience
+    network, and executive control network underlying risk-taking during the BART.
+    Compared with adult risk-taking, adolescent risk-taking showed greater activation
+    in the insula, putamen, and prefrontal regions. The combination of meta-analytic
+    connectivity modeling with task-free FC analysis further confirmed the involvement
+    of the reward, salience, and cognitive control networks in the BART. These findings
+    demonstrate the core brain networks for risk-taking during the BART and support
+    the utility of the BART for future neuroimaging and developmental research.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The Balloon Analog Risk Task (BART) is increasingly used to assess risk-taking
+  behavior and brain function. However, the brain networks underlying risk-taking
+  during the BART and its reliability remain controversial. Here, we combined the
+  activation likelihood estimation (ALE) meta-analysis with both task-based and task-free
+  functional connectivity (FC) analysis to quantitatively synthesize brain networks
+  involved in risk-taking during the BART, and compared the differences between adults
+  and adolescents studies. Based on 22 pooled publications, the ALE meta-analysis
+  revealed multiple brain regions in the reward network, salience network, and executive
+  control network underlying risk-taking during the BART. Compared with adult risk-taking,
+  adolescent risk-taking showed greater activation in the insula, putamen, and prefrontal
+  regions. The combination of meta-analytic connectivity modeling with task-free FC
+  analysis further confirmed the involvement of the reward, salience, and cognitive
+  control networks in the BART. These findings demonstrate the core brain networks
+  for risk-taking during the BART and support the utility of the BART for future neuroimaging
+  and developmental research.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1065-9471
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/hbm.26041
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/f6a084f2-1f33-4bb3-a859-3aea54e59cbe
+schema_type: xyzri:XYZPublication
+title: 'Risk‐taking in the human brain: An activation likelihood estimation meta‐analysis
+  of the balloon analog risk task (BART)'

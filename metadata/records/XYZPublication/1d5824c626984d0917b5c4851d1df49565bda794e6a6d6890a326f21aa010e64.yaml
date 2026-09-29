@@ -1,0 +1,65 @@
+attributed_to:
+- object: xyzrins:persons/9fe30b8c-a331-4166-bd1c-f407b6e06ecc
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/11bba584-d08e-47f2-b3d4-980c5472dca3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'The effect of task complexity on the neural network for response inhibition:
+    An ALE meta-analysis'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Response inhibition is classically investigated using the go/no-go (GNGT)
+    and stop-signal task (SST), which conceptually measure different subprocesses
+    of inhibition. Further, different task versions with varying levels of additional
+    executive control demands exist, making it difficult to identify the core neural
+    correlates of response inhibition independent of variations in task complexity.
+    Using neuroimaging meta-analyses, we show that a divergent pattern of regions
+    is consistently involved in the GNGT versus SST, arguing for different mechanisms
+    involved when performing the two tasks. Further, for the GNGT a strong effect
+    of task complexity was found, with regions of the multiple demand network (MDN)
+    consistently involved particularly in the complex GNGT. In contrast, both standard
+    and complex SST recruited the MDN to a similar degree. These results complement
+    behavioral evidence suggesting that inhibitory control becomes automatic after
+    some practice and is performed without input of higher control regions in the
+    classic, standard GNGT, but continues to be implemented in a top-down controlled
+    fashion in the SST.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Response inhibition is classically investigated using the go/no-go (GNGT)
+  and stop-signal task (SST), which conceptually measure different subprocesses of
+  inhibition. Further, different task versions with varying levels of additional executive
+  control demands exist, making it difficult to identify the core neural correlates
+  of response inhibition independent of variations in task complexity. Using neuroimaging
+  meta-analyses, we show that a divergent pattern of regions is consistently involved
+  in the GNGT versus SST, arguing for different mechanisms involved when performing
+  the two tasks. Further, for the GNGT a strong effect of task complexity was found,
+  with regions of the multiple demand network (MDN) consistently involved particularly
+  in the complex GNGT. In contrast, both standard and complex SST recruited the MDN
+  to a similar degree. These results complement behavioral evidence suggesting that
+  inhibitory control becomes automatic after some practice and is performed without
+  input of higher control regions in the classic, standard GNGT, but continues to
+  be implemented in a top-down controlled fashion in the SST.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:0149-7634
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2024.105544
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/b2ca25d1-13fc-43e6-8d5f-3ff2234c07b4
+schema_type: xyzri:XYZPublication
+title: 'The effect of task complexity on the neural network for response inhibition:
+  An ALE meta-analysis'

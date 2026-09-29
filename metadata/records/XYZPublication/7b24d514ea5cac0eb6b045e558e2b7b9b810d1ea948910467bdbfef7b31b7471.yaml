@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Cortical and subcortical gray matter volume in psychopathy: A voxel-wise
+    meta-analysis.'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Voxel-based morphometry (VBM) studies of gray matter volume (GMV) in psychopathy
+    have produced inconsistent results and few have been replicated. Therefore, to
+    clarify GMV abnormalities associated with psychopathy as operationalized by Hare
+    (2003), we conducted a meta-analysis of VBM studies using both categorical and
+    dimensional analyses. We identified seven studies eligible for the categorical
+    meta-analysis (136 men with psychopathy vs 150 male controls) and 11 studies (N
+    = 519) eligible for dimensional metaregressions. First, we used seed-based d mapping
+    with permutation of subject images for voxel-based meta-analyses. Statistical
+    parametric maps of GMV were available for four (57%) of the studies included in
+    the categorical meta-analysis and for five (45%) of the studies included in the
+    dimensional metaregression analyses, with peak coordinates available for the remaining
+    studies. Second, we used metadata of a large-scale neuroimaging database to provide
+    an objective and quantitative account of psychological processes attributed to
+    the brain regions we identified in our group meta-analysis and metaregressions.
+    Men with psychopathy exhibited reliable GMV abnormalities circumscribed to the
+    left hemisphere in the dorsolateral prefrontal cortex and the medial orbitofrontal
+    cortex. Total psychopathy scores and Factors 1 and 2 scores were all related to
+    decreased GMV within those two prefrontal regions, as well as decreased GMV in
+    a wider set of regions encompassing midline, temporal, parietal, occipital, and
+    subcortical structures. We discuss how decreased GMV in those regions likely account
+    for the impairments in the emotion, cognition, action, and perception domains
+    seen in the disorder. (PsycInfo Database Record (c) 2021 APA, all rights reserved)
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Voxel-based morphometry (VBM) studies of gray matter volume (GMV) in
+  psychopathy have produced inconsistent results and few have been replicated. Therefore,
+  to clarify GMV abnormalities associated with psychopathy as operationalized by Hare
+  (2003), we conducted a meta-analysis of VBM studies using both categorical and dimensional
+  analyses. We identified seven studies eligible for the categorical meta-analysis
+  (136 men with psychopathy vs 150 male controls) and 11 studies (N = 519) eligible
+  for dimensional metaregressions. First, we used seed-based d mapping with permutation
+  of subject images for voxel-based meta-analyses. Statistical parametric maps of
+  GMV were available for four (57%) of the studies included in the categorical meta-analysis
+  and for five (45%) of the studies included in the dimensional metaregression analyses,
+  with peak coordinates available for the remaining studies. Second, we used metadata
+  of a large-scale neuroimaging database to provide an objective and quantitative
+  account of psychological processes attributed to the brain regions we identified
+  in our group meta-analysis and metaregressions. Men with psychopathy exhibited reliable
+  GMV abnormalities circumscribed to the left hemisphere in the dorsolateral prefrontal
+  cortex and the medial orbitofrontal cortex. Total psychopathy scores and Factors
+  1 and 2 scores were all related to decreased GMV within those two prefrontal regions,
+  as well as decreased GMV in a wider set of regions encompassing midline, temporal,
+  parietal, occipital, and subcortical structures. We discuss how decreased GMV in
+  those regions likely account for the impairments in the emotion, cognition, action,
+  and perception domains seen in the disorder. (PsycInfo Database Record (c) 2021
+  APA, all rights reserved)
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1037/abn0000698
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/cefbc6fb-34f0-44ff-8058-2f3323f10114
+schema_type: xyzri:XYZPublication
+title: 'Cortical and subcortical gray matter volume in psychopathy: A voxel-wise meta-analysis.'

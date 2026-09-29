@@ -1,0 +1,74 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/4f0778aa-678d-4acd-a21c-19e1778f4e41
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Exploring Test-Retest Reliability and Longitudinal Stability of Digital
+    Biomarkers for Parkinson Disease in the m-Power Data Set: Cohort Study'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Background: Digital biomarkers (DB), as captured using sensors embedded
+    in modern smart devices, are a promising technology for home-based sign and symptom
+    monitoring in Parkinson disease (PD).Objective: Despite extensive application
+    in recent studies, test-retest reliability and longitudinal stability of DB have
+    not been well addressed in this context. We utilized the large-scale m-Power data
+    set to establish the test-retest reliability and longitudinal stability of gait,
+    balance, voice, and tapping tasks in an unsupervised and self-administered daily
+    life setting in patients with PD and healthy controls (HC).Methods: Intraclass
+    correlation coefficients were computed to estimate the test-retest reliability
+    of features that also differentiate between patients with PD and healthy volunteers.
+    In addition, we tested for longitudinal stability of DB measures in PD and HC,
+    as well as for their sensitivity to PD medication effects.Results: Among the features
+    differing between PD and HC, only a few tapping and voice features had good to
+    excellent test-retest reliabilities and medium to large effect sizes. All other
+    features performed poorly in this respect. Only a few features were sensitive
+    to medication effects. The longitudinal analyses revealed significant alterations
+    over time across a variety of features and in particular for the tapping task.Conclusions:
+    These results indicate the need for further development of more standardized,
+    sensitive, and reliable DB for application in self-administered remote studies
+    in patients with PD. Motivational, learning, and other confounders may cause variations
+    in performance that need to be considered in DB longitudinal applications.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Background: Digital biomarkers (DB), as captured using sensors embedded
+  in modern smart devices, are a promising technology for home-based sign and symptom
+  monitoring in Parkinson disease (PD).Objective: Despite extensive application in
+  recent studies, test-retest reliability and longitudinal stability of DB have not
+  been well addressed in this context. We utilized the large-scale m-Power data set
+  to establish the test-retest reliability and longitudinal stability of gait, balance,
+  voice, and tapping tasks in an unsupervised and self-administered daily life setting
+  in patients with PD and healthy controls (HC).Methods: Intraclass correlation coefficients
+  were computed to estimate the test-retest reliability of features that also differentiate
+  between patients with PD and healthy volunteers. In addition, we tested for longitudinal
+  stability of DB measures in PD and HC, as well as for their sensitivity to PD medication
+  effects.Results: Among the features differing between PD and HC, only a few tapping
+  and voice features had good to excellent test-retest reliabilities and medium to
+  large effect sizes. All other features performed poorly in this respect. Only a
+  few features were sensitive to medication effects. The longitudinal analyses revealed
+  significant alterations over time across a variety of features and in particular
+  for the tapping task.Conclusions: These results indicate the need for further development
+  of more standardized, sensitive, and reliable DB for application in self-administered
+  remote studies in patients with PD. Motivational, learning, and other confounders
+  may cause variations in performance that need to be considered in DB longitudinal
+  applications.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1439-4456
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.2196/26608
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/24cdc72b-0b75-4337-92fa-b082490a3300
+schema_type: xyzri:XYZPublication
+title: 'Exploring Test-Retest Reliability and Longitudinal Stability of Digital Biomarkers
+  for Parkinson Disease in the m-Power Data Set: Cohort Study'

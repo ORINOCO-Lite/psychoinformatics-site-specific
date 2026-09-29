@@ -1,0 +1,57 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Sex differences and menstrual cycle effects in cognitive and sensory resting
+    state networks
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: It has not yet been established if resting state (RS) connectivity reflects
+    stable characteristics of the brain, or if it is modulated by the psychological
+    and/or physiological state of the participant. Based on research demonstrating
+    sex hormonal effects in task-related brain activity, the present study aimed to
+    investigate corresponding differences in RS networks. RS functional Magnetic Resonance
+    Imaging (RS fMRI) was conducted in women during three different menstrual cycle
+    phases, while men underwent three repeated RS fMRI testing sessions. Independent
+    component analysis was used to identify the default mode network (DMN) and an
+    auditory RS network. For the DMN, RS connectivity was stable across testing sessions
+    in men, but varied across the menstrual cycle in women. For the auditory network
+    (AN), retest reliable sex difference was found. Although RS activity in the DMN
+    has been interpreted as trait characteristic of functional brain organization,
+    these findings suggest that RS activity in networks involving frontal areas might
+    be less stable than in sensory-based networks and can dynamically fluctuate. This
+    also implies that some of the previously reported effects of sex hormones on task-related
+    activity might to some extent be mediated by cycle-related fluctuations in RS
+    activity, especially when frontal areas are involved.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: It has not yet been established if resting state (RS) connectivity reflects
+  stable characteristics of the brain, or if it is modulated by the psychological
+  and/or physiological state of the participant. Based on research demonstrating sex
+  hormonal effects in task-related brain activity, the present study aimed to investigate
+  corresponding differences in RS networks. RS functional Magnetic Resonance Imaging
+  (RS fMRI) was conducted in women during three different menstrual cycle phases,
+  while men underwent three repeated RS fMRI testing sessions. Independent component
+  analysis was used to identify the default mode network (DMN) and an auditory RS
+  network. For the DMN, RS connectivity was stable across testing sessions in men,
+  but varied across the menstrual cycle in women. For the auditory network (AN), retest
+  reliable sex difference was found. Although RS activity in the DMN has been interpreted
+  as trait characteristic of functional brain organization, these findings suggest
+  that RS activity in networks involving frontal areas might be less stable than in
+  sensory-based networks and can dynamically fluctuate. This also implies that some
+  of the previously reported effects of sex hormones on task-related activity might
+  to some extent be mediated by cycle-related fluctuations in RS activity, especially
+  when frontal areas are involved.
+generated_by:
+- at_location: ISSN:0278-2626
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.bandc.2017.09.003
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/1f23b04c-1a95-4fe4-a978-5a94258b8673
+schema_type: xyzri:XYZPublication
+title: Sex differences and menstrual cycle effects in cognitive and sensory resting
+  state networks

@@ -1,0 +1,65 @@
+attributed_to:
+- object: xyzrins:persons/9667ad1d-d904-4eea-9d86-7af45f176cb4
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/f012978a-c0be-46ae-ba97-1e6f2abd5c7f
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Relating sex-bias in human cortical and hippocampal microstructure to sex
+    hormones
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Determining sex-bias in brain structure is of great societal interest to
+    improve diagnostics and treatment of brain-related disorders. So far, studies
+    on sex-bias in brain structure predominantly focus on macro-scale measures, and
+    often ignore factors determining this bias. Here we study sex-bias in cortical
+    and hippocampal microstructure in relation to sex hormones. Investigating quantitative
+    intracortical profiling in-vivo using the T1w/T2w ratio in 1093 healthy females
+    and males of the cross-sectional Human Connectome Project young adult sample,
+    we find that regional cortical and hippocampal microstructure differs between
+    males and females and that the effect size of this sex-bias varies depending on
+    self-reported hormonal status in females. Microstructural sex-bias and expression
+    of sex hormone genes, based on an independent post-mortem sample, are spatially
+    coupled. Lastly, sex-bias is most pronounced in paralimbic areas, with low laminar
+    complexity, which are predicted to be most plastic based on their cytoarchitectural
+    properties. Albeit correlative, our study underscores the importance of incorporating
+    sex hormone variables into the investigation of brain structure and plasticity.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Determining sex-bias in brain structure is of great societal interest
+  to improve diagnostics and treatment of brain-related disorders. So far, studies
+  on sex-bias in brain structure predominantly focus on macro-scale measures, and
+  often ignore factors determining this bias. Here we study sex-bias in cortical and
+  hippocampal microstructure in relation to sex hormones. Investigating quantitative
+  intracortical profiling in-vivo using the T1w/T2w ratio in 1093 healthy females
+  and males of the cross-sectional Human Connectome Project young adult sample, we
+  find that regional cortical and hippocampal microstructure differs between males
+  and females and that the effect size of this sex-bias varies depending on self-reported
+  hormonal status in females. Microstructural sex-bias and expression of sex hormone
+  genes, based on an independent post-mortem sample, are spatially coupled. Lastly,
+  sex-bias is most pronounced in paralimbic areas, with low laminar complexity, which
+  are predicted to be most plastic based on their cytoarchitectural properties. Albeit
+  correlative, our study underscores the importance of incorporating sex hormone variables
+  into the investigation of brain structure and plasticity.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2041-1723
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41467-024-51459-7
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/3220eafa-f088-4acb-8663-17413b23d71d
+schema_type: xyzri:XYZPublication
+title: Relating sex-bias in human cortical and hippocampal microstructure to sex hormones

@@ -1,0 +1,7 @@
+broad_mappings:
+- ODRL:Permission
+description: This data use permission indicates there is no restriction on use.
+display_label: 'Permission: no restriction'
+pid: obo:DUO_0000004
+schema_type: dlthings:Rule
+title: no restriction

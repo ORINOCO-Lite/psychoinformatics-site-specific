@@ -1,0 +1,31 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-03T11:29:55.540663'
+description: 'DataLad is a Python-based tool for the joint management of code, data,
+  and their relationship, built on top of a versatile system for data logistics (git-annex)
+  and the most popular distributed version control system (Git). It adapts principles
+  of open-source software development and distribution to address the technical challenges
+  of data management, data sharing, and digital provenance collection across the life
+  cycle of digital objects.
+
+
+  DataLad aims to make data management as easy as managing code. It streamlines procedures
+  to consume, publish, and update data, for data of any size or type, and to link
+  them as precisely versioned, lightweight dependencies. DataLad helps to make science
+  more reproducible and FAIR. It can capture complete and actionable process provenance
+  of data transformations to enable automatic re-computation. The DataLad project
+  (datalad.org) delivers a completely open, pioneering platform for flexible decentralized
+  research data management (RDM). It features a Python and a command-line interface
+  as well as a dedicated graphical user interface, an extensible architecture, and
+  does not depend on any centralized services but facilitates interoperability with
+  a plurality of existing tools and services. In order to maximize its utility and
+  target audience, DataLad is available for all major operating systems, and can be
+  integrated into established workflows and environments with minimal friction.'
+generated_by:
+- at_time: '2015-10-14'
+  object: xyzrins:projects/datalad
+  schema_type: dlthings:Generation
+kind: obo:IAO_0000010
+name: DataLad
+pid: xyzrins:instruments/datalad
+schema_type: xyzri:XYZInstrument

@@ -1,0 +1,32 @@
+associated_with:
+- object: xyzrins:persons/3764fca4-0337-4395-a553-9be5d479df80
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+description: 'This project is part of the ExoEnhance project, which investigates biomechanical
+  enhancement – in particular exoskeletons and neuroprostheses – in terms of expected
+  physiological efficacy, subjective bodily experience, social integration and ethical
+  legitimacy. It develops assessment frameworks, design recommendations and ethical
+  guidelines for body-worn assistive and enhancement technologies. '
+ended:
+  at_time: '2028-05-31'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2028-05-31'
+    schema_type: dlthings:End
+  object: xyzrins:grants/0f483ab1-6024-4e60-8f95-8f334355747c
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2026-06-01'
+    schema_type: dlthings:Start
+part_of:
+- xyzrins:projects/ba5fce5c-783a-4e90-be03-392cfe1d06a5
+pid: xyzrins:projects/745fed06-c8e7-471b-8cdf-8bd7470e4326
+schema_type: xyzri:XYZProject
+started:
+  at_time: '2026-06-01'
+  schema_type: dlthings:Start
+title: Normative Dimensionen biomechanischen Enhancements

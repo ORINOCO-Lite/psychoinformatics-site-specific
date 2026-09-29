@@ -1,0 +1,12 @@
+attributes:
+- predicate: spdx:isOsiApproved
+  schema_type: dlthings:AttributeSpecification
+  value: obo:NCIT_C68851
+- predicate: spdx:isFsfLibre
+  schema_type: dlthings:AttributeSpecification
+  value: obo:NCIT_C68851
+broad_mappings:
+- dcterms:LicenseDocument
+display_label: Linux man-pages Copyleft - 2 paragraphs
+pid: spdxlic:Linux-man-pages-copyleft-2-para
+schema_type: dlthings:Rule

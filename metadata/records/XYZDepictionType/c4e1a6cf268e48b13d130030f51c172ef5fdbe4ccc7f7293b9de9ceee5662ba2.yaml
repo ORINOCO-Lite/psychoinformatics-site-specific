@@ -1,0 +1,12 @@
+annotations:
+  obo:NCIT_C54269: s.heunis@fz-juelich.de
+  sio:SIO_001083: '2026-02-25T21:54:30.691242'
+description: Work consisting of graphic representations, especially of the face, of
+  real persons, usually posed, living or dead. They are pictures whose purpose is
+  the portrayal of an individual or group of individuals, not pictures which merely
+  include people as part of an event or scene.
+display_label: Portrait
+exact_mappings:
+- http://id.nlm.nih.gov/mesh/D019477
+pid: xyzrins:depiction-types/e9a34f7d-d05e-4591-bb45-f8a0c499e07b
+schema_type: xyzri:XYZDepictionType

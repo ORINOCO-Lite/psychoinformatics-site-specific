@@ -1,0 +1,62 @@
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/laura-waite
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Teaching Research Data Management with DataLad: A Multi-year, Multi-domain
+    Effort'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Research data management has become an indispensable skill in modern neuroscience.
+    Researchers can benefit from following good practices as well as from having proficiency
+    in using particular software solutions. But as these domain-agnostic skills are
+    commonly not included in domain-specific graduate education, community efforts
+    increasingly provide early career scientists with opportunities for organised
+    training and materials for self-study. Investing effort in user documentation
+    and interacting with the user base can, in turn, help developers improve quality
+    of their software. In this work, we detail and evaluate our multi-modal teaching
+    approach to research data management in the DataLad ecosystem, both in general
+    and with concrete software use. Spanning an online and printed handbook, a modular
+    course suitable for in-person and virtual teaching, and a flexible collection
+    of research data management tips in a knowledge base, our free and open source
+    collection of training material has made research data management and software
+    training available to various different stakeholders over the past five years.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Research data management has become an indispensable skill in modern
+  neuroscience. Researchers can benefit from following good practices as well as from
+  having proficiency in using particular software solutions. But as these domain-agnostic
+  skills are commonly not included in domain-specific graduate education, community
+  efforts increasingly provide early career scientists with opportunities for organised
+  training and materials for self-study. Investing effort in user documentation and
+  interacting with the user base can, in turn, help developers improve quality of
+  their software. In this work, we detail and evaluate our multi-modal teaching approach
+  to research data management in the DataLad ecosystem, both in general and with concrete
+  software use. Spanning an online and printed handbook, a modular course suitable
+  for in-person and virtual teaching, and a flexible collection of research data management
+  tips in a knowledge base, our free and open source collection of training material
+  has made research data management and software training available to various different
+  stakeholders over the past five years.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:1539-2791
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s12021-024-09665-7
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/a25ca32d-5cc9-40b0-be3e-cb4e8a3586ec
+schema_type: xyzri:XYZPublication
+title: 'Teaching Research Data Management with DataLad: A Multi-year, Multi-domain
+  Effort'

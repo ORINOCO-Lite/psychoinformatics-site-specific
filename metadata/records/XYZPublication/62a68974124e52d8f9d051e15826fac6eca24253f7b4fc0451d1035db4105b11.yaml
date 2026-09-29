@@ -1,0 +1,39 @@
+attributed_to:
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/950d9384-760a-4eab-8f60-949b230319bb
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: IXI_VBM-GM-Cat12.8.1_Schaefer-Tian_parcellation
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Cortical and subcortical gray matter parcellations using output from CAT12.8.1.
+    VBM preprocessing (mwp1) of the IXI dataset (see https://brain-development.org/ixi-dataset/)
+    in all available parcellation resolutions using Schaefer cortical (Schaefer et
+    al., 2018) and Tian (Tian et al., 2020) subcortical atlas. Site information is
+    encoded in the subject-ID and therefore not part of the .csv files. Additionally
+    the file collection contains a reduced version of demographics measurements with
+    subjectIDs magic the brain data (SEX_ID (1=m, 2=f) , HEIGHT, WEIGHT, DOB ,  STUDY_DATE,
+    AGE).
+description: Cortical and subcortical gray matter parcellations using output from
+  CAT12.8.1. VBM preprocessing (mwp1) of the IXI dataset (see https://brain-development.org/ixi-dataset/)
+  in all available parcellation resolutions using Schaefer cortical (Schaefer et al.,
+  2018) and Tian (Tian et al., 2020) subcortical atlas. Site information is encoded
+  in the subject-ID and therefore not part of the .csv files. Additionally the file
+  collection contains a reduced version of demographics measurements with subjectIDs
+  magic the brain data (SEX_ID (1=m, 2=f) , HEIGHT, WEIGHT, DOB ,  STUDY_DATE, AGE).
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/ZENODO.17056022
+  schema_type: dlthings:DOI
+pid: xyzrins:publications/b912b741-a802-447b-a8ea-a284f1753b67
+schema_type: xyzri:XYZPublication
+title: IXI_VBM-GM-Cat12.8.1_Schaefer-Tian_parcellation

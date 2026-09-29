@@ -1,0 +1,34 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Towards clinical applications of movie fMRI
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: AbstractAs evidenced by the present special issue, movie fMRI is emerging
+    as a powerful tool for exploring brain function and characterizing its variation
+    across individuals. Here, we provide a brief perspective on the potential of movie
+    fMRI for advancing the discovery of brain imaging-based markers of psychiatric
+    illness. We discuss relevant gaps and opportunities in movie fMRI, and propose
+    community-level models that might accelerate the pace of discovery of fMRI-based
+    biomarkers in psychiatry.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: AbstractAs evidenced by the present special issue, movie fMRI is emerging
+  as a powerful tool for exploring brain function and characterizing its variation
+  across individuals. Here, we provide a brief perspective on the potential of movie
+  fMRI for advancing the discovery of brain imaging-based markers of psychiatric illness.
+  We discuss relevant gaps and opportunities in movie fMRI, and propose community-level
+  models that might accelerate the pace of discovery of fMRI-based biomarkers in psychiatry.
+generated_by:
+- at_location: ISSN:1053-8119
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2020.116860
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/803d21e2-a42f-4a1d-b614-da4067241acd
+schema_type: xyzri:XYZPublication
+title: Towards clinical applications of movie fMRI

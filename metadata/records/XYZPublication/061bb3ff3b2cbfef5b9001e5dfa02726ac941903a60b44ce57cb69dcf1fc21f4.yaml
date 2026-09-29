@@ -1,0 +1,79 @@
+attributed_to:
+- object: xyzrins:persons/f88be440-2c9e-47e6-ae53-2f6f5605def2
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Atypical Integration of Sensory-to-Transmodal Functional Systems Mediates
+    Symptom Severity in Autism
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'A notable characteristic of autism spectrum disorder (ASD) is co-occurring
+    deficits in low-level sensory processing and high-order social interaction. While
+    there is evidence indicating detrimental cascading effects of sensory anomalies
+    on the high-order cognitive functions in ASD, the exact pathological mechanism
+    underlying their atypical functional interaction across the cortical hierarchy
+    has not been systematically investigated. To address this gap, here we assessed
+    the functional organisation of sensory and motor areas in ASD, and their relationship
+    with subcortical and high-order trandmodal systems. In a resting-state fMRI data
+    of 107 ASD and 113 neurotypical individuals, we applied advanced connectopic mapping
+    to probe functional organization of primary sensory/motor areas, together with
+    targeted seed-based intrinsic functional connectivity (iFC) analyses. In ASD,
+    the connectopic mapping revealed topological anomalies (i.e., excessively more
+    segregated iFC) in the motor and visual areas, the former of which patterns showed
+    association with the symptom severity of restricted and repetitive behaviors.
+    Moreover, the seed-based analysis found diverging patterns of ASD-related connectopathies:
+    decreased iFCs within the sensory/motor areas but increased iFCs between sensory
+    and subcortical structures. While decreased iFCs were also found within the higher-order
+    functional systems, the overall proportion of this anomaly tends to increase along
+    the level of cortical hierarchy, suggesting more dysconnectivity in the higher-order
+    functional networks. Finally, we demonstrated that the association between low-level
+    sensory/motor iFCs and clinical symptoms in ASD was mediated by the high-order
+    transmodal systems, suggesting pathogenic functional interactions along the cortical
+    hierarchy. Findings were largely replicated in the independent dataset. These
+    results highlight that atypical integration of sensory-to-high-order systems contributes
+    to the complex ASD symptomatology.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'A notable characteristic of autism spectrum disorder (ASD) is co-occurring
+  deficits in low-level sensory processing and high-order social interaction. While
+  there is evidence indicating detrimental cascading effects of sensory anomalies
+  on the high-order cognitive functions in ASD, the exact pathological mechanism underlying
+  their atypical functional interaction across the cortical hierarchy has not been
+  systematically investigated. To address this gap, here we assessed the functional
+  organisation of sensory and motor areas in ASD, and their relationship with subcortical
+  and high-order trandmodal systems. In a resting-state fMRI data of 107 ASD and 113
+  neurotypical individuals, we applied advanced connectopic mapping to probe functional
+  organization of primary sensory/motor areas, together with targeted seed-based intrinsic
+  functional connectivity (iFC) analyses. In ASD, the connectopic mapping revealed
+  topological anomalies (i.e., excessively more segregated iFC) in the motor and visual
+  areas, the former of which patterns showed association with the symptom severity
+  of restricted and repetitive behaviors. Moreover, the seed-based analysis found
+  diverging patterns of ASD-related connectopathies: decreased iFCs within the sensory/motor
+  areas but increased iFCs between sensory and subcortical structures. While decreased
+  iFCs were also found within the higher-order functional systems, the overall proportion
+  of this anomaly tends to increase along the level of cortical hierarchy, suggesting
+  more dysconnectivity in the higher-order functional networks. Finally, we demonstrated
+  that the association between low-level sensory/motor iFCs and clinical symptoms
+  in ASD was mediated by the high-order transmodal systems, suggesting pathogenic
+  functional interactions along the cortical hierarchy. Findings were largely replicated
+  in the independent dataset. These results highlight that atypical integration of
+  sensory-to-high-order systems contributes to the complex ASD symptomatology.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1664-0640
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3389/fpsyt.2021.699813
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8730372f-246f-488f-a092-b1533d7706b6
+schema_type: xyzri:XYZPublication
+title: Atypical Integration of Sensory-to-Transmodal Functional Systems Mediates Symptom
+  Severity in Autism

@@ -1,0 +1,16 @@
+additional_names:
+- B
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: m.hanke@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2025-12-14T22:12:07.509568'
+family_name: Eickhoff
+given_name: Simon
+identifiers:
+- notation: 0000-0001-6363-2759
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/simon-eickhoff
+schema_type: xyzri:XYZPerson

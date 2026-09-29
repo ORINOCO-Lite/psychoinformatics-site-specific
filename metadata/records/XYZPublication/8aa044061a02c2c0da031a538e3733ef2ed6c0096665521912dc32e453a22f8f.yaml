@@ -1,0 +1,121 @@
+attributed_to:
+- object: xyzrins:persons/d201cdf8-b4a5-430b-b40d-36dd9fed44b1
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/6de57b9d-196e-47c9-826a-ff26c9f32093
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d44b2ca0-e927-4495-939e-a05fac8e2aca
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: The role of contralesional regions for post-stroke movements revealed by
+    dynamic connectivity and TMS interference
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Connectivity changes after brain lesions due to stroke are tightly linked
+    to functional outcome. Recent analyses of fMRI time series indicate that dynamic
+    functional network connectivity (dFNC), reflecting transient states of connectivity
+    may capture network-level disruptions distant to the lesion site. Yet, the relevance
+    of such dynamic connectivity patterns for motor recovery remains unclear. We,
+    therefore, combined the analysis of static and dFNC and a repetitive transcranial
+    magnetic stimulation (rTMS) lesion approach, to test whether dFNC provides region-specific
+    insight into motor system reorganization after stroke. We focused on the contralesional
+    primary motor cortex (M1) and anterior intraparietal sulcus (aIPS), two regions
+    previously shown to modulate motor performance post-stroke in a time dependent
+    manner. In 18 individuals in the chronic phase after stroke (with either persistent
+    or recovered deficits) and 18 healthy participants, we analyzed static and dynamic
+    resting-state connectivity. We then applied online rTMS intereference over contralesional
+    aIPS and M1 during hand movement tasks to assess region-specific contributions
+    to motor behavior. Consistent with previous studies, dFNC states were associated
+    with persisting motor deficits, whereas static connectivity was not associated
+    with motor outcome. dFNC but not static connectivity was associated with residual
+    motor deficits and explained TMS-induced behavioral changes, when applying rTMS
+    over contralesional M1. For contralesional aIPS, both static and dynamic connectivity
+    were linked to TMS effects. This indicates that dFNC - more than static connectivity
+    - contains information on the functional relevance of brain regions for motor
+    outcome, specifically contralesional M1. Our results highlight the added value
+    of temporal network analysis in understanding mechanisms of stroke recovery mechanisms.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Connectivity changes after brain lesions due to stroke are tightly linked
+  to functional outcome. Recent analyses of fMRI time series indicate that dynamic
+  functional network connectivity (dFNC), reflecting transient states of connectivity
+  may capture network-level disruptions distant to the lesion site. Yet, the relevance
+  of such dynamic connectivity patterns for motor recovery remains unclear. We, therefore,
+  combined the analysis of static and dFNC and a repetitive transcranial magnetic
+  stimulation (rTMS) lesion approach, to test whether dFNC provides region-specific
+  insight into motor system reorganization after stroke. We focused on the contralesional
+  primary motor cortex (M1) and anterior intraparietal sulcus (aIPS), two regions
+  previously shown to modulate motor performance post-stroke in a time dependent manner.
+  In 18 individuals in the chronic phase after stroke (with either persistent or recovered
+  deficits) and 18 healthy participants, we analyzed static and dynamic resting-state
+  connectivity. We then applied online rTMS intereference over contralesional aIPS
+  and M1 during hand movement tasks to assess region-specific contributions to motor
+  behavior. Consistent with previous studies, dFNC states were associated with persisting
+  motor deficits, whereas static connectivity was not associated with motor outcome.
+  dFNC but not static connectivity was associated with residual motor deficits and
+  explained TMS-induced behavioral changes, when applying rTMS over contralesional
+  M1. For contralesional aIPS, both static and dynamic connectivity were linked to
+  TMS effects. This indicates that dFNC - more than static connectivity - contains
+  information on the functional relevance of brain regions for motor outcome, specifically
+  contralesional M1. Our results highlight the added value of temporal network analysis
+  in understanding mechanisms of stroke recovery mechanisms.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2213-1582
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.nicl.2025.103825
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2028-12-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/143b2417-20a6-45d1-8140-dfddceb61749
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2025-01-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2028-12-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/1325c9f4-279a-42d1-ba37-ed5577965620
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2028-12-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/3977dc9e-59e9-4ff2-bcbf-5bcb8f1c5c2d
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2028-12-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/66cbbef2-5fd4-42c6-8348-cb74af435b75
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/90bb1942-2f29-43bb-9981-2396a7ca5068
+schema_type: xyzri:XYZPublication
+title: The role of contralesional regions for post-stroke movements revealed by dynamic
+  connectivity and TMS interference

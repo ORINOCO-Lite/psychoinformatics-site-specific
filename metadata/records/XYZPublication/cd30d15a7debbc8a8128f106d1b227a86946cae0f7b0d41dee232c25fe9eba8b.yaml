@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/6f5b501c-0d09-4f6d-9cac-0a8b74490469
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/f270c789-dd52-4ca6-9ccb-ae7ca3f9250a
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Neural correlates of affective control regions induced by common therapeutic
+    strategies in major depressive disorders: An activation likelihood estimation
+    meta-analysis study'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: In major depressive disorder (MDD), not only the pathophysiology of this
+    disease is unknown but also the mechanisms of clinical efficacy across its therapeutic
+    strategies are unclear. Although neuroimaging studies adopted activation likelihood
+    estimation (ALE) approach to identify the convergent abnormalities of human brain
+    in the MDD patients, the common alterations after antidepressant therapies were
+    not summarized. Thus, we extracted the coordinates of brain regions in the MDD
+    patients that showed differences in resting-state function, gray matter morphometry,
+    and task-evoked neuronal responses after therapies. The ALE algorithm (GingerALE2.0.3)
+    was employed in all 53 studies (64 experiments with 1406 MDD patients). Consistent
+    results across treatment therapies were reported in the affective control network,
+    including the bilateral thalamus, bilateral amygdala/parahippocampal gyrus, right
+    anterior cingulate cortex/middle frontal gyrus, and right insular cortex/claustrum.
+    Only electroconvulsive therapy partially replicated above findings. Our results
+    indicate the antidepressant therapies efficiently influence core structures of
+    the affective control network, which might be the underlying mechanism of remission
+    in depression and provides potential targets for further treatment strategies.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: In major depressive disorder (MDD), not only the pathophysiology of this
+  disease is unknown but also the mechanisms of clinical efficacy across its therapeutic
+  strategies are unclear. Although neuroimaging studies adopted activation likelihood
+  estimation (ALE) approach to identify the convergent abnormalities of human brain
+  in the MDD patients, the common alterations after antidepressant therapies were
+  not summarized. Thus, we extracted the coordinates of brain regions in the MDD patients
+  that showed differences in resting-state function, gray matter morphometry, and
+  task-evoked neuronal responses after therapies. The ALE algorithm (GingerALE2.0.3)
+  was employed in all 53 studies (64 experiments with 1406 MDD patients). Consistent
+  results across treatment therapies were reported in the affective control network,
+  including the bilateral thalamus, bilateral amygdala/parahippocampal gyrus, right
+  anterior cingulate cortex/middle frontal gyrus, and right insular cortex/claustrum.
+  Only electroconvulsive therapy partially replicated above findings. Our results
+  indicate the antidepressant therapies efficiently influence core structures of the
+  affective control network, which might be the underlying mechanism of remission
+  in depression and provides potential targets for further treatment strategies.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0149-7634
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2022.104643
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/7865d00d-dbc1-49a0-9691-65ffc82d7092
+schema_type: xyzri:XYZPublication
+title: 'Neural correlates of affective control regions induced by common therapeutic
+  strategies in major depressive disorders: An activation likelihood estimation meta-analysis
+  study'

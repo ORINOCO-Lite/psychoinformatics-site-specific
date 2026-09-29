@@ -1,0 +1,28 @@
+description: ExoEnhance investigates biomechanical enhancement – in particular exoskeletons
+  and neuroprostheses – in terms of expected physiological efficacy, subjective bodily
+  experience, social integration and ethical legitimacy. It develops assessment frameworks,
+  design recommendations and ethical guidelines for body-worn assistive and enhancement
+  technologies. Using future scenarios, alongside research in occupational physiology,
+  neurotechnology, the social sciences and ethics, the consortium assesses the opportunities
+  and risks of these enhancement technologies in the context of work and health. Laboratory
+  and field studies investigate the biomechanical effects, efficacy and acceptance
+  factors of various exoskeletons. Qualitative analyses capture experiences of agency
+  and embodiment. Sociological and philosophical sub-projects examine body augmentation
+  as a social phenomenon and develop normative criteria for autonomy and justice.
+  Through participatory formats, practice-oriented guidelines for strategic technology
+  design are developed. The sub-project ‘Exoskeleton Technology Analysis and Integration’
+  focuses on the practical evaluation of market-ready exoskeletons in laboratory and
+  workshop settings, taking into account the expected diversity of users in the workplace
+  of the future. Future labour market developments suggest a greater diversity of
+  the workforce – in particular, more older workers and people with
+ended:
+  at_time: '2028-05-31'
+  schema_type: dlthings:End
+pid: xyzrins:projects/ba5fce5c-783a-4e90-be03-392cfe1d06a5
+schema_type: xyzri:XYZProject
+short_name: ExoEnhance
+started:
+  at_time: '2026-06-01'
+  schema_type: dlthings:Start
+title: 'Verbundprojekt: Biomechanisches Enhancement und seine gesellschaftliche Einbettung
+  – ExoEnhance'

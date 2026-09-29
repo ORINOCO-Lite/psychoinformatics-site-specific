@@ -1,0 +1,62 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Digitalisierung in Lebenswissenschaften und Medizin – das Dual-Use-ProblemDigitalization
+    in life science and medicine—the dual-use problem
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Definition of the problem“Dual use” refers to the applicability of a research
+    result or methods for purposes that concern the internal or external security
+    of a society. This includes research that can be used for military, intelligence,
+    terrorist, or criminal purposes. Dual use has been an increasingly aggravating
+    problem for many areas of the life sciences and medicine for over a decade. The
+    main cause for this is that many of their results are capable of demonstrating
+    how humans, but also (domestic) animals and plants, can be manipulated and attacked,
+    and which tools are particularly suitable for this purpose.ArgumentsThe digitalization
+    in the life sciences has two distinguishable impacts on the dual-use problem:
+    an intensifying and an expanding one. By enabling faster and more comprehensive
+    research and development processes, digitalization exacerbates the existing dual-use
+    problem because it increases the pace at which the results of this research can
+    be utilized for security-related purposes. Moreover, the digitalization of the
+    life sciences expands the dual-use problem, as some of the digital tools developed
+    and used in the life sciences can themselves have military or security-relevant
+    applications.ConclusionTherefore, a broad-based governance including wide participation
+    of stakeholders in the research process and broader information on dual use in
+    good scientific practice education across institutions, career stages, and disciplines
+    is necessary.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Definition of the problem“Dual use” refers to the applicability of a
+  research result or methods for purposes that concern the internal or external security
+  of a society. This includes research that can be used for military, intelligence,
+  terrorist, or criminal purposes. Dual use has been an increasingly aggravating problem
+  for many areas of the life sciences and medicine for over a decade. The main cause
+  for this is that many of their results are capable of demonstrating how humans,
+  but also (domestic) animals and plants, can be manipulated and attacked, and which
+  tools are particularly suitable for this purpose.ArgumentsThe digitalization in
+  the life sciences has two distinguishable impacts on the dual-use problem: an intensifying
+  and an expanding one. By enabling faster and more comprehensive research and development
+  processes, digitalization exacerbates the existing dual-use problem because it increases
+  the pace at which the results of this research can be utilized for security-related
+  purposes. Moreover, the digitalization of the life sciences expands the dual-use
+  problem, as some of the digital tools developed and used in the life sciences can
+  themselves have military or security-relevant applications.ConclusionTherefore,
+  a broad-based governance including wide participation of stakeholders in the research
+  process and broader information on dual use in good scientific practice education
+  across institutions, career stages, and disciplines is necessary.'
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:0935-7335
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00481-024-00839-0
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/a4e87935-6b57-4c3f-8358-097d16beb4ea
+schema_type: xyzri:XYZPublication
+title: Digitalisierung in Lebenswissenschaften und Medizin – das Dual-Use-ProblemDigitalization
+  in life science and medicine—the dual-use problem

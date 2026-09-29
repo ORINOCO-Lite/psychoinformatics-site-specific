@@ -1,0 +1,5 @@
+description: A person or organization primarily responsible for compiling and maintaining
+  the original description of a metadata set (e.g., geospatial metadata set)
+display_label: Metadata contact
+pid: marcrel:mdc
+schema_type: xyzri:XYZAgentRole

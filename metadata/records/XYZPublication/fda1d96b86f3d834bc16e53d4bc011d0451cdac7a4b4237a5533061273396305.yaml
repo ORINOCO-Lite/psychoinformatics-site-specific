@@ -1,0 +1,42 @@
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/a516ad42-4180-44dc-b342-162360c07b82
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/08dccf67-f6d0-4376-b938-16cc55eac2cc
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Code for Science: Bessere Forschung durch bessere Forschungssoftwarekompetenzen'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Die Bedeutung von Forschungssoftware im wissenschaftlichen Erkenntnisprozess
+    nimmtzu. Die Entwicklung und der Umgang mit Forschungssoftware erfordern jedoch
+    Kompetenzen, die derzeit im deutschen Wissenschaftssystem noch nicht in genügendem
+    Maße und inausreichender Breite vorhanden sind. Dieses Problem wurde in einem
+    Workshop mit Unterstützung der Volkswagen-Stiftung adressiert. Die Veranstaltung
+    fand im Dezember 2024 statt und entwickelte Handlungsempfehlungen für verschiedene
+    Akteure, die der Förderung vonForschungssoftwarekompetenzen an deutschen Wissenschaftsinstitutionen
+    dienen
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Die Bedeutung von Forschungssoftware im wissenschaftlichen Erkenntnisprozess
+  nimmtzu. Die Entwicklung und der Umgang mit Forschungssoftware erfordern jedoch
+  Kompetenzen, die derzeit im deutschen Wissenschaftssystem noch nicht in genügendem
+  Maße und inausreichender Breite vorhanden sind. Dieses Problem wurde in einem Workshop
+  mit Unterstützung der Volkswagen-Stiftung adressiert. Die Veranstaltung fand im
+  Dezember 2024 statt und entwickelte Handlungsempfehlungen für verschiedene Akteure,
+  die der Förderung vonForschungssoftwarekompetenzen an deutschen Wissenschaftsinstitutionen
+  dienen
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/ZENODO.14273367
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/57a89216-9439-4c20-a160-02f44fa9e232
+schema_type: xyzri:XYZPublication
+title: 'Code for Science: Bessere Forschung durch bessere Forschungssoftwarekompetenzen'

@@ -1,0 +1,88 @@
+attributed_to:
+- object: xyzrins:persons/b55ca6ad-784a-42e2-aae2-632272bebf23
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/5836e9aa-bcd6-493d-bc7c-8f866c8ab2a7
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/8f836375-520c-43d7-afb6-29abea72c0ab
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'The inferior frontal sulcus: cortical segregation, molecular architecture
+    and function'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The inferior frontal sulcus is conceptualized as the landmark delineating
+    ventro-from dorsolateral prefrontal cortex. Functional imaging studies report
+    activations within the sulcus during tasks addressing cognitive control and verbal
+    working memory, while their microstructural correlates are not well defined. Existing
+    microstructural maps, e.g., Brodmann's map, do not distinguish separate areas
+    within the sulcus. We identified six new areas in the inferior frontal sulcus
+    and its junction to the precentral sulcus, ifs1-4, ifj1-ifj2, by combined cytoarchitectonic
+    analysis and receptor autoradiography. A hierarchical cluster analysis of receptor
+    densities of these and neighbouring prefrontal areas revealed that they form a
+    distinct cluster within the prefrontal cortex. Major interhemispheric differences
+    were found in both cyto- and receptorarchitecture. The function of cytoarchitectonically
+    identified areas was explored by comparing probabilistic maps of the areas in
+    stereotaxic space with their functions and co-activation patterns as analysed
+    by means of a coordinate-based meta-analysis. We found a bilateral involvement
+    in working memory, as well as a lateralization of different language-related processes
+    to the left hemisphere, and of music processing and attention to the right-hemispheric
+    areas. Particularly ifj2 might act as a functional hub between the networks. The
+    cytoarchitectonic maps and receptor densities provide a powerful tool to further
+    elucidate the function of these areas. The maps are available through the Human
+    Brain Atlas of the Human Brain Project and serve in combination with the information
+    on the cyto- and receptor architecture of the areas as a resource for brain models
+    and simulations
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The inferior frontal sulcus is conceptualized as the landmark delineating
+  ventro-from dorsolateral prefrontal cortex. Functional imaging studies report activations
+  within the sulcus during tasks addressing cognitive control and verbal working memory,
+  while their microstructural correlates are not well defined. Existing microstructural
+  maps, e.g., Brodmann's map, do not distinguish separate areas within the sulcus.
+  We identified six new areas in the inferior frontal sulcus and its junction to the
+  precentral sulcus, ifs1-4, ifj1-ifj2, by combined cytoarchitectonic analysis and
+  receptor autoradiography. A hierarchical cluster analysis of receptor densities
+  of these and neighbouring prefrontal areas revealed that they form a distinct cluster
+  within the prefrontal cortex. Major interhemispheric differences were found in both
+  cyto- and receptorarchitecture. The function of cytoarchitectonically identified
+  areas was explored by comparing probabilistic maps of the areas in stereotaxic space
+  with their functions and co-activation patterns as analysed by means of a coordinate-based
+  meta-analysis. We found a bilateral involvement in working memory, as well as a
+  lateralization of different language-related processes to the left hemisphere, and
+  of music processing and attention to the right-hemispheric areas. Particularly ifj2
+  might act as a functional hub between the networks. The cytoarchitectonic maps and
+  receptor densities provide a powerful tool to further elucidate the function of
+  these areas. The maps are available through the Human Brain Atlas of the Human Brain
+  Project and serve in combination with the information on the cyto- and receptor
+  architecture of the areas as a resource for brain models and simulations
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0010-9452
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.cortex.2022.03.019
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2023-09-30'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/hbp-sga3
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2020-04-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/fc8053a5-a7f9-40fd-832d-9562bf5f6cca
+schema_type: xyzri:XYZPublication
+title: 'The inferior frontal sulcus: cortical segregation, molecular architecture
+  and function'

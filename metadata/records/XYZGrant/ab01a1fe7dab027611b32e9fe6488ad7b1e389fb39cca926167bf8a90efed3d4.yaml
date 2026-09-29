@@ -1,0 +1,6 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2025-12-11T21:41:19.629578'
+pid: xyzrins:grants/dfg-perceptual-relevance
+schema_type: xyzri:XYZGrant
+title: 'Tracing the template: Investigating the representation of perceptual relevance'

@@ -1,0 +1,6 @@
+description: A person, family, or organization responsible for creating or contributing
+  to a resource by acting as an interviewer, reporter, pollster, or some other information
+  gathering agent
+display_label: Interviewer
+pid: marcrel:ivr
+schema_type: xyzri:XYZAgentRole

@@ -1,0 +1,8 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2025-12-14T22:20:17.388821'
+name: Psychoinformatics
+part_of:
+- xyzrins:organizations/fzj-inm7
+pid: xyzrins:organizations/psyinf-group
+schema_type: xyzri:XYZOrganization

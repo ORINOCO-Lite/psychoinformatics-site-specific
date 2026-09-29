@@ -1,0 +1,72 @@
+attributed_to:
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/41666a91-143f-49f5-8e58-0a3bd6c4e10c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: A latent clinical-anatomical dimension relating metabolic syndrome to brain
+    structure and cognition
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'he link between metabolic syndrome (MetS) and neurodegenerative as well
+    as cerebrovascular conditions holds substantial implications for brain health
+    in at-risk populations. This study elucidates the complex relationship between
+    MetS and brain health by conducting a comprehensive examination of cardiometabolic
+    risk factors, brain morphology, and cognitive function in 40,087 individuals.
+    Multivariate, data-driven statistics identified a latent dimension linking more
+    severe MetS to widespread brain morphological abnormalities, accounting for up
+    to 71% of shared variance in the data. This dimension was replicable across sub-samples.
+    In a mediation analysis, we could demonstrate that MetS-related brain morphological
+    abnormalities mediated the link between MetS severity and cognitive performance
+    in multiple domains. Employing imaging transcriptomics and connectomics, our results
+    also suggest that MetS-related morphological abnormalities are linked to the regional
+    cellular composition and macroscopic brain network organization. By leveraging
+    extensive, multi-domain data combined with a dimensional stratification approach,
+    our analysis provides profound insights into the association of MetS and brain
+    health. These findings can inform effective therapeutic and risk mitigation strategies
+    aimed at maintaining brain integrity.Keywords: brain morphology; cognitive function;
+    connectomics; human; imaging transcriptomics; magnetic resonance imaging; medicine;
+    metabolic syndrome; neuroscience.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'he link between metabolic syndrome (MetS) and neurodegenerative as well
+  as cerebrovascular conditions holds substantial implications for brain health in
+  at-risk populations. This study elucidates the complex relationship between MetS
+  and brain health by conducting a comprehensive examination of cardiometabolic risk
+  factors, brain morphology, and cognitive function in 40,087 individuals. Multivariate,
+  data-driven statistics identified a latent dimension linking more severe MetS to
+  widespread brain morphological abnormalities, accounting for up to 71% of shared
+  variance in the data. This dimension was replicable across sub-samples. In a mediation
+  analysis, we could demonstrate that MetS-related brain morphological abnormalities
+  mediated the link between MetS severity and cognitive performance in multiple domains.
+  Employing imaging transcriptomics and connectomics, our results also suggest that
+  MetS-related morphological abnormalities are linked to the regional cellular composition
+  and macroscopic brain network organization. By leveraging extensive, multi-domain
+  data combined with a dimensional stratification approach, our analysis provides
+  profound insights into the association of MetS and brain health. These findings
+  can inform effective therapeutic and risk mitigation strategies aimed at maintaining
+  brain integrity.Keywords: brain morphology; cognitive function; connectomics; human;
+  imaging transcriptomics; magnetic resonance imaging; medicine; metabolic syndrome;
+  neuroscience.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2050-084X
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.7554/eLife.93246
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/565ea4f7-887e-48d3-b214-23d4be989666
+schema_type: xyzri:XYZPublication
+title: A latent clinical-anatomical dimension relating metabolic syndrome to brain
+  structure and cognition

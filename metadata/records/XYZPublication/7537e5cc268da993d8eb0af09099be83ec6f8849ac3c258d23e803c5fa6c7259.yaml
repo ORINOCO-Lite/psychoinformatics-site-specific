@@ -1,0 +1,50 @@
+attributed_to:
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Large language models surpass human experts in predicting neuroscience results
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: cientific discoveries often hinge on synthesizing decades of research, a
+    task that potentially outstrips human information processing capacities. Large
+    language models (LLMs) offer a solution. LLMs trained on the vast scientific literature
+    could potentially integrate noisy yet interrelated findings to forecast novel
+    results better than human experts. Here, to evaluate this possibility, we created
+    BrainBench, a forward-looking benchmark for predicting neuroscience results. We
+    find that LLMs surpass experts in predicting experimental outcomes. BrainGPT,
+    an LLM we tuned on the neuroscience literature, performed better yet. Like human
+    experts, when LLMs indicated high confidence in their predictions, their responses
+    were more likely to be correct, which presages a future where LLMs assist humans
+    in making discoveries. Our approach is not neuroscience specific and is transferable
+    to other knowledge-intensive endeavours.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: cientific discoveries often hinge on synthesizing decades of research,
+  a task that potentially outstrips human information processing capacities. Large
+  language models (LLMs) offer a solution. LLMs trained on the vast scientific literature
+  could potentially integrate noisy yet interrelated findings to forecast novel results
+  better than human experts. Here, to evaluate this possibility, we created BrainBench,
+  a forward-looking benchmark for predicting neuroscience results. We find that LLMs
+  surpass experts in predicting experimental outcomes. BrainGPT, an LLM we tuned on
+  the neuroscience literature, performed better yet. Like human experts, when LLMs
+  indicated high confidence in their predictions, their responses were more likely
+  to be correct, which presages a future where LLMs assist humans in making discoveries.
+  Our approach is not neuroscience specific and is transferable to other knowledge-intensive
+  endeavours.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:2397-3374
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41562-024-02046-9
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/5f902222-b8f1-4763-a937-9bbf9c6de34e
+schema_type: xyzri:XYZPublication
+title: Large language models surpass human experts in predicting neuroscience results

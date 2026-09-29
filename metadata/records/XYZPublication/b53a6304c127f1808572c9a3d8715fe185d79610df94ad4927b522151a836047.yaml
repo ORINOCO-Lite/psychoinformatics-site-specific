@@ -1,0 +1,87 @@
+attributed_to:
+- object: xyzrins:persons/44b7c6a3-3595-4f36-9a08-b80b2240d22c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Characterizing the gradients of structural covariance in the human hippocampus
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The hippocampus is a plastic brain structure that has been associated with
+    a range ofbehavioral aspects but also shows vulnerability to the most frequent
+    neurocognitivediseases. Different aspects of its organization have been revealed
+    by studies probingits different neurobiological properties. In particular, histological
+    work has shown apattern of differentiation along the proximal-distal dimension,
+    while studies examiningfunctional properties and large-scale functional integration
+    have primarily highlighted apattern of differentiation along the anterior-posterior
+    dimension. To better understandhow these organizational dimensions underlie the
+    pattern of structural covariance (SC)in the human hippocampus, we here applied
+    a non-linear decomposition approach,disentangling the major modes of variation,
+    to the pattern of grey matter volumecorrelation of hippocampus voxels with the
+    rest of the brain in a sample of 377 healthyyoung adults. We additionally investigated
+    the consistency of the derived gradients inan independent sample of life-span
+    adults and also examined the relationshipsbetween these major modes of variations
+    and the patterns derived from microstructureand functional connectivity mapping.
+    Our results showed that similar major modes ofSC-variability are identified across
+    the two independent datasets. The major dimensionof variation found in SC runs
+    along the hippocampal anterior-posterior axis andfollowed closely the principal
+    dimension of functional differentiation, suggesting aninfluence of network level
+    interaction in this major mode of morphological variability.The second main mode
+    of variability in the SC showed a gradient along the dorsalventralaxis, and was
+    moderately related to variability in hippocampal microstructuralproperties. Thus
+    our results depicting relatively reliable patterns of SC-variability withinthe
+    hippocampus show an interplay between the already known organizationalprinciples
+    on the pattern of variability in hippocampus' macrostructural properties. Thisstudy
+    hence provides a first insight on the underlying organizational forces generatingdifferent
+    co-plastic modes within the human hippocampus that may, in turn, help tobetter
+    understand different vulnerability patterns of this crucial structure in differentneurological
+    and psychiatric diseases.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The hippocampus is a plastic brain structure that has been associated
+  with a range ofbehavioral aspects but also shows vulnerability to the most frequent
+  neurocognitivediseases. Different aspects of its organization have been revealed
+  by studies probingits different neurobiological properties. In particular, histological
+  work has shown apattern of differentiation along the proximal-distal dimension,
+  while studies examiningfunctional properties and large-scale functional integration
+  have primarily highlighted apattern of differentiation along the anterior-posterior
+  dimension. To better understandhow these organizational dimensions underlie the
+  pattern of structural covariance (SC)in the human hippocampus, we here applied a
+  non-linear decomposition approach,disentangling the major modes of variation, to
+  the pattern of grey matter volumecorrelation of hippocampus voxels with the rest
+  of the brain in a sample of 377 healthyyoung adults. We additionally investigated
+  the consistency of the derived gradients inan independent sample of life-span adults
+  and also examined the relationshipsbetween these major modes of variations and the
+  patterns derived from microstructureand functional connectivity mapping. Our results
+  showed that similar major modes ofSC-variability are identified across the two independent
+  datasets. The major dimensionof variation found in SC runs along the hippocampal
+  anterior-posterior axis andfollowed closely the principal dimension of functional
+  differentiation, suggesting aninfluence of network level interaction in this major
+  mode of morphological variability.The second main mode of variability in the SC
+  showed a gradient along the dorsalventralaxis, and was moderately related to variability
+  in hippocampal microstructuralproperties. Thus our results depicting relatively
+  reliable patterns of SC-variability withinthe hippocampus show an interplay between
+  the already known organizationalprinciples on the pattern of variability in hippocampus'
+  macrostructural properties. Thisstudy hence provides a first insight on the underlying
+  organizational forces generatingdifferent co-plastic modes within the human hippocampus
+  that may, in turn, help tobetter understand different vulnerability patterns of
+  this crucial structure in differentneurological and psychiatric diseases.
+generated_by:
+- at_location: ISSN:1053-8119
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2020.116972
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8a1a4ead-4fde-4d91-afc0-b311226d2c9f
+schema_type: xyzri:XYZPublication
+title: Characterizing the gradients of structural covariance in the human hippocampus

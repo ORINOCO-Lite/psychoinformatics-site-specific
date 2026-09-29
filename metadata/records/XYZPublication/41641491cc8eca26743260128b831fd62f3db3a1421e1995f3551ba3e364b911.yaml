@@ -1,0 +1,28 @@
+attributed_to:
+- object: xyzrins:persons/9667ad1d-d904-4eea-9d86-7af45f176cb4
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Nucleus-level thalamic organization anchors multimodal signatures of thalamocortical
+    maturation
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.64898/2026.07.03.736332
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/83038ede-5668-4479-bcbb-1a230a8f4809
+schema_type: xyzri:XYZPublication
+title: Nucleus-level thalamic organization anchors multimodal signatures of thalamocortical
+  maturation

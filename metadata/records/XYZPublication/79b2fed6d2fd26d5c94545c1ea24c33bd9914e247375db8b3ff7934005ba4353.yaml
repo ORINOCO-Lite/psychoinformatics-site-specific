@@ -1,0 +1,103 @@
+attributed_to:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Cellular signatures underlying functional resilience in presymptomatic frontotemporal
+    dementia
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Frontotemporal dementia (FTD) shows autosomal dominant transmission in up
+    to a third of families, enabling the study of presymptomatic and prodromal phases.
+    Despite self-reported well-being and normal daily cognitive functioning, brain
+    structural changes are evident a decade or more before the expected onset of disease.
+    This divergence between cognitive function and brain structure contrasts with
+    the coupling of structural and functional decline after symptom onset. In healthy
+    ageing, it has been shown that functional connectivity is a better predictor of
+    cognitive function than volumetric structural imaging. We previously proposed
+    that in the presymptomatic phase of genetic FTD, the maintenance of brain functional
+    network integrity enables carriers of pathogenic variants to sustain cognitive
+    performance. However, prior work has focused on a small number of, often predefined,
+    networks. This provides a limited and potentially biased characterisation of the
+    substrates and moderators of brain network integration.Here, we test the hypothesis
+    that brain-wide functional integration in FTD determines resilience to progressive
+    pathology before symptom onset. We assess functional connectome integration in
+    289 presymptomatic carriers of pathogenic variants associated with FTD using functional
+    magnetic resonance imaging in relation to cognition and contrast with 271 family
+    members without pathogenic variants. Because structural atrophy, functional integration
+    and cognitive profiles are multivariate, we used canonical correlation models,
+    supplemented by multiple linear regression models for each imaging modality.We
+    confirmed progressive atrophy and normal cognitive function in presymptomatic
+    carriers compared to non-carriers. Notably, functional integration was preserved
+    in presymptomatic carriers across age, while it declined in familial non-carriers.
+    The strongest effects were observed in cognitive control networks. The changes
+    in functional integration in presymptomatic carriers were behaviourally relevant
+    and independent of the severity of atrophy, suggesting a resilience mechanism
+    in those at risk of dementia. To generate hypotheses about the genetic and neurometabolic
+    basis of resilience, we assessed the spatial overlap between behaviourally-relevant
+    functional integration maps and gene transcription profiles. These spatial correlations
+    suggested resilience signatures to glial cell composition (astrocytes, microglia,
+    oligodendrocytes), revealing cellular mechanisms inaccessible to standard neuroimaging.Our
+    findings suggest that resilience to atrophy is associated with enhanced functional
+    integration, protecting against clinical conversion for many years in individuals
+    at risk of dementia. This result has implications for the design of presymptomatic
+    disease-modifying therapy trials and gives hope for therapeutic strategies aimed
+    at enhancing resilience and ability to maintain function despite the presence
+    of genetically determined neuropathology.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Frontotemporal dementia (FTD) shows autosomal dominant transmission in
+  up to a third of families, enabling the study of presymptomatic and prodromal phases.
+  Despite self-reported well-being and normal daily cognitive functioning, brain structural
+  changes are evident a decade or more before the expected onset of disease. This
+  divergence between cognitive function and brain structure contrasts with the coupling
+  of structural and functional decline after symptom onset. In healthy ageing, it
+  has been shown that functional connectivity is a better predictor of cognitive function
+  than volumetric structural imaging. We previously proposed that in the presymptomatic
+  phase of genetic FTD, the maintenance of brain functional network integrity enables
+  carriers of pathogenic variants to sustain cognitive performance. However, prior
+  work has focused on a small number of, often predefined, networks. This provides
+  a limited and potentially biased characterisation of the substrates and moderators
+  of brain network integration.Here, we test the hypothesis that brain-wide functional
+  integration in FTD determines resilience to progressive pathology before symptom
+  onset. We assess functional connectome integration in 289 presymptomatic carriers
+  of pathogenic variants associated with FTD using functional magnetic resonance imaging
+  in relation to cognition and contrast with 271 family members without pathogenic
+  variants. Because structural atrophy, functional integration and cognitive profiles
+  are multivariate, we used canonical correlation models, supplemented by multiple
+  linear regression models for each imaging modality.We confirmed progressive atrophy
+  and normal cognitive function in presymptomatic carriers compared to non-carriers.
+  Notably, functional integration was preserved in presymptomatic carriers across
+  age, while it declined in familial non-carriers. The strongest effects were observed
+  in cognitive control networks. The changes in functional integration in presymptomatic
+  carriers were behaviourally relevant and independent of the severity of atrophy,
+  suggesting a resilience mechanism in those at risk of dementia. To generate hypotheses
+  about the genetic and neurometabolic basis of resilience, we assessed the spatial
+  overlap between behaviourally-relevant functional integration maps and gene transcription
+  profiles. These spatial correlations suggested resilience signatures to glial cell
+  composition (astrocytes, microglia, oligodendrocytes), revealing cellular mechanisms
+  inaccessible to standard neuroimaging.Our findings suggest that resilience to atrophy
+  is associated with enhanced functional integration, protecting against clinical
+  conversion for many years in individuals at risk of dementia. This result has implications
+  for the design of presymptomatic disease-modifying therapy trials and gives hope
+  for therapeutic strategies aimed at enhancing resilience and ability to maintain
+  function despite the presence of genetically determined neuropathology.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0006-8950
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/brain/awaf443
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/d0a8f96b-707a-4b38-9ffc-7fa6e1f3ac9d
+schema_type: xyzri:XYZPublication
+title: Cellular signatures underlying functional resilience in presymptomatic frontotemporal
+  dementia

@@ -1,0 +1,29 @@
+about:
+- xyzrins:topics/ee8b3917-002f-4c10-9ac5-f3ed53f70412
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-06-30T09:55:01.440731'
+attributed_to:
+- object: ror:018mejw64
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+identifiers:
+- creator: ror:018mejw64
+  notation: '431549029'
+  schema_type: dlthings:Identifier
+- creator: xyzrins:organizations/fzj
+  description: PSP Element FZJ
+  notation: D.B.B02075
+  schema_type: dlthings:Identifier
+part_of:
+- xyzrins:grants/sfb1451
+pid: xyzrins:grants/sfb1451-inf
+schema_type: xyzri:XYZGrant
+short_name: INF
+title: Data management for reproducible data-driven computational modeling cross-species
+  and cross-labs

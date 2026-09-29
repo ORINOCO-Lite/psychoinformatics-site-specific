@@ -1,0 +1,5 @@
+description: A seminar, discussion group, or the like, that emphasizes zxchange of
+  ideas and the demonstration and application of techniques, skills, etc.
+display_label: Workshop
+pid: bibo:Workshop
+schema_type: xyzri:XYZBibliographicType

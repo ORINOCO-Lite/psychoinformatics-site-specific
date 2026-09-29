@@ -1,0 +1,45 @@
+attributed_to:
+- object: xyzrins:persons/60feb346-954c-4625-93d6-1b8bd1ca0dfa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Der vorhersagbare Mensch: Zu Chancen und Risiken der KI-basierten Prädiktion
+    von kognitiven Fähigkeiten, Persönlichkeitsmerkmalen und psychischen Erkrankungen'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Neue Ansätze der Nutzung künstlicher Intelligenz (KI) zur Analyse von Daten
+    aus der Neurobildgebung, aber auch passiv gesammelter Daten von sog. „Wearables“
+    wie Smartphones oder Smartwatches sowie Daten, die sich aus Social-Media- und
+    anderen Online-Aktivitäten extrahieren lassen, ermöglichen es bereits heute, kognitive
+    Fähigkeiten, Persönlichkeitsmerkmale und psychische Erkrankungen vorherzusagen
+    sowie akute mentale Zustände offenzulegen. In diesem Beitrag erläutern wir die
+    Hintergründe der aktuellen Entwicklung, leuchten ihre Möglichkeiten und Grenzen
+    aus und gehen auf ethische und gesellschaftliche Aspekte ein, die sich aus der
+    Nutzung ergeben.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Neue Ansätze der Nutzung künstlicher Intelligenz (KI) zur Analyse von
+  Daten aus der Neurobildgebung, aber auch passiv gesammelter Daten von sog. „Wearables“
+  wie Smartphones oder Smartwatches sowie Daten, die sich aus Social-Media- und anderen
+  Online-Aktivitäten extrahieren lassen, ermöglichen es bereits heute, kognitive Fähigkeiten,
+  Persönlichkeitsmerkmale und psychische Erkrankungen vorherzusagen sowie akute mentale
+  Zustände offenzulegen. In diesem Beitrag erläutern wir die Hintergründe der aktuellen
+  Entwicklung, leuchten ihre Möglichkeiten und Grenzen aus und gehen auf ethische
+  und gesellschaftliche Aspekte ein, die sich aus der Nutzung ergeben.
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:0028-2804
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00115-021-01197-8
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/fb7b6b18-5041-4f48-b45b-7f57ea0cccf1
+schema_type: xyzri:XYZPublication
+title: 'Der vorhersagbare Mensch: Zu Chancen und Risiken der KI-basierten Prädiktion
+  von kognitiven Fähigkeiten, Persönlichkeitsmerkmalen und psychischen Erkrankungen'

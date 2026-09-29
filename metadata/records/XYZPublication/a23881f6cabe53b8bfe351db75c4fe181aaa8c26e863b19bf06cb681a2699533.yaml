@@ -1,0 +1,66 @@
+attributed_to:
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/269a3b65-df26-4c0d-a6a9-2c4410750dc8
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/6de57b9d-196e-47c9-826a-ff26c9f32093
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d44b2ca0-e927-4495-939e-a05fac8e2aca
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Functional Connectivity Changes of Key Regions for Motor Initiation in Parkinson’s
+    Disease
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Akinesia, a cardinal symptom of Parkinson’s disease, has been linked to abnormal
+    activation in putamen and posterior medial frontal cortex (pMFC). However, little
+    is known whether clinical severity of akinesia is linked to dysfunctional connectivity
+    of these regions. Using a seed-based approach, we here investigated resting-state
+    functional connectivity (RSFC) of putamen, pMFC and primary motor cortex (M1)
+    in 60 patients with Parkinson’s disease on regular medication and 72 healthy controls.
+    We found that in patients putamen featured decreases of connectivity for a number
+    of cortical and subcortical areas engaged in sensorimotor and cognitive processing.
+    In contrast, the pMFC showed reduced connectivity with a more focal cortical network
+    involved in higher-level motor-cognition. Finally, M1 featured a selective disruption
+    of connectivity in a network specifically connected with M1. Correlating clinical
+    impairment with connectivity changes revealed a relationship between akinesia
+    and reduced RSFC between pMFC and left intraparietal lobule (IPL). Together, the
+    present study demonstrated RSFC decreases in networks for motor initiation and
+    execution in Parkinson’s disease. Moreover, results suggest a relationship between
+    pMFC-IPL decoupling and the manifestation of akinetic symptoms.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Akinesia, a cardinal symptom of Parkinson’s disease, has been linked
+  to abnormal activation in putamen and posterior medial frontal cortex (pMFC). However,
+  little is known whether clinical severity of akinesia is linked to dysfunctional
+  connectivity of these regions. Using a seed-based approach, we here investigated
+  resting-state functional connectivity (RSFC) of putamen, pMFC and primary motor
+  cortex (M1) in 60 patients with Parkinson’s disease on regular medication and 72
+  healthy controls. We found that in patients putamen featured decreases of connectivity
+  for a number of cortical and subcortical areas engaged in sensorimotor and cognitive
+  processing. In contrast, the pMFC showed reduced connectivity with a more focal
+  cortical network involved in higher-level motor-cognition. Finally, M1 featured
+  a selective disruption of connectivity in a network specifically connected with
+  M1. Correlating clinical impairment with connectivity changes revealed a relationship
+  between akinesia and reduced RSFC between pMFC and left intraparietal lobule (IPL).
+  Together, the present study demonstrated RSFC decreases in networks for motor initiation
+  and execution in Parkinson’s disease. Moreover, results suggest a relationship between
+  pMFC-IPL decoupling and the manifestation of akinetic symptoms.
+generated_by:
+- at_location: ISSN:1047-3211
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/cercor/bhy259
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8d104cf8-a30e-4efc-adb8-e9401b4cb341
+schema_type: xyzri:XYZPublication
+title: Functional Connectivity Changes of Key Regions for Motor Initiation in Parkinson’s
+  Disease

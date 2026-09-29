@@ -1,0 +1,30 @@
+assertions:
+- assertion_sha256: sha256:2329ac0b641be21f6ca64baee99ec3a421f99daa79762b11e812501eeb237d6e
+  path: /attributed_to
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/866006
+- assertion_sha256: sha256:5ae3ef12376ebd83e8645c65b7c653bbb317a60e38b3cb8ad2c24b70899b7b94
+  path: /attributed_to
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/866006
+- assertion_sha256: sha256:2f287fc64d801b8b86d571b7a243a212b968b4374bca0ff3472793e3b74739fb
+  path: /attributes
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/866006
+- assertion_sha256: sha256:b7fe01003fe1e39d78d019a264d0840d7607ef03cffeb58c748ed50415fa20ae
+  path: /attributes
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/866006
+- assertion_sha256: sha256:daaf525b6f3d3378a5630d6cee38e0b0b19098a51ceab864edf5e50321977190
+  path: /characterized_by
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/866006
+- assertion_sha256: sha256:4e42a9333c63881f78d1610ce8baa90c99b4ce7c20adf183dcee0fa4ed235318
+  path: /generated_by
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/866006
+- assertion_sha256: sha256:d353286795413883d80fce780cf6ce902b2bd2eb87abb40968c468ed6fdfe031
+  path: /identifiers
+  pav:importedBy: xyzrins:instruments/d3126ff5-623c-48af-ac48-4d921ef9b80d
+  pav:importedFrom: https://juser.fz-juelich.de/record/866006
+record: xyzrins:publications/5dd20908-050b-48f1-be55-99673e9b8753

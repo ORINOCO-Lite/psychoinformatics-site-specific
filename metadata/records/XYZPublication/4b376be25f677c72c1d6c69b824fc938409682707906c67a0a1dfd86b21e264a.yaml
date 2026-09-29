@@ -1,0 +1,34 @@
+attributed_to:
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Effective Self-Management for Early Career Researchers in the Natural and
+    Life Sciences
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Early career researchers (ECRs) are faced with a range of competing pressures
+    in academia, making self-management key to building a successful career. The Organization
+    for Human Brain Mapping undertook a group effort to gather helpful advice for
+    ECRs in self-management
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Early career researchers (ECRs) are faced with a range of competing pressures
+  in academia, making self-management key to building a successful career. The Organization
+  for Human Brain Mapping undertook a group effort to gather helpful advice for ECRs
+  in self-management
+generated_by:
+- at_location: ISSN:0896-6273
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuron.2020.03.015
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/51710284-126c-43e4-8f9a-9ffb1b2c4f84
+schema_type: xyzri:XYZPublication
+title: Effective Self-Management for Early Career Researchers in the Natural and Life
+  Sciences

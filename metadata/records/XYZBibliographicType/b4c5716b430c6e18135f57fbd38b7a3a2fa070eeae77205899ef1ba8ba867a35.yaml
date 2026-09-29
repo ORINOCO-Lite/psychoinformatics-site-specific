@@ -1,0 +1,4 @@
+description: A passage selected from a larger work.
+display_label: Excerpt
+pid: bibo:Excerpt
+schema_type: xyzri:XYZBibliographicType

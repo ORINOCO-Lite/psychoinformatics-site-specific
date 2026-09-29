@@ -1,0 +1,84 @@
+attributed_to:
+- object: xyzrins:persons/9fe30b8c-a331-4166-bd1c-f407b6e06ecc
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d4e23096-f9d8-47e0-bb48-a25ba181f202
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Stressor-Specific Sex Differences in Amygdala-Frontal Cortex Networks
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Women and men differ in their stress reactivity and stress coping and in
+    the prevalence rates of stress-related disorders. Sex differences also exist in
+    the reaction to different stressors: while women seem more susceptible to social
+    exclusion, men seem to react stronger to achievement stress. Following a model
+    of stress coping, target brain regions were identified including amygdala, dorsolateral
+    prefrontal cortex (dlPFC), ventral anterior cingulate cortex (vACC) and medial
+    prefrontal cortex (mPFC). We investigated sex differences in stress reactivity
+    on a subjective, hormonal, and resting-state functional connectivity (rsFC) level
+    by administering two different stressors to 40 females and 37 males: (1) achievement
+    stress via a modified version of the Montreal Imaging Stress Task, and (2) social
+    exclusion through the Cyberball paradigm. To assess manipulation in amygdala-frontal
+    networks, rs-scans were obtained before and after each stressor. Additionally,
+    cortisol levels and subjective affect were assessed. For social exclusion, amygdala–vACC
+    and amygdala–mPFC rsFC was higher in females than males, with a positive association
+    of amygdala–vACC rsFC with cortisol in females. Further, amygdala–vACC rsFC was
+    higher for social exclusion compared to achievement stress in females. For achievement
+    stress, associations of positive affect with amygdala–mPFC rsFC and anger with
+    amygdala–vACC rsFC were observed. Higher amygdala–vACC rsFC and its positive association
+    with cortisol indicates a higher need for processing and coping with social exclusion
+    in women than men. Higher amygdala–mPFC rsFC, however, indicates feelings of reward
+    and social gain, pointing to positive effects of social affiliation. Thus, for
+    females, feeling socially affiliated might be more fundamental than for males.
+    Contrarily, during achievement stress a different pattern emerged with higher
+    amygdala–mPFC and lower amygdala–vACC rsFC being associated with more negative
+    mood, which might be associated with goal directed behaviour. Thus, our data indicate
+    sex-specific rsFC, cortisol and mood patterns during social exclusion and achievement
+    stress and contribute to a better understanding of sex differences in rsFC due
+    to different stressors.'
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: 'Women and men differ in their stress reactivity and stress coping and
+  in the prevalence rates of stress-related disorders. Sex differences also exist
+  in the reaction to different stressors: while women seem more susceptible to social
+  exclusion, men seem to react stronger to achievement stress. Following a model of
+  stress coping, target brain regions were identified including amygdala, dorsolateral
+  prefrontal cortex (dlPFC), ventral anterior cingulate cortex (vACC) and medial prefrontal
+  cortex (mPFC). We investigated sex differences in stress reactivity on a subjective,
+  hormonal, and resting-state functional connectivity (rsFC) level by administering
+  two different stressors to 40 females and 37 males: (1) achievement stress via a
+  modified version of the Montreal Imaging Stress Task, and (2) social exclusion through
+  the Cyberball paradigm. To assess manipulation in amygdala-frontal networks, rs-scans
+  were obtained before and after each stressor. Additionally, cortisol levels and
+  subjective affect were assessed. For social exclusion, amygdala–vACC and amygdala–mPFC
+  rsFC was higher in females than males, with a positive association of amygdala–vACC
+  rsFC with cortisol in females. Further, amygdala–vACC rsFC was higher for social
+  exclusion compared to achievement stress in females. For achievement stress, associations
+  of positive affect with amygdala–mPFC rsFC and anger with amygdala–vACC rsFC were
+  observed. Higher amygdala–vACC rsFC and its positive association with cortisol indicates
+  a higher need for processing and coping with social exclusion in women than men.
+  Higher amygdala–mPFC rsFC, however, indicates feelings of reward and social gain,
+  pointing to positive effects of social affiliation. Thus, for females, feeling socially
+  affiliated might be more fundamental than for males. Contrarily, during achievement
+  stress a different pattern emerged with higher amygdala–mPFC and lower amygdala–vACC
+  rsFC being associated with more negative mood, which might be associated with goal
+  directed behaviour. Thus, our data indicate sex-specific rsFC, cortisol and mood
+  patterns during social exclusion and achievement stress and contribute to a better
+  understanding of sex differences in rsFC due to different stressors.'
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.2139/ssrn.4134211
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/9dfc8caf-6d59-4f15-a4d3-fc8cd7e1ffb6
+schema_type: xyzri:XYZPublication
+title: Stressor-Specific Sex Differences in Amygdala-Frontal Cortex Networks

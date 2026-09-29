@@ -1,0 +1,52 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Evolving complex yet interpretable representations: application to Alzheimer’s
+    diagnosis and prognosis'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: With increasing accuracy and availability of moredata, the potential of using
+    machine learning (ML) methods inmedical and clinical applications has gained considerableinterest.
+    However, the main hurdle in translational use of MLmethods is the lack of explainability,
+    especially when non-linearmethods are used. Explainable (i.e. human-interpretable)methods
+    can provide insights into disease mechanisms but canequally importantly promote
+    clinician-patient trust, in turnhelping wider social acceptance of ML methods.
+    Here, weempirically test a method to engineer complex, yet interpretable,representations
+    of base features via evolution of context-freegrammar (CFG). We show that together
+    with a simple MLalgorithm evolved features provide higher accuracy on severalbenchmark
+    datasets and then apply it to a real word problem ofdiagnosing Alzheimer’s disease
+    (AD) based on magneticresonance imaging (MRI) data. We further demonstrate highperformance
+    on a hold-out dataset for the prognosis of AD.Keywords — grammar evolution, feature
+    representation,interpretability, Alzheimer’s disease, machine learning
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+description: With increasing accuracy and availability of moredata, the potential
+  of using machine learning (ML) methods inmedical and clinical applications has gained
+  considerableinterest. However, the main hurdle in translational use of MLmethods
+  is the lack of explainability, especially when non-linearmethods are used. Explainable
+  (i.e. human-interpretable)methods can provide insights into disease mechanisms but
+  canequally importantly promote clinician-patient trust, in turnhelping wider social
+  acceptance of ML methods. Here, weempirically test a method to engineer complex,
+  yet interpretable,representations of base features via evolution of context-freegrammar
+  (CFG). We show that together with a simple MLalgorithm evolved features provide
+  higher accuracy on severalbenchmark datasets and then apply it to a real word problem
+  ofdiagnosing Alzheimer’s disease (AD) based on magneticresonance imaging (MRI) data.
+  We further demonstrate highperformance on a hold-out dataset for the prognosis of
+  AD.Keywords — grammar evolution, feature representation,interpretability, Alzheimer’s
+  disease, machine learning
+identifiers:
+- notation: 10.1109/CEC48606.2020.9185843
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/fe7e9905-1848-41d1-b444-0bfde2dc7658
+schema_type: xyzri:XYZPublication
+title: 'Evolving complex yet interpretable representations: application to Alzheimer’s
+  diagnosis and prognosis'

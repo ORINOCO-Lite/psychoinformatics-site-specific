@@ -1,0 +1,42 @@
+attributed_to:
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Sex differences in the brain: More than just male or female'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Sex differences in the brain are widely studied, but results are often inconsistent
+    and it is assumed that many negative findings are not even being reported. The
+    lack of consistent findings might be based on the highly questionable assumption
+    of a clear-cut sexual dimorphism in brain structure and function, that underlies
+    commonly used group comparisons between males and females. Without having to rely
+    on this assumption, state of the art statistical learning methods based on large
+    neuroimaging data sets might offer the tools necessary to disentangle the complex
+    pattern of sex-related variations in brain structure and organization.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Sex differences in the brain are widely studied, but results are often
+  inconsistent and it is assumed that many negative findings are not even being reported.
+  The lack of consistent findings might be based on the highly questionable assumption
+  of a clear-cut sexual dimorphism in brain structure and function, that underlies
+  commonly used group comparisons between males and females. Without having to rely
+  on this assumption, state of the art statistical learning methods based on large
+  neuroimaging data sets might offer the tools necessary to disentangle the complex
+  pattern of sex-related variations in brain structure and organization.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1758-8928
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1080/17588928.2020.1867084
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/1c98cf8a-3739-411c-ac29-0492871b41e1
+schema_type: xyzri:XYZPublication
+title: 'Sex differences in the brain: More than just male or female'

@@ -1,0 +1,40 @@
+attributed_to:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Dataset for the project ''Assessment of neurotransmitter-related structural
+    brain changes in borderline personality disorder: an MRI study'''
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'This dataset contains the data supporting the findings of the manuscript
+    ''Assessment of neurotransmitter-related structural brain changes in borderline
+    personality disorder: an MRI study''. The dataset includes clinical measures,
+    gray matter (GM) measures derived from voxel-based morphometry analyses, and measures
+    of spatial correlation between GM maps and PET/SPECT-derived neurotransmitter
+    atlases using the JuSpace toolbox. Structural MRI data were processed using standard
+    pipelines implemented in SPM12 and CAT12.  Reuse notes. The data can be reused
+    for secondary analyses, meta-analyses, or methodological validation studies, provided
+    that appropriate citation of the original manuscript and/or this dataset is given.'
+description: 'This dataset contains the data supporting the findings of the manuscript
+  ''Assessment of neurotransmitter-related structural brain changes in borderline
+  personality disorder: an MRI study''. The dataset includes clinical measures, gray
+  matter (GM) measures derived from voxel-based morphometry analyses, and measures
+  of spatial correlation between GM maps and PET/SPECT-derived neurotransmitter atlases
+  using the JuSpace toolbox. Structural MRI data were processed using standard pipelines
+  implemented in SPM12 and CAT12.  Reuse notes. The data can be reused for secondary
+  analyses, meta-analyses, or methodological validation studies, provided that appropriate
+  citation of the original manuscript and/or this dataset is given.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/ZENODO.17965267
+  schema_type: dlthings:DOI
+pid: xyzrins:publications/30301862-dd90-4fa1-8d49-5566185e5d8d
+schema_type: xyzri:XYZPublication
+title: 'Dataset for the project ''Assessment of neurotransmitter-related structural
+  brain changes in borderline personality disorder: an MRI study'''

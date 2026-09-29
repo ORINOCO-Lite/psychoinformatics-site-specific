@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/13246f09-6c77-45ca-a638-0f27589e3ba0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b55ca6ad-784a-42e2-aae2-632272bebf23
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c643dc9e-7b8a-4a32-aa1b-6f371c82880a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/5836e9aa-bcd6-493d-bc7c-8f866c8ab2a7
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/8f836375-520c-43d7-afb6-29abea72c0ab
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Interpolated 3D map of Area 6mp (SMA, mesial SFG) in the BigBrain
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'This dataset contains cytoarchitectonic maps of Area 6mp (SMA, mesial SFG)
+    in the Big Brain dataset [Amunts et al. 2013]. The mappings were created using
+    the semi-automatic method presented in Schleicher et al. 1999, based on coronal
+    histological sections on 1 micron resolution. Mappings are available on approximately
+    every 15-60th section of this region. They were then aligned to the corresponding
+    sections of the 3D reconstructed Big Brain space, using the transformations used
+    in Amunts et al. 2013, kindly provided by Claude Lepage (McGill University). From
+    these delineations, a preliminary 3D map of Area 6mp (SMA, mesial SFG) has been
+    created by simple interpolation of the coronal contours in the 3D anatomical space
+    of the Big Brain. This map gives a first impression of the location of this area
+    in the Big Brain, and can be viewed in the atlas viewer using the URL below. A
+    full mapping of this area in every histological section using a Deep Learning
+    approach is in progress. **Additional information:** The reference delineations
+    used for this map are part of the work for the corresponding probabilistic map
+    of Area 6mp (SMA, mesial SFG) of the JuBrain Cytoarchitectonic Atlas, published
+    in: Ruan et al. (2019) [Data set, v9.0] [DOI: 10.25493/CZTA-P58](https://doi.org/10.25493%2FCZTA-P58)
+    Ruan et al. (2019) [Data set, v9.1] [DOI: 10.25493/2E1T-47F](https://doi.org/10.25493%2F2E1T-47F)
+    In addition, the dataset of the probabilistic cytoarchitectonic map of Area 6mp
+    (SMA, mesial SFG) is part of the following research publication: Ruan, J., Bludau,
+    S., Palomero-Gallagher, N., Caspers, S., Mohlberg, H., Eickhoff, S. B., Seitz,
+    R. J., Amunts, A. (2018) Cytoarchitecture, probability maps, and functions of
+    the human supplementary and pre-supplementary motor areas, 223(9):4169-4186. [DOI:
+    10.1007/s00429-018-1738-6](https://doi.org/10.1007%2Fs00429-018-1738-6)'
+description: 'This dataset contains cytoarchitectonic maps of Area 6mp (SMA, mesial
+  SFG) in the Big Brain dataset [Amunts et al. 2013]. The mappings were created using
+  the semi-automatic method presented in Schleicher et al. 1999, based on coronal
+  histological sections on 1 micron resolution. Mappings are available on approximately
+  every 15-60th section of this region. They were then aligned to the corresponding
+  sections of the 3D reconstructed Big Brain space, using the transformations used
+  in Amunts et al. 2013, kindly provided by Claude Lepage (McGill University). From
+  these delineations, a preliminary 3D map of Area 6mp (SMA, mesial SFG) has been
+  created by simple interpolation of the coronal contours in the 3D anatomical space
+  of the Big Brain. This map gives a first impression of the location of this area
+  in the Big Brain, and can be viewed in the atlas viewer using the URL below. A full
+  mapping of this area in every histological section using a Deep Learning approach
+  is in progress. **Additional information:** The reference delineations used for
+  this map are part of the work for the corresponding probabilistic map of Area 6mp
+  (SMA, mesial SFG) of the JuBrain Cytoarchitectonic Atlas, published in: Ruan et
+  al. (2019) [Data set, v9.0] [DOI: 10.25493/CZTA-P58](https://doi.org/10.25493%2FCZTA-P58)
+  Ruan et al. (2019) [Data set, v9.1] [DOI: 10.25493/2E1T-47F](https://doi.org/10.25493%2F2E1T-47F)
+  In addition, the dataset of the probabilistic cytoarchitectonic map of Area 6mp
+  (SMA, mesial SFG) is part of the following research publication: Ruan, J., Bludau,
+  S., Palomero-Gallagher, N., Caspers, S., Mohlberg, H., Eickhoff, S. B., Seitz, R.
+  J., Amunts, A. (2018) Cytoarchitecture, probability maps, and functions of the human
+  supplementary and pre-supplementary motor areas, 223(9):4169-4186. [DOI: 10.1007/s00429-018-1738-6](https://doi.org/10.1007%2Fs00429-018-1738-6)'
+identifiers:
+- notation: 10.25493/FMDD-SMU
+  schema_type: dlthings:DOI
+pid: xyzrins:publications/862dbe64-4b1a-4e9b-8807-abe3a47284f8
+schema_type: xyzri:XYZPublication
+title: Interpolated 3D map of Area 6mp (SMA, mesial SFG) in the BigBrain

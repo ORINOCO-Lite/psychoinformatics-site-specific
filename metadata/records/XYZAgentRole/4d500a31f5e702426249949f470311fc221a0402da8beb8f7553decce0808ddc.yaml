@@ -1,0 +1,4 @@
+description: An organization that provides scientific analyses of material samples
+display_label: Laboratory
+pid: marcrel:lbr
+schema_type: xyzri:XYZAgentRole

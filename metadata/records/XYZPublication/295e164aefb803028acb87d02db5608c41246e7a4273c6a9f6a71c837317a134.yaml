@@ -1,0 +1,69 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c6d47fbc-8b3c-46d1-9558-1f3b94ec9141
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Tractography density affects whole-brain structural architecture and resting-state
+    dynamical modeling
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Dynamical modeling of the resting-state brain dynamics essentially relies
+    on the empirical neuroimaging data utilized for the model derivation and validation.
+    There is however still no standardized data processing for magnetic resonance
+    imaging pipelines and the structural and functional connectomes involved in the
+    models. In this study, we thus address how the parameters of diffusion-weighted
+    data processing for structural connectivity (SC) can influence the validation
+    results of the whole-brain mathematical models informed by SC. For this, we introduce
+    a set of simulation conditions including the varying number of total streamlines
+    of the whole-brain tractography (WBT) used for extraction of SC, cortical parcellations
+    based on functional and anatomical brain properties and distinct model fitting
+    modalities. The main objective of this study is to explore how the quality of
+    the model validation can vary across the considered simulation conditions. We
+    observed that the graph-theoretical network properties of structural connectome
+    can be affected by varying tractography density and strongly relate to the model
+    performance. We also found that the optimal number of the total streamlines of
+    WBT can vary for different brain atlases. Consequently, we suggest a way how to
+    improve the model performance based on the network properties and the optimal
+    parameter configurations from multiple WBT conditions. Furthermore, the population
+    of subjects can be stratified into subgroups with divergent behaviors induced
+    by the varying WBT density such that different recommendations can be made with
+    respect to the data processing for individual subjects and brain parcellations.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Dynamical modeling of the resting-state brain dynamics essentially relies
+  on the empirical neuroimaging data utilized for the model derivation and validation.
+  There is however still no standardized data processing for magnetic resonance imaging
+  pipelines and the structural and functional connectomes involved in the models.
+  In this study, we thus address how the parameters of diffusion-weighted data processing
+  for structural connectivity (SC) can influence the validation results of the whole-brain
+  mathematical models informed by SC. For this, we introduce a set of simulation conditions
+  including the varying number of total streamlines of the whole-brain tractography
+  (WBT) used for extraction of SC, cortical parcellations based on functional and
+  anatomical brain properties and distinct model fitting modalities. The main objective
+  of this study is to explore how the quality of the model validation can vary across
+  the considered simulation conditions. We observed that the graph-theoretical network
+  properties of structural connectome can be affected by varying tractography density
+  and strongly relate to the model performance. We also found that the optimal number
+  of the total streamlines of WBT can vary for different brain atlases. Consequently,
+  we suggest a way how to improve the model performance based on the network properties
+  and the optimal parameter configurations from multiple WBT conditions. Furthermore,
+  the population of subjects can be stratified into subgroups with divergent behaviors
+  induced by the varying WBT density such that different recommendations can be made
+  with respect to the data processing for individual subjects and brain parcellations.
+generated_by:
+- at_location: ISSN:1053-8119
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2021.118176
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/78b42c0c-13a1-4b75-b02d-2c635966ffc8
+schema_type: xyzri:XYZPublication
+title: Tractography density affects whole-brain structural architecture and resting-state
+  dynamical modeling

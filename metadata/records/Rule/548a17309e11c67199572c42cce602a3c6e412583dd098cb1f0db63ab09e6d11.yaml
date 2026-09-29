@@ -1,0 +1,8 @@
+broad_mappings:
+- ODRL:Prohibition
+description: This data use modifier indicates that use is limited to use within an
+  approved institution.
+display_label: 'Restriction: institution specific restriction'
+pid: obo:DUO_0000028
+schema_type: dlthings:Rule
+title: institution specific restriction

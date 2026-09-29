@@ -1,0 +1,66 @@
+attributed_to:
+- object: xyzrins:persons/f012978a-c0be-46ae-ba97-1e6f2abd5c7f
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Behavioral, Anatomical and Heritable Convergence of Affect and Cognition
+    in Superior Frontal Cortex
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Cognitive abilities and affective experience are key human traits that are
+    interrelated in behavior and brain. Individual variation of cognitive and affective
+    traits, as well as brain structure, has been shown to partly underlie genetic
+    effects. However, to what extent affect and cognition have a shared genetic relationship
+    with local brain structure is incompletely understood. Here we studied phenotypic
+    and genetic correlations of cognitive and affective traits in behavior and brain
+    structure (cortical thickness, surface area and subcortical volumes) in the pedigree-based
+    Human Connectome Project sample (N = 1091). Both cognitive and affective trait
+    scores were highly heritable and showed significant phenotypic correlation on
+    the behavioral level. Cortical thickness in the left superior frontal cortex showed
+    a phenotypic association with both affect and cognition. Decomposing the phenotypic
+    correlations into genetic and environmental components showed that the associations
+    were accounted for by shared genetic effects between the traits. Quantitative
+    functional decoding of the left superior frontal cortex further indicated that
+    this region is associated with cognitive and emotional functioning. This study
+    provides a multi-level approach to study the association between affect and cognition
+    and suggests a convergence of both in superior frontal cortical thickness.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Cognitive abilities and affective experience are key human traits that
+  are interrelated in behavior and brain. Individual variation of cognitive and affective
+  traits, as well as brain structure, has been shown to partly underlie genetic effects.
+  However, to what extent affect and cognition have a shared genetic relationship
+  with local brain structure is incompletely understood. Here we studied phenotypic
+  and genetic correlations of cognitive and affective traits in behavior and brain
+  structure (cortical thickness, surface area and subcortical volumes) in the pedigree-based
+  Human Connectome Project sample (N = 1091). Both cognitive and affective trait scores
+  were highly heritable and showed significant phenotypic correlation on the behavioral
+  level. Cortical thickness in the left superior frontal cortex showed a phenotypic
+  association with both affect and cognition. Decomposing the phenotypic correlations
+  into genetic and environmental components showed that the associations were accounted
+  for by shared genetic effects between the traits. Quantitative functional decoding
+  of the left superior frontal cortex further indicated that this region is associated
+  with cognitive and emotional functioning. This study provides a multi-level approach
+  to study the association between affect and cognition and suggests a convergence
+  of both in superior frontal cortical thickness.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2021.118561
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/7d73cfce-66d1-4dd8-8164-39a43a4c8f88
+schema_type: xyzri:XYZPublication
+title: Behavioral, Anatomical and Heritable Convergence of Affect and Cognition in
+  Superior Frontal Cortex

@@ -1,0 +1,6 @@
+description: An author, artist, etc., relating him/her to a resource for which there
+  is or once was substantial authority for designating that person as author, creator,
+  etc. of the work indicative of provenance
+display_label: Attributed name
+pid: marcrel:att
+schema_type: xyzri:XYZAgentRole

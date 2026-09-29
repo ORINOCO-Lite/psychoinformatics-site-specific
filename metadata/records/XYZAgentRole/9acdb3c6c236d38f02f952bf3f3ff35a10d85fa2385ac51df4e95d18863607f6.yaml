@@ -1,0 +1,5 @@
+description: A person or organization that manages or supervises work done in a controlled
+  setting or environment
+display_label: Laboratory director
+pid: marcrel:ldr
+schema_type: xyzri:XYZAgentRole

@@ -1,0 +1,8 @@
+description: A person or organization to whom copy and legal rights have been granted
+  or transferred for the intellectual content of a work. The copyright holder, although
+  not necessarily the creator of the work, usually has the exclusive right to benefit
+  financially from the sale and use of the work to which the associated copyright
+  protection applies
+display_label: Copyright holder
+pid: marcrel:cph
+schema_type: xyzri:XYZAgentRole

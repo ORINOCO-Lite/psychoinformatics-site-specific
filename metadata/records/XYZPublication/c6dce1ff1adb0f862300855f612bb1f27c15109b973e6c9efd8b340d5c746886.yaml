@@ -1,0 +1,71 @@
+attributed_to:
+- object: xyzrins:persons/60189876-7d04-48db-9586-9171fae8ee2b
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/0550e52d-af85-4f44-81ef-85e3a2af3696
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Inter- and intra-subject similarity in network functional connectivity across
+    a full narrative movie
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Naturalistic paradigms, such as watching movies during functional magnetic
+    resonance imaging (fMRI), are thought to prompt the emotional and cognitive processes
+    typically elicited in real life situations. Therefore, naturalistic viewing (NV)
+    holds great potential for studying individual differences. However, in how far
+    NV elicits similarity within and between subjects on a network level, particularly
+    depending on emotions portrayed in movies, is currently unknown. We used the studyforrest
+    dataset to investigate the inter- and intra-subject similarity in network functional
+    connectivity (NFC) of 14 meta-analytically defined networks across a full narrative,
+    audio-visual movie split into 8 consecutive movie segments. We characterized the
+    movie segments by valence and arousal portrayed within the sequences, before utilizing
+    a linear mixed model to analyze which factors explain inter- and intra-subject
+    similarity. Our results showed that the model best explaining inter-subject similarity
+    comprised network, movie segment, valence and a movie segment by valence interaction.
+    Intra-subject similarity was influenced significantly by the same factors and
+    an additional three-way interaction between movie segment, valence and arousal.
+    Overall, inter- and intra-subject similarity in NFC were sensitive to the ongoing
+    narrative and emotions in the movie. Lowest similarity both within and between
+    subjects was seen in the emotional regulation network and networks associated
+    with long-term memory processing, which might be explained by specific features
+    and content of the movie. We conclude that detailed characterization of movie
+    features is crucial for NV research. '
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: 'Naturalistic paradigms, such as watching movies during functional magnetic
+  resonance imaging (fMRI), are thought to prompt the emotional and cognitive processes
+  typically elicited in real life situations. Therefore, naturalistic viewing (NV)
+  holds great potential for studying individual differences. However, in how far NV
+  elicits similarity within and between subjects on a network level, particularly
+  depending on emotions portrayed in movies, is currently unknown. We used the studyforrest
+  dataset to investigate the inter- and intra-subject similarity in network functional
+  connectivity (NFC) of 14 meta-analytically defined networks across a full narrative,
+  audio-visual movie split into 8 consecutive movie segments. We characterized the
+  movie segments by valence and arousal portrayed within the sequences, before utilizing
+  a linear mixed model to analyze which factors explain inter- and intra-subject similarity.
+  Our results showed that the model best explaining inter-subject similarity comprised
+  network, movie segment, valence and a movie segment by valence interaction. Intra-subject
+  similarity was influenced significantly by the same factors and an additional three-way
+  interaction between movie segment, valence and arousal. Overall, inter- and intra-subject
+  similarity in NFC were sensitive to the ongoing narrative and emotions in the movie.
+  Lowest similarity both within and between subjects was seen in the emotional regulation
+  network and networks associated with long-term memory processing, which might be
+  explained by specific features and content of the movie. We conclude that detailed
+  characterization of movie features is crucial for NV research. '
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2024.05.14.594107
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/cf504e4c-424a-44b6-bdcd-a20eac214286
+schema_type: xyzri:XYZPublication
+title: Inter- and intra-subject similarity in network functional connectivity across
+  a full narrative movie

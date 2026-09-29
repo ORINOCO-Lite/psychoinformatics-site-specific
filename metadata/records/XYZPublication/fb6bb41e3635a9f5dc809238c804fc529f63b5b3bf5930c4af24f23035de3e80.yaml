@@ -1,0 +1,76 @@
+attributed_to:
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/269a3b65-df26-4c0d-a6a9-2c4410750dc8
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c7f27db7-a106-4bb0-9461-dffbed35ddb0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Common and distinct neural correlates of dual-tasking and task-switching:
+    a meta-analytic review and a neuro-cognitive processing model of human multitasking'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Although there are well-known limitations of the human cognitive system in
+    performing two tasks simultaneously (dual-tasking) or alternatingly (task-switching),
+    the question for a common vs. distinct neural basis of these multitasking limitations
+    is still open. We performed two Activation Likelihood Estimation meta-analyses
+    of neuroimaging studies on dual-tasking or task-switching and tested for commonalities
+    and differences in the brain regions associated with either domain. We found a
+    common core network related to multitasking comprising bilateral intraparietal
+    sulcus (IPS), left dorsal premotor cortex (dPMC), and right anterior insula. Meta-analytic
+    contrasts revealed eight fronto-parietal clusters more consistently activated
+    in dual-tasking (bilateral frontal operculum, dPMC, and anterior IPS, left inferior
+    frontal sulcus and left inferior frontal gyrus) and, conversely, four clusters
+    (left inferior frontal junction, posterior IPS, and precuneus as well as frontomedial
+    cortex) more consistently activated in task-switching. Together with sub-analyses
+    of preparation effects in task-switching, our results argue against purely passive
+    structural processing limitations in multitasking. Based on these findings and
+    drawing on current theorizing, we present a neuro-cognitive processing model of
+    multitasking.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Although there are well-known limitations of the human cognitive system
+  in performing two tasks simultaneously (dual-tasking) or alternatingly (task-switching),
+  the question for a common vs. distinct neural basis of these multitasking limitations
+  is still open. We performed two Activation Likelihood Estimation meta-analyses of
+  neuroimaging studies on dual-tasking or task-switching and tested for commonalities
+  and differences in the brain regions associated with either domain. We found a common
+  core network related to multitasking comprising bilateral intraparietal sulcus (IPS),
+  left dorsal premotor cortex (dPMC), and right anterior insula. Meta-analytic contrasts
+  revealed eight fronto-parietal clusters more consistently activated in dual-tasking
+  (bilateral frontal operculum, dPMC, and anterior IPS, left inferior frontal sulcus
+  and left inferior frontal gyrus) and, conversely, four clusters (left inferior frontal
+  junction, posterior IPS, and precuneus as well as frontomedial cortex) more consistently
+  activated in task-switching. Together with sub-analyses of preparation effects in
+  task-switching, our results argue against purely passive structural processing limitations
+  in multitasking. Based on these findings and drawing on current theorizing, we present
+  a neuro-cognitive processing model of multitasking.
+generated_by:
+- at_location: ISSN:1863-2653
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00429-019-01870-4
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2017-02-28'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/ff4d1947-f1ad-4e9f-88fc-57af7b7cfc85
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2013-10-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/c52944e7-ea8c-478a-94b7-25ce3573aba7
+schema_type: xyzri:XYZPublication
+title: 'Common and distinct neural correlates of dual-tasking and task-switching:
+  a meta-analytic review and a neuro-cognitive processing model of human multitasking'

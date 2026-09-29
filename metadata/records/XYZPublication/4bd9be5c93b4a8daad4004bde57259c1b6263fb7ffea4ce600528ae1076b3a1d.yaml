@@ -1,0 +1,49 @@
+about:
+- xyzrins:topics/neuroimaging
+- xyzrins:topics/predictive-data-analysis
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-04-01T09:57:03.524936'
+attributed_to:
+- object: orcid:0000-0001-5840-5658
+  roles:
+  - obo:MS_1002035
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/reshanne-reeder
+  roles:
+  - obo:MS_1002034
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+description: Little is known about the cortical regions involved in representing task-related
+  content in preparation for visual task performance. Here we used representational
+  similarity analysis (RSA) to investigate the BOLD response pattern similarity between
+  task relevant and task irrelevant feature dimensions during conjunction viewing
+  and target template maintenance prior to visual search. Subjects were cued to search
+  for a spatial frequency (SF) or orientation of a Gabor grating and we measured BOLD
+  signal during cue and delay periods before the onset of a search display. RSA of
+  delay period activity revealed that widespread regions in frontal, posterior parietal,
+  and occipitotemporal cortices showed general representational differences between
+  task relevant and task irrelevant dimensions (e.g., orientation vs. SF). In contrast,
+  RSA of cue period activity revealed sensory-related representational differences
+  between cue images (regardless of task) at the occipital pole and additionally in
+  the frontal pole. Our data show that task and sensory information are represented
+  differently during viewing and during target template maintenance, and that task
+  relevance modulates the representation of visual information across the cortex.
+generated_by:
+- at_location: ISSN:2045-2322
+  at_time: '2017-07-03'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41598-017-04123-8
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/4611b86b-e0dc-40f3-9eaa-ede2c047e7a1
+rules:
+- spdxlic:CC-BY-4.0
+schema_type: xyzri:XYZPublication
+title: Task relevance modulates the representation of features and feature dimensions
+  in the target template

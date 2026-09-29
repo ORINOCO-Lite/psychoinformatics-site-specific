@@ -1,0 +1,33 @@
+associated_with:
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+description: The project "Normative Molecular Imaging for identifying disease heterogeneity"
+  (NorMImag) aims to use AI-based normative models to better capture the diversity
+  of disease-specific brain alterations in Alzheimer’s patients. Using FDG-PET data,
+  the models will predict typical brain activity patterns for healthy individuals
+  based on their demographic characteristics, enabling the detection of pathological
+  deviations at the regional level in patients. This approach supports more individualized
+  and automated diagnostics and lays the groundwork for personalized treatment strategies.
+ended:
+  at_time: '2027-08-31'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2027-08-31'
+    schema_type: dlthings:End
+  object: xyzrins:grants/b705c302-2ec3-45a6-ab0d-a82f439a85f5
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2025-09-01'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/b6b7ecc8-c244-46e6-b357-13d15b460bd5
+schema_type: xyzri:XYZProject
+short_name: NorMImag
+started:
+  at_time: '2025-09-01'
+  schema_type: dlthings:Start
+title: Normative Molecular Imaging for identifying disease heterogeneity

@@ -1,0 +1,15 @@
+byte_size: 58352
+characterized_by:
+- object: https://hub.psychoinformatics.de/git-annex-p2phttp/git-annex/f1a8ef1c-6d8a-40e3-970f-4634390d961f/key/SHA256E-s58352--c8c6e08a23f92622c8f4472d13f20a96ed7c68830934ee7ade86462e1c81d088.svg
+  predicate: dcat:downloadUrl
+- object: https://hub.psychoinformatics.de/git-annex-p2phttp/git-annex/cedde37c-416a-41fd-87e0-4ac100df4bf7/key/SHA256E-s58352--c8c6e08a23f92622c8f4472d13f20a96ed7c68830934ee7ade86462e1c81d088.svg
+  predicate: dcat:downloadUrl
+checksums:
+- creator: spdx:checksumAlgorithm_sha256
+  notation: c8c6e08a23f92622c8f4472d13f20a96ed7c68830934ee7ade86462e1c81d088
+  schema_type: dlthings:Checksum
+display_label: abcdj_logo_nrw.svg
+distribution_of:
+- xyzrins:depictions/logo_abcd-j
+pid: dldi:SHA256E-s58352--c8c6e08a23f92622c8f4472d13f20a96ed7c68830934ee7ade86462e1c81d088.svg
+schema_type: xyzri:XYZFile

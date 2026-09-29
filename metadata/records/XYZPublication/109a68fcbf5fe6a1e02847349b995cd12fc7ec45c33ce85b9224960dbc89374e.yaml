@@ -1,0 +1,59 @@
+about:
+- xyzrins:topics/naturalistic-neuroimaging
+annotations:
+  obo:NCIT_C54269: m.szczepanik@fz-juelich.de
+  sio:SIO_001083: '2026-03-25T17:07:40.947147'
+attributed_to:
+- object: xyzrins:persons/falko-kaule
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002034
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/richard-dinga
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/christian-haeusler
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/a7087531-9bed-4ad3-9a0a-f048510ade2e
+  roles:
+  - obo:MS_1002035
+  schema_type: dlthings:Attribution
+description: Here we present a high-resolution functional magnetic resonance (fMRI)
+  dataset – 20 participants recorded at high field strength (7 Tesla) during prolonged
+  stimulation with an auditory feature film (“Forrest Gump”). In addition, a comprehensive
+  set of auxiliary data (T1w, T2w, DTI, susceptibility-weighted image, angiography)
+  as well as measurements to assess technical and physiological noise components have
+  been acquired. An initial analysis confirms that these data can be used to study
+  common and idiosyncratic brain response patterns to complex auditory stimulation.
+  Among the potential uses of this dataset are the study of auditory attention and
+  cognition, language and music perception, and social perception. The auxiliary measurements
+  enable a large variety of additional analysis strategies that relate functional
+  response patterns to structural properties of the brain. Alongside the acquired
+  data, we provide source code and detailed information on all employed procedures
+  – from stimulus creation to data analysis. In order to facilitate replicative and
+  derived works, only free and open-source software was utilized.
+generated_by:
+- at_time: '2014-05-27'
+  object: xyzrins:projects/studyforrest
+  schema_type: dlthings:Generation
+- at_location: ISSN:2052-4463
+  at_time: '2014-05-27'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- creator: ror:01fyxcz70
+  notation: 10.1038/sdata.2014.3
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/dc5d3f5f-0d0d-498c-84dd-cd4fba222bd4
+rules:
+- spdxlic:CC-BY-3.0
+schema_type: xyzri:XYZPublication
+title: High-resolution 7-Tesla fMRI data on the perception of musical genres – an
+  extension to the studyforrest dataset

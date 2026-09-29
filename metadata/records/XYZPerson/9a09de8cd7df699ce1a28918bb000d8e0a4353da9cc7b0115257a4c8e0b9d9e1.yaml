@@ -1,0 +1,10 @@
+display_label: Genon, Sarah
+family_name: Genon
+given_name: Sarah
+honorific_name_prefix: Prof. Dr.
+identifiers:
+- creator: ror:04fa4r544
+  notation: 0000-0002-7087-7882
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+schema_type: xyzri:XYZPerson

@@ -1,0 +1,62 @@
+attributed_to:
+- object: xyzrins:persons/9fe30b8c-a331-4166-bd1c-f407b6e06ecc
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Socio‐cognitive, expertise‐based and appearance‐based accounts of the other‐‘race’
+    effect in face perception: A label‐based systematic review of neuroimaging results'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Two competing theories explain the other-‘race’ effect (ORE) either by greater
+    perceptual expertise to same-‘race’ (SR) faces or by social categorization of
+    other-‘race’ (OR) faces at the expense of individuation. To assess expertise and
+    categorization contributions to the ORE, a promising—yet overlooked—approach is
+    comparing activations for different other-‘races’. We present a label-based systematic
+    review of neuroimaging studies reporting increased activity in response to OR
+    faces (African, Caucasian, or Asian) when compared with the SR of participants.
+    Hypothetically, while common activations would reflect general aspects of OR perception,
+    ‘race’-preferential ones would represent effects of ‘race’-specific visual appearance.
+    We find that several studies report activation of occipito-temporal and midcingulate
+    areas in response to faces across different other-‘races’, presumably due to high
+    demand on the visual system and category processing. Another area reported in
+    response to all OR faces, the caudate nucleus, suggests the involvement of socio-affective
+    processes and behavioural regulation. Overall, our results support hybrid models—both
+    expertise and social categorization contribute to the ORE, but they provide little
+    evidence for reduced motivation to process OR faces. Additionally, we identify
+    areas preferentially responding to specific OR faces, reflecting effects of visual
+    appearance.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Two competing theories explain the other-‘race’ effect (ORE) either by
+  greater perceptual expertise to same-‘race’ (SR) faces or by social categorization
+  of other-‘race’ (OR) faces at the expense of individuation. To assess expertise
+  and categorization contributions to the ORE, a promising—yet overlooked—approach
+  is comparing activations for different other-‘races’. We present a label-based systematic
+  review of neuroimaging studies reporting increased activity in response to OR faces
+  (African, Caucasian, or Asian) when compared with the SR of participants. Hypothetically,
+  while common activations would reflect general aspects of OR perception, ‘race’-preferential
+  ones would represent effects of ‘race’-specific visual appearance. We find that
+  several studies report activation of occipito-temporal and midcingulate areas in
+  response to faces across different other-‘races’, presumably due to high demand
+  on the visual system and category processing. Another area reported in response
+  to all OR faces, the caudate nucleus, suggests the involvement of socio-affective
+  processes and behavioural regulation. Overall, our results support hybrid models—both
+  expertise and social categorization contribute to the ORE, but they provide little
+  evidence for reduced motivation to process OR faces. Additionally, we identify areas
+  preferentially responding to specific OR faces, reflecting effects of visual appearance.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1111/bjop.12595
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/68a13df3-d8b4-480e-801c-44502ac3413b
+schema_type: xyzri:XYZPublication
+title: 'Socio‐cognitive, expertise‐based and appearance‐based accounts of the other‐‘race’
+  effect in face perception: A label‐based systematic review of neuroimaging results'

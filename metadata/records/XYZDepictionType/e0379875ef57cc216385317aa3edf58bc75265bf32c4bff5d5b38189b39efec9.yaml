@@ -1,0 +1,7 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-06T21:09:22.423068'
+description: The artwork on the outer surface of a CreativeWork.
+display_label: Cover art
+pid: schema:CoverArt
+schema_type: xyzri:XYZDepictionType

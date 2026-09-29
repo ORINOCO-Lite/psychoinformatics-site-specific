@@ -1,0 +1,79 @@
+attributed_to:
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/7cece50e-ecde-4716-a34d-8c35a67af63e
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: A topography-based predictive framework for naturalistic viewing fMRI
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Functional magnetic resonance imaging (fMRI) during naturalistic viewing
+    (NV) provides exciting opportunities for studying brain functions in more ecologically
+    valid settings. Understanding individual differences in brain functions during
+    NV and their behavioural relevance has recently become an important goal. However,
+    methods specifically designed for this purpose remain limited. Here, we propose
+    a topography-based predictive framework (TOPF) to fill this methodological gap.
+    TOPF identifies individual-specific evoked activity topographies in a data-driven
+    manner and examines their behavioural relevance using a machine learning-based
+    predictive framework. We validate TOPF on both NV and task-based fMRI data from
+    multiple conditions. Our results show that TOPF effectively and stably captures
+    individual differences in evoked brain activity and successfully predicts phenotypes
+    across cognition, emotion and personality on unseen subjects from their activity
+    topographies. Moreover, TOPF compares favourably with functional connectivity-based
+    approaches in prediction performance, with the identified predictive brain regions
+    being neurobiologically interpretable. Crucially, we highlight the importance
+    of examining individual evoked brain activity topographies in advancing our understanding
+    of the brain-behaviour relationship. We believe that the TOPF approach provides
+    a simple but powerful tool for understanding brain-behaviour relationships on
+    an individual level with a strong potential for clinical applications.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Functional magnetic resonance imaging (fMRI) during naturalistic viewing
+  (NV) provides exciting opportunities for studying brain functions in more ecologically
+  valid settings. Understanding individual differences in brain functions during NV
+  and their behavioural relevance has recently become an important goal. However,
+  methods specifically designed for this purpose remain limited. Here, we propose
+  a topography-based predictive framework (TOPF) to fill this methodological gap.
+  TOPF identifies individual-specific evoked activity topographies in a data-driven
+  manner and examines their behavioural relevance using a machine learning-based predictive
+  framework. We validate TOPF on both NV and task-based fMRI data from multiple conditions.
+  Our results show that TOPF effectively and stably captures individual differences
+  in evoked brain activity and successfully predicts phenotypes across cognition,
+  emotion and personality on unseen subjects from their activity topographies. Moreover,
+  TOPF compares favourably with functional connectivity-based approaches in prediction
+  performance, with the identified predictive brain regions being neurobiologically
+  interpretable. Crucially, we highlight the importance of examining individual evoked
+  brain activity topographies in advancing our understanding of the brain-behaviour
+  relationship. We believe that the TOPF approach provides a simple but powerful tool
+  for understanding brain-behaviour relationships on an individual level with a strong
+  potential for clinical applications.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2023.120245
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2023-09-30'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/hbp-sga3
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2020-04-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/a81dbad6-cc0e-49a9-807a-077040449e5c
+schema_type: xyzri:XYZPublication
+title: A topography-based predictive framework for naturalistic viewing fMRI

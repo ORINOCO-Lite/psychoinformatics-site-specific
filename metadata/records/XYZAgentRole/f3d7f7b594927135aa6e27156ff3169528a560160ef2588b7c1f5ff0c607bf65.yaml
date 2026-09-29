@@ -1,0 +1,6 @@
+description: A person or organization that supports (by allocating facilities, staff,
+  or other resources) a project, program, meeting, event, data objects, material culture
+  objects, or other entities capable of support
+display_label: Supporting host
+pid: marcrel:sht
+schema_type: xyzri:XYZAgentRole

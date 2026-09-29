@@ -1,0 +1,56 @@
+attributed_to:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'BrainStat: A toolbox for brain-wide statistics and multimodal feature associations'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Analysis and interpretation of neuroimaging datasets has become a multidisciplinary
+    endeavor, relying not only on statistical methods, but increasingly on associations
+    with respect to other brain-derived features such as gene expression, histological
+    data, and functional as well as cognitive architectures. Here, we introduce BrainStat
+    - a toolbox for (i) univariate and multivariate linear models in volumetric and
+    surface-based brain imaging datasets, and (ii) multidomain feature association
+    of results with respect to spatial maps of post-mortem gene expression and histology,
+    task-based fMRI meta-analysis, as well as resting-state fMRI motifs across several
+    common surface templates. The combination of statistics and feature associations
+    into a turnkey toolbox streamlines analytical processes and accelerates cross-modal
+    research. The toolbox is implemented in both Python and MATLAB, two widely used
+    programming languages in the neuroimaging and neuroinformatics communities. BrainStat
+    is openly available and complemented by an expandable documentation.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Analysis and interpretation of neuroimaging datasets has become a multidisciplinary
+  endeavor, relying not only on statistical methods, but increasingly on associations
+  with respect to other brain-derived features such as gene expression, histological
+  data, and functional as well as cognitive architectures. Here, we introduce BrainStat
+  - a toolbox for (i) univariate and multivariate linear models in volumetric and
+  surface-based brain imaging datasets, and (ii) multidomain feature association of
+  results with respect to spatial maps of post-mortem gene expression and histology,
+  task-based fMRI meta-analysis, as well as resting-state fMRI motifs across several
+  common surface templates. The combination of statistics and feature associations
+  into a turnkey toolbox streamlines analytical processes and accelerates cross-modal
+  research. The toolbox is implemented in both Python and MATLAB, two widely used
+  programming languages in the neuroimaging and neuroinformatics communities. BrainStat
+  is openly available and complemented by an expandable documentation.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2022.119807
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/cc4ce390-ae28-4ed4-83b5-059545730299
+schema_type: xyzri:XYZPublication
+title: 'BrainStat: A toolbox for brain-wide statistics and multimodal feature associations'

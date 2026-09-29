@@ -1,0 +1,56 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Common neural dysfunction of economic decision-making across psychiatric
+    conditions
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Adaptive decision-making, which is often impaired in various psychiatric
+    conditions, is essential for well-being. Recent evidence has indicated that decision-making
+    capacity in multiple tasks could be accounted for by latent dimensions, enlightening
+    the question of whether there is a common disruption of brain networks in economic
+    decision-making across psychiatric conditions. Here, we addressed the issue by
+    combining activation/lesion network mapping analyses with a transdiagnostic brain
+    imaging meta-analysis. Our findings indicate that there were transdiagnostic alterations
+    in the thalamus and ventral striatum during the decision or outcome stage of decision-making.
+    The identified regions represent key nodes in a large-scale network, which is
+    composed of multiple heterogeneous brain regions and plays a causal role in motivational
+    functioning. The findings suggest that disturbances in the network associated
+    with emotion- and reward-related processing play a key role in dysfunctions of
+    decision‐making observed in various psychiatric conditions. This study provides
+    the first meta-analytic evidence of common neural alterations linked to deficits
+    in economic decision-making.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Adaptive decision-making, which is often impaired in various psychiatric
+  conditions, is essential for well-being. Recent evidence has indicated that decision-making
+  capacity in multiple tasks could be accounted for by latent dimensions, enlightening
+  the question of whether there is a common disruption of brain networks in economic
+  decision-making across psychiatric conditions. Here, we addressed the issue by combining
+  activation/lesion network mapping analyses with a transdiagnostic brain imaging
+  meta-analysis. Our findings indicate that there were transdiagnostic alterations
+  in the thalamus and ventral striatum during the decision or outcome stage of decision-making.
+  The identified regions represent key nodes in a large-scale network, which is composed
+  of multiple heterogeneous brain regions and plays a causal role in motivational
+  functioning. The findings suggest that disturbances in the network associated with
+  emotion- and reward-related processing play a key role in dysfunctions of decision‐making
+  observed in various psychiatric conditions. This study provides the first meta-analytic
+  evidence of common neural alterations linked to deficits in economic decision-making.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2024'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2024.120641
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/67fb5a32-3877-47c0-9968-03cabf8f0d4c
+schema_type: xyzri:XYZPublication
+title: Common neural dysfunction of economic decision-making across psychiatric conditions

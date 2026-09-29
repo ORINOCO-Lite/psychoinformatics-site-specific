@@ -1,0 +1,63 @@
+attributed_to:
+- object: xyzrins:persons/5836e9aa-bcd6-493d-bc7c-8f866c8ab2a7
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/13246f09-6c77-45ca-a638-0f27589e3ba0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c643dc9e-7b8a-4a32-aa1b-6f371c82880a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d7c16a56-21ac-4192-b7bb-651ad3a4ff87
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Julich-Brain Atlas, cytoarchitectonic maps
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The Julich-Brain Atlas (RRID:SCR_023277) presents in this dataset cytoarchitectonic
+    maps in several coordinate spaces, such as MNI Colin 27, MNI ICBM 152, and Free
+    Surfer FsAverage-7. These maps originate from peer-reviewed probability maps (PMs)
+    that define both cortical and subcortical brain regions. Notably, these probability
+    maps account for the brain's inter-individual variability by analyzing data from
+    ten post-mortem samples. For a whole-brain parcellation, the available probability
+    maps are combined into a maximum probability map (MPM) by considering for each
+    voxel the probability of all cytoarchitectonic brain regions, and determining
+    the most probable assignment. The atlas was used as a reference atlas for the
+    Human Brain Project and is deeply embedded within the European research infrastructure
+    platform, EBRAINS. Furthermore, the atlas is continuously evolving and regularly
+    updated with new areas. The [siibra toolsuite](https://siibra-python.readthedocs.io)
+    provides an automated access to the Atlas, to speed up your work.
+description: The Julich-Brain Atlas (RRID:SCR_023277) presents in this dataset cytoarchitectonic
+  maps in several coordinate spaces, such as MNI Colin 27, MNI ICBM 152, and Free
+  Surfer FsAverage-7. These maps originate from peer-reviewed probability maps (PMs)
+  that define both cortical and subcortical brain regions. Notably, these probability
+  maps account for the brain's inter-individual variability by analyzing data from
+  ten post-mortem samples. For a whole-brain parcellation, the available probability
+  maps are combined into a maximum probability map (MPM) by considering for each voxel
+  the probability of all cytoarchitectonic brain regions, and determining the most
+  probable assignment. The atlas was used as a reference atlas for the Human Brain
+  Project and is deeply embedded within the European research infrastructure platform,
+  EBRAINS. Furthermore, the atlas is continuously evolving and regularly updated with
+  new areas. The [siibra toolsuite](https://siibra-python.readthedocs.io) provides
+  an automated access to the Atlas, to speed up your work.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.25493/KNSN-XB4
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2026-12-01'
+    schema_type: dlthings:End
+  object: xyzrins:grants/ebrains-2.0
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2024-01-01'
+    schema_type: dlthings:Start
+pid: xyzrins:publications/2f1d4399-52ed-4d2c-80b1-e7726cd9cfea
+schema_type: xyzri:XYZPublication
+title: Julich-Brain Atlas, cytoarchitectonic maps

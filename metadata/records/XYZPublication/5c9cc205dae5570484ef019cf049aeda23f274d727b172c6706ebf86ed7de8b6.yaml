@@ -1,0 +1,67 @@
+attributed_to:
+- object: xyzrins:persons/4eec40dd-c909-4c84-80d4-49c706e30c19
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Emotional Context Sculpts Action Goal Representations in the Lateral Frontal
+    Pole
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Emotional states provide an ever-present source of contextual information
+    that should inform behavioral goals. Despite the ubiquity of emotional signals
+    in our environment, the neural mechanisms underlying their influence on goal-directed
+    action remains unclear. Prior work suggests that the lateral frontal pole (FPl)
+    is uniquely positioned to integrate affective information into cognitive control
+    representations. We used pattern similarity analysis to examine the content of
+    representations in FPl and interconnected mid-lateral prefrontal and amygdala
+    circuitry. Healthy participants (n = 37; n = 21 females) were scanned while undergoing
+    an event-related Affective Go/No-Go task, which requires goal-oriented action
+    selection during emotional processing. We found that FPl contained conjunctive
+    emotion–action goal representations that were related to successful cognitive
+    control during emotional processing. These representations differed from conjunctive
+    emotion–action goal representations found in the basolateral amygdala. While robust
+    action goal representations were present in mid-lateral prefrontal cortex, they
+    were not modulated by emotional valence. Finally, converging results from functional
+    connectivity and multivoxel pattern analyses indicated that FPl emotional valence
+    signals likely originated from interconnected subgenual anterior cingulate cortex
+    (ACC) (BA25), which was in turn functionally coupled with the amygdala. Thus,
+    our results identify a key pathway by which internal emotional states influence
+    goal-directed behavior.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Emotional states provide an ever-present source of contextual information
+  that should inform behavioral goals. Despite the ubiquity of emotional signals in
+  our environment, the neural mechanisms underlying their influence on goal-directed
+  action remains unclear. Prior work suggests that the lateral frontal pole (FPl)
+  is uniquely positioned to integrate affective information into cognitive control
+  representations. We used pattern similarity analysis to examine the content of representations
+  in FPl and interconnected mid-lateral prefrontal and amygdala circuitry. Healthy
+  participants (n = 37; n = 21 females) were scanned while undergoing an event-related
+  Affective Go/No-Go task, which requires goal-oriented action selection during emotional
+  processing. We found that FPl contained conjunctive emotion–action goal representations
+  that were related to successful cognitive control during emotional processing. These
+  representations differed from conjunctive emotion–action goal representations found
+  in the basolateral amygdala. While robust action goal representations were present
+  in mid-lateral prefrontal cortex, they were not modulated by emotional valence.
+  Finally, converging results from functional connectivity and multivoxel pattern
+  analyses indicated that FPl emotional valence signals likely originated from interconnected
+  subgenual anterior cingulate cortex (ACC) (BA25), which was in turn functionally
+  coupled with the amygdala. Thus, our results identify a key pathway by which internal
+  emotional states influence goal-directed behavior.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0270-6474
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1523/JNEUROSCI.1522-21.2021
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/4cecaf89-40dd-44d2-8109-569fea11f048
+schema_type: xyzri:XYZPublication
+title: Emotional Context Sculpts Action Goal Representations in the Lateral Frontal
+  Pole

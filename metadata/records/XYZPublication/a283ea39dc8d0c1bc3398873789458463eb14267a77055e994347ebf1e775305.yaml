@@ -1,0 +1,75 @@
+attributed_to:
+- object: xyzrins:persons/81b3a1a2-cde7-46c2-8edd-87145adc579e
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Brain Structure in Acutely Underweight and Partially Weight-Restored Individuals
+    With Anorexia Nervosa: A Coordinated Analysis by the ENIGMA Eating Disorders Working
+    Group'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'BACKGROUND: The pattern of structural brain abnormalities in anorexia nervosa
+    (AN) is still not well understood.While several studies report substantial deficits
+    in gray matter volume and cortical thickness in acutely underweightpatients, others
+    find no differences, or even increases in patients compared with healthy control
+    subjects. Recentweight regain before scanning may explain some of this heterogeneity.
+    To clarify the extent, magnitude, and de-pendencies of gray matter changes in
+    AN, we conducted a prospective, coordinated meta-analysis of multicenterneuroimaging
+    data.METHODS: We analyzed T1-weighted structural magnetic resonance imaging scans
+    assessed with standardizedmethods from 685 female patients with AN and 963 female
+    healthy control subjects across 22 sites worldwide. Inaddition to a case-control
+    comparison, we conducted a 3-group analysis comparing healthy control subjects
+    withacutely underweight AN patients (n = 466) and partially weight-restored patients
+    in treatment (n = 251).RESULTS: In AN, reductions in cortical thickness, subcortical
+    volumes, and, to a lesser extent, cortical surface areawere sizable (Cohen’s d
+    up to 0.95), widespread, and colocalized with hub regions. Highlighting the effects
+    of un-dernutrition, these deficits were associated with lower body mass index
+    in the AN sample and were less pronouncedin partially weight-restored patients.CONCLUSIONS:
+    The effect sizes observed for cortical thickness deficits in acute AN are the
+    largest of any psychiatricdisorder investigated in the ENIGMA (Enhancing Neuro
+    Imaging Genetics through Meta Analysis) Consortium to date.These results confirm
+    the importance of considering weight loss and renutrition in biomedical research
+    on AN andunderscore the importance of treatment engagement to prevent potentially
+    long-lasting structural brain changes inthis population.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'BACKGROUND: The pattern of structural brain abnormalities in anorexia
+  nervosa (AN) is still not well understood.While several studies report substantial
+  deficits in gray matter volume and cortical thickness in acutely underweightpatients,
+  others find no differences, or even increases in patients compared with healthy
+  control subjects. Recentweight regain before scanning may explain some of this heterogeneity.
+  To clarify the extent, magnitude, and de-pendencies of gray matter changes in AN,
+  we conducted a prospective, coordinated meta-analysis of multicenterneuroimaging
+  data.METHODS: We analyzed T1-weighted structural magnetic resonance imaging scans
+  assessed with standardizedmethods from 685 female patients with AN and 963 female
+  healthy control subjects across 22 sites worldwide. Inaddition to a case-control
+  comparison, we conducted a 3-group analysis comparing healthy control subjects withacutely
+  underweight AN patients (n = 466) and partially weight-restored patients in treatment
+  (n = 251).RESULTS: In AN, reductions in cortical thickness, subcortical volumes,
+  and, to a lesser extent, cortical surface areawere sizable (Cohen’s d up to 0.95),
+  widespread, and colocalized with hub regions. Highlighting the effects of un-dernutrition,
+  these deficits were associated with lower body mass index in the AN sample and were
+  less pronouncedin partially weight-restored patients.CONCLUSIONS: The effect sizes
+  observed for cortical thickness deficits in acute AN are the largest of any psychiatricdisorder
+  investigated in the ENIGMA (Enhancing Neuro Imaging Genetics through Meta Analysis)
+  Consortium to date.These results confirm the importance of considering weight loss
+  and renutrition in biomedical research on AN andunderscore the importance of treatment
+  engagement to prevent potentially long-lasting structural brain changes inthis population.'
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:0006-3223
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.biopsych.2022.04.022
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/a6196953-fd09-4b86-865b-3293bc0a2bf8
+schema_type: xyzri:XYZPublication
+title: 'Brain Structure in Acutely Underweight and Partially Weight-Restored Individuals
+  With Anorexia Nervosa: A Coordinated Analysis by the ENIGMA Eating Disorders Working
+  Group'

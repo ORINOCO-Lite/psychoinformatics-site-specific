@@ -1,0 +1,65 @@
+attributed_to:
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/f927ec1c-72cd-4daa-ae49-c4792d3efb70
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Mapping neurophysiological and molecular profiles of heterogeneity and homogeneity
+    in schizophrenia-bipolar disorder
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The heterogeneity of psychotic disorders leads to instability in subjectively
+    defined diagnoses. This study used a machine learning framework termed common
+    orthogonal basis extraction (COBE) to decompose electroencephalography-based functional
+    connectivity (FC) in patients with psychotic bipolar disorder (PBD), schizophrenia
+    (SCZ), and schizoaffective disorder (SAD) into individualized and shared subspaces.
+    The results demonstrated that individualized FCs captured disease heterogeneity
+    and predicted symptom severity more accurately than raw FCs, while shared FCs
+    revealed diagnosis-specific abnormalities and achieved an accuracy of 79.30% in
+    differentiating PBD, SCZ, and SAD. Furthermore, molecular decoding implicated
+    regionally selective serotonin systems and astrocytes in the neurobiological differences
+    among disorders, suggesting disorder-specific pharmacological targets. Critically,
+    these findings were replicated in an independent cohort, confirming the effectiveness
+    of the COBE framework in mining neurophysiological and molecular profiles of schizophrenia-bipolar
+    disorder. These findings advance mechanistic understanding of psychotic disorders
+    and offer a promising avenue toward objective, clinically relevant tools for psychotic
+    evaluation.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The heterogeneity of psychotic disorders leads to instability in subjectively
+  defined diagnoses. This study used a machine learning framework termed common orthogonal
+  basis extraction (COBE) to decompose electroencephalography-based functional connectivity
+  (FC) in patients with psychotic bipolar disorder (PBD), schizophrenia (SCZ), and
+  schizoaffective disorder (SAD) into individualized and shared subspaces. The results
+  demonstrated that individualized FCs captured disease heterogeneity and predicted
+  symptom severity more accurately than raw FCs, while shared FCs revealed diagnosis-specific
+  abnormalities and achieved an accuracy of 79.30% in differentiating PBD, SCZ, and
+  SAD. Furthermore, molecular decoding implicated regionally selective serotonin systems
+  and astrocytes in the neurobiological differences among disorders, suggesting disorder-specific
+  pharmacological targets. Critically, these findings were replicated in an independent
+  cohort, confirming the effectiveness of the COBE framework in mining neurophysiological
+  and molecular profiles of schizophrenia-bipolar disorder. These findings advance
+  mechanistic understanding of psychotic disorders and offer a promising avenue toward
+  objective, clinically relevant tools for psychotic evaluation.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+- at_location: ISSN:2375-2548
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1126/sciadv.adz0389
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/82b9c438-53b1-4472-b097-553e9b0e51b3
+schema_type: xyzri:XYZPublication
+title: Mapping neurophysiological and molecular profiles of heterogeneity and homogeneity
+  in schizophrenia-bipolar disorder

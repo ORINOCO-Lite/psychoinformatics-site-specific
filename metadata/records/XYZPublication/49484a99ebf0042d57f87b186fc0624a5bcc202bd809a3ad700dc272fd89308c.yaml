@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: A Comparative Perspective on the Cerebello-Cerebral System and Its Link to
+    Cognition
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The longstanding idea that the cerebral cortex is the main neural correlate
+    of human cognition can be elaborated by comparative analyses along the vertebrate
+    phylogenetic tree that support the view that the cerebello-cerebral system is
+    suited to support non-motor functions more generally. In humans, diverse accounts
+    have illustrated cerebellar involvement in cognitive functions. Although the neocortex,
+    and its transmodal association cortices such as the prefrontal cortex, have become
+    disproportionately large over primate evolution specifically, human neocortical volume
+    does not appear to be exceptional relative to the variability within primates.
+    Rather, several lines of evidence indicate that the exceptional volumetric increase
+    of the lateral cerebellum in conjunction with its connectivity with the cerebral
+    cortical system may be linked to non-motor functions and mental operation in primates.
+    This idea is supported by diverging cerebello-cerebral adaptations that potentially
+    coevolve with cognitive abilities across other vertebrates such as dolphins, parrots,
+    and elephants. Modular adaptations upon the vertebrate cerebello-cerebral system
+    may thus help better understand the neuroevolutionary trajectory of the primate
+    brain and its relation to cognition in humans. Lateral cerebellar lobules crura
+    I-II and their reciprocal connections to the cerebral cortical association areas
+    appear to have substantially expanded in great apes, and humans. This, along with
+    the notable increase in the ventral portions of the dentate nucleus and a shift
+    to increased relative prefrontal-cerebellar connectivity, suggests that modular
+    cerebellar adaptations support cognitive functions in humans. In sum, we show
+    how comparative neuroscience provides new avenues to broaden our understanding
+    of cerebellar and cerebello-cerebral functions in the context of cognition.
+description: The longstanding idea that the cerebral cortex is the main neural correlate
+  of human cognition can be elaborated by comparative analyses along the vertebrate
+  phylogenetic tree that support the view that the cerebello-cerebral system is suited
+  to support non-motor functions more generally. In humans, diverse accounts have
+  illustrated cerebellar involvement in cognitive functions. Although the neocortex,
+  and its transmodal association cortices such as the prefrontal cortex, have become
+  disproportionately large over primate evolution specifically, human neocortical volume
+  does not appear to be exceptional relative to the variability within primates. Rather,
+  several lines of evidence indicate that the exceptional volumetric increase of the
+  lateral cerebellum in conjunction with its connectivity with the cerebral cortical
+  system may be linked to non-motor functions and mental operation in primates. This
+  idea is supported by diverging cerebello-cerebral adaptations that potentially coevolve
+  with cognitive abilities across other vertebrates such as dolphins, parrots, and
+  elephants. Modular adaptations upon the vertebrate cerebello-cerebral system may
+  thus help better understand the neuroevolutionary trajectory of the primate brain
+  and its relation to cognition in humans. Lateral cerebellar lobules crura I-II and
+  their reciprocal connections to the cerebral cortical association areas appear to
+  have substantially expanded in great apes, and humans. This, along with the notable
+  increase in the ventral portions of the dentate nucleus and a shift to increased
+  relative prefrontal-cerebellar connectivity, suggests that modular cerebellar adaptations
+  support cognitive functions in humans. In sum, we show how comparative neuroscience
+  provides new avenues to broaden our understanding of cerebellar and cerebello-cerebral
+  functions in the context of cognition.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1473-4222
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s12311-022-01495-0
+  schema_type: dlthings:DOI
+pid: xyzrins:publications/7631aa27-4ccd-44ff-b97d-d0825fcbd5a5
+schema_type: xyzri:XYZPublication
+title: A Comparative Perspective on the Cerebello-Cerebral System and Its Link to
+  Cognition

@@ -1,0 +1,42 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Machine learning for psychiatry: getting doctors at the black box?'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Recent developments in the field of machine-learning have spurred high hopes
+    for diagnostic support for psychiatric patients based on brain MRI. But while
+    technical advances are undoubtedly remarkable, the current trajectory of mostly
+    proof-of-concept studies performed on retrospective, often repository-derived
+    data, may not be well suited to yield a substantial impact in clinical practice.
+    Here we review these developments and challenges, arguing for the need of stronger
+    involvement of and input from medical doctors in order to pave the way for machine-learning
+    in clinical psychiatry.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Recent developments in the field of machine-learning have spurred high
+  hopes for diagnostic support for psychiatric patients based on brain MRI. But while
+  technical advances are undoubtedly remarkable, the current trajectory of mostly
+  proof-of-concept studies performed on retrospective, often repository-derived data,
+  may not be well suited to yield a substantial impact in clinical practice. Here
+  we review these developments and challenges, arguing for the need of stronger involvement
+  of and input from medical doctors in order to pave the way for machine-learning
+  in clinical psychiatry.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1359-4184
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41380-020-00931-z
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/49bbc7f1-7fe7-43a9-842f-3c777ca96fcf
+schema_type: xyzri:XYZPublication
+title: 'Machine learning for psychiatry: getting doctors at the black box?'

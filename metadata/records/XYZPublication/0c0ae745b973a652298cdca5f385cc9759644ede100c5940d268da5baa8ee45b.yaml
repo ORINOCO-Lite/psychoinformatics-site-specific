@@ -1,0 +1,82 @@
+attributed_to:
+- object: xyzrins:persons/88f908e5-40ad-487e-92f5-58d8a1e96aaa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Episode-specific cortical functional connectome reorganization and neurobiological
+    correlates in bipolar disorder: a cross-sectional study'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Background Bipolar disorder (BD) is a heterogeneous psychiatric condition
+    characterized by distinct episodes: manic(BipM), depressive (BipD), mixed (mBD),
+    and remission (rBD). Current evidence indicates alterations in brain functionalconnectivity
+    in BD, yet a comprehensive understanding across all episodes remains incomplete.Methods
+    Here, to investigate how different BD episodes alter brain functional organization,
+    we calculated the sen‑sory‑association axis using diffusion map embedding on the
+    functional connectome matrix and compared this axisbetween the four BD groups
+    and neurotypical controls. Then, we employed regression dynamic causal modelingto
+    investigate the directional information flow along the reorganized sensory‑association
+    axis across different BDepisodes. Furthermore, we applied Nested Spectral Partitioning
+    to decode functional integration and segregationalong the same axis. Finally,
+    we compared the reorganization patterns with normative maps of clinical symptomatol‑ogy,
+    cellular composition, and receptor distribution to elucidate symptom‑related and
+    molecular‑level associations.Results Compared to healthy controls, we observed
+    sensory region expansion and association region compressionin BipM, BipD, and
+    rBD. The mBD showed expanded visual and prefrontal regions but compressed motor
+    and pre‑cuneus regions. Analyzing neural information flow revealed reduced connectivity
+    in association regions for BipMand BipD, indicating association dominance in functional
+    reorganization. Conversely, mBD exhibited heightenedbidirectional signal flow
+    between sensory and association regions, emphasizing increased integrative process‑ing.
+    Network analyses further revealed increased integration and decreased segregation
+    across unipolar episodes,with the highest integration in mBD. Clinical correlations
+    highlighted that emotional fluctuations primarily relatedto association region
+    reorganization, suggesting potential biomarkers for mood episode detection. Moreover,
+    thesefunctional reorganizations spatially correlated with serotonin transporter,
+    gamma‑aminobutyric acid type A recep‑tor, alpha‑4‑beta‑4 nicotinic acetylcholine
+    receptor, and specific cortical neuron layers (layer 4 and layer 5 excitatoryneurons).'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Background Bipolar disorder (BD) is a heterogeneous psychiatric condition
+  characterized by distinct episodes: manic(BipM), depressive (BipD), mixed (mBD),
+  and remission (rBD). Current evidence indicates alterations in brain functionalconnectivity
+  in BD, yet a comprehensive understanding across all episodes remains incomplete.Methods
+  Here, to investigate how different BD episodes alter brain functional organization,
+  we calculated the sen‑sory‑association axis using diffusion map embedding on the
+  functional connectome matrix and compared this axisbetween the four BD groups and
+  neurotypical controls. Then, we employed regression dynamic causal modelingto investigate
+  the directional information flow along the reorganized sensory‑association axis
+  across different BDepisodes. Furthermore, we applied Nested Spectral Partitioning
+  to decode functional integration and segregationalong the same axis. Finally, we
+  compared the reorganization patterns with normative maps of clinical symptomatol‑ogy,
+  cellular composition, and receptor distribution to elucidate symptom‑related and
+  molecular‑level associations.Results Compared to healthy controls, we observed sensory
+  region expansion and association region compressionin BipM, BipD, and rBD. The mBD
+  showed expanded visual and prefrontal regions but compressed motor and pre‑cuneus
+  regions. Analyzing neural information flow revealed reduced connectivity in association
+  regions for BipMand BipD, indicating association dominance in functional reorganization.
+  Conversely, mBD exhibited heightenedbidirectional signal flow between sensory and
+  association regions, emphasizing increased integrative process‑ing. Network analyses
+  further revealed increased integration and decreased segregation across unipolar
+  episodes,with the highest integration in mBD. Clinical correlations highlighted
+  that emotional fluctuations primarily relatedto association region reorganization,
+  suggesting potential biomarkers for mood episode detection. Moreover, thesefunctional
+  reorganizations spatially correlated with serotonin transporter, gamma‑aminobutyric
+  acid type A recep‑tor, alpha‑4‑beta‑4 nicotinic acetylcholine receptor, and specific
+  cortical neuron layers (layer 4 and layer 5 excitatoryneurons).'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1741-7015
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1186/s12916-025-04277-7
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8fac0298-ece7-4180-a8a4-f1c0be1ab309
+schema_type: xyzri:XYZPublication
+title: 'Episode-specific cortical functional connectome reorganization and neurobiological
+  correlates in bipolar disorder: a cross-sectional study'

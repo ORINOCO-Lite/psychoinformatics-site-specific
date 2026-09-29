@@ -1,0 +1,86 @@
+attributed_to:
+- object: xyzrins:persons/d0c2fe51-8364-454f-b7eb-d655601144e7
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/11bba584-d08e-47f2-b3d4-980c5472dca3
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/9fe30b8c-a331-4166-bd1c-f407b6e06ecc
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Neurobiological substrates of the positive formal thought disorder in schizophrenia
+    revealed by seed connectome-based predictive modeling
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Formal thought disorder (FTD) is a core symptom cluster of schizophrenia,
+    but its neurobiological substrates remain poorly understood. Here we collected
+    resting-state fMRI data from 276 subjects at seven sites and employed machine-learning
+    to investigate the neurobiological correlates of FTD along positive and negative
+    symptom dimensions in schizophrenia. Three a priori, meta-analytically defined
+    FTD-related brain regions were used as seeds to generate whole-brain resting-state
+    functional connectivity (rsFC) maps, which were then compared between schizophrenia
+    patients and controls. A repeated cross-validation procedure was realized within
+    the patient group to identify clusters whose rsFC patterns to the seeds were repeatedly
+    observed as significantly associated with specific FTD dimensions. These repeatedly
+    identified clusters (i.e., robust clusters) were functionally characterized and
+    the rsFC patterns were used for predictive modeling to investigate predictive
+    capacities for individual FTD dimensional-scores. Compared with controls, differential
+    rsFC was found in patients in fronto-temporo-thalamic regions. Our cross-validation
+    procedure revealed significant clusters only when assessing the seed-to-whole-brain
+    rsFC patterns associated with positive-FTD. RsFC patterns of three fronto-temporal
+    clusters, associated with higher-order cognitive processes (e.g., executive functions),
+    specifically predicted individual positive-FTD scores (p = 0.005), but not other
+    positive symptoms, and the PANSS general psychopathology subscale (p > 0.05).
+    The prediction of positive-FTD was moreover generalized to an independent dataset
+    (p = 0.013). Our study has identified neurobiological correlates of positive FTD
+    in schizophrenia in a network associated with higher-order cognitive functions,
+    suggesting a dysexecutive contribution to FTD in schizophrenia. We regard our
+    findings as robust, as they allow a prediction of individual-level symptom severity.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Formal thought disorder (FTD) is a core symptom cluster of schizophrenia,
+  but its neurobiological substrates remain poorly understood. Here we collected resting-state
+  fMRI data from 276 subjects at seven sites and employed machine-learning to investigate
+  the neurobiological correlates of FTD along positive and negative symptom dimensions
+  in schizophrenia. Three a priori, meta-analytically defined FTD-related brain regions
+  were used as seeds to generate whole-brain resting-state functional connectivity
+  (rsFC) maps, which were then compared between schizophrenia patients and controls.
+  A repeated cross-validation procedure was realized within the patient group to identify
+  clusters whose rsFC patterns to the seeds were repeatedly observed as significantly
+  associated with specific FTD dimensions. These repeatedly identified clusters (i.e.,
+  robust clusters) were functionally characterized and the rsFC patterns were used
+  for predictive modeling to investigate predictive capacities for individual FTD
+  dimensional-scores. Compared with controls, differential rsFC was found in patients
+  in fronto-temporo-thalamic regions. Our cross-validation procedure revealed significant
+  clusters only when assessing the seed-to-whole-brain rsFC patterns associated with
+  positive-FTD. RsFC patterns of three fronto-temporal clusters, associated with higher-order
+  cognitive processes (e.g., executive functions), specifically predicted individual
+  positive-FTD scores (p = 0.005), but not other positive symptoms, and the PANSS
+  general psychopathology subscale (p > 0.05). The prediction of positive-FTD was
+  moreover generalized to an independent dataset (p = 0.013). Our study has identified
+  neurobiological correlates of positive FTD in schizophrenia in a network associated
+  with higher-order cognitive functions, suggesting a dysexecutive contribution to
+  FTD in schizophrenia. We regard our findings as robust, as they allow a prediction
+  of individual-level symptom severity.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2213-1582
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.nicl.2021.102666
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/09b81e67-7ee8-42f8-806e-f9c0c386d96d
+schema_type: xyzri:XYZPublication
+title: Neurobiological substrates of the positive formal thought disorder in schizophrenia
+  revealed by seed connectome-based predictive modeling

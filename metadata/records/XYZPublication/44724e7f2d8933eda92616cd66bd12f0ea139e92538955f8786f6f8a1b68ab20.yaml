@@ -1,0 +1,62 @@
+attributed_to:
+- object: xyzrins:persons/b29df312-828b-4235-9f57-7534b9eeb5e6
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Mapping common grey matter volume deviation across child and adolescent psychiatric
+    disorders
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Childhood and adolescence represent a time notable for the emergence of many
+    psychiatric disorders, where comorbidity and co-occurrence of symptoms are well-documented.
+    However, it remains unclear whether there exists common brain structural disturbance
+    across psychiatric disorders in youth. Here, we conduct a transdiagnostic meta-analysis
+    of 132 structural neuroimaging experiments in youth consisting of multiple psychiatric
+    diagnoses. Compared to healthy peers, youth psychiatric disorders are characterized
+    by reduced grey matter volume (GMV) of amygdala and lateral orbitofrontal cortex
+    and enhanced GMV of ventromedial prefrontal cortex and precuneus. These four regions
+    were then subjected to functional connectivity and decoding analyses based on
+    healthy participant datasets, allowing for a data-driven quantitative inference
+    on psychophysiological functions. These regions and their networks mapped onto
+    systems implicated in negative valence, positive valence, as well as social and
+    cognitive functioning. Together, our findings are consistent with transdiagnostic
+    models of psychopathology, uncovering common structural disturbance across youth
+    psychiatric disorders, potentially reflecting an intermediate transdiagnostic
+    phenotype in association with broad dimensions of youth psychopathology.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Childhood and adolescence represent a time notable for the emergence
+  of many psychiatric disorders, where comorbidity and co-occurrence of symptoms are
+  well-documented. However, it remains unclear whether there exists common brain structural
+  disturbance across psychiatric disorders in youth. Here, we conduct a transdiagnostic
+  meta-analysis of 132 structural neuroimaging experiments in youth consisting of
+  multiple psychiatric diagnoses. Compared to healthy peers, youth psychiatric disorders
+  are characterized by reduced grey matter volume (GMV) of amygdala and lateral orbitofrontal
+  cortex and enhanced GMV of ventromedial prefrontal cortex and precuneus. These four
+  regions were then subjected to functional connectivity and decoding analyses based
+  on healthy participant datasets, allowing for a data-driven quantitative inference
+  on psychophysiological functions. These regions and their networks mapped onto systems
+  implicated in negative valence, positive valence, as well as social and cognitive
+  functioning. Together, our findings are consistent with transdiagnostic models of
+  psychopathology, uncovering common structural disturbance across youth psychiatric
+  disorders, potentially reflecting an intermediate transdiagnostic phenotype in association
+  with broad dimensions of youth psychopathology.
+generated_by:
+- at_location: ISSN:0149-7634
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2020.05.015
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/620586fc-5b64-4842-873e-8565d0787d28
+schema_type: xyzri:XYZPublication
+title: Mapping common grey matter volume deviation across child and adolescent psychiatric
+  disorders

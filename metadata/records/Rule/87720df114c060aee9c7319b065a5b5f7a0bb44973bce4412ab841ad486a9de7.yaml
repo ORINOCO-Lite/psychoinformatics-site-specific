@@ -1,0 +1,8 @@
+broad_mappings:
+- ODRL:Duty
+description: This data use modifier indicates that requestor agrees to make results
+  of studies using the data available to the larger scientific community.
+display_label: 'Duty: publication required'
+pid: obo:DUO_0000019
+schema_type: dlthings:Rule
+title: publication required

@@ -1,0 +1,35 @@
+associated_with:
+- object: xyzrins:persons/simon-eickhoff
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+description: The project aims to create a new standard for brain atlases from the
+  micro- to the macro-scale, link foundational multi-level data and connectomes in
+  the healthy and pathological brain with atlases and models, create digital twins
+  through modelling and simulation as well as unique, excellent, and preferred services
+  for FAIR neuroscience data. The overarching goal of EBRAINS 2.0 is to foster a deeper
+  understanding of brain structure and function with dedicated and mature software
+  tools, to facilitate the development of more effective treatments, new drugs, diagnostics
+  and preventive measures for neuro-psychiatric disorders.
+ended:
+  at_time: '2026-12-31'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2026-12-31'
+    schema_type: dlthings:End
+  object: xyzrins:grants/ebrains-2.0
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2024-01-01'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/85780175-0a19-4d02-96ce-766e2f120592
+schema_type: xyzri:XYZProject
+short_name: EBRAINS 2.0
+started:
+  at_time: '2024-01-01'
+  schema_type: dlthings:Start
+title: A research infrastructure to advance neuroscience and brain health (EBRAINS
+  2.0)

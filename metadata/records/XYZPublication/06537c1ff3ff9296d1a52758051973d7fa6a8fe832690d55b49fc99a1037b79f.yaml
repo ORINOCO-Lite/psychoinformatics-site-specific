@@ -1,0 +1,66 @@
+attributed_to:
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: The age-adjusted Charlson comorbidity index in minimally invasive mitral
+    valve surgery
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: OBJECTIVESMitral valve repair is the preferred method used to address mitral
+    valve regurgitation, whereas transcatheter mitral valve repair is recommended
+    for high-risk patients. We evaluated the risk-predictive value of the age-adjusted
+    Charlson comorbidity index (aa-CCI) in the setting of minimally invasive mitral
+    valve surgery.METHODSThe perioperative course and 1-year follow-up of 537 patients
+    who underwent isolated or combined minimally invasive mitral valve surgery were
+    evaluated for 1-year mortality as the primary end point and other adverse events.
+    The predictive values of the EuroSCORE II and STS score were compared to that
+    of the aa-CCI by a comparative analysis of receiver operating characteristic curves.
+    Restricted cubic splines were applied to find optimal aa-CCI cut-off values for
+    the increased likelihood of experiencing the predefined adverse end points. Consequently,
+    the perioperative course and postoperative outcome of the aa-CCI ≥8 patients and
+    the remainder of the sample were analysed.RESULTSThe predictive value of the aa-CCI
+    does not significantly differ from those of the EuroSCORE II or STS score. Patients
+    with an aa-CCI ≥8 were identified as a subgroup with a significant increase of
+    mortality and other adverse events.CONCLUSIONSThe aa-CCI displays a suitable predictive
+    ability for patients undergoing minimally invasive mitral valve surgery. In particular,
+    multimorbid or frail patients may benefit from the extension of the objectively
+    assessed parameters, in addition to the STS score or EuroSCORE II. Patients with
+    an aa-CCI ≥8 have a very high surgical risk and should receive very careful attention.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: OBJECTIVESMitral valve repair is the preferred method used to address
+  mitral valve regurgitation, whereas transcatheter mitral valve repair is recommended
+  for high-risk patients. We evaluated the risk-predictive value of the age-adjusted
+  Charlson comorbidity index (aa-CCI) in the setting of minimally invasive mitral
+  valve surgery.METHODSThe perioperative course and 1-year follow-up of 537 patients
+  who underwent isolated or combined minimally invasive mitral valve surgery were
+  evaluated for 1-year mortality as the primary end point and other adverse events.
+  The predictive values of the EuroSCORE II and STS score were compared to that of
+  the aa-CCI by a comparative analysis of receiver operating characteristic curves.
+  Restricted cubic splines were applied to find optimal aa-CCI cut-off values for
+  the increased likelihood of experiencing the predefined adverse end points. Consequently,
+  the perioperative course and postoperative outcome of the aa-CCI ≥8 patients and
+  the remainder of the sample were analysed.RESULTSThe predictive value of the aa-CCI
+  does not significantly differ from those of the EuroSCORE II or STS score. Patients
+  with an aa-CCI ≥8 were identified as a subgroup with a significant increase of mortality
+  and other adverse events.CONCLUSIONSThe aa-CCI displays a suitable predictive ability
+  for patients undergoing minimally invasive mitral valve surgery. In particular,
+  multimorbid or frail patients may benefit from the extension of the objectively
+  assessed parameters, in addition to the STS score or EuroSCORE II. Patients with
+  an aa-CCI ≥8 have a very high surgical risk and should receive very careful attention.
+generated_by:
+- at_location: ISSN:1010-7940
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/ejcts/ezz240
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/f50f6fda-c938-4b22-b51c-164d1e013379
+schema_type: xyzri:XYZPublication
+title: The age-adjusted Charlson comorbidity index in minimally invasive mitral valve
+  surgery

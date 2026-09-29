@@ -1,0 +1,34 @@
+attributed_to:
+- object: xyzrins:persons/39e91aa8-3e7e-4e72-9977-ae6941e9e142
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/a645a6d0-96df-472b-9505-b67299896ad8
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Cardiometabolic health, cortical thickness, and neurotransmitter systems:
+    a large-scale multivariate study'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2024.06.14.599066
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/4961f7f5-b720-4f4b-9673-a51edbb97be1
+schema_type: xyzri:XYZPublication
+title: 'Cardiometabolic health, cortical thickness, and neurotransmitter systems:
+  a large-scale multivariate study'

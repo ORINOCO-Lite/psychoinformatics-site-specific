@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Content-State Dimensions Characterize Different Types of Neural Correlates
+    of Consciousness
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Identifying the neural correlates of consciousness (NCCs) is key to support
+    the different scientific theories of consciousness. NCCs can be defined to reflect
+    either the brain signatures underlying specific conscious content or those supporting
+    different states of consciousness, two aspects traditionally studied separately.
+    In this paper, we introduce a framework to characterize NCCs according to their
+    dynamics in both the ''state'' and ''content'' dimensions. The two-dimensional
+    space is defined by the NCCs'' capacity to distinguish the conscious states from
+    non-conscious states, (x-axis) and the content (perceived versus unperceived,
+    y-axis). According to the sign of the x and y-axis, NCCs are separated into four
+    quadrants in terms of how they distinguish the state and content dimensions. We
+    implement the framework using three types of EEG NCCs: markers of connectivity,
+    markers of complexity, and spectral summaries. The NCC-state is represented by
+    the level of consciousness in 1) patients with disorders of consciousness; 2)
+    healthy participants’ during a nap. On the other hand NCC-content by the conscious
+    content in healthy participants'' perception tasks: 1) auditory local-global paradigm
+    and 2) visual awareness paradigm. In both cases, we see separate clusters of NCCs
+    with correlated and anti-correlated dynamics, shedding light on the complex relationship
+    between the state and content of consciousness and emphasizing the importance
+    of considering them simultaneously. This work presents an innovative framework
+    for studying consciousness by examining NCC in a two-dimensional space, providing
+    a valuable resource for future research, with potential applications using diverse
+    experimental paradigms, neural recording techniques, and modeling investigations.'
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: 'Identifying the neural correlates of consciousness (NCCs) is key to
+  support the different scientific theories of consciousness. NCCs can be defined
+  to reflect either the brain signatures underlying specific conscious content or
+  those supporting different states of consciousness, two aspects traditionally studied
+  separately. In this paper, we introduce a framework to characterize NCCs according
+  to their dynamics in both the ''state'' and ''content'' dimensions. The two-dimensional
+  space is defined by the NCCs'' capacity to distinguish the conscious states from
+  non-conscious states, (x-axis) and the content (perceived versus unperceived, y-axis).
+  According to the sign of the x and y-axis, NCCs are separated into four quadrants
+  in terms of how they distinguish the state and content dimensions. We implement
+  the framework using three types of EEG NCCs: markers of connectivity, markers of
+  complexity, and spectral summaries. The NCC-state is represented by the level of
+  consciousness in 1) patients with disorders of consciousness; 2) healthy participants’
+  during a nap. On the other hand NCC-content by the conscious content in healthy
+  participants'' perception tasks: 1) auditory local-global paradigm and 2) visual
+  awareness paradigm. In both cases, we see separate clusters of NCCs with correlated
+  and anti-correlated dynamics, shedding light on the complex relationship between
+  the state and content of consciousness and emphasizing the importance of considering
+  them simultaneously. This work presents an innovative framework for studying consciousness
+  by examining NCC in a two-dimensional space, providing a valuable resource for future
+  research, with potential applications using diverse experimental paradigms, neural
+  recording techniques, and modeling investigations.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.31234/osf.io/xkeuv
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/df11f45a-7d18-41b8-b23b-d7c50851fee6
+schema_type: xyzri:XYZPublication
+title: Content-State Dimensions Characterize Different Types of Neural Correlates
+  of Consciousness

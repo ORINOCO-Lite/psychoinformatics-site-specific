@@ -1,0 +1,24 @@
+about:
+- xyzrins:topics/neuroimaging
+- xyzrins:topics/predictive-data-analysis
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-18T13:05:01.320252'
+attributed_to:
+- object: orcid:0000-0003-3456-2493
+  roles:
+  - obo:MS_1002034
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002035
+  schema_type: dlthings:Attribution
+generated_by:
+- at_time: '2010-01-01'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8f4249c5-92c9-43aa-84c7-294aa464d6d2
+schema_type: xyzri:XYZPublication
+title: Advancing Neuroimaging Research with Predictive Multivariate Pattern Analysis
+  (MVPA)

@@ -1,0 +1,12 @@
+about:
+- xyzrins:instruments/git-annex-wheel
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-20T17:35:56.566553'
+description: The logo of the git-annex software
+distributions:
+- dldi:SHA256E-s5032--302b9da57961fbce464944580aa7b491ed86f98b15e4e3eafc86a6b116a53f73.svg
+kind: schema:logo
+pid: xyzrins:depictions/ec494028-8da5-4436-b1a5-4613125b283f
+schema_type: xyzri:XYZDepiction
+title: Git-annex logo

@@ -1,0 +1,92 @@
+attributed_to:
+- object: xyzrins:persons/13246f09-6c77-45ca-a638-0f27589e3ba0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/5836e9aa-bcd6-493d-bc7c-8f866c8ab2a7
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c643dc9e-7b8a-4a32-aa1b-6f371c82880a
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/8f836375-520c-43d7-afb6-29abea72c0ab
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Cytoarchitectonic Characterization and Functional Decoding of Four New Areas
+    in the Human Lateral Orbitofrontal Cortex
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: A comprehensive concept of the biological basis of reward, social and emotional
+    behavior, and language requires a deeper understanding of the microstructure and
+    connectivity of the underlying brain regions. Such understanding could provide
+    deeper insights into their role in functional networks, and form the anatomical
+    basis of the functional segregation of this region as shown in recent in vivo
+    imaging studies. Here, we investigated the cytoarchitecture of the lateral orbitofrontal
+    cortex (lateral OFC) in serial histological sections of 10 human postmortem brains
+    by image analysis and a statistically reproducible approach to detect borders
+    between cortical areas. Profiles of the volume fraction of cell bodies were therefore
+    extracted from digitized histological images, describing laminar changes from
+    the layer I/layer II boundary to the white matter. As a result, four new areas,
+    Fo4–7, were identified. Area Fo4 was mainly found in the anterior orbital gyrus
+    (AOG), Fo5 anteriorly in the inferior frontal gyrus (IFG), Fo6 in the lateral
+    orbital gyrus (LOG), and Fo7 in the lateral orbital sulcus. Areas differed in
+    cortical thickness, abundance and size of pyramidal cells in layer III and degree
+    of granularity in layer IV. A hierarchical cluster analysis was used to quantify
+    cytoarchitectonic differences between them. The 3D-reconstructed areas were transformed
+    into the single-subject template of the Montreal Neurological Institute (MNI),
+    where probabilistic maps and a maximum probability map (MPM) were calculated as
+    part of the JuBrain Cytoarchitectonic Atlas. These maps served as reference data
+    to study the functional properties of the areas using the BrainMap database. The
+    type of behavioral tasks that activated them was analyzed to get first insights
+    of co-activation patterns of the lateral OFC and its contribution to cognitive
+    networks. Meta-analytic connectivity modeling (MACM) showed that functional decoding
+    revealed activation in gustatory perception in Fo4; reward and somesthetic perception
+    in Fo5; semantic processing and pain perception in Fo6; and emotional processing
+    and covert reading in Fo7. Together with existing maps of the JuBrain Cytoarchitectonic
+    Atlas, the new maps can now be used as an open-source reference for neuroimaging
+    studies, allowing to further decode brain function.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: A comprehensive concept of the biological basis of reward, social and
+  emotional behavior, and language requires a deeper understanding of the microstructure
+  and connectivity of the underlying brain regions. Such understanding could provide
+  deeper insights into their role in functional networks, and form the anatomical
+  basis of the functional segregation of this region as shown in recent in vivo imaging
+  studies. Here, we investigated the cytoarchitecture of the lateral orbitofrontal
+  cortex (lateral OFC) in serial histological sections of 10 human postmortem brains
+  by image analysis and a statistically reproducible approach to detect borders between
+  cortical areas. Profiles of the volume fraction of cell bodies were therefore extracted
+  from digitized histological images, describing laminar changes from the layer I/layer
+  II boundary to the white matter. As a result, four new areas, Fo4–7, were identified.
+  Area Fo4 was mainly found in the anterior orbital gyrus (AOG), Fo5 anteriorly in
+  the inferior frontal gyrus (IFG), Fo6 in the lateral orbital gyrus (LOG), and Fo7
+  in the lateral orbital sulcus. Areas differed in cortical thickness, abundance and
+  size of pyramidal cells in layer III and degree of granularity in layer IV. A hierarchical
+  cluster analysis was used to quantify cytoarchitectonic differences between them.
+  The 3D-reconstructed areas were transformed into the single-subject template of
+  the Montreal Neurological Institute (MNI), where probabilistic maps and a maximum
+  probability map (MPM) were calculated as part of the JuBrain Cytoarchitectonic Atlas.
+  These maps served as reference data to study the functional properties of the areas
+  using the BrainMap database. The type of behavioral tasks that activated them was
+  analyzed to get first insights of co-activation patterns of the lateral OFC and
+  its contribution to cognitive networks. Meta-analytic connectivity modeling (MACM)
+  showed that functional decoding revealed activation in gustatory perception in Fo4;
+  reward and somesthetic perception in Fo5; semantic processing and pain perception
+  in Fo6; and emotional processing and covert reading in Fo7. Together with existing
+  maps of the JuBrain Cytoarchitectonic Atlas, the new maps can now be used as an
+  open-source reference for neuroimaging studies, allowing to further decode brain
+  function.
+generated_by:
+- at_location: ISSN:1662-5129
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3389/fnana.2020.00002
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/1422e682-4e5a-46e4-9a4a-8ef4fe4eea4e
+schema_type: xyzri:XYZPublication
+title: Cytoarchitectonic Characterization and Functional Decoding of Four New Areas
+  in the Human Lateral Orbitofrontal Cortex

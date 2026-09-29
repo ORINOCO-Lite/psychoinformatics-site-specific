@@ -1,0 +1,5 @@
+description: A person who presents a thesis for a university or higher-level educational
+  degree
+display_label: Dissertant
+pid: marcrel:dis
+schema_type: xyzri:XYZAgentRole

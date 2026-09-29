@@ -1,0 +1,36 @@
+attributed_to:
+- object: xyzrins:persons/60feb346-954c-4625-93d6-1b8bd1ca0dfa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Künstliche Intelligenz und menschliches Maß
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Die fortschreitende Verwendung von Verfahren künstlicher Intelligenz provoziert
+    die Frage, inwiefern bei deren ethischer Bewertung auf anthropologische Reflexionen
+    und insbesondere auf ein Kriterium des menschlichen Maßes zurückgegriffen werden
+    kann. Der Beitrag thematisiert das schwierige Verhältnis von Ethik und Natur und
+    erkundet über die Auseinandersetzung mit maßgeblichen kritischen Herausforderungen
+    die Spielräume für den ethischen Rückgriff auf anthropologische Argumente, wobei
+    der Einsatz von künstlicher Intelligenz in der Medizin den Anwendungsbezug bildet.
+characterized_by:
+- object: bibo:Chapter
+  predicate: dcterms:type
+description: Die fortschreitende Verwendung von Verfahren künstlicher Intelligenz
+  provoziert die Frage, inwiefern bei deren ethischer Bewertung auf anthropologische
+  Reflexionen und insbesondere auf ein Kriterium des menschlichen Maßes zurückgegriffen
+  werden kann. Der Beitrag thematisiert das schwierige Verhältnis von Ethik und Natur
+  und erkundet über die Auseinandersetzung mit maßgeblichen kritischen Herausforderungen
+  die Spielräume für den ethischen Rückgriff auf anthropologische Argumente, wobei
+  der Einsatz von künstlicher Intelligenz in der Medizin den Anwendungsbezug bildet.
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/978-3-662-65868-0_2
+  schema_type: dlthings:DOI
+kind: bibo:Chapter
+pid: xyzrins:publications/03bbc4f2-11cb-4ec2-8df5-3e097976d10c
+schema_type: xyzri:XYZPublication
+title: Künstliche Intelligenz und menschliches Maß

@@ -1,0 +1,60 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/269a3b65-df26-4c0d-a6a9-2c4410750dc8
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Brain alterations in children/adolescents with ADHD revisited: a neuroimaging
+    meta-analysis of 96 structural and functional studies'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: The findings of neuroimaging studies in children/adolescents with ADHD, and
+    even those of previous meta-analyses, are divergent. Here, Activation Likelihood
+    Estimation meta-analysis, following the current best-practice guidelines, was
+    conducted. We searched multiple databases and traced the references up to June
+    2018. Then, we extracted the reported coordinates reflecting group comparison
+    between ADHD and healthy subjects from 96 eligible studies, containing 1914 unique
+    participants. The analysis of pooled structural and functional, sub-analyses restricted
+    to modality, and in-/decreased contrast did not yield any significant findings.
+    However, further sub-analyses in the task-fMRI experiments (neutral stimuli only)
+    led to aberrant activity in the left pallidum/putamen and decreased activity (male
+    subjects only) in the left inferior frontal gyrus. The overall findings indicate
+    a lack of regional convergence in children/adolescents with ADHD, which might
+    be due to heterogeneous clinical populations, various experimental design, preprocessing,
+    statistical procedures in individual publications. Our results highlight the need
+    for further high-powered investigations, but may also indicate ADHD pathophysiology
+    might rest in network interactions rather than just regional abnormality.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: The findings of neuroimaging studies in children/adolescents with ADHD,
+  and even those of previous meta-analyses, are divergent. Here, Activation Likelihood
+  Estimation meta-analysis, following the current best-practice guidelines, was conducted.
+  We searched multiple databases and traced the references up to June 2018. Then,
+  we extracted the reported coordinates reflecting group comparison between ADHD and
+  healthy subjects from 96 eligible studies, containing 1914 unique participants.
+  The analysis of pooled structural and functional, sub-analyses restricted to modality,
+  and in-/decreased contrast did not yield any significant findings. However, further
+  sub-analyses in the task-fMRI experiments (neutral stimuli only) led to aberrant
+  activity in the left pallidum/putamen and decreased activity (male subjects only)
+  in the left inferior frontal gyrus. The overall findings indicate a lack of regional
+  convergence in children/adolescents with ADHD, which might be due to heterogeneous
+  clinical populations, various experimental design, preprocessing, statistical procedures
+  in individual publications. Our results highlight the need for further high-powered
+  investigations, but may also indicate ADHD pathophysiology might rest in network
+  interactions rather than just regional abnormality.
+generated_by:
+- at_location: ISSN:0149-7634
+  at_time: '2019'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neubiorev.2019.02.011
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/64d18227-1f30-4299-8b2b-d94c3fd904bc
+schema_type: xyzri:XYZPublication
+title: 'Brain alterations in children/adolescents with ADHD revisited: a neuroimaging
+  meta-analysis of 96 structural and functional studies'

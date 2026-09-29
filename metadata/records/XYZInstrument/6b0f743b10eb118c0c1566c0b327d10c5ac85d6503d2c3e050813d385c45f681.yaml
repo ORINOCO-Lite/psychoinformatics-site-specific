@@ -1,0 +1,52 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-18T10:44:08.889182'
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - xyzrins:agent-roles/7e8c6eda-7d12-4c9f-9a3e-225e53a3db46
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/laura-waite
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/malgorzata-wierzba
+  roles:
+  - marcrel:ctb
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - xyzrins:agent-roles/7e8c6eda-7d12-4c9f-9a3e-225e53a3db46
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: obo:APOLLO_SV_00000488
+  schema_type: dlthings:AttributeSpecification
+  value: https://hub.psychoinformatics.de/datalad/fairly-big-processing-workflow
+- identifiers:
+  - notation: 10.1038/s41597-022-01163-2
+    schema_type: dlthings:DOI
+  predicate: CiTO:isDescribedBy
+  schema_type: dlthings:AttributeSpecification
+  value: 'FAIRly big: A framework for computationally reproducible processing of large-scale
+    data'
+- predicate: obo:APOLLO_SV_00000488
+  schema_type: dlthings:AttributeSpecification
+  value: https://hub.psychoinformatics.de/datalad/fairly-big-processing-workflow
+- identifiers:
+  - notation: 10.1038/s41597-022-01163-2
+    schema_type: dlthings:DOI
+  predicate: CiTO:isDescribedBy
+  schema_type: dlthings:AttributeSpecification
+  value: 'FAIRly big: A framework for computationally reproducible processing of large-scale
+    data'
+description: The FAIRly big processing workflow is a bootstrapping script to create
+  HPC/HTC-focused reproducible (large-scale) data analyses.
+generated_by:
+- object: xyzrins:.
+  schema_type: dlthings:Generation
+- object: xyzrins:.
+  schema_type: dlthings:Generation
+kind: obo:IAO_0000010
+name: FAIRly big processing workflow
+pid: xyzrins:instruments/50fd4fb2-2e98-4beb-aa48-41dd26781fd9
+schema_type: xyzri:XYZInstrument

@@ -1,0 +1,61 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: The functional neural architecture of dysfunctional reward processing in
+    autism
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Functional imaging studies have found differential neural activation patterns
+    during reward-paradigms in patients with autism spectrum disorder (ASD) compared
+    to neurotypical controls. However, publications report conflicting results on
+    the directionality and location of these aberrant activations. We here quantitatively
+    summarized relevant fMRI papers in the field using the anatomical likelihood estimation
+    (ALE) algorithm. Patients with ASD consistently showed hypoactivations in the
+    striatum across studies, mainly in the right putamen and accumbens. These regions
+    are functionally involved in the processing of rewards and are enrolled in extensive
+    neural networks involving limbic, cortical, thalamic and mesencephalic regions.
+    The striatal hypo-activations found in our ALE meta-analysis, which pooled over
+    contrasts derived from the included studies on reward-processing in ASD, highlight
+    the role of the striatum as a key neural correlate of impaired reward processing
+    in autism. These changes were present for studies using social and non-social
+    stimuli alike. The involvement of these regions in extensive networks associated
+    with the processing of both positive and negative emotion alike might hint at
+    broader impairments of emotion processing in the disorder.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Functional imaging studies have found differential neural activation
+  patterns during reward-paradigms in patients with autism spectrum disorder (ASD)
+  compared to neurotypical controls. However, publications report conflicting results
+  on the directionality and location of these aberrant activations. We here quantitatively
+  summarized relevant fMRI papers in the field using the anatomical likelihood estimation
+  (ALE) algorithm. Patients with ASD consistently showed hypoactivations in the striatum
+  across studies, mainly in the right putamen and accumbens. These regions are functionally
+  involved in the processing of rewards and are enrolled in extensive neural networks
+  involving limbic, cortical, thalamic and mesencephalic regions. The striatal hypo-activations
+  found in our ALE meta-analysis, which pooled over contrasts derived from the included
+  studies on reward-processing in ASD, highlight the role of the striatum as a key
+  neural correlate of impaired reward processing in autism. These changes were present
+  for studies using social and non-social stimuli alike. The involvement of these
+  regions in extensive networks associated with the processing of both positive and
+  negative emotion alike might hint at broader impairments of emotion processing in
+  the disorder.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2213-1582
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.nicl.2021.102700
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/434f805a-abeb-4628-bb68-061da6c60ebc
+schema_type: xyzri:XYZPublication
+title: The functional neural architecture of dysfunctional reward processing in autism

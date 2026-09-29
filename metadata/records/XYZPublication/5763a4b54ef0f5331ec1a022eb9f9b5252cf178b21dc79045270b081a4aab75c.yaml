@@ -1,0 +1,65 @@
+attributed_to:
+- object: xyzrins:persons/f012978a-c0be-46ae-ba97-1e6f2abd5c7f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: The Age-Dependent Association Between Vascular Risk Factors and Depressed
+    Mood
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'ObjectivesCumulative burden of vascular risk factors (VRFs) has been linked
+    to an increased risk of depressed mood. However, the role of age in this association
+    is still unclear. Here, we investigated whether VRF burden is associated with
+    levels and changes in depressed mood and whether these associations become stronger
+    or weaker from mid- to later life.MethodWe used longitudinal data from 5,689 participants
+    (52–89 years) of the English Longitudinal Study of Ageing. A composite score incorporated
+    the presence of 5 VRFs: hypertension, diabetes, smoking, obesity, and hypercholesterolemia.
+    Second-order latent growth models were used to test whether levels and changes
+    of depressed mood differed as a function of baseline VRF burden, and whether these
+    associations were moderated by age.ResultsBaseline VRF burden showed a small association
+    with higher levels of depressed mood (estimate = 0.081; 95% CI: 0.024, 0.138,
+    p = .005). This association varied with age, such that it was stronger in midlife
+    compared to later life (estimate = −0.007; 95% CI: −0.013, −0.002, p = .017).
+    There was no evidence that VRF burden was associated with changes in depressed
+    mood.DiscussionOur findings suggest that VRF burden in midlife, but less so in
+    later life, predicts individual differences in depressed mood. These findings
+    are consistent with reports on the importance of midlife VRFs and support the
+    idea that promotion of vascular health in this age group or earlier in life may
+    be critical to maintain mental health across adulthood.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'ObjectivesCumulative burden of vascular risk factors (VRFs) has been
+  linked to an increased risk of depressed mood. However, the role of age in this
+  association is still unclear. Here, we investigated whether VRF burden is associated
+  with levels and changes in depressed mood and whether these associations become
+  stronger or weaker from mid- to later life.MethodWe used longitudinal data from
+  5,689 participants (52–89 years) of the English Longitudinal Study of Ageing. A
+  composite score incorporated the presence of 5 VRFs: hypertension, diabetes, smoking,
+  obesity, and hypercholesterolemia. Second-order latent growth models were used to
+  test whether levels and changes of depressed mood differed as a function of baseline
+  VRF burden, and whether these associations were moderated by age.ResultsBaseline
+  VRF burden showed a small association with higher levels of depressed mood (estimate
+  = 0.081; 95% CI: 0.024, 0.138, p = .005). This association varied with age, such
+  that it was stronger in midlife compared to later life (estimate = −0.007; 95% CI:
+  −0.013, −0.002, p = .017). There was no evidence that VRF burden was associated
+  with changes in depressed mood.DiscussionOur findings suggest that VRF burden in
+  midlife, but less so in later life, predicts individual differences in depressed
+  mood. These findings are consistent with reports on the importance of midlife VRFs
+  and support the idea that promotion of vascular health in this age group or earlier
+  in life may be critical to maintain mental health across adulthood.'
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1079-5014
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/geronb/gbab063
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/ed1f4dbc-1da7-4d9a-9fa4-794685d67515
+schema_type: xyzri:XYZPublication
+title: The Age-Dependent Association Between Vascular Risk Factors and Depressed Mood

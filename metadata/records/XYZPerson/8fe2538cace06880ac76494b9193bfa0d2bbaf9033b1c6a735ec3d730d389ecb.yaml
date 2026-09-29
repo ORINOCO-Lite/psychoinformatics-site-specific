@@ -1,0 +1,17 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-07T11:28:59.007409'
+delegated_by:
+- object: xyzrins:organizations/ovgu
+  schema_type: dlthings:Delegation
+  started:
+    at_time: '2004'
+    schema_type: dlthings:Start
+family_name: Pollmann
+given_name: Stefan
+honorific_name_prefix: Prof. Dr.
+identifiers:
+- notation: 0000-0001-5840-5658
+  schema_type: xyzri:ORCID
+pid: orcid:0000-0001-5840-5658
+schema_type: xyzri:XYZPerson

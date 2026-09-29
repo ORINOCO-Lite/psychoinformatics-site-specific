@@ -1,0 +1,9 @@
+display_note: ISSN:2158-3188
+identifiers:
+- creator: ror:026ytr635
+  notation: 2158-3188
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:2158-3188
+schema_type: xyzri:XYZPublicationVenue
+title: Translational Psychiatry

@@ -1,0 +1,27 @@
+application_deadline: '2026-10-30'
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Hector Research Career Development Award
+- predicate: dcterms:description
+  schema_type: dlthings:AttributeSpecification
+  value: 'Prizes/ Awards  Career Status: Postdocs, Experienced Scientists  Mobility:
+    Staying  Next Call: October 30, 2025  Information Funding Organization: Hector
+    Fellow Academy<https://go.fzj.de/hector-career-development>  Information FZJ:
+    Hector Research Career Award<https://www.fz-juelich.de/en/research/research-fields/young-scientists/funding-calendar/prizes-awards/hector_research_career_development>
+    (Funding Calendar)  FZJ Contact: Dr. Katharina Klein, email: k.klein@fz-juelich.de<mailto:k.klein@fz-juelich.de>  '
+- predicate: dcterms:date
+  schema_type: dlthings:AttributeSpecification
+  value: '2026-10-30'
+characterized_by:
+- object: xyzrins:competition-types/16e38ddd-6323-4fc7-abad-398609bf8541
+  predicate: dcterms:type
+description: 'Prizes/ Awards  Career Status: Postdocs, Experienced Scientists  Mobility:
+  Staying  Next Call: October 30, 2025  Information Funding Organization: Hector Fellow
+  Academy<https://go.fzj.de/hector-career-development>  Information FZJ: Hector Research
+  Career Award<https://www.fz-juelich.de/en/research/research-fields/young-scientists/funding-calendar/prizes-awards/hector_research_career_development>
+  (Funding Calendar)  FZJ Contact: Dr. Katharina Klein, email: k.klein@fz-juelich.de<mailto:k.klein@fz-juelich.de>  '
+kind: xyzrins:competition-types/16e38ddd-6323-4fc7-abad-398609bf8541
+pid: xyzrins:competition/040000008200E00074C5B7101A82E00800000000B71FD974CD9CDB010000000000000000100000006067F28263F20D42B96E0C0EC7CBA64E
+schema_type: xyzri:XYZCompetition
+title: Hector Research Career Development Award

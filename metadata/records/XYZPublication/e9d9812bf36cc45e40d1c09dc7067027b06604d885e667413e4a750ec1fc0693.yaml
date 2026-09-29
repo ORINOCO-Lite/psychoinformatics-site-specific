@@ -1,0 +1,68 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Machine‐Learning Decomposition Identifies a Big Two Structure in Human Personality
+    with Distinct Neurocognitive Profiles
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Personality neuroscience has traditionally relied on the Big Five model to
+    investigate trait structure and its relationship to individual differences in
+    brain organization and life outcomes. However, existing theoretical frameworks
+    explain only part of the item-level covariance, raising questions about whether
+    alternative factor solutions might complement the canonical five-factor model.
+    Here, we applied an additive and part-based machine learning decomposition to
+    a mega-scale, global dataset (n = 1,336,840) to systematically evaluate trait
+    structure across factor resolutions. Beyond reproducing the canonical Big Five,
+    we identified a robust Big Two comprising Social Adaptation and Spontaneous Mentation.
+    Social Adaptation integrates covarying questionnaire items from Extraversion,
+    Agreeableness, and Conscientiousness, indexing externally oriented social functioning.
+    Spontaneous Mentation, in turn, aggregates Neuroticism with introspective facets
+    of Openness, capturing internally directed affective-cognitive exploration. Embedding
+    individuals in this Big Two space revealed structured manifolds along which neurocognitive
+    profiles aligned with distinct trait orientations. Importantly, this lower-dimensional
+    representation improved prediction of functional brain connectivity relative to
+    Big Five scores, while preserving comparable associations with cognition and mental
+    health. Together, these results establish a neurocognitively grounded Big Two
+    framework that complements the Big Five and offers an interpretable bridge between
+    personality structure, cognitive functioning, and psychopathology.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Personality neuroscience has traditionally relied on the Big Five model
+  to investigate trait structure and its relationship to individual differences in
+  brain organization and life outcomes. However, existing theoretical frameworks explain
+  only part of the item-level covariance, raising questions about whether alternative
+  factor solutions might complement the canonical five-factor model. Here, we applied
+  an additive and part-based machine learning decomposition to a mega-scale, global
+  dataset (n = 1,336,840) to systematically evaluate trait structure across factor
+  resolutions. Beyond reproducing the canonical Big Five, we identified a robust Big
+  Two comprising Social Adaptation and Spontaneous Mentation. Social Adaptation integrates
+  covarying questionnaire items from Extraversion, Agreeableness, and Conscientiousness,
+  indexing externally oriented social functioning. Spontaneous Mentation, in turn,
+  aggregates Neuroticism with introspective facets of Openness, capturing internally
+  directed affective-cognitive exploration. Embedding individuals in this Big Two
+  space revealed structured manifolds along which neurocognitive profiles aligned
+  with distinct trait orientations. Importantly, this lower-dimensional representation
+  improved prediction of functional brain connectivity relative to Big Five scores,
+  while preserving comparable associations with cognition and mental health. Together,
+  these results establish a neurocognitively grounded Big Two framework that complements
+  the Big Five and offers an interpretable bridge between personality structure, cognitive
+  functioning, and psychopathology.
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:2198-3844
+  at_time: '2026'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/advs.202509009
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/764bf92d-eb51-4684-9602-049b141fa6ac
+schema_type: xyzri:XYZPublication
+title: Machine‐Learning Decomposition Identifies a Big Two Structure in Human Personality
+  with Distinct Neurocognitive Profiles

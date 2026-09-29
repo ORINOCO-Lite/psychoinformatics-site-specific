@@ -1,0 +1,63 @@
+attributed_to:
+- object: xyzrins:persons/60189876-7d04-48db-9586-9171fae8ee2b
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Biomarkers Derived from Alterations in Overlapping Community Structure of
+    Resting-state Brain Functional Networks for Detecting Alzheimer’s Disease
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Recent studies show that overlapping community structure is an important
+    feature of the brain functional network. However, alterations in such overlapping
+    community structure in Alzheimer’s disease (AD) patients have not been examined
+    yet. In this study, we investigate the overlapping community structure in AD by
+    using resting-state functional magnetic resonance imaging (rs-fMRI) data. The
+    collective sparse symmetric non-negative matrix factorization (cssNMF) is adopted
+    to detect the overlapping community structure. Experimental results on 28 AD patients
+    and 32 normal controls (NCs) from the ADNI2 dataset show that the two groups have
+    remarkable differences in terms of the optimal number of communities, the hierarchy
+    of communities detected at different scales, network functional segregation, and
+    nodal functional diversity. In particular, the frontal-parietal and basal ganglia
+    networks exhibit significant differences between the two groups. A machine learning
+    framework proposed in this paper for AD detection achieved an accuracy of 76.7%
+    when using the detected community strengths of the frontal-parietal and basal
+    ganglia networks only as input features. These findings provide novel insights
+    into the understanding of pathological changes in the brain functional network
+    organization of AD and show the potential of the community structure-related features
+    for AD detection.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Recent studies show that overlapping community structure is an important
+  feature of the brain functional network. However, alterations in such overlapping
+  community structure in Alzheimer’s disease (AD) patients have not been examined
+  yet. In this study, we investigate the overlapping community structure in AD by
+  using resting-state functional magnetic resonance imaging (rs-fMRI) data. The collective
+  sparse symmetric non-negative matrix factorization (cssNMF) is adopted to detect
+  the overlapping community structure. Experimental results on 28 AD patients and
+  32 normal controls (NCs) from the ADNI2 dataset show that the two groups have remarkable
+  differences in terms of the optimal number of communities, the hierarchy of communities
+  detected at different scales, network functional segregation, and nodal functional
+  diversity. In particular, the frontal-parietal and basal ganglia networks exhibit
+  significant differences between the two groups. A machine learning framework proposed
+  in this paper for AD detection achieved an accuracy of 76.7% when using the detected
+  community strengths of the frontal-parietal and basal ganglia networks only as input
+  features. These findings provide novel insights into the understanding of pathological
+  changes in the brain functional network organization of AD and show the potential
+  of the community structure-related features for AD detection.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0306-4522
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroscience.2021.12.031
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/28525b12-3d0f-4f85-ab47-a2bd1e3bce06
+schema_type: xyzri:XYZPublication
+title: Biomarkers Derived from Alterations in Overlapping Community Structure of Resting-state
+  Brain Functional Networks for Detecting Alzheimer’s Disease

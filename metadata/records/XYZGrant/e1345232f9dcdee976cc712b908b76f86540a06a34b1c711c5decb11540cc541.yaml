@@ -1,0 +1,22 @@
+about:
+- xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+attributed_to:
+- object: xyzrins:persons/3764fca4-0337-4395-a553-9be5d479df80
+  schema_type: dlthings:Attribution
+- object: ror:04pz7b180
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+identifiers:
+- creator: xyzrins:organizations/fzj
+  description: PSP Element Jülich
+  notation: D.B.002380
+  schema_type: dlthings:Identifier
+- creator: ror:04pz7b180
+  notation: 01GP2420
+  schema_type: dlthings:Identifier
+pid: xyzrins:grants/9a16e66c-c8c0-4321-9932-5f1e68a8a1d9
+schema_type: xyzri:XYZGrant
+short_name: BRAINTREE
+title: Gehirnalterermittlung- Diagnoseverfahren oder Neukonzeptionierung von Alter
+  – Medizinische und politische Ethik der Brain Age Prediction

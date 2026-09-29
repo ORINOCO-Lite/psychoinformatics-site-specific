@@ -1,0 +1,74 @@
+attributed_to:
+- object: xyzrins:persons/1f7470c6-4dd9-494b-94b9-e4f88e377185
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: A systematic comparison of VBM pipelines and their application to age prediction
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Voxel-based morphometry (VBM) analysis is commonly used for localized quantification
+    of gray matter volume (GMV). Several alternatives exist to implement a VBM pipeline.
+    However, how these alternatives compare and their utility in applications, such
+    as the estimation of aging effects, remain largely unclear. This leaves researchers
+    wondering which VBM pipeline they should use for their project. In this study,
+    we took a user-centric perspective and systematically compared five VBM pipelines,
+    together with registration to either a general or a study-specific template, utilizing
+    three large datasets (n each). Considering the known effect of aging on GMV, we
+    first compared the pipelines in their ability of individual-level age prediction
+    and found markedly varied results. To examine whether these results arise from
+    systematic differences between the pipelines, we classified them based on their
+    GMVs, resulting in near-perfect accuracy. To gain deeper insights, we examined
+    the impact of different VBM steps using the region-wise similarity between pipelines.
+    The results revealed marked differences, largely driven by segmentation and registration
+    steps. We observed large variability in subject-identification accuracies, highlighting
+    the interpipeline differences in individual-level quantification of GMV. As a
+    biologically meaningful criterion we correlated regional GMV with age. The results
+    were in line with the age-prediction analysis, and two pipelines, CAT and the
+    combination of fMRIPrep for tissue characterization with FSL for registration,
+    reflected age information better.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Voxel-based morphometry (VBM) analysis is commonly used for localized
+  quantification of gray matter volume (GMV). Several alternatives exist to implement
+  a VBM pipeline. However, how these alternatives compare and their utility in applications,
+  such as the estimation of aging effects, remain largely unclear. This leaves researchers
+  wondering which VBM pipeline they should use for their project. In this study, we
+  took a user-centric perspective and systematically compared five VBM pipelines,
+  together with registration to either a general or a study-specific template, utilizing
+  three large datasets (n each). Considering the known effect of aging on GMV, we
+  first compared the pipelines in their ability of individual-level age prediction
+  and found markedly varied results. To examine whether these results arise from systematic
+  differences between the pipelines, we classified them based on their GMVs, resulting
+  in near-perfect accuracy. To gain deeper insights, we examined the impact of different
+  VBM steps using the region-wise similarity between pipelines. The results revealed
+  marked differences, largely driven by segmentation and registration steps. We observed
+  large variability in subject-identification accuracies, highlighting the interpipeline
+  differences in individual-level quantification of GMV. As a biologically meaningful
+  criterion we correlated regional GMV with age. The results were in line with the
+  age-prediction analysis, and two pipelines, CAT and the combination of fMRIPrep
+  for tissue characterization with FSL for registration, reflected age information
+  better.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2023.120292
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/89982c46-9ef2-4c25-b2be-1b0a25b79ff7
+schema_type: xyzri:XYZPublication
+title: A systematic comparison of VBM pipelines and their application to age prediction

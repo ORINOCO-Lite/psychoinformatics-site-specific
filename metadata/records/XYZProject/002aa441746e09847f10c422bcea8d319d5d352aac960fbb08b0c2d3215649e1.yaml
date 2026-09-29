@@ -1,0 +1,34 @@
+associated_with:
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  roles:
+  - obo:NCIT_C19924
+  schema_type: dlthings:Association
+description: The research project aims to investigate the organisation of neurochemistry
+  in the brains of humans and macaques by characterising neurotransmitter receptor
+  systems. The focus is on identifying potential evolutionary trade-offs, which are
+  to be discovered using a specific dimensionality reduction technique called ParTI.
+  The aim is to gain insights into neurological and psychiatric disorders and to validate
+  these findings using multimodal imaging, behavioural data and gene expression data,
+  whilst also carrying out interspecies comparisons between humans and macaques to
+  identify evolutionary differences.
+ended:
+  at_time: '2027-02-28'
+  schema_type: dlthings:End
+influenced_by:
+- ended:
+    at_time: '2027-02-28'
+    schema_type: dlthings:End
+  object: xyzrins:grants/f83f2dce-0de3-4660-8b75-bb4bc3ca6977
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2024-03-01'
+    schema_type: dlthings:Start
+pid: xyzrins:projects/20e67c9d-3754-4079-bd73-a16af0f4b2d9
+schema_type: xyzri:XYZProject
+short_name: PETParTI
+started:
+  at_time: '2024-03-01'
+  schema_type: dlthings:Start
+title: PETParTI - Evolutionary Analysis of Human Neurochemistry

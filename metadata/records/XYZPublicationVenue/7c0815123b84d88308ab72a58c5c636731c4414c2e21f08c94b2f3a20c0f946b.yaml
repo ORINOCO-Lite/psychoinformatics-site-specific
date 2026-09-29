@@ -1,0 +1,9 @@
+display_note: ISSN:0096-1523
+identifiers:
+- creator: ror:026ytr635
+  notation: 0096-1523
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:0096-1523
+schema_type: xyzri:XYZPublicationVenue
+title: Journal Of Experimental Psychology / Human Perception And Performance

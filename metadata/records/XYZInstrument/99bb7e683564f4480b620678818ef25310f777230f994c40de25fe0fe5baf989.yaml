@@ -1,0 +1,31 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-19T08:54:37.924995'
+description: 'datalad-container is a DataLad extension that integrates containerized
+  execution into DataLad workflows. Its purpose:
+
+
+  - Let you register, version, and manage container images (Docker, Singularity/Apptainer,
+  etc.) alongside dataset content.
+
+  - Enable transparent execution of commands inside containers via DataLad’s run/rerun
+  commands so processing is recorded with provenance (which container, inputs, outputs,
+  command).
+
+  - Provide commands to wrap container execution, discover available containers, and
+  record container metadata in the dataset.
+
+  - Improve computational reproducibility by coupling analysis code, data, and the
+  exact container runtime used to run analyses.
+
+
+  Installable as a separate Python package and used to make DataLad-managed analyses
+  reproducible and portable.'
+generated_by:
+- at_time: '2018-05-19'
+  object: xyzrins:projects/datalad
+  schema_type: dlthings:Generation
+kind: obo:IAO_0000010
+name: datalad-container
+pid: xyzrins:instruments/bb72fbdb-8d22-4756-a55f-313a7a6a9626
+schema_type: xyzri:XYZInstrument

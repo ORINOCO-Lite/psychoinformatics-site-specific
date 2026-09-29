@@ -1,0 +1,80 @@
+attributed_to:
+- object: xyzrins:persons/edcdb20e-b1be-4fc8-b93a-6fc4f2cebc5d
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/086e45ca-472d-4419-ad35-9082b142c638
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/3cf923ff-969d-4224-bb7b-9f319f0b1564
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Deep learning-based 3D reconstruction of dentate nuclei in Friedreich’s ataxia
+    from T2*weighted MR images
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Dentate nucleus (DN) degeneration is a key neuropathological feature in Friedreich’s
+    ataxia (FRDA), and its accurate quantification is critical for understanding disease
+    progression. However, its visualization and volumetry require iron-sensitive imaging
+    techniques and time-consuming segmentation procedures, posing challenges for conventional
+    ML approaches due to small datasets typical of rare diseases. We present a transfer
+    learning–based machine learning pipeline for automated DN segmentation that directly
+    uses standard T2*-weighted Magnetic Resonance Imaging (MRI), which highlights
+    the DN without additional processing, and is designed to perform robustly with
+    limited annotated data. Using 38 manually labeled subjects (18 FRDA, 20 controls),
+    the model was validated via five-fold cross-validation and an independent hold-out
+    test set, achieving Dice scores of 0.81–0.87 and outperforming classical atlas-based
+    methods. Pretraining improved performance by ∼10% in patients and >5% in controls.
+    Applied to 181 longitudinal scans from 33 FRDA patients and 33 controls, the model
+    revealed significantly reduced DN volumes in FRDA, with reductions correlating
+    with disease duration and clinical severity over time. Our approach provides a
+    scalable and reproducible segmentation framework, requiring minimal annotated
+    data and no preprocessing, while demonstrating robust performance across cross-validation
+    and independent testing. Additionally, it enables the first longitudinal volumetric
+    analysis of DN in FRDA using standard T2*-weighted MRI, demonstrating its practical
+    utility for monitoring neurodegenerative changes. Overall, this work illustrates
+    how transfer learning can overcome data scarcity in rare diseases and provides
+    a robust methodology for automated MRI segmentation in both research and clinical
+    applications.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Dentate nucleus (DN) degeneration is a key neuropathological feature
+  in Friedreich’s ataxia (FRDA), and its accurate quantification is critical for understanding
+  disease progression. However, its visualization and volumetry require iron-sensitive
+  imaging techniques and time-consuming segmentation procedures, posing challenges
+  for conventional ML approaches due to small datasets typical of rare diseases. We
+  present a transfer learning–based machine learning pipeline for automated DN segmentation
+  that directly uses standard T2*-weighted Magnetic Resonance Imaging (MRI), which
+  highlights the DN without additional processing, and is designed to perform robustly
+  with limited annotated data. Using 38 manually labeled subjects (18 FRDA, 20 controls),
+  the model was validated via five-fold cross-validation and an independent hold-out
+  test set, achieving Dice scores of 0.81–0.87 and outperforming classical atlas-based
+  methods. Pretraining improved performance by ∼10% in patients and >5% in controls.
+  Applied to 181 longitudinal scans from 33 FRDA patients and 33 controls, the model
+  revealed significantly reduced DN volumes in FRDA, with reductions correlating with
+  disease duration and clinical severity over time. Our approach provides a scalable
+  and reproducible segmentation framework, requiring minimal annotated data and no
+  preprocessing, while demonstrating robust performance across cross-validation and
+  independent testing. Additionally, it enables the first longitudinal volumetric
+  analysis of DN in FRDA using standard T2*-weighted MRI, demonstrating its practical
+  utility for monitoring neurodegenerative changes. Overall, this work illustrates
+  how transfer learning can overcome data scarcity in rare diseases and provides a
+  robust methodology for automated MRI segmentation in both research and clinical
+  applications.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2666-8270
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.mlwa.2025.100790
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/02c748d8-35a7-479c-9250-d12875183204
+schema_type: xyzri:XYZPublication
+title: Deep learning-based 3D reconstruction of dentate nuclei in Friedreich’s ataxia
+  from T2*weighted MR images

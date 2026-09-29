@@ -1,0 +1,64 @@
+attributed_to:
+- object: xyzrins:persons/ced8fa1d-c7c6-4f66-b569-a9d277347227
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Discriminating Paradoxical and Psychophysiological Insomnia Based on Structural
+    and Functional Brain Images: A Preliminary Machine Learning Study'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Insomnia disorder (ID) is a prevalent mental illness. Several behavioral
+    and neuroimaging studies suggested that ID is a heterogenous condition with various
+    subtypes. However, neurobiological alterations in different subtypes of ID are
+    poorly understood. We aimed to assess whether unimodal and multimodal whole-brain
+    neuroimaging measurements can discriminate two commonly described ID subtypes
+    (i.e., paradoxical and psychophysiological insomnia) from each other and healthy
+    subjects. We obtained T1-weighted images and resting-state fMRI from 34 patients
+    with ID and 48 healthy controls. The outcome measures were grey matter volume,
+    cortical thickness, amplitude of low-frequency fluctuation, degree centrality,
+    and regional homogeneity. Subsequently, we applied support vector machines to
+    classify subjects via unimodal and multimodal measures. The results of the multimodal
+    classification were superior to those of unimodal approaches, i.e., we achieved
+    81% accuracy in separating psychophysiological vs. control, 87% for paradoxical
+    vs. control, and 89% for paradoxical vs. psychophysiological insomnia. This preliminary
+    study provides evidence that structural and functional brain data can help to
+    distinguish two common subtypes of ID from each other and healthy subjects. These
+    initial findings may stimulate further research to identify the underlying mechanism
+    of each subtype and develop personalized treatments for ID in the future.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Insomnia disorder (ID) is a prevalent mental illness. Several behavioral
+  and neuroimaging studies suggested that ID is a heterogenous condition with various
+  subtypes. However, neurobiological alterations in different subtypes of ID are poorly
+  understood. We aimed to assess whether unimodal and multimodal whole-brain neuroimaging
+  measurements can discriminate two commonly described ID subtypes (i.e., paradoxical
+  and psychophysiological insomnia) from each other and healthy subjects. We obtained
+  T1-weighted images and resting-state fMRI from 34 patients with ID and 48 healthy
+  controls. The outcome measures were grey matter volume, cortical thickness, amplitude
+  of low-frequency fluctuation, degree centrality, and regional homogeneity. Subsequently,
+  we applied support vector machines to classify subjects via unimodal and multimodal
+  measures. The results of the multimodal classification were superior to those of
+  unimodal approaches, i.e., we achieved 81% accuracy in separating psychophysiological
+  vs. control, 87% for paradoxical vs. control, and 89% for paradoxical vs. psychophysiological
+  insomnia. This preliminary study provides evidence that structural and functional
+  brain data can help to distinguish two common subtypes of ID from each other and
+  healthy subjects. These initial findings may stimulate further research to identify
+  the underlying mechanism of each subtype and develop personalized treatments for
+  ID in the future.
+generated_by:
+- object: xyzrins:projects/64777d99-26f6-441c-9849-ba8018571de8
+  schema_type: dlthings:Generation
+- at_location: ISSN:2076-3425
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3390/brainsci13040672
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/46fd8809-79b0-4e11-9f78-e4a1b67a6c7a
+schema_type: xyzri:XYZPublication
+title: 'Discriminating Paradoxical and Psychophysiological Insomnia Based on Structural
+  and Functional Brain Images: A Preliminary Machine Learning Study'

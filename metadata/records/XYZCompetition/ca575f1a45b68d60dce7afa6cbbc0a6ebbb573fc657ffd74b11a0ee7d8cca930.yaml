@@ -1,0 +1,24 @@
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-03-24T12:56:11.724998'
+application_deadline: '2026-06-26T23:59:00'
+attributes:
+- predicate: rdfs:seeAlso
+  schema_type: dlthings:AttributeSpecification
+  value: https://helmholtz-imaging.de/news-news/news/helmholtz-imaging-project-call-2026-now-open
+description: 'Helmholtz Imaging invites researchers across the Helmholtz Association
+  to submit proposals for the Helmholtz Imaging Project Call 2026. The call supports
+  collaborative, cross-disciplinary research projects that advance imaging science
+  and strengthen the connection between imaging and information & data science.
+
+
+  Researchers from at least two Helmholtz Centers, with optional participation of
+  external partners, are encouraged to join forces and develop innovative solutions
+  along the imaging pipeline – from data acquisition to knowledge extraction.
+
+
+  Proposals can be submitted via the Helmholtz Imaging project portal: https://projects.helmholtz-imaging.de/site/index.php'
+kind: xyzrins:competition-types/4e49ac7d-d6da-4131-806b-6425491e26fd
+pid: xyzrins:competitions/36b9dd97-061a-4be5-ad90-3b98d0be2c48
+schema_type: xyzri:XYZCompetition
+title: Helmholtz Imaging Call 2026

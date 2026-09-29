@@ -1,0 +1,15 @@
+description: As part of its Programme-oriented Funding (PoF), the Helmholtz Association
+  does not invest its resources in individual institutions, but rather in cross-centre
+  research programmes that address the major societal challenges of our time. These
+  programmes and their scientific questions are divided into thematical units ("Topics").
+  The fifth period of programme-oriented funding (PoF V) is running from 2028-2034.
+ended:
+  at_time: '2034-12-31'
+  schema_type: dlthings:End
+pid: xyzrins:projects/9c5e518c-c25c-4bc6-a85f-ade51f8308cd
+schema_type: xyzri:XYZProject
+short_name: PoF-V
+started:
+  at_time: '2028-01-01'
+  schema_type: dlthings:Start
+title: Helmholtz PoF V

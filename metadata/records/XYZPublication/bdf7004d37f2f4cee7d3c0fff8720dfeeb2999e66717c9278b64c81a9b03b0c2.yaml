@@ -1,0 +1,80 @@
+attributed_to:
+- object: xyzrins:persons/bd71e3ee-bbca-4c0d-be74-1fc2c3f61cee
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Künstliche Intelligenz in der Medizin
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Anwendungen künstlicher Intelligenz (KI) halten Einzug inunseren Alltag,
+    seien es nun automatisierte Entscheidungenim Bereich der Finanzdienstleistungen,
+    die Nutzung vonGesichtserkennungsprogrammen durch Sicherheitsbehördenoder autonomes
+    Fahren. Im Bereich der Medizin geht es umdie Optimierung von Diagnose und Therapie,
+    die Nutzungvon Gesundheits-Apps verschiedenster Couleur, die Bereit-stellung von
+    Instrumenten der personalisierten Medizin, dieMöglichkeiten roboterassistierter
+    Chirurgie, ein optimiertesKrankenhausdatenmanagement, oder die Entwicklung undBereitstellung
+    intelligenter Medizinprodukte. Aber handeltes sich bei diesen Konstellationen
+    überhaupt um Beispie-le künstlicher Intelligenz? Und was bedeutet „Intelligenz“bzw.
+    welche Bedingungen müssen erfüllt sein, um von „In-telligenz“ reden zu können?
+    Diese Fragen werden je nachKontext und disziplinärer Verankerung äußerst unterschied-lich
+    beantwortet, sodass sich im Ergebnis ein denkbar weit-reichender und facettenreicher
+    Diskurs zeigt. Unumstrittenist hingegen der Befund, dass die Qualität und die
+    Quantitätder unter KI firmierenden Anwendungen zahlreiche rechtli-che, ethische,
+    soziale sowie auch naturwissenschaftliche Fra-gen aufwerfen, die bislang einer
+    umfassenden Behandlungund befriedigender Lösungen harren.Während das Recht bei
+    der Technikregulierung prakti-schen Entwicklungen meist hinterherhinkt, kommt
+    es imBereich der KI zu einem Paradigmenwechsel: Ende April2021 hat die Europäische
+    Kommission einen Entwurf ei-ner „Verordnung zur Festlegung harmonisierter Vorschrif-ten
+    für künstliche Intelligenz (Gesetz über künstliche In-telligenz) und zur Änderung
+    bestimmter Rechtsakte derUnion“2 vorgelegt (im Folgenden: VO-E). Die folgendenAusführungen
+    stellen den diesem Entwurf zugrunde lie-genden Regelungsansatz sowie die sich
+    daraus ergebendenzentralen Definitionen, Pflichtenkreise und Mechanismenvor. Im
+    Interesse einer ganzheitlichen Betrachtung werdendarüber hinaus ebenso ethische,
+    medizinisch-naturwissen-schaftliche und gesellschaftliche Betrachtungen angestellt.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Anwendungen künstlicher Intelligenz (KI) halten Einzug inunseren Alltag,
+  seien es nun automatisierte Entscheidungenim Bereich der Finanzdienstleistungen,
+  die Nutzung vonGesichtserkennungsprogrammen durch Sicherheitsbehördenoder autonomes
+  Fahren. Im Bereich der Medizin geht es umdie Optimierung von Diagnose und Therapie,
+  die Nutzungvon Gesundheits-Apps verschiedenster Couleur, die Bereit-stellung von
+  Instrumenten der personalisierten Medizin, dieMöglichkeiten roboterassistierter
+  Chirurgie, ein optimiertesKrankenhausdatenmanagement, oder die Entwicklung undBereitstellung
+  intelligenter Medizinprodukte. Aber handeltes sich bei diesen Konstellationen überhaupt
+  um Beispie-le künstlicher Intelligenz? Und was bedeutet „Intelligenz“bzw. welche
+  Bedingungen müssen erfüllt sein, um von „In-telligenz“ reden zu können? Diese Fragen
+  werden je nachKontext und disziplinärer Verankerung äußerst unterschied-lich beantwortet,
+  sodass sich im Ergebnis ein denkbar weit-reichender und facettenreicher Diskurs
+  zeigt. Unumstrittenist hingegen der Befund, dass die Qualität und die Quantitätder
+  unter KI firmierenden Anwendungen zahlreiche rechtli-che, ethische, soziale sowie
+  auch naturwissenschaftliche Fra-gen aufwerfen, die bislang einer umfassenden Behandlungund
+  befriedigender Lösungen harren.Während das Recht bei der Technikregulierung prakti-schen
+  Entwicklungen meist hinterherhinkt, kommt es imBereich der KI zu einem Paradigmenwechsel:
+  Ende April2021 hat die Europäische Kommission einen Entwurf ei-ner „Verordnung zur
+  Festlegung harmonisierter Vorschrif-ten für künstliche Intelligenz (Gesetz über
+  künstliche In-telligenz) und zur Änderung bestimmter Rechtsakte derUnion“2 vorgelegt
+  (im Folgenden: VO-E). Die folgendenAusführungen stellen den diesem Entwurf zugrunde
+  lie-genden Regelungsansatz sowie die sich daraus ergebendenzentralen Definitionen,
+  Pflichtenkreise und Mechanismenvor. Im Interesse einer ganzheitlichen Betrachtung
+  werdendarüber hinaus ebenso ethische, medizinisch-naturwissen-schaftliche und gesellschaftliche
+  Betrachtungen angestellt.'
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:0723-8886
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00350-023-6432-x
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8a002dec-7a8e-4520-853d-edeaaa02f0c2
+schema_type: xyzri:XYZPublication
+title: Künstliche Intelligenz in der Medizin

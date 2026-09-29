@@ -1,0 +1,32 @@
+attributed_to:
+- object: xyzrins:persons/e8df09db-5dff-44e6-a844-ad838c050865
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Corrigendum: JTrack: A Digital Biomarker Platform for Remote Monitoring
+    of Daily-Life Behaviour in Health and Disease'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:2296-2565
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3389/fpubh.2022.893531
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/a24b239d-e66f-4006-a107-7a0a1b3da98b
+schema_type: xyzri:XYZPublication
+title: 'Corrigendum: JTrack: A Digital Biomarker Platform for Remote Monitoring of
+  Daily-Life Behaviour in Health and Disease'

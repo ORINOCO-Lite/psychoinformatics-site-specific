@@ -1,0 +1,5 @@
+description: A person, family, or organization to whom the correspondence in a work
+  is addressed
+display_label: Addressee
+pid: marcrel:rcp
+schema_type: xyzri:XYZAgentRole

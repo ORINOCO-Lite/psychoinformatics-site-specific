@@ -1,0 +1,56 @@
+attributed_to:
+- object: xyzrins:persons/c5630bae-5817-4599-a579-aa4fcadec6e9
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: The challenges and prospects of brain-based prediction of behaviour
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Relating individual brain patterns to behaviour is fundamental in systemneuroscience.
+    Recently, the predictive modelling approach has becomeincreasingly popular, largely
+    due to the recent availability of large opendatasets and access to computational
+    resources. This means that we can usemachine learning models and interindividual
+    differences at the brain levelrepresented by neuroimaging features to predict
+    interindividual differencesin behavioural measures. By doing so, we could identify
+    biomarkers andneural correlates in a data-driven fashion. Nevertheless, this budding
+    fieldof neuroimaging-based predictive modelling is facing issues that may limitits
+    potential applications. Here we review these existing challenges, as wellas those
+    that we anticipate as the field develops. We focus on the impactsof these challenges
+    on brain-based predictions. We suggest potentialsolutions to address the resolvable
+    challenges, while keeping in mind thatsome general and conceptual limitations
+    may also underlie the predictivemodelling approach.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Relating individual brain patterns to behaviour is fundamental in systemneuroscience.
+  Recently, the predictive modelling approach has becomeincreasingly popular, largely
+  due to the recent availability of large opendatasets and access to computational
+  resources. This means that we can usemachine learning models and interindividual
+  differences at the brain levelrepresented by neuroimaging features to predict interindividual
+  differencesin behavioural measures. By doing so, we could identify biomarkers andneural
+  correlates in a data-driven fashion. Nevertheless, this budding fieldof neuroimaging-based
+  predictive modelling is facing issues that may limitits potential applications.
+  Here we review these existing challenges, as wellas those that we anticipate as
+  the field develops. We focus on the impactsof these challenges on brain-based predictions.
+  We suggest potentialsolutions to address the resolvable challenges, while keeping
+  in mind thatsome general and conceptual limitations may also underlie the predictivemodelling
+  approach.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2397-3374
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s41562-023-01670-1
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/4b8f4978-abc6-47f9-b8e4-af9dcbac0753
+schema_type: xyzri:XYZPublication
+title: The challenges and prospects of brain-based prediction of behaviour

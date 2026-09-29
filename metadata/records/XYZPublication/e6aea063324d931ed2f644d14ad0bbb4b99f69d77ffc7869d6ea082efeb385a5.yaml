@@ -1,0 +1,40 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Code competencies for better science: Recommendations for the German academic
+    system'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Software competencies - as a user, developer, or proponent - become indispensible
+    in today's digital scientific conduct. Yet, these competencies are not universally
+    fostered in the German academic system. In a workshop hosted by the Volkswagen
+    Stiftung in November 2024, 33 participants from different scientific fields and
+    positions developed actionable recommendations for different target groups in
+    or around academia to improve digital competency in science. The resulting white
+    paper was published in German at doi.org/10.5281/zenodo.14273366. This poster
+    is a visual presentation of the recommendations in this whitepaper and was prepared
+    for the InformatikFestival 2025.  The sources for this poster (as an inkscape
+    svg) can be found at https://hub.psychoinformatics.de/adina/FSKompPoster.
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+description: Software competencies - as a user, developer, or proponent - become indispensible
+  in today's digital scientific conduct. Yet, these competencies are not universally
+  fostered in the German academic system. In a workshop hosted by the Volkswagen Stiftung
+  in November 2024, 33 participants from different scientific fields and positions
+  developed actionable recommendations for different target groups in or around academia
+  to improve digital competency in science. The resulting white paper was published
+  in German at doi.org/10.5281/zenodo.14273366. This poster is a visual presentation
+  of the recommendations in this whitepaper and was prepared for the InformatikFestival
+  2025.  The sources for this poster (as an inkscape svg) can be found at https://hub.psychoinformatics.de/adina/FSKompPoster.
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/ZENODO.16608434
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/c3d0db7d-54c4-48db-89d2-f17966931b68
+schema_type: xyzri:XYZPublication
+title: 'Code competencies for better science: Recommendations for the German academic
+  system'

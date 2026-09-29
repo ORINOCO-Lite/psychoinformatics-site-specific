@@ -1,0 +1,82 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Disentangling the influences of pre- and postnatal periods on human cortical
+    microstructure
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: During late gestation and early postnatal development a combination of intrinsic
+    and extrinsic factors drive the maturation of the human cortex. This process is
+    regionally heterogeneous, with cortical areas developing at different paces and
+    trajectories. Leveraging submillimetre T1-weighted/T2w-weighted (T1w/T2w) magnetic
+    resonance imaging (MRI) from pre- and full-term neonates (n = 599, 0-7 weeks),
+    we sampled intracortical microstructure profiles across the cortex and characterised
+    the profiles’ shapes according to their central moments. We found that gestational
+    age at birth dominated the effects on early cortical development, with significant,
+    global increases in microstructural density, increasing intracortical homogeneity
+    and a bimodal change of the microstructural balance between superficial and deeper
+    cortical layers. On the other hand, weeks since birth (i.e. postnatal age) exhibited
+    different effects on microstructure, with density increasing at a slower pace,
+    increasing intracortical heterogeneity, and intracortical balance only shifting
+    towards deeper layers in posterior temporal, occipital, medial parietal areas
+    and some prefrontal areas. These effects align with low spatial-frequency geometric
+    eigenmodes of the human cortex, specifically the anterior-posterior, superior-inferior
+    and central-polar axes. Our findings demonstrate that separating prenatal from
+    postnatal influences, and analysing intracortical profiles rather than macroscale
+    features, provides finer-grained insights into how human cortical microstructure
+    changes during perinatal development and lays the groundwork for investigating
+    the biological underpinnings that govern normative cortical maturation.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: During late gestation and early postnatal development a combination of
+  intrinsic and extrinsic factors drive the maturation of the human cortex. This process
+  is regionally heterogeneous, with cortical areas developing at different paces and
+  trajectories. Leveraging submillimetre T1-weighted/T2w-weighted (T1w/T2w) magnetic
+  resonance imaging (MRI) from pre- and full-term neonates (n = 599, 0-7 weeks), we
+  sampled intracortical microstructure profiles across the cortex and characterised
+  the profiles’ shapes according to their central moments. We found that gestational
+  age at birth dominated the effects on early cortical development, with significant,
+  global increases in microstructural density, increasing intracortical homogeneity
+  and a bimodal change of the microstructural balance between superficial and deeper
+  cortical layers. On the other hand, weeks since birth (i.e. postnatal age) exhibited
+  different effects on microstructure, with density increasing at a slower pace, increasing
+  intracortical heterogeneity, and intracortical balance only shifting towards deeper
+  layers in posterior temporal, occipital, medial parietal areas and some prefrontal
+  areas. These effects align with low spatial-frequency geometric eigenmodes of the
+  human cortex, specifically the anterior-posterior, superior-inferior and central-polar
+  axes. Our findings demonstrate that separating prenatal from postnatal influences,
+  and analysing intracortical profiles rather than macroscale features, provides finer-grained
+  insights into how human cortical microstructure changes during perinatal development
+  and lays the groundwork for investigating the biological underpinnings that govern
+  normative cortical maturation.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1101/2025.08.12.669812
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2027-09-30'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/003e63be-a64b-4d72-a912-392b40710a48
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2024-10-01'
+    schema_type: dlthings:Start
+kind: bibo:Manuscript
+pid: xyzrins:publications/d536dacb-b8bb-471b-baa3-5616617c4643
+schema_type: xyzri:XYZPublication
+title: Disentangling the influences of pre- and postnatal periods on human cortical
+  microstructure

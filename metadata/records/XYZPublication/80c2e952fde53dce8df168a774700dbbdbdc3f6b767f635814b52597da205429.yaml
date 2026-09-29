@@ -1,0 +1,94 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/c6d47fbc-8b3c-46d1-9558-1f3b94ec9141
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Exploring dynamical whole-brain models in high-dimensional parameter spaces
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Personalized modeling of the resting-state brain activity implies the usage
+    of dynamical whole-brain models with high-dimensional model parameter spaces.
+    However, the practical benefits and mathematical challenges originating from such
+    approaches have not been thoroughly documented, leaving the question of the value
+    and utility of high-dimensional approaches unanswered. Studying a whole-brain
+    model of coupled phase oscillators, we proceeded from low-dimensional scenarios
+    featuring 2–3 global model parameters only to high-dimensional cases, where we
+    additionally equipped every brain region with a specific local model parameter.
+    To enable the parameter optimizations for the high-dimensional model fitting to
+    empirical data, we applied two dedicated mathematical optimization algorithms
+    (Bayesian Optimization, Covariance Matrix Adaptation Evolution Strategy). We thereby
+    optimized up to 103 parameters simultaneously with the aim to maximize the correlation
+    between simulated and empirical functional connectivity separately for 272 subjects.
+    The obtained model parameters demonstrated increased variability within subjects
+    and reduced reliability across repeated optimization runs in high-dimensional
+    spaces. Nevertheless, the quality of the model validation (goodness-of-fit, GoF)
+    improved considerably and remained very stable and reliable together with the
+    simulated functional connectivity. Applying the modeling results to phenotypical
+    data, we found significantly higher prediction accuracies for sex classification
+    when the GoF or coupling parameter values optimized in the high-dimensional spaces
+    were considered as features. Our results elucidate the model fitting in high-dimensional
+    parameter spaces and can contribute to an improved dynamical brain modeling as
+    well as its application to the frameworks of inter-individual variability and
+    brain-behavior relationships.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Personalized modeling of the resting-state brain activity implies the
+  usage of dynamical whole-brain models with high-dimensional model parameter spaces.
+  However, the practical benefits and mathematical challenges originating from such
+  approaches have not been thoroughly documented, leaving the question of the value
+  and utility of high-dimensional approaches unanswered. Studying a whole-brain model
+  of coupled phase oscillators, we proceeded from low-dimensional scenarios featuring
+  2–3 global model parameters only to high-dimensional cases, where we additionally
+  equipped every brain region with a specific local model parameter. To enable the
+  parameter optimizations for the high-dimensional model fitting to empirical data,
+  we applied two dedicated mathematical optimization algorithms (Bayesian Optimization,
+  Covariance Matrix Adaptation Evolution Strategy). We thereby optimized up to 103
+  parameters simultaneously with the aim to maximize the correlation between simulated
+  and empirical functional connectivity separately for 272 subjects. The obtained
+  model parameters demonstrated increased variability within subjects and reduced
+  reliability across repeated optimization runs in high-dimensional spaces. Nevertheless,
+  the quality of the model validation (goodness-of-fit, GoF) improved considerably
+  and remained very stable and reliable together with the simulated functional connectivity.
+  Applying the modeling results to phenotypical data, we found significantly higher
+  prediction accuracies for sex classification when the GoF or coupling parameter
+  values optimized in the high-dimensional spaces were considered as features. Our
+  results elucidate the model fitting in high-dimensional parameter spaces and can
+  contribute to an improved dynamical brain modeling as well as its application to
+  the frameworks of inter-individual variability and brain-behavior relationships.
+generated_by:
+- at_location: ISSN:1932-6203
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1371/journal.pone.0322983
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2023-09-30'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/hbp-sga3
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2020-04-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2023-05-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/4919df79-bb48-443a-b74d-3eb83e466187
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2018-12-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/fda3f869-8b35-43aa-be8c-2318cead8990
+schema_type: xyzri:XYZPublication
+title: Exploring dynamical whole-brain models in high-dimensional parameter spaces

@@ -1,0 +1,45 @@
+about:
+- xyzrins:topics/research-data-management
+- xyzrins:topics/standards
+- xyzrins:topics/distributed-systems
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-04-01T09:57:02.653224'
+attributed_to:
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - obo:MS_1002036
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002034
+  schema_type: dlthings:Attribution
+- object: orcid:0000-0003-3456-2493
+  roles:
+  - obo:MS_1002035
+  schema_type: dlthings:Attribution
+description: 'Decentralized research data management (dRDM) systems handle digital
+  research objects across participating nodes without critically relying on central
+  services. We present four perspectives in defense of dRDM, illustrating that, in
+  contrast to centralized or federated research data management solutions, a dRDM
+  system based on heterogeneous but interoperable components can offer a sustainable,
+  resilient, inclusive, and adaptive infrastructure for scientific stakeholders: An
+  individual scientist or laboratory, a research institute, a domain data archive
+  or cloud computing platform, and a collaborative multisite consortium. All perspectives
+  share the use of a common, self-contained, portable data structure as an abstraction
+  from current technology and service choices. In conjunction, the four perspectives
+  review how varying requirements of independent scientific stakeholders can be addressed
+  by a scalable, uniform dRDM solution and present a working system as an exemplary
+  implementation.'
+generated_by:
+- at_location: ISSN:2363-7013
+  at_time: '2021-01-11'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1515/nf-2020-0037
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/19f0a9d1-a477-425b-a77c-55e7aa065bfc
+schema_type: xyzri:XYZPublication
+title: In defense of decentralized research data management

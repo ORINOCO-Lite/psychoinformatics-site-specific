@@ -1,0 +1,73 @@
+attributed_to:
+- object: xyzrins:persons/8f836375-520c-43d7-afb6-29abea72c0ab
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: The many dimensions of human hippocampal organization and (dys)function
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Magnetic resonance imaging–based parcellation of the hippocampal formation
+    and gradient mapping are data-driven techniques that can capture many dimensions
+    of hippocampal organization and provide readily usable outcomes.    Features of
+    cortical architecture, such as local connectivity and microstructure, reveal differentiation
+    within the hippocampal formation along the medial–lateral axis. This organizational
+    dimension seemingly reflects local information-processing organization.    Neuroimaging
+    markers tapping into hippocampal integration into large-scale networks (i.e.,
+    whole-brain connectivity) highlight the long-axis differentiation.    The long-axis
+    organization corresponds to a molecular gradient and differential integration
+    across distinct behavioral systems.    Capitalizing on gradients and parcellations
+    maps, the long-axis organization of the hippocampal formation can be related to
+    behavioral phenotypes in healthy and clinical populations.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Magnetic resonance imaging–based parcellation of the hippocampal formation
+  and gradient mapping are data-driven techniques that can capture many dimensions
+  of hippocampal organization and provide readily usable outcomes.    Features of
+  cortical architecture, such as local connectivity and microstructure, reveal differentiation
+  within the hippocampal formation along the medial–lateral axis. This organizational
+  dimension seemingly reflects local information-processing organization.    Neuroimaging
+  markers tapping into hippocampal integration into large-scale networks (i.e., whole-brain
+  connectivity) highlight the long-axis differentiation.    The long-axis organization
+  corresponds to a molecular gradient and differential integration across distinct
+  behavioral systems.    Capitalizing on gradients and parcellations maps, the long-axis
+  organization of the hippocampal formation can be related to behavioral phenotypes
+  in healthy and clinical populations.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0378-5912
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.tins.2021.10.003
+  schema_type: dlthings:DOI
+influenced_by:
+- ended:
+    at_time: '2027-12-31'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/2b40e9ef-d9d2-42f8-a502-2e6efa86a1f7
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2021-01-01'
+    schema_type: dlthings:Start
+- ended:
+    at_time: '2023-09-30'
+    schema_type: dlthings:End
+  object: https://concepts.datalad.org/s/demo-research-information/ns/grants/hbp-sga3
+  roles:
+  - FRAPO:Funding
+  schema_type: xyzri:XYZInfluence
+  started:
+    at_time: '2020-04-01'
+    schema_type: dlthings:Start
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/ad1b8e65-1e1a-4275-9890-8772cf92b55b
+schema_type: xyzri:XYZPublication
+title: The many dimensions of human hippocampal organization and (dys)function

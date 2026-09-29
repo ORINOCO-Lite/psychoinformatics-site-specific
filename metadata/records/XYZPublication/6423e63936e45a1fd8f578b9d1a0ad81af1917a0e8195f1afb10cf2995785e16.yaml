@@ -1,0 +1,62 @@
+attributed_to:
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Sex Classification by Resting State Brain Connectivity
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: A large amount of brain imaging research has focused on group studies delineating
+    differences between males and females with respect to both cognitive performance
+    as well as structural and functional brain organization. To supplement existing
+    findings, the present study employed a machine learning approach to assess how
+    accurately participants' sex can be classified based on spatially specific resting
+    state (RS) brain connectivity, using 2 samples from the Human Connectome Project
+    (n1 = 434, n2 = 310) and 1 fully independent sample from the 1000BRAINS study
+    (n = 941). The classifier, which was trained on 1 sample and tested on the other
+    2, was able to reliably classify sex, both within sample and across independent
+    samples, differing both with respect to imaging parameters and sample characteristics.
+    Brain regions displaying highest sex classification accuracies were mainly located
+    along the cingulate cortex, medial and lateral frontal cortex, temporoparietal
+    regions, insula, and precuneus. These areas were stable across samples and match
+    well with previously described sex differences in functional brain organization.
+    While our data show a clear link between sex and regionally specific brain connectivity,
+    they do not support a clear-cut dimorphism in functional brain organization that
+    is driven by sex alone.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: A large amount of brain imaging research has focused on group studies
+  delineating differences between males and females with respect to both cognitive
+  performance as well as structural and functional brain organization. To supplement
+  existing findings, the present study employed a machine learning approach to assess
+  how accurately participants' sex can be classified based on spatially specific resting
+  state (RS) brain connectivity, using 2 samples from the Human Connectome Project
+  (n1 = 434, n2 = 310) and 1 fully independent sample from the 1000BRAINS study (n = 941).
+  The classifier, which was trained on 1 sample and tested on the other 2, was able
+  to reliably classify sex, both within sample and across independent samples, differing
+  both with respect to imaging parameters and sample characteristics. Brain regions
+  displaying highest sex classification accuracies were mainly located along the cingulate
+  cortex, medial and lateral frontal cortex, temporoparietal regions, insula, and
+  precuneus. These areas were stable across samples and match well with previously
+  described sex differences in functional brain organization. While our data show
+  a clear link between sex and regionally specific brain connectivity, they do not
+  support a clear-cut dimorphism in functional brain organization that is driven by
+  sex alone.
+generated_by:
+- at_location: ISSN:1047-3211
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/cercor/bhz129
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/86fc03a5-f087-489c-bfc8-3f57071ca217
+schema_type: xyzri:XYZPublication
+title: Sex Classification by Resting State Brain Connectivity

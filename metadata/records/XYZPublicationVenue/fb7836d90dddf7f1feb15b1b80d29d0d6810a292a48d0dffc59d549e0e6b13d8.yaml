@@ -1,0 +1,9 @@
+display_note: ISSN:0079-6107
+identifiers:
+- creator: ror:026ytr635
+  notation: 0079-6107
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:0079-6107
+schema_type: xyzri:XYZPublicationVenue
+title: Progress In Biophysics & Molecular Biology

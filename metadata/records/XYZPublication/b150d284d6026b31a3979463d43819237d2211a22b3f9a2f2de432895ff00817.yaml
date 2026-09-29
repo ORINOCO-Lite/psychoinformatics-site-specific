@@ -1,0 +1,87 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Altered DNA methylation at age-associated CpG sites in children with growth
+    disorders: impact on age estimation?'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Age estimation based on DNA methylation (DNAm) can be applied to children,
+    adolescents and adults, but many CG dinucleotides (CpGs) exhibit different kinetics
+    of age-associated DNAm across these age ranges. Furthermore, it is still unclear
+    how growth disorders impact epigenetic age predictions, and this may be particularly
+    relevant for a forensic application. In this study, we analyzed buccal mucosa
+    samples from 95 healthy children and 104 children with different growth disorders.
+    DNAm was analysed by pyrosequencing for 22 CpGs in the genes PDE4C, ELOVL2, RPA2,
+    EDARADD and DDO. The relationship between DNAm and age in healthy children was
+    tested by Spearman''s rank correlation. Differences in DNAm between the groups
+    "healthy children" and the (sub-)groups of children with growth disorders were
+    tested by ANCOVA. Models for age estimation were trained (1) based on the data
+    from 11 CpGs with a close correlation between DNAm and age (R ≥ 0.75) and (2)
+    on five CpGs that also did not present significant differences in DNAm between
+    healthy and diseased children. Statistical analysis revealed significant differences
+    between the healthy group and the group with growth disorders (11 CpGs), the subgroup
+    with a short stature (12 CpGs) and the non-short stature subgroup (three CpGs).
+    The results are in line with the assumption of an epigenetic regulation of height-influencing
+    genes. Age predictors trained on 11 CpGs with high correlations between DNAm and
+    age revealed higher mean absolute errors (MAEs) in the group of growth disorders
+    (mean MAE 2.21 years versus MAE 1.79 in the healthy group) as well as in the short
+    stature (sub-)groups; furthermore, there was a clear tendency for overestimation
+    of ages in all growth disorder groups (mean age deviations: total growth disorder
+    group 1.85 years, short stature group 1.99 years). Age estimates on samples from
+    children with growth disorders were more precise when using a model containing
+    only the five CpGs that did not present significant differences in DNAm between
+    healthy and diseased children (mean age deviations: total growth disorder group
+    1.45 years, short stature group 1.66 years). The results suggest that CpGs in
+    genes involved in processes relevant for growth and development should be avoided
+    in age prediction models for children since they may be sensitive for alterations
+    in the DNAm pattern in cases of growth disorders.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Age estimation based on DNA methylation (DNAm) can be applied to children,
+  adolescents and adults, but many CG dinucleotides (CpGs) exhibit different kinetics
+  of age-associated DNAm across these age ranges. Furthermore, it is still unclear
+  how growth disorders impact epigenetic age predictions, and this may be particularly
+  relevant for a forensic application. In this study, we analyzed buccal mucosa samples
+  from 95 healthy children and 104 children with different growth disorders. DNAm
+  was analysed by pyrosequencing for 22 CpGs in the genes PDE4C, ELOVL2, RPA2, EDARADD
+  and DDO. The relationship between DNAm and age in healthy children was tested by
+  Spearman''s rank correlation. Differences in DNAm between the groups "healthy children"
+  and the (sub-)groups of children with growth disorders were tested by ANCOVA. Models
+  for age estimation were trained (1) based on the data from 11 CpGs with a close
+  correlation between DNAm and age (R ≥ 0.75) and (2) on five CpGs that also did not
+  present significant differences in DNAm between healthy and diseased children. Statistical
+  analysis revealed significant differences between the healthy group and the group
+  with growth disorders (11 CpGs), the subgroup with a short stature (12 CpGs) and
+  the non-short stature subgroup (three CpGs). The results are in line with the assumption
+  of an epigenetic regulation of height-influencing genes. Age predictors trained
+  on 11 CpGs with high correlations between DNAm and age revealed higher mean absolute
+  errors (MAEs) in the group of growth disorders (mean MAE 2.21 years versus MAE 1.79
+  in the healthy group) as well as in the short stature (sub-)groups; furthermore,
+  there was a clear tendency for overestimation of ages in all growth disorder groups
+  (mean age deviations: total growth disorder group 1.85 years, short stature group
+  1.99 years). Age estimates on samples from children with growth disorders were more
+  precise when using a model containing only the five CpGs that did not present significant
+  differences in DNAm between healthy and diseased children (mean age deviations:
+  total growth disorder group 1.45 years, short stature group 1.66 years). The results
+  suggest that CpGs in genes involved in processes relevant for growth and development
+  should be avoided in age prediction models for children since they may be sensitive
+  for alterations in the DNAm pattern in cases of growth disorders.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0937-9827
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00414-022-02826-w
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/34831495-7069-4821-9f6d-6529aba2b597
+schema_type: xyzri:XYZPublication
+title: 'Altered DNA methylation at age-associated CpG sites in children with growth
+  disorders: impact on age estimation?'

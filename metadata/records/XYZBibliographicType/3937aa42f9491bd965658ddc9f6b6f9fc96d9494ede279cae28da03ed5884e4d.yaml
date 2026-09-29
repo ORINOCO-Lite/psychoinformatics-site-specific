@@ -1,0 +1,4 @@
+description: A collection of legal cases.
+display_label: Court Reporter
+pid: bibo:CourtReporter
+schema_type: xyzri:XYZBibliographicType

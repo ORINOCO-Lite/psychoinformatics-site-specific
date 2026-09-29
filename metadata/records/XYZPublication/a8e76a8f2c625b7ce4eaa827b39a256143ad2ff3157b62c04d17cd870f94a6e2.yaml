@@ -1,0 +1,78 @@
+attributed_to:
+- object: xyzrins:persons/1f7470c6-4dd9-494b-94b9-e4f88e377185
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/02217afa-9a22-4c51-a3cf-d23c6ca568bf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Region-wise stacking ensembles for estimating brain-age using structural
+    MRI
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Predictive modeling using structural magnetic resonance imaging (MRI) data
+    is a prominent approach to study brain-aging. Machine learning frameworks have
+    been employed to improve predictions and explore healthy and accelerated aging
+    due to diseases. The high-dimensional MRI data pose challenges to building generalizable
+    and interpretable models as well as for data privacy. Common practices are resampling
+    or averaging voxels within predefined parcels which reduces anatomical specificity
+    and biological interpretability. Effectively, naive fusion by averaging can result
+    in information loss and reduced accuracy. We present a conceptually novel two-level
+    stacking ensemble (SE) approach. The first level comprises regional models for
+    predicting individuals' age based on voxel-wise information, fused by a second-level
+    model yielding final predictions. Eight data fusion scenarios were explored using
+    Gray matter volume (GMV) estimates from four large datasets. Performance measured
+    using mean absolute error (MAE), R2, correlation and prediction bias, showed that
+    SE outperformed the region-wise averages. The best performance was obtained when
+    first-level regional predictions were obtained as out-of-sample predictions on
+    the application site with second-level models trained on independent and site-specific
+    data (MAE = 4.75 vs baseline regional mean GMV MAE = 5.68). Performance improved
+    as more datasets were used for training. First-level predictions showed improved
+    and more robust aging signal providing new biological insights and enhanced data
+    privacy. Overall, the SE improves accuracy compared to the baseline while preserving
+    or enhancing data privacy. Finally, we show the utility of our SE model on a clinical
+    cohort showing accelerated aging in cognitively impaired and Alzheimer's disease
+    patients.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Predictive modeling using structural magnetic resonance imaging (MRI)
+  data is a prominent approach to study brain-aging. Machine learning frameworks have
+  been employed to improve predictions and explore healthy and accelerated aging due
+  to diseases. The high-dimensional MRI data pose challenges to building generalizable
+  and interpretable models as well as for data privacy. Common practices are resampling
+  or averaging voxels within predefined parcels which reduces anatomical specificity
+  and biological interpretability. Effectively, naive fusion by averaging can result
+  in information loss and reduced accuracy. We present a conceptually novel two-level
+  stacking ensemble (SE) approach. The first level comprises regional models for predicting
+  individuals' age based on voxel-wise information, fused by a second-level model
+  yielding final predictions. Eight data fusion scenarios were explored using Gray
+  matter volume (GMV) estimates from four large datasets. Performance measured using
+  mean absolute error (MAE), R2, correlation and prediction bias, showed that SE outperformed
+  the region-wise averages. The best performance was obtained when first-level regional
+  predictions were obtained as out-of-sample predictions on the application site with
+  second-level models trained on independent and site-specific data (MAE = 4.75 vs
+  baseline regional mean GMV MAE = 5.68). Performance improved as more datasets were
+  used for training. First-level predictions showed improved and more robust aging
+  signal providing new biological insights and enhanced data privacy. Overall, the
+  SE improves accuracy compared to the baseline while preserving or enhancing data
+  privacy. Finally, we show the utility of our SE model on a clinical cohort showing
+  accelerated aging in cognitively impaired and Alzheimer's disease patients.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0010-4825
+  at_time: '2025'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.compbiomed.2025.111182
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/af7b4b21-d661-44ff-8ccb-fae2453bc7c9
+schema_type: xyzri:XYZPublication
+title: Region-wise stacking ensembles for estimating brain-age using structural MRI

@@ -1,0 +1,64 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Distinct neural networks subserve placebo analgesia and nocebo hyperalgesia
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Neural networks involved in placebo analgesia and nocebo hyperalgesia processes
+    have been widely investigated with neuroimaging methods. However, few studies
+    have directly compared these two processes and it remains unclear whether common
+    or distinct neural circuits are involved. To address this issue, we implemented
+    a coordinate-based meta-analysis and compared neural representations of placebo
+    analgesia (30 studies; 205 foci; 677 subjects) and nocebo hyperalgesia (22 studies;
+    301 foci; 401 subjects). Contrast analyses confirmed placebo-specific concordance
+    in the right ventral striatum, and nocebo-specific concordance in the dorsal anterior
+    cingulate cortex (dACC), left posterior insula and left parietal operculum during
+    combined pain anticipation and administration stages. Importantly, no overlapping
+    regions were found for these two processes in conjunction analyses, even when
+    the threshold was low. Meta-analytic connectivity modeling (MACM) and resting-state
+    functional connectivity (RSFC) analyses on key regions further confirmed the distinct
+    brain networks underlying placebo analgesia and nocebo hyperalgesia. Together,
+    these findings indicate that the placebo analgesia and nocebo hyperalgesia processes
+    involve distinct neural circuits, which supports the view that the two phenomena
+    may operate via different neuropsychological processes.Keywords: Activation likelihood
+    estimation; Functional decoding; Meta-analysis; Meta-analytic connectivity modeling;
+    Nocebo hyperalgesia; Placebo analgesia; Resting-state functional connectivity.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Neural networks involved in placebo analgesia and nocebo hyperalgesia
+  processes have been widely investigated with neuroimaging methods. However, few
+  studies have directly compared these two processes and it remains unclear whether
+  common or distinct neural circuits are involved. To address this issue, we implemented
+  a coordinate-based meta-analysis and compared neural representations of placebo
+  analgesia (30 studies; 205 foci; 677 subjects) and nocebo hyperalgesia (22 studies;
+  301 foci; 401 subjects). Contrast analyses confirmed placebo-specific concordance
+  in the right ventral striatum, and nocebo-specific concordance in the dorsal anterior
+  cingulate cortex (dACC), left posterior insula and left parietal operculum during
+  combined pain anticipation and administration stages. Importantly, no overlapping
+  regions were found for these two processes in conjunction analyses, even when the
+  threshold was low. Meta-analytic connectivity modeling (MACM) and resting-state
+  functional connectivity (RSFC) analyses on key regions further confirmed the distinct
+  brain networks underlying placebo analgesia and nocebo hyperalgesia. Together, these
+  findings indicate that the placebo analgesia and nocebo hyperalgesia processes involve
+  distinct neural circuits, which supports the view that the two phenomena may operate
+  via different neuropsychological processes.Keywords: Activation likelihood estimation;
+  Functional decoding; Meta-analysis; Meta-analytic connectivity modeling; Nocebo
+  hyperalgesia; Placebo analgesia; Resting-state functional connectivity.'
+generated_by:
+- at_location: ISSN:1053-8119
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2021.117833
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/4bf8565b-617e-4dc5-b6fa-b0e7367f3e5f
+schema_type: xyzri:XYZPublication
+title: Distinct neural networks subserve placebo analgesia and nocebo hyperalgesia

@@ -1,0 +1,75 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/94433ef8-8ae1-4922-9638-755444076dc3
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/adina-wagner
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Centering inclusivity in the design of online conferences—An OHBM–Open Science
+    perspective
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'As the global health crisis unfolded, many academic conferences moved online
+    in 2020. This move has been hailed as a positive step towards inclusivity in its
+    attenuation of economic, physical, and legal barriers and effectively enabled
+    many individuals from groups that have traditionally been underrepresented to
+    join and participate. A number of studies have outlined how moving online made
+    it possible to gather a more global community and has increased opportunities
+    for individuals with various constraints, e.g., caregiving responsibilities. Yet,
+    the mere existence of online conferences is no guarantee that everyone can attend
+    and participate meaningfully. In fact, many elements of an online conference are
+    still significant barriers to truly diverse participation: the tools used can
+    be inaccessible for some individuals; the scheduling choices can favour some geographical
+    locations; the set-up of the conference can provide more visibility to well-established
+    researchers and reduce opportunities for early-career researchers. While acknowledging
+    the benefits of an online setting, especially for individuals who have traditionally
+    been underrepresented or excluded, we recognize that fostering social justice
+    requires inclusivity to actively be centered in every aspect of online conference
+    design. Here, we draw from the literature and from our own experiences to identify
+    practices that purposefully encourage a diverse community to attend, participate
+    in, and lead online conferences. Reflecting on how to design more inclusive online
+    events is especially important as multiple scientific organizations have announced
+    that they will continue offering an online version of their event when in-person
+    conferences can resume.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'As the global health crisis unfolded, many academic conferences moved
+  online in 2020. This move has been hailed as a positive step towards inclusivity
+  in its attenuation of economic, physical, and legal barriers and effectively enabled
+  many individuals from groups that have traditionally been underrepresented to join
+  and participate. A number of studies have outlined how moving online made it possible
+  to gather a more global community and has increased opportunities for individuals
+  with various constraints, e.g., caregiving responsibilities. Yet, the mere existence
+  of online conferences is no guarantee that everyone can attend and participate meaningfully.
+  In fact, many elements of an online conference are still significant barriers to
+  truly diverse participation: the tools used can be inaccessible for some individuals;
+  the scheduling choices can favour some geographical locations; the set-up of the
+  conference can provide more visibility to well-established researchers and reduce
+  opportunities for early-career researchers. While acknowledging the benefits of
+  an online setting, especially for individuals who have traditionally been underrepresented
+  or excluded, we recognize that fostering social justice requires inclusivity to
+  actively be centered in every aspect of online conference design. Here, we draw
+  from the literature and from our own experiences to identify practices that purposefully
+  encourage a diverse community to attend, participate in, and lead online conferences.
+  Reflecting on how to design more inclusive online events is especially important
+  as multiple scientific organizations have announced that they will continue offering
+  an online version of their event when in-person conferences can resume.'
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:2047-217X
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1093/gigascience/giab051
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/616d52dd-c52c-4a7e-a6ec-ba282f3e8db9
+schema_type: xyzri:XYZPublication
+title: Centering inclusivity in the design of online conferences—An OHBM–Open Science
+  perspective

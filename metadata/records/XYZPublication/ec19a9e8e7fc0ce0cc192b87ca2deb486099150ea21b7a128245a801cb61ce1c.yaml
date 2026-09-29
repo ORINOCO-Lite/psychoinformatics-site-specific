@@ -1,0 +1,97 @@
+about:
+- xyzrins:topics/research-data-management
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:CRO_0000100
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:CRO_0000100
+  schema_type: dlthings:Attribution
+description: 'This talk was presented at the 6th Joint Congress of the DGBP and AGNP,
+  held in Berlin from 6 to 8 May 2026 under the theme “Neuroscience for Mental Health.”
+  It followed an introductory lecture by Ute Habel on the research plan for aggression
+  in mental disorders and the scientific ambitions of TRR379.
+
+
+  The talk presented the information-management concept developed within Q2 of TRR379
+  as a service-oriented infrastructure for a large, multi-site translational research
+  network. The central aim was to create a practical, sustainable system that supports
+  research across six sites, around 1,000 individuals volunteering for this research,
+  and a longitudinal study horizon extending over more than a decade. Rather than
+  imposing a rigid centralized workflow, the approach treats the consortium as a network
+  of mutually responsible actors and seeks to maximize scientific benefit while minimizing
+  the burden of contribution. The resulting framework emphasizes independently governed,
+  adoptable solutions that can fit different local conditions without losing interoperability.
+
+
+  A major focus of the talk was the challenge of heterogeneity in a distributed research
+  center. Site-specific implementations, differing procedures, and changing equipment,
+  personnel, and legal contexts make standardization difficult. Q2 addresses this
+  by building a self-hostable service stack for project and data hosting that can
+  accommodate local autonomy while still enabling shared structures. The tools introduced
+  in this context included Forgejo-anaksajo for version-control, and DataLad for client-side
+  provenance tracking. Together, these components provide a foundation for managing
+  research data, code, and metadata across sites in a way that remains traceable and
+  adaptable.
+
+
+  The talk also emphasized the role of metadata as the backbone of collaborative research
+  management. The metadata system supports both manual browser-based entry and programmatic
+  submission, covering not only research data but also administrative information
+  and outreach-related records. Its design combines machine-validatable structural
+  models with manual curation by authorized experts, allowing automated checking where
+  possible while preserving domain-specific oversight where needed. Additional functions
+  such as profile image uploads and publication registration via DOI, matched against
+  membership records and ORCIDs, illustrate how the system links scientific outputs,
+  people, and organizational context.
+
+
+  A key conceptual contribution was the idea of a central collaboration hub that allows
+  browser-based navigation across datasets and research stages. This makes it possible
+  to trace data generated at one site back to original acquisitions at another, supporting
+  full provenance from acquisition to publication. The talk described how derivative
+  data produced in Jülich can be traced to original acquisitions in Aachen, Mannheim,
+  Heidelberg, and Frankfurt, and how the broader data graph links initial DICOM files
+  to final analyses reported in papers. The system records not only what was computed,
+  but also how it was computed and in which computational environment, thereby enabling
+  independent verification and robust reproducibility.
+
+
+  Another important theme was quality control. The infrastructure supports both manual
+  and programmatic QC, including automated triggers and custom visualizations such
+  as brain exploration tools. This combination of human expertise and machine-assisted
+  checking was presented as essential for maintaining quality in complex, long-running
+  studies. The approach is meant to make collaboration easier while still ensuring
+  that data handling remains scientifically rigorous and transparent.
+
+
+  The talk further situated Q2 within a broader ecosystem of open-source tools and
+  collaborative infrastructures. Its toolkit originated in the ABCD-J project and
+  is intended to be usable beyond the immediate TRR379 context, including in brain
+  sciences, biology, or climate science. Looking ahead, the system is designed not
+  only for internal coordination but also for external discovery and secure computation.
+  Planned developments include exporting information into discovery databases such
+  as NeuroBagel to connect with interoperable sites and support artificial cohort
+  generation, as well as enabling external analysis scripts to be run locally at the
+  data site so that sensitive clinical data never needs to leave its origin.'
+generated_by:
+- at_location: xyzrins:publication-venues/76253f93-a52e-4817-b1bc-f27d93761c3b
+  at_time: '2026-05-08'
+  object: obo:GSSO_006807
+  schema_type: dlthings:Generation
+- at_location: xyzrins:publication-venues/76253f93-a52e-4817-b1bc-f27d93761c3b
+  at_time: '2026-05-08'
+  object: obo:GSSO_006807
+  schema_type: dlthings:Generation
+influenced_by:
+- object: xyzrins:objectives/97ded4aa-108d-4b84-8195-d6076dce63ce
+  schema_type: xyzri:XYZInfluence
+- object: xyzrins:objectives/self-hosted-it
+  schema_type: xyzri:XYZInfluence
+kind: fabio:Presentation
+pid: xyzrins:publications/32e3ab88-5409-4de4-9aef-4bdda0955f2b
+schema_type: xyzri:XYZPublication
+title: Information management for a multi-site research collaboration on aggression
+  in mental disorders

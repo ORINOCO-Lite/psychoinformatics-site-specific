@@ -1,0 +1,70 @@
+attributed_to:
+- object: xyzrins:persons/6ae68288-73ec-491b-a25f-75bbf9783e70
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Lipreading a naturalistic narrative in a female population: Neural characteristics
+    shared with listening and reading'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: IntroductionFew of us are skilled lipreaders while most struggle with the
+    task. Neural substrates that enable comprehension of connected natural speech
+    via lipreading are not yet well understood.MethodsWe used a data-driven approach
+    to identify brain areas underlying the lipreading of an 8-min narrative with participants
+    whose lipreading skills varied extensively (range 6–100%, mean = 50.7%). The participants
+    also listened to and read the same narrative. The similarity between individual
+    participants’ brain activity during the whole narrative, within and between conditions,
+    was estimated by a voxel-wise comparison of the Blood Oxygenation Level Dependent
+    (BOLD) signal time courses.ResultsInter-subject correlation (ISC) of the time
+    courses revealed that lipreading, listening to, and reading the narrative were
+    largely supported by the same brain areas in the temporal, parietal and frontal
+    cortices, precuneus, and cerebellum. Additionally, listening to and reading connected
+    naturalistic speech particularly activated higher-level linguistic processing
+    in the parietal and frontal cortices more consistently than lipreading, probably
+    paralleling the limited understanding obtained via lip-reading. Importantly, higher
+    lipreading test score and subjective estimate of comprehension of the lipread
+    narrative was associated with activity in the superior and middle temporal cortex.ConclusionsOur
+    new data illustrates that findings from prior studies using well-controlled repetitive
+    speech stimuli and stimulus-driven data analyses are also valid for naturalistic
+    connected speech. Our results might suggest an efficient use of brain areas dealing
+    with phonological processing in skilled lipreaders
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: IntroductionFew of us are skilled lipreaders while most struggle with
+  the task. Neural substrates that enable comprehension of connected natural speech
+  via lipreading are not yet well understood.MethodsWe used a data-driven approach
+  to identify brain areas underlying the lipreading of an 8-min narrative with participants
+  whose lipreading skills varied extensively (range 6–100%, mean = 50.7%). The participants
+  also listened to and read the same narrative. The similarity between individual
+  participants’ brain activity during the whole narrative, within and between conditions,
+  was estimated by a voxel-wise comparison of the Blood Oxygenation Level Dependent
+  (BOLD) signal time courses.ResultsInter-subject correlation (ISC) of the time courses
+  revealed that lipreading, listening to, and reading the narrative were largely supported
+  by the same brain areas in the temporal, parietal and frontal cortices, precuneus,
+  and cerebellum. Additionally, listening to and reading connected naturalistic speech
+  particularly activated higher-level linguistic processing in the parietal and frontal
+  cortices more consistently than lipreading, probably paralleling the limited understanding
+  obtained via lip-reading. Importantly, higher lipreading test score and subjective
+  estimate of comprehension of the lipread narrative was associated with activity
+  in the superior and middle temporal cortex.ConclusionsOur new data illustrates that
+  findings from prior studies using well-controlled repetitive speech stimuli and
+  stimulus-driven data analyses are also valid for naturalistic connected speech. Our results might
+  suggest an efficient use of brain areas dealing with phonological processing in
+  skilled lipreaders
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2162-3279
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1002/brb3.2869
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/8b44f7e8-bc12-40ed-91dc-1009dd144d64
+schema_type: xyzri:XYZPublication
+title: 'Lipreading a naturalistic narrative in a female population: Neural characteristics
+  shared with listening and reading'

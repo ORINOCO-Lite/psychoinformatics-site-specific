@@ -1,0 +1,71 @@
+attributed_to:
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Comparison Between Gradients and Parcellations for Functional Connectivity
+    Prediction of Behavior
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Resting-state functional connectivity (RSFC) is widely used to predict behavioral
+    measures. To predict behavioral measures, representing RSFC with parcellations
+    and gradients are the two most popular approaches. Here, we compare parcellation
+    and gradient approaches for RSFC-based prediction of a broad range of behavioral
+    measures in the Human Connectome Project (HCP) and Adolescent Brain Cognitive
+    Development (ABCD) datasets. Among the parcellation approaches, we consider group-average
+    “hard” parcellations (Schaefer et al., 2018), individual-specific “hard” parcellations
+    (Kong et al., 2021a), and an individual-specific “soft” parcellation (spatial
+    independent component analysis with dual regression; Beckmann et al., 2009). For
+    gradient approaches, we consider the well-known principal gradients (Margulies
+    et al., 2016) and the local gradient approach that detects local RSFC changes
+    (Laumann et al., 2015). Across two regression algorithms, individual-specific
+    hard-parcellation performs the best in the HCP dataset, while the principal gradients,
+    spatial independent component analysis and group-average “hard” parcellations
+    exhibit similar performance. On the other hand, principal gradients and all parcellation
+    approaches perform similarly in the ABCD dataset. Across both datasets, local
+    gradients perform the worst. Finally, we find that the principal gradient approach
+    requires at least 40 to 60 gradients to perform as well as parcellation approaches.
+    While most principal gradient studies utilize a single gradient, our results suggest
+    that incorporating higher order gradients can provide significant behaviorally
+    relevant information. Future work will consider the inclusion of additional parcellation
+    and gradient approaches for comparison.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Resting-state functional connectivity (RSFC) is widely used to predict
+  behavioral measures. To predict behavioral measures, representing RSFC with parcellations
+  and gradients are the two most popular approaches. Here, we compare parcellation
+  and gradient approaches for RSFC-based prediction of a broad range of behavioral
+  measures in the Human Connectome Project (HCP) and Adolescent Brain Cognitive Development
+  (ABCD) datasets. Among the parcellation approaches, we consider group-average “hard”
+  parcellations (Schaefer et al., 2018), individual-specific “hard” parcellations
+  (Kong et al., 2021a), and an individual-specific “soft” parcellation (spatial independent
+  component analysis with dual regression; Beckmann et al., 2009). For gradient approaches,
+  we consider the well-known principal gradients (Margulies et al., 2016) and the
+  local gradient approach that detects local RSFC changes (Laumann et al., 2015).
+  Across two regression algorithms, individual-specific hard-parcellation performs
+  the best in the HCP dataset, while the principal gradients, spatial independent
+  component analysis and group-average “hard” parcellations exhibit similar performance.
+  On the other hand, principal gradients and all parcellation approaches perform similarly
+  in the ABCD dataset. Across both datasets, local gradients perform the worst. Finally,
+  we find that the principal gradient approach requires at least 40 to 60 gradients
+  to perform as well as parcellation approaches. While most principal gradient studies
+  utilize a single gradient, our results suggest that incorporating higher order gradients
+  can provide significant behaviorally relevant information. Future work will consider
+  the inclusion of additional parcellation and gradient approaches for comparison.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:1053-8119
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.neuroimage.2023.120044
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/670b66b8-46d3-4184-91d6-02620e9ea31a
+schema_type: xyzri:XYZPublication
+title: Comparison Between Gradients and Parcellations for Functional Connectivity
+  Prediction of Behavior

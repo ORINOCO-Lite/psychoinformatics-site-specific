@@ -1,0 +1,81 @@
+attributed_to:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Resting state EEG power spectrum and functional connectivity in autism:
+    a cross-sectional analysis'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: BackgroundUnderstanding the development of the neuronal circuitry underlying
+    autism spectrum disorder (ASD) is critical to shed light into its etiology and
+    for the development of treatment options. Resting state EEG provides a window
+    into spontaneous local and long-range neuronal synchronization and has been investigated
+    in many ASD studies, but results are inconsistent. Unbiased investigation in large
+    and comprehensive samples focusing on replicability is needed.MethodsWe quantified
+    resting state EEG alpha peak metrics, power spectrum (PS, 2–32 Hz) and functional
+    connectivity (FC) in 411 children, adolescents and adults (n = 212 ASD, n = 199
+    neurotypicals [NT], all with IQ > 75). We performed analyses in source-space using
+    individual head models derived from the participants’ MRIs. We tested for differences
+    in mean and variance between the ASD and NT groups for both PS and FC using linear
+    mixed effects models accounting for age, sex, IQ and site effects. Then, we used
+    machine learning to assess whether a multivariate combination of EEG features
+    could better separate ASD and NT participants. All analyses were embedded within
+    a train-validation approach (70%–30% split).ResultsIn the training dataset, we
+    found an interaction between age and group for the reactivity to eye opening (p = .042
+    uncorrected), and a significant but weak multivariate ASD vs. NT classification
+    performance for PS and FC (sensitivity 0.52–0.62, specificity 0.59–0.73). None
+    of these findings replicated significantly in the validation dataset, although
+    the effect size in the validation dataset overlapped with the prediction interval
+    from the training dataset.LimitationsThe statistical power to detect weak effects—of
+    the magnitude of those found in the training dataset—in the validation dataset
+    is small, and we cannot fully conclude on the reproducibility of the training
+    dataset’s effects.ConclusionsThis suggests that PS and FC values in ASD and NT
+    have a strong overlap, and that differences between both groups (in both mean
+    and variance) have, at best, a small effect size. Larger studies would be needed
+    to investigate and replicate such potential effects.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: BackgroundUnderstanding the development of the neuronal circuitry underlying
+  autism spectrum disorder (ASD) is critical to shed light into its etiology and for
+  the development of treatment options. Resting state EEG provides a window into spontaneous
+  local and long-range neuronal synchronization and has been investigated in many
+  ASD studies, but results are inconsistent. Unbiased investigation in large and comprehensive
+  samples focusing on replicability is needed.MethodsWe quantified resting state EEG
+  alpha peak metrics, power spectrum (PS, 2–32 Hz) and functional connectivity (FC)
+  in 411 children, adolescents and adults (n = 212 ASD, n = 199 neurotypicals [NT],
+  all with IQ > 75). We performed analyses in source-space using individual head models
+  derived from the participants’ MRIs. We tested for differences in mean and variance
+  between the ASD and NT groups for both PS and FC using linear mixed effects models
+  accounting for age, sex, IQ and site effects. Then, we used machine learning to
+  assess whether a multivariate combination of EEG features could better separate
+  ASD and NT participants. All analyses were embedded within a train-validation approach
+  (70%–30% split).ResultsIn the training dataset, we found an interaction between
+  age and group for the reactivity to eye opening (p = .042 uncorrected), and a significant
+  but weak multivariate ASD vs. NT classification performance for PS and FC (sensitivity
+  0.52–0.62, specificity 0.59–0.73). None of these findings replicated significantly
+  in the validation dataset, although the effect size in the validation dataset overlapped
+  with the prediction interval from the training dataset.LimitationsThe statistical
+  power to detect weak effects—of the magnitude of those found in the training dataset—in
+  the validation dataset is small, and we cannot fully conclude on the reproducibility
+  of the training dataset’s effects.ConclusionsThis suggests that PS and FC values
+  in ASD and NT have a strong overlap, and that differences between both groups (in
+  both mean and variance) have, at best, a small effect size. Larger studies would
+  be needed to investigate and replicate such potential effects.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2040-2392
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1186/s13229-022-00500-x
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/cc062867-0699-4a58-97b2-161ba96255f9
+schema_type: xyzri:XYZPublication
+title: 'Resting state EEG power spectrum and functional connectivity in autism: a
+  cross-sectional analysis'

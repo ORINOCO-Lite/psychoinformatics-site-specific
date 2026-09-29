@@ -1,0 +1,78 @@
+attributed_to:
+- object: xyzrins:persons/ba3b9313-063a-4712-9192-8882e7f3e12c
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'On doing multi-act arithmetic: A multitrait-multimethod approach of performance
+    dimensions in integrated multitasking'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Here we present a systematic plan to the experimental study of test-retest
+    reliability in the multitasking domain, adopting the multitrait-multimethod (MTMM)
+    approach to evaluate the psychometric properties of performance in Düker-type
+    speeded multiple-act mental arithmetic. These form of tasks capacitate the experimental
+    analysis of integrated multi-step processing by combining multiple mental operations
+    in flexible ways in the service of the overarching goal of completing the task.
+    A particular focus was on scoring methodology, particularly measures of response
+    speed variability. To this end, we present data of two experiments with regard
+    to (a) test-retest reliability, (b) between-measures correlational structure,
+    (c) and stability (test-retest practice effects). Finally, we compared participants
+    with high versus low performance variability to assess ability-related differences
+    in measurement precision (typically used as proxy to "simulate" patient populations),
+    which is especially relevant in the applied fields of clinical neuropsychology.
+    The participants performed two classic integrated multi-act arithmetic tasks,
+    combining addition and verification (Exp. 1) and addition and comparison (Exp.
+    2). The results revealed excellent test-retest reliability for the standard and
+    the variability measures. The analysis of between-measures correlational structure
+    revealed the typical pattern of convergent and discriminant relationships, and
+    also, that absolute response speed variability was highly correlated with average
+    speed (r > 0.85), indicating that these measures mainly deliver redundant information.
+    In contrast, speed-adjusted (relativized) variability revealed discriminant validity
+    being correlated to a much lesser degree with average speed, indicating that this
+    measure delivers additional information not already provided by the speed measure.
+    Furthermore, speed-adjusted variability was virtually unaffected by test-retest
+    practice, which makes this measure interesting in situations with repeated testing.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Here we present a systematic plan to the experimental study of test-retest
+  reliability in the multitasking domain, adopting the multitrait-multimethod (MTMM)
+  approach to evaluate the psychometric properties of performance in Düker-type speeded
+  multiple-act mental arithmetic. These form of tasks capacitate the experimental
+  analysis of integrated multi-step processing by combining multiple mental operations
+  in flexible ways in the service of the overarching goal of completing the task.
+  A particular focus was on scoring methodology, particularly measures of response
+  speed variability. To this end, we present data of two experiments with regard to
+  (a) test-retest reliability, (b) between-measures correlational structure, (c) and
+  stability (test-retest practice effects). Finally, we compared participants with
+  high versus low performance variability to assess ability-related differences in
+  measurement precision (typically used as proxy to "simulate" patient populations),
+  which is especially relevant in the applied fields of clinical neuropsychology.
+  The participants performed two classic integrated multi-act arithmetic tasks, combining
+  addition and verification (Exp. 1) and addition and comparison (Exp. 2). The results
+  revealed excellent test-retest reliability for the standard and the variability
+  measures. The analysis of between-measures correlational structure revealed the
+  typical pattern of convergent and discriminant relationships, and also, that absolute
+  response speed variability was highly correlated with average speed (r > 0.85),
+  indicating that these measures mainly deliver redundant information. In contrast,
+  speed-adjusted (relativized) variability revealed discriminant validity being correlated
+  to a much lesser degree with average speed, indicating that this measure delivers
+  additional information not already provided by the speed measure. Furthermore, speed-adjusted
+  variability was virtually unaffected by test-retest practice, which makes this measure
+  interesting in situations with repeated testing.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:1664-1078
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3389/fpsyg.2022.946626
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/c8ca0682-2fcd-45d0-a415-3ac7128d9f18
+schema_type: xyzri:XYZPublication
+title: 'On doing multi-act arithmetic: A multitrait-multimethod approach of performance
+  dimensions in integrated multitasking'

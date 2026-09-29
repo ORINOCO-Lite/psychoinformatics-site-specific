@@ -1,0 +1,15 @@
+about:
+- xyzrins:instruments/case-e
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-18T15:16:49.619312'
+attributed_to:
+- object: xyzrins:persons/venkatesh-hariharapura-shivashankar
+  schema_type: dlthings:Attribution
+description: The logo of the Case-e ECR system
+distributions:
+- dldi:SHA256E-s1448085--e284f8a8973854d1816331452612d6289089fe20a78ace64bc98b2b9ccf98086.png
+kind: schema:logo
+pid: xyzrins:depictions/7dd0cb43-f885-4eb6-b132-0309f55a2144
+schema_type: xyzri:XYZDepiction
+title: Case.e Logo

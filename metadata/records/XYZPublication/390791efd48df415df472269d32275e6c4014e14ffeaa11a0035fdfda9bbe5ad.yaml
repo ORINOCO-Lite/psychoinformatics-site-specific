@@ -1,0 +1,55 @@
+attributed_to:
+- object: xyzrins:persons/91ab411e-a46f-4ec2-a280-0dcc5d6083aa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: In vivo cartography of state-dependent signal flow hierarchy in the human
+    cerebral cortex
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Understanding the principle of information flow across distributed brain
+    networks is of paramount importance in neuroscience. Here, we introduce a novel
+    neuroimaging framework, leveraging integrated effective connectivity (iEC) and
+    unconstrained signal flow mapping for data-driven discovery of the human cerebral
+    functional hierarchy. Simulation and empirical validation demonstrated the high
+    fidelity of iEC in recovering connectome directionality and its potential relationship
+    with histologically defined feedforward and feedback pathways. Notably, the iEC-derived
+    hierarchy displayed a monotonously increasing level along the axis where the sensorimotor,
+    association, and paralimbic areas are sequentially ordered – a pattern supported
+    by the Structural Model of laminar connectivity. This hierarchy was further demonstrated
+    to flexibly reorganize according to brain states, flattening during an externally
+    oriented condition, evidenced by a reduced slope in the hierarchy, and steepening
+    during an internally focused condition, reflecting heightened engagement of interoceptive
+    regions. Our study highlights the unique role of macroscale directed functional
+    connectivity in uncovering a neurobiologically grounded, state-dependent signal
+    flow hierarchy.
+characterized_by:
+- object: bibo:Manuscript
+  predicate: dcterms:type
+description: Understanding the principle of information flow across distributed brain
+  networks is of paramount importance in neuroscience. Here, we introduce a novel
+  neuroimaging framework, leveraging integrated effective connectivity (iEC) and unconstrained
+  signal flow mapping for data-driven discovery of the human cerebral functional hierarchy.
+  Simulation and empirical validation demonstrated the high fidelity of iEC in recovering
+  connectome directionality and its potential relationship with histologically defined
+  feedforward and feedback pathways. Notably, the iEC-derived hierarchy displayed
+  a monotonously increasing level along the axis where the sensorimotor, association,
+  and paralimbic areas are sequentially ordered – a pattern supported by the Structural
+  Model of laminar connectivity. This hierarchy was further demonstrated to flexibly
+  reorganize according to brain states, flattening during an externally oriented condition,
+  evidenced by a reduced slope in the hierarchy, and steepening during an internally
+  focused condition, reflecting heightened engagement of interoceptive regions. Our
+  study highlights the unique role of macroscale directed functional connectivity
+  in uncovering a neurobiologically grounded, state-dependent signal flow hierarchy.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.21203/rs.3.rs-5219295/v1
+  schema_type: dlthings:DOI
+kind: bibo:Manuscript
+pid: xyzrins:publications/b58453db-a145-4851-9029-f424dfb82dfe
+schema_type: xyzri:XYZPublication
+title: In vivo cartography of state-dependent signal flow hierarchy in the human cerebral
+  cortex

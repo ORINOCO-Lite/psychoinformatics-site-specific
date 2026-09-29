@@ -1,0 +1,4 @@
+description: A compilation of documents published from an event, such as a conference.
+display_label: Proceedings
+pid: bibo:Proceedings
+schema_type: xyzri:XYZBibliographicType

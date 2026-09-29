@@ -1,0 +1,33 @@
+about:
+- xyzrins:topics/cognitive-science
+- xyzrins:topics/neuroimaging
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-26T11:31:27.431634'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - marcrel:cre
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: obo:APOLLO_SV_00000488
+  schema_type: dlthings:AttributeSpecification
+  value: https://hub.psychoinformatics.de/studyforrest/data-freesurfer
+derived_from:
+- object: xyzrins:datasets/edfbe285-a991-4abc-9c87-4b8c41b65b8a
+  schema_type: dlthings:Derivation
+description: Reconstruction of cortical surfaces. High-resolution structural images
+  were used to generate the cortical surfaces using FreeSurfer (v5.3.0, freely available
+  at http://surfer.nmr.mgh.harvard.edu, [Dale et al., 1999]). Additional high-resolution
+  T2w images were included in the reconstruction (recon-all -T2 t2file).
+display_label: 'Studyforrest: Freesurfer surface reconstructions'
+generated_by:
+- object: xyzrins:projects/studyforrest
+  schema_type: dlthings:Generation
+part_of:
+- xyzrins:datasets/studyforrest
+pid: xyzrins:datasets/3c0a0936-4edd-4f3b-b456-10cb519cfb82
+rules:
+- spdxlic:PDDL-1.0
+schema_type: xyzri:XYZDataset
+title: Studyforrest-data-freesurfer

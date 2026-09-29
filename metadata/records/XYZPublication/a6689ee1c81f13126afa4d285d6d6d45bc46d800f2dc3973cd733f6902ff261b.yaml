@@ -1,0 +1,99 @@
+about:
+- xyzrins:topics/naturalistic-neuroimaging
+- xyzrins:topics/research-software-engineering
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-05-18T10:46:55.929531'
+attributed_to:
+- object: xyzrins:persons/10847cce-cba3-415e-aa84-e681e9727697
+  roles:
+  - obo:MS_1002034
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/adina-wagner
+  roles:
+  - obo:MS_1002034
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - obo:MS_1002035
+  schema_type: dlthings:Attribution
+attributes:
+- about:
+  - xyzrins:instruments/03300e25-6c5f-40bd-9ed8-a12d8ec22817
+  predicate: CiTO:describes
+  schema_type: dlthings:AttributeSpecification
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'REMoDNaV: robust eye-movement classification for dynamic stimulation'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Tracking of eye movements is an established measurement for many types of
+    experimental paradigms. More complex and more prolonged visual stimuli have made
+    algorithmic approaches to eye-movement event classification the most pragmatic
+    option. A recent analysis revealed that many current algorithms are lackluster
+    when it comes to data from viewing dynamic stimuli such as video sequences. Here
+    we present an event classification algorithm—built on an existing velocity-based
+    approach—that is suitable for both static and dynamic stimulation, and is capable
+    of classifying saccades, post-saccadic oscillations, fixations, and smooth pursuit
+    events. We validated classification performance and robustness on three public
+    datasets: 1) manually annotated, trial-based gaze trajectories for viewing static
+    images, moving dots, and short video sequences, 2) lab-quality gaze recordings
+    for a feature-length movie, and 3) gaze recordings acquired under suboptimal lighting
+    conditions inside the bore of a magnetic resonance imaging (MRI) scanner for the
+    same full-length movie. We found that the proposed algorithm performs on par or
+    better compared to state-of-the-art alternatives for static stimulation. Moreover,
+    it yields eye-movement events with biologically plausible characteristics on prolonged
+    dynamic recordings. Lastly, algorithm performance is robust on data acquired under
+    suboptimal conditions that exhibit a temporally varying noise level. These results
+    indicate that the proposed algorithm is a robust tool with improved classification
+    accuracy across a range of use cases. The algorithm is cross-platform compatible,
+    implemented using the Python programming language, and readily available as free
+    and open-source software from public sources.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Tracking of eye movements is an established measurement for many types
+  of experimental paradigms. More complex and more prolonged visual stimuli have made
+  algorithmic approaches to eye-movement event classification the most pragmatic option.
+  A recent analysis revealed that many current algorithms are lackluster when it comes
+  to data from viewing dynamic stimuli such as video sequences. Here we present an
+  event classification algorithm—built on an existing velocity-based approach—that
+  is suitable for both static and dynamic stimulation, and is capable of classifying
+  saccades, post-saccadic oscillations, fixations, and smooth pursuit events. We validated
+  classification performance and robustness on three public datasets: 1) manually
+  annotated, trial-based gaze trajectories for viewing static images, moving dots,
+  and short video sequences, 2) lab-quality gaze recordings for a feature-length movie,
+  and 3) gaze recordings acquired under suboptimal lighting conditions inside the
+  bore of a magnetic resonance imaging (MRI) scanner for the same full-length movie.
+  We found that the proposed algorithm performs on par or better compared to state-of-the-art
+  alternatives for static stimulation. Moreover, it yields eye-movement events with
+  biologically plausible characteristics on prolonged dynamic recordings. Lastly,
+  algorithm performance is robust on data acquired under suboptimal conditions that
+  exhibit a temporally varying noise level. These results indicate that the proposed
+  algorithm is a robust tool with improved classification accuracy across a range
+  of use cases. The algorithm is cross-platform compatible, implemented using the
+  Python programming language, and readily available as free and open-source software
+  from public sources.'
+generated_by:
+- at_location: ISSN:1554-351X
+  at_time: '2020-07-24'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+- object: xyzrins:projects/14419ccc-b340-45ea-b0f4-bccc25c9e34d
+  schema_type: dlthings:Generation
+- at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.3758/s13428-020-01428-x
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/4ea5c19f-d116-470f-a31c-dff14912c7b2
+rules:
+- spdxlic:CC-BY-4.0
+schema_type: xyzri:XYZPublication
+title: 'REMoDNaV: Robust Eye-Movement Classification for Dynamic Stimulation'

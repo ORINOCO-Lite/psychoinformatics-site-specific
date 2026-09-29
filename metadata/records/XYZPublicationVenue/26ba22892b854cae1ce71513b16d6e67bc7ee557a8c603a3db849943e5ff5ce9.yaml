@@ -1,0 +1,9 @@
+display_note: ISSN:0028-3940
+identifiers:
+- creator: ror:026ytr635
+  notation: 0028-3940
+  schema_type: dlthings:Identifier
+kind: bibo:Journal
+pid: ISSN:0028-3940
+schema_type: xyzri:XYZPublicationVenue
+title: Neuroradiology

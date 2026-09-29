@@ -1,0 +1,83 @@
+about:
+- xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-06-29T16:29:34.641778'
+attributed_to:
+- object: ror:04xfq0f34
+  roles:
+  - obo:NCIT_C45284
+  schema_type: dlthings:Attribution
+- object: ror:038t36y30
+  roles:
+  - marcrel:app
+  schema_type: dlthings:Attribution
+- object: ror:023b0x485
+  schema_type: dlthings:Attribution
+- object: ror:00fbnyb24
+  schema_type: dlthings:Attribution
+- object: xyzrins:organizations/fzj
+  schema_type: dlthings:Attribution
+- object: ror:04cvxnb49
+  roles:
+  - marcrel:app
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/d4e23096-f9d8-47e0-bb48-a25ba181f202
+  roles:
+  - marcrel:led
+  schema_type: dlthings:Attribution
+- object: ror:018mejw64
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+description: 'Der Sonderforschungsbereich vereint verschiedene Standorte mit Expertise
+  in neurobiologischer und klinischer Aggressionsforschung, mit dem Ziel, das Wissen
+  über die biologischen Grundlagen von Aggression bei psychischen Störungen ("aggression
+  in mental disorders", AMD) als auch deren Verlauf über die Lebensspanne zu erweitern.
+  Der Transregio SFB (TRR) folgt dabei den Research Domain Criteria (RDoC) und untersucht
+  mehrere Ebenen: Genetik, molekulare Mechanismen sowie hormonelle, neurale und damit
+  verbundene Verhaltenssysteme. Der TRR setzt sich zum Ziel, multidimensional definierte
+  Biosignaturen von AMD zu identifizieren, die den verschiedenen Formen von Aggression
+  zugrunde liegen. Diese sollen dann verwendet werden, um maßgeschneiderte, biomarker-gesteuerte
+  Präventions- und Interventionsmaßnahmen zu entwickeln. Drei übergreifende Ziele
+  werden verfolgt: a) AMD wird transdiagnostisch untersucht, unter Zuhilfenahme des
+  negativen Valenzsystems (NVS) und des kognitiven Kontroll-Systems (CS, RDoC); diese
+  fließen in die Biosignaturen ein. Beide Funktionsdomainen sind integraler Bestandteil
+  von Aggression, und bei psychischen Störungen beeinträchtigt. b) Weiterhin werden
+  diese Mechanismen auf verschiedenen Ebenen analysiert, um damit ein detaillierteres
+  Verständnis der Biologie, Psychologie und Physiologie spezifisch aggressiven Verhaltens
+  transdiagnostisch zu generieren. Wir beabsichtigen, biologische Mechanismen translational
+  mittels Tiermodellen sowie in Humanexperimenten hinsichtlich modulierender Faktoren
+  zu untersuchen. c) Das dritte Ziel gilt der Erfassung der zeitlichen Stabilität
+  von AMD und der Dysfunktion von NVS und CS über die Entwicklung - also der frühen
+  Adoleszenz bis zum Erwachsenenalter - als auch über den Krankheitsverlauf hinweg.
+  Der klinische, longitudinale und entwicklungsbezogene Ansatz sowie der daraus entstehende
+  Datensatz bieten attraktive Perspektiven für die Erforschung von therapeutischen,
+  prädiktiven und gesellschaftlichen Fragestellungen in den weiteren Förderphasen.
+  Mit der Etablierung einer longitudinalen transdiagnostischen Kohorte ("longitudinal
+  cohort design", LCD) werden wir den Verlauf der identifizierten Biosignaturen, die
+  mit unterschiedlichem aggressivem Verhalten assoziiert sind, modellieren und ihre
+  Korrelation mit NVS/CS-Merkmalen sowie psychopathologischen Veränderungen untersuchen.
+  Solche Längsschnittstudien sind entscheidend, um das Zusammenspiel zwischen Organismus
+  und Umwelt zu verstehen, insbesondere im Hinblick auf kritische Perioden und optimale
+  Zeitfenster für Prävention. Die Kompetenz und interdisziplinäre Zusammenarbeit der
+  Antragsteller bilden die Grundlage für eine Forschungsstrategie, bei der experimentelle
+  Konzepte von humanen und Tierstudien sich ergänzen. Nur durch einen solchen umfassenden
+  Ansatz, der auf langjährigen Kooperationen basiert, können wir AMD in ihrer Komplexität
+  zum Nutzen von Patienten und Gesellschaft angehen.'
+identifiers:
+- creator: xyzrins:organizations/fzj
+  description: PSP Element FZJ
+  notation: D.B.002641
+  schema_type: dlthings:Identifier
+- creator: ror:018mejw64
+  notation: '512007073'
+  schema_type: dlthings:Identifier
+pid: xyzrins:grants/trr379
+schema_type: xyzri:XYZGrant
+short_name: TRR 379
+title: ' Neuropsychobiology of Aggression: A Transdiagnostic Approach in Mental Disorders'

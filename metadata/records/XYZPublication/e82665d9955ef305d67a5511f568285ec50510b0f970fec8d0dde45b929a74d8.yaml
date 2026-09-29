@@ -1,0 +1,63 @@
+attributed_to:
+- object: xyzrins:persons/8f8d626c-dba9-466f-ab66-c97ed7afe800
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/41666a91-143f-49f5-8e58-0a3bd6c4e10c
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/b85655e7-64f5-4471-99d4-3c79c92cfb40
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Intermediately synchronised brain states optimise trade-off between subject
+    specificity and predictive capacity
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Functional connectivity (FC) refers to the statistical dependencies between
+    activity of distinct brain areas. To study temporal fluctuations in FC within
+    the duration of a functional magnetic resonance imaging (fMRI) scanning session,
+    researchers have proposed the computation of an edge time series (ETS) and their
+    derivatives. Evidence suggests that FC is driven by a few time points of high-amplitude
+    co-fluctuation (HACF) in the ETS, which may also contribute disproportionately
+    to interindividual differences. However, it remains unclear to what degree different
+    time points actually contribute to brain-behaviour associations. Here, we systematically
+    evaluate this question by assessing the predictive utility of FC estimates at
+    different levels of co-fluctuation using machine learning (ML) approaches. We
+    demonstrate that time points of lower and intermediate co-fluctuation levels provide
+    overall highest subject specificity as well as highest predictive capacity of
+    individual-level phenotypes.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Functional connectivity (FC) refers to the statistical dependencies between
+  activity of distinct brain areas. To study temporal fluctuations in FC within the
+  duration of a functional magnetic resonance imaging (fMRI) scanning session, researchers
+  have proposed the computation of an edge time series (ETS) and their derivatives.
+  Evidence suggests that FC is driven by a few time points of high-amplitude co-fluctuation
+  (HACF) in the ETS, which may also contribute disproportionately to interindividual
+  differences. However, it remains unclear to what degree different time points actually
+  contribute to brain-behaviour associations. Here, we systematically evaluate this
+  question by assessing the predictive utility of FC estimates at different levels
+  of co-fluctuation using machine learning (ML) approaches. We demonstrate that time
+  points of lower and intermediate co-fluctuation levels provide overall highest subject
+  specificity as well as highest predictive capacity of individual-level phenotypes.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:2399-3642
+  at_time: '2023'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1038/s42003-023-05073-w
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/1e69ad8d-de1e-4804-a560-e3eecb7581c0
+schema_type: xyzri:XYZPublication
+title: Intermediately synchronised brain states optimise trade-off between subject
+  specificity and predictive capacity

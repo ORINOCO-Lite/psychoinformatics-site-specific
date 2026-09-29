@@ -1,0 +1,12 @@
+about:
+- xyzrins:projects/abcd-j
+description: ABCD-J logo
+distributions:
+- dldi:SHA256E-s58352--c8c6e08a23f92622c8f4472d13f20a96ed7c68830934ee7ade86462e1c81d088.svg
+generated_by:
+  object: xyzrins:projects/abcd-j
+  schema_type: dlthings:Generation
+kind: schema:logo
+pid: xyzrins:depictions/logo_abcd-j
+schema_type: xyzri:XYZDepiction
+title: ABCD-J logo

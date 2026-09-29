@@ -1,0 +1,13 @@
+attributed_to:
+- object: xyzrins:organizations/fzj
+  roles:
+  - obo:NCIT_C45284
+  schema_type: dlthings:Attribution
+- object: ror:0281dp749
+  roles:
+  - marcrel:fnd
+  schema_type: dlthings:Attribution
+pid: xyzrins:grants/2b40e9ef-d9d2-42f8-a502-2e6efa86a1f7
+schema_type: xyzri:XYZGrant
+short_name: SMBH
+title: Joint Lab Supercomputing and Modeling for the Human Brain

@@ -1,0 +1,39 @@
+about:
+- xyzrins:topics/naturalistic-stimulation
+annotations:
+  obo:NCIT_C54269:
+    annotation_tag: obo:NCIT_C54269
+    annotation_value: a.wagner@fz-juelich.de
+  sio:SIO_001083:
+    annotation_tag: sio:SIO_001083
+    annotation_value: '2026-05-26T10:38:21.228433'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  schema_type: dlthings:Attribution
+attributes:
+- identifiers:
+  - kind: bibo:AcademicArticle
+    notation: 10.1038/s41467-019-13599-z
+    schema_type: dlthings:DOI
+  predicate: CiTO:citesAsRecommendedReading
+  schema_type: dlthings:AttributeSpecification
+  value: Emotionotopy in the Human Right Temporo-Parietal Cortex
+- predicate: obo:APOLLO_SV_00000488
+  schema_type: dlthings:AttributeSpecification
+  value: https://hub.psychoinformatics.de/studyforrest/studyforrest-data-perceivedemotions
+- predicate: CiTO:citesAsRelated
+  schema_type: dlthings:AttributeSpecification
+  value: https://osf.io/tzpdf
+description: Emotion ratings collected in twelve italian participants while watching
+  the Forrest Gump movie (edited version adopted in studyforrest.org project). Subjects
+  continuously reported the intensity of their own emotional experience on a scale
+  ranging from 0 to 100 for the six basic emotions (happiness, surprise, fear, sadness,
+  anger and disgust).
+display_label: 'Studyforrest: Perceived Emotions'
+part_of:
+- xyzrins:datasets/studyforrest
+pid: xyzrins:datasets/935fe44d-4ab1-4838-891f-6fc1fa81de42
+rules:
+- spdxlic:PDDL-1.0
+schema_type: xyzri:XYZDataset
+title: Studyforrest-data-perceivedemotions

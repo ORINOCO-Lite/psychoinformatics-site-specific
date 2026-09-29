@@ -1,0 +1,74 @@
+attributed_to:
+- object: xyzrins:persons/d2d8d235-90de-4919-b0b9-f0de82d7b07f
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/659e2c63-bcaa-4348-bf2c-2d6176dfad96
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/263a71a9-94aa-43d0-9686-6980290fafaf
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/ae7f5e91-61dc-47cb-945c-9d248dfe58f0
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'CBPtools: a Python package for regional connectivity-based parcellation'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Regional connectivity-based parcellation (rCBP) is a widely used procedure
+    for investigating the structural and functional differentiation within a region
+    of interest (ROI) based on its long-range connectivity. No standardized software
+    or guidelines currently exist for applying rCBP, making the method only accessible
+    to those who develop their own tools. As such, there exists a discrepancy between
+    the laboratories applying the procedure each with their own software solutions,
+    making it difficult to compare and interpret the results. Here, we outline an
+    rCBP procedure accompanied by an open source software package called CBPtools.
+    CBPtools is a Python (version 3.5+) package that allows users to run an extensively
+    evaluated rCBP analysis workflow on a given ROI. It currently supports two modalities:
+    resting-state functional connectivity and structural connectivity based on diffusion-weighted
+    imaging, along with support for custom connectivity matrices. Analysis parameters
+    are customizable and the workflow can be scaled to a large number of subjects
+    using a parallel processing environment. Parcellation results with corresponding
+    validity metrics are provided as textual and graphical output. Thus, CBPtools
+    provides a simple plug-and-play, yet customizable way to conduct rCBP analyses.
+    By providing an open-source software we hope to promote reproducible and comparable
+    rCBP analyses and, importantly, make the rCBP procedure readily available. Here,
+    we demonstrate the utility of CBPtools using a voluminous data set on an average
+    compute-cluster infrastructure by performing rCBP on three ROIs prominently featured
+    in parcellation literature.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Regional connectivity-based parcellation (rCBP) is a widely used procedure
+  for investigating the structural and functional differentiation within a region
+  of interest (ROI) based on its long-range connectivity. No standardized software
+  or guidelines currently exist for applying rCBP, making the method only accessible
+  to those who develop their own tools. As such, there exists a discrepancy between
+  the laboratories applying the procedure each with their own software solutions,
+  making it difficult to compare and interpret the results. Here, we outline an rCBP
+  procedure accompanied by an open source software package called CBPtools. CBPtools
+  is a Python (version 3.5+) package that allows users to run an extensively evaluated
+  rCBP analysis workflow on a given ROI. It currently supports two modalities: resting-state
+  functional connectivity and structural connectivity based on diffusion-weighted
+  imaging, along with support for custom connectivity matrices. Analysis parameters
+  are customizable and the workflow can be scaled to a large number of subjects using
+  a parallel processing environment. Parcellation results with corresponding validity
+  metrics are provided as textual and graphical output. Thus, CBPtools provides a
+  simple plug-and-play, yet customizable way to conduct rCBP analyses. By providing
+  an open-source software we hope to promote reproducible and comparable rCBP analyses
+  and, importantly, make the rCBP procedure readily available. Here, we demonstrate
+  the utility of CBPtools using a voluminous data set on an average compute-cluster
+  infrastructure by performing rCBP on three ROIs prominently featured in parcellation
+  literature.'
+generated_by:
+- at_location: ISSN:1863-2653
+  at_time: '2020'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s00429-020-02046-1
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/955f17af-f3a6-4c01-ad83-c3cfcf863e0f
+schema_type: xyzri:XYZPublication
+title: 'CBPtools: a Python package for regional connectivity-based parcellation'

@@ -1,0 +1,31 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Data and reproducibility management with DataLad
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Slides for a two-hour workshop 'Data and reproducibility management with
+    DataLad', part of the 'Love your Data? Make it reproducible?' Helmholtz Community
+    Workshop in the International Love Data Week on February 14th, 2023. www.helmholtz-hida.de/en/events/love-your-data-make-it-reproducible/
+    The slide sources can be found at github.com/datalad-handbook/datalad-course ,
+    and a rendering of the slides is at files.inm7.de/adina/talks/html/love-your-data-2023
+    .
+characterized_by:
+- object: bibo:Proceedings
+  predicate: dcterms:type
+description: Slides for a two-hour workshop 'Data and reproducibility management with
+  DataLad', part of the 'Love your Data? Make it reproducible?' Helmholtz Community
+  Workshop in the International Love Data Week on February 14th, 2023. www.helmholtz-hida.de/en/events/love-your-data-make-it-reproducible/
+  The slide sources can be found at github.com/datalad-handbook/datalad-course , and
+  a rendering of the slides is at files.inm7.de/adina/talks/html/love-your-data-2023
+  .
+generated_by:
+- object: xyzrins:projects/5340dd43-6ef0-4cf8-a936-67c2a9f3a725
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.5281/ZENODO.7627722
+  schema_type: dlthings:DOI
+kind: bibo:Proceedings
+pid: xyzrins:publications/59919176-572c-477d-a32f-15fa9e540896
+schema_type: xyzri:XYZPublication
+title: Data and reproducibility management with DataLad

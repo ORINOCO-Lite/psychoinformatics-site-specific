@@ -1,0 +1,18 @@
+about:
+- xyzrins:instruments/7b23e72f-3fa5-4aad-b421-a3c1eaea9718
+annotations:
+  obo:NCIT_C54269: a.wagner@fz-juelich.de
+  sio:SIO_001083: '2026-05-18T15:16:49.698994'
+attributed_to:
+- object: xyzrins:persons/michael-hanke
+  roles:
+  - marcrel:cre
+  schema_type: dlthings:Attribution
+distributions:
+- dldi:SHA256E-s51202--058b1ce48272be29d052a36dbaad84c064059035bb24d6308a682efabf25c2c7.jpg
+kind: schema:CoverArt
+pid: xyzrins:depictions/cfdcfdbc-6078-4c5b-9a3c-1e841d91358c
+rules:
+- spdxlic:CC-BY-4.0
+schema_type: xyzri:XYZDepiction
+title: Front cover

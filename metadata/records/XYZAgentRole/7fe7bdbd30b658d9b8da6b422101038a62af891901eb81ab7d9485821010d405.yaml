@@ -1,0 +1,5 @@
+description: An entity depicted or portrayed in a work, particularly in a work of
+  art
+display_label: Depicted
+pid: marcrel:dpc
+schema_type: xyzri:XYZAgentRole

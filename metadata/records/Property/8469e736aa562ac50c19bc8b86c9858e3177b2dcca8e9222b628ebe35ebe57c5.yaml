@@ -1,0 +1,7 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-01-07T13:42:37.068130'
+description: The citing entity acknowledges contributions made by the cited entity.
+display_label: credits
+pid: CiTO:credits
+schema_type: dlthings:Property

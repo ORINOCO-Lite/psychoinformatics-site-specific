@@ -1,0 +1,72 @@
+attributed_to:
+- object: xyzrins:persons/719c0f2c-1d1b-4d2f-8320-101230f855fa
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Effects of Ketamine and Midazolam on Simultaneous EEG/fMRI Data During Working
+    Memory Processes
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Reliable measures of cognitive brain activity from functional neuroimaging
+    techniques may provide early indications of efficacy in clinical trials. Functional
+    magnetic resonance imaging and electroencephalography provide complementary spatiotemporal
+    information and simultaneous recording of these two modalities can remove inter-session
+    drug response and environment variability. We sought to assess the effects of
+    ketamine and midazolam on simultaneous electrophysiological and hemodynamic recordings
+    during working memory (WM) processes. Thirty participants were included in a placebo-controlled,
+    three-way crossover design with ketamine and midazolam. Compared to placebo, ketamine
+    administration attenuated theta power increases and alpha power decreases and
+    midazolam attenuated low beta band decreases to increasing WM load. Additionally,
+    ketamine caused larger blood-oxygen-dependent (BOLD) signal increases in the supplementary
+    motor area and angular gyrus, and weaker deactivations of the default mode network
+    (DMN), whereas no difference was found between midazolam and placebo. Ketamine
+    administration caused positive temporal correlations between frontal-midline theta
+    (fm-theta) power and the BOLD signal to disappear and attenuated negative correlations.
+    However, the relationship between fm-theta and the BOLD signal from DMN areas
+    was maintained in some participants during ketamine administration, as increasing
+    theta strength was associated with stronger BOLD signal reductions in these areas.
+    The presence of, and ability to manipulate, both positive and negative associations
+    between the BOLD signal and fm-theta suggest the presence of multiple fm-theta
+    components involved in WM processes, with ketamine administration disrupting one
+    or more of these theta-linked WM strategies.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Reliable measures of cognitive brain activity from functional neuroimaging
+  techniques may provide early indications of efficacy in clinical trials. Functional
+  magnetic resonance imaging and electroencephalography provide complementary spatiotemporal
+  information and simultaneous recording of these two modalities can remove inter-session
+  drug response and environment variability. We sought to assess the effects of ketamine
+  and midazolam on simultaneous electrophysiological and hemodynamic recordings during
+  working memory (WM) processes. Thirty participants were included in a placebo-controlled,
+  three-way crossover design with ketamine and midazolam. Compared to placebo, ketamine
+  administration attenuated theta power increases and alpha power decreases and midazolam
+  attenuated low beta band decreases to increasing WM load. Additionally, ketamine
+  caused larger blood-oxygen-dependent (BOLD) signal increases in the supplementary
+  motor area and angular gyrus, and weaker deactivations of the default mode network
+  (DMN), whereas no difference was found between midazolam and placebo. Ketamine administration
+  caused positive temporal correlations between frontal-midline theta (fm-theta) power
+  and the BOLD signal to disappear and attenuated negative correlations. However,
+  the relationship between fm-theta and the BOLD signal from DMN areas was maintained
+  in some participants during ketamine administration, as increasing theta strength
+  was associated with stronger BOLD signal reductions in these areas. The presence
+  of, and ability to manipulate, both positive and negative associations between the
+  BOLD signal and fm-theta suggest the presence of multiple fm-theta components involved
+  in WM processes, with ketamine administration disrupting one or more of these theta-linked
+  WM strategies.
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0896-0267
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s10548-021-00876-8
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/0e70ea13-35c4-4a8f-9121-23c87cfa2327
+schema_type: xyzri:XYZPublication
+title: Effects of Ketamine and Midazolam on Simultaneous EEG/fMRI Data During Working
+  Memory Processes

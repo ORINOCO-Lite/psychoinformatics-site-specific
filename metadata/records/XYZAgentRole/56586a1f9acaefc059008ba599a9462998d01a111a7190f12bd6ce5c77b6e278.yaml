@@ -1,0 +1,8 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2026-03-03T07:40:09.825432'
+description: An agent responsible for organizing multiple events or efforts into a
+  smaller number of tasks.
+name: Coordinator
+pid: obo:NCIT_C45284
+schema_type: xyzri:XYZAgentRole

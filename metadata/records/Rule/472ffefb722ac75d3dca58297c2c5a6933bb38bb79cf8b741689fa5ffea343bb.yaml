@@ -1,0 +1,12 @@
+attributes:
+- predicate: spdx:isOsiApproved
+  schema_type: dlthings:AttributeSpecification
+  value: obo:NCIT_C68850
+- predicate: spdx:isFsfLibre
+  schema_type: dlthings:AttributeSpecification
+  value: obo:NCIT_C68850
+broad_mappings:
+- dcterms:LicenseDocument
+display_label: Open Software License 1.0
+pid: spdxlic:OSL-1.0
+schema_type: dlthings:Rule

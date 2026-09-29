@@ -1,0 +1,7 @@
+annotations:
+  obo:NCIT_C54269: m.hanke@fz-juelich.de
+  sio:SIO_001083: '2025-12-11T21:41:19.553200'
+pid: xyzrins:grants/sfb1436
+schema_type: xyzri:XYZGrant
+short_name: SFB 1436
+title: Neural resources of cognition

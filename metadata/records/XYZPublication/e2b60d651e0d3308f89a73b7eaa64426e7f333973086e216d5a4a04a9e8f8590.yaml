@@ -1,0 +1,66 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Neural substrates of motivational dysfunction across neuropsychiatric conditions:
+    Evidence from meta-analysis and lesion network mapping'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Motivational dysfunction constitutes one of the fundamental dimensions of
+    psychopathology cutting across traditional diagnostic boundaries. However, it
+    is unclear whether there is a common neural circuit responsible for motivational
+    dysfunction across neuropsychiatric conditions. To address this issue, the current
+    study combined a meta-analysis on psychiatric neuroimaging studies of reward/loss
+    anticipation and consumption (4308 foci, 438 contrasts, 129 publications) with
+    a lesion network mapping approach (105 lesion cases). Our meta-analysis identified
+    transdiagnostic hypoactivation in the ventral striatum (VS) for clinical/at-risk
+    conditions compared to controls during the anticipation of both reward and loss.
+    Moreover, the VS subserves a key node in a distributed brain network which encompasses
+    heterogeneous lesion locations causing motivation-related symptoms. These findings
+    do not only provide the first meta-analytic evidence of shared neural alternations
+    linked to anticipatory motivation-related deficits, but also shed novel light
+    on the role of VS dysfunction in motivational impairments in terms of both network
+    integration and psychological functions. Particularly, the current findings suggest
+    that motivational dysfunction across neuropsychiatric conditions is rooted in
+    disruptions of a common brain network anchored in the VS, which contributes to
+    motivational salience processing rather than encoding positive incentive values.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Motivational dysfunction constitutes one of the fundamental dimensions
+  of psychopathology cutting across traditional diagnostic boundaries. However, it
+  is unclear whether there is a common neural circuit responsible for motivational
+  dysfunction across neuropsychiatric conditions. To address this issue, the current
+  study combined a meta-analysis on psychiatric neuroimaging studies of reward/loss
+  anticipation and consumption (4308 foci, 438 contrasts, 129 publications) with a
+  lesion network mapping approach (105 lesion cases). Our meta-analysis identified
+  transdiagnostic hypoactivation in the ventral striatum (VS) for clinical/at-risk
+  conditions compared to controls during the anticipation of both reward and loss.
+  Moreover, the VS subserves a key node in a distributed brain network which encompasses
+  heterogeneous lesion locations causing motivation-related symptoms. These findings
+  do not only provide the first meta-analytic evidence of shared neural alternations
+  linked to anticipatory motivation-related deficits, but also shed novel light on
+  the role of VS dysfunction in motivational impairments in terms of both network
+  integration and psychological functions. Particularly, the current findings suggest
+  that motivational dysfunction across neuropsychiatric conditions is rooted in disruptions
+  of a common brain network anchored in the VS, which contributes to motivational
+  salience processing rather than encoding positive incentive values.
+generated_by:
+- object: xyzrins:projects/858d0ddb-3c51-4cea-a0e5-a73224b59ae5
+  schema_type: dlthings:Generation
+- at_location: ISSN:0272-7358
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1016/j.cpr.2022.102189
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/035eb5b5-63bf-45c9-8c18-cc56b0680f3a
+schema_type: xyzri:XYZPublication
+title: 'Neural substrates of motivational dysfunction across neuropsychiatric conditions:
+  Evidence from meta-analysis and lesion network mapping'

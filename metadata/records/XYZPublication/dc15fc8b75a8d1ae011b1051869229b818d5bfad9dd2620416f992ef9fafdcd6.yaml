@@ -1,0 +1,45 @@
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: Responsibility assignment won’t solve the moral issues of artificial intelligence
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: Who is responsible for the events and consequences caused by using artificially
+    intelligent tools, and is there a gap between what human agents can be responsible
+    for and what is being done using artificial intelligence? Both questions presuppose
+    that the term ‘responsibility’ is a good tool for analysing the moral issues surrounding
+    artificial intelligence. This article will draw this presupposition into doubt
+    and show how reference to responsibility obscures the complexity of moral situations
+    and moral agency, which can be analysed with a more differentiated toolset of
+    moral terminology. It suggests that the impression of responsibility gaps only
+    occurs if we gloss over the complexity of the moral situation in which artificial
+    intelligent tools are employed and if—counterfactually—we ascribe them some kind
+    of pseudo-agential status.
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: Who is responsible for the events and consequences caused by using artificially
+  intelligent tools, and is there a gap between what human agents can be responsible
+  for and what is being done using artificial intelligence? Both questions presuppose
+  that the term ‘responsibility’ is a good tool for analysing the moral issues surrounding
+  artificial intelligence. This article will draw this presupposition into doubt and
+  show how reference to responsibility obscures the complexity of moral situations
+  and moral agency, which can be analysed with a more differentiated toolset of moral
+  terminology. It suggests that the impression of responsibility gaps only occurs
+  if we gloss over the complexity of the moral situation in which artificial intelligent
+  tools are employed and if—counterfactually—we ascribe them some kind of pseudo-agential
+  status.
+generated_by:
+- object: xyzrins:projects/a3f0a9e0-c945-4e04-a698-be426a9ac075
+  schema_type: dlthings:Generation
+- at_location: ISSN:2730-5953
+  at_time: '2022'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1007/s43681-022-00133-z
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/5e38425e-33a6-439d-8580-211fee5f88b5
+schema_type: xyzri:XYZPublication
+title: Responsibility assignment won’t solve the moral issues of artificial intelligence

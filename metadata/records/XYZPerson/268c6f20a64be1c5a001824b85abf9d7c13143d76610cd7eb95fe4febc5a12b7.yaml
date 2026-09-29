@@ -1,0 +1,20 @@
+delegated_by:
+- object: ror:04xfq0f34
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+- object: xyzrins:organizations/fzj
+  roles:
+  - xyzrins:agent-roles/7f9ac7fa-6f5a-4651-88aa-914689eb4e87
+  schema_type: dlthings:Delegation
+description: Department of Psychiatry, Psychosomatics and Psychotherapy of Childhood
+  and Adolescence, Faculty of Medicine, RWTH Aachen University and Institute of Neuroscience
+  and Medicine (INM-11), Research Center Jülich
+family_name: Konrad
+given_name: Kerstin
+identifiers:
+- creator: ror:04fa4r544
+  notation: 0000-0001-9039-2615
+  schema_type: xyzri:ORCID
+pid: xyzrins:persons/3cf923ff-969d-4224-bb7b-9f319f0b1564
+schema_type: xyzri:XYZPerson

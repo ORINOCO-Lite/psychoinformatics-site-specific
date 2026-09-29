@@ -1,0 +1,52 @@
+attributed_to:
+- object: xyzrins:persons/85871987-45d6-4504-9274-d136805b22cd
+  schema_type: dlthings:Attribution
+- object: xyzrins:persons/simon-eickhoff
+  schema_type: dlthings:Attribution
+attributes:
+- predicate: dcterms:title
+  schema_type: dlthings:AttributeSpecification
+  value: 'Neural mechanisms of deliberate dishonesty: Dissociating deliberation from
+    other control processes during dishonest behaviors'
+- predicate: dcterms:abstract
+  schema_type: dlthings:AttributeSpecification
+  value: 'Numerous studies have sought proof of whether people are genuinely honest
+    by testing whether cognitive control mechanisms are recruited during honest and
+    dishonest behaviors. The underlying assumption is: Deliberate behaviors require
+    cognitive control to inhibit intuitive responses. However, cognitive control during
+    honest and dishonest behaviors can be required for other reasons than deliberation.
+    Across 58 neuroimaging studies (1,211 subjects), we investigated different forms
+    of honest and dishonest behaviors and demonstrated that many brain regions previously
+    implicated in dishonesty may reflect more general cognitive mechanisms. We argue
+    that the motivational/volitional dimension is central to deliberation and provide
+    evidence that motivated dishonest behaviors recruit the perigenual anterior cingulate
+    cortex. This work questions the view that cognitive control is a hallmark of dishonesty.'
+characterized_by:
+- object: bibo:AcademicArticle
+  predicate: dcterms:type
+description: 'Numerous studies have sought proof of whether people are genuinely honest
+  by testing whether cognitive control mechanisms are recruited during honest and
+  dishonest behaviors. The underlying assumption is: Deliberate behaviors require
+  cognitive control to inhibit intuitive responses. However, cognitive control during
+  honest and dishonest behaviors can be required for other reasons than deliberation.
+  Across 58 neuroimaging studies (1,211 subjects), we investigated different forms
+  of honest and dishonest behaviors and demonstrated that many brain regions previously
+  implicated in dishonesty may reflect more general cognitive mechanisms. We argue
+  that the motivational/volitional dimension is central to deliberation and provide
+  evidence that motivated dishonest behaviors recruit the perigenual anterior cingulate
+  cortex. This work questions the view that cognitive control is a hallmark of dishonesty.'
+generated_by:
+- object: xyzrins:projects/45e542dd-2d2a-41d0-8399-90f2fde72a21
+  schema_type: dlthings:Generation
+- at_location: ISSN:0027-8424
+  at_time: '2021'
+  object: obo:IAO_0000444
+  schema_type: dlthings:Generation
+identifiers:
+- notation: 10.1073/pnas.2109208118
+  schema_type: dlthings:DOI
+kind: bibo:AcademicArticle
+pid: xyzrins:publications/682204e9-50d4-4d16-ac57-d282c7946d86
+schema_type: xyzri:XYZPublication
+title: 'Neural mechanisms of deliberate dishonesty: Dissociating deliberation from
+  other control processes during dishonest behaviors'
