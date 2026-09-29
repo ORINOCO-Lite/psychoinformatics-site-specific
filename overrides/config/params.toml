@@ -1,0 +1,6 @@
+[header]
+logo = "img/logo.png"
+logoDark = "img/logo.png"
+
+[footer]
+showCopyright = true
